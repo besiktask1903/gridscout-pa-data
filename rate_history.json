@@ -1,0 +1,123 @@
+{
+  "changes": [
+    {
+      "date": "2026-04-20T18:52:05.624559Z",
+      "type": "utility_ptc",
+      "entity_id": "ppl_electric",
+      "entity_name": "PPL Electric Utilities",
+      "old_rate": 0.10771,
+      "new_rate": 0.12953
+    },
+    {
+      "date": "2026-04-20T18:52:12.800826Z",
+      "type": "utility_ptc",
+      "entity_id": "peco_electric",
+      "entity_name": "PECO Energy",
+      "old_rate": 0.09239,
+      "new_rate": 0.11024
+    },
+    {
+      "date": "2026-04-20T18:52:12.800826Z",
+      "type": "utility_ptc",
+      "entity_id": "duquesne_light",
+      "entity_name": "Duquesne Light",
+      "old_rate": 0.1085,
+      "new_rate": 0.1375
+    },
+    {
+      "date": "2026-04-20T18:52:12.800826Z",
+      "type": "utility_ptc",
+      "entity_id": "met_ed",
+      "entity_name": "Met-Ed",
+      "old_rate": 0.11011,
+      "new_rate": 0.12965
+    },
+    {
+      "date": "2026-04-20T18:52:12.800826Z",
+      "type": "utility_ptc",
+      "entity_id": "penelec",
+      "entity_name": "Penelec",
+      "old_rate": 0.10474,
+      "new_rate": 0.11747
+    },
+    {
+      "date": "2026-04-20T18:52:12.800826Z",
+      "type": "utility_ptc",
+      "entity_id": "penn_power",
+      "entity_name": "Penn Power",
+      "old_rate": 0.11168,
+      "new_rate": 0.12606
+    },
+    {
+      "date": "2026-04-20T18:52:12.800826Z",
+      "type": "utility_ptc",
+      "entity_id": "west_penn_power",
+      "entity_name": "West Penn Power",
+      "old_rate": 0.09481,
+      "new_rate": 0.10947
+    },
+    {
+      "date": "2026-04-20T18:52:14.218958Z",
+      "type": "utility_sco",
+      "entity_id": "columbia_gas_pa",
+      "entity_name": "Columbia Gas of Pennsylvania",
+      "old_rate": 0.41595,
+      "new_rate": 0.41582
+    },
+    {
+      "date": "2026-04-20T18:52:14.218958Z",
+      "type": "utility_sco",
+      "entity_id": "national_fuel_gas",
+      "entity_name": "National Fuel Gas",
+      "old_rate": 0.56478,
+      "new_rate": 0.60493
+    },
+    {
+      "date": "2026-04-20T18:52:14.218958Z",
+      "type": "utility_sco",
+      "entity_id": "peoples_gas",
+      "entity_name": "Peoples Natural Gas",
+      "old_rate": 4.0427,
+      "new_rate": 4.1425
+    },
+    {
+      "date": "2026-04-20T18:52:14.218958Z",
+      "type": "utility_sco",
+      "entity_id": "pgw",
+      "entity_name": "Philadelphia Gas Works",
+      "old_rate": 0.63502,
+      "new_rate": 0.50021
+    },
+    {
+      "date": "2026-04-20T18:52:14.218958Z",
+      "type": "utility_sco",
+      "entity_id": "ugi_gas",
+      "entity_name": "UGI Utilities",
+      "old_rate": 0.68412,
+      "new_rate": 0.76795
+    },
+    {
+      "date": "2026-04-20T18:52:35.551290Z",
+      "type": "utility_sco",
+      "entity_id": "peco_gas",
+      "entity_name": "PECO Gas",
+      "old_rate": 0.53143,
+      "new_rate": 0.67301
+    }
+  ],
+  "last_known_rates": {
+    "electric_ptc_ppl_electric": 0.12953,
+    "electric_ptc_peco_electric": 0.11024,
+    "electric_ptc_duquesne_light": 0.1375,
+    "electric_ptc_met_ed": 0.12965,
+    "electric_ptc_penelec": 0.11747,
+    "electric_ptc_penn_power": 0.12606,
+    "electric_ptc_west_penn_power": 0.10947,
+    "gas_sco_columbia_gas_pa": 0.41582,
+    "gas_sco_national_fuel_gas": 0.60493,
+    "gas_sco_peoples_gas": 4.1425,
+    "gas_sco_pgw": 0.50021,
+    "gas_sco_ugi_gas": 0.76795,
+    "gas_sco_peco_gas": 0.67301
+  }
+}
