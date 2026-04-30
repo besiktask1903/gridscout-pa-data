@@ -103,6 +103,14 @@
       "entity_name": "PECO Gas",
       "old_rate": 0.53143,
       "new_rate": 0.67301
+    },
+    {
+      "date": "2026-04-30T19:21:20.094093Z",
+      "type": "utility_sco",
+      "entity_id": "national_fuel_gas",
+      "entity_name": "National Fuel Gas",
+      "old_rate": 0.60493,
+      "new_rate": 0.58613
     }
   ],
   "last_known_rates": {
@@ -114,7 +122,7 @@
     "electric_ptc_penn_power": 0.12606,
     "electric_ptc_west_penn_power": 0.10947,
     "gas_sco_columbia_gas_pa": 0.41582,
-    "gas_sco_national_fuel_gas": 0.60493,
+    "gas_sco_national_fuel_gas": 0.58613,
     "gas_sco_peoples_gas": 4.1425,
     "gas_sco_pgw": 0.50021,
     "gas_sco_ugi_gas": 0.76795,
