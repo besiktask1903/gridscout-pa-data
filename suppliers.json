@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T15:58:40.026014Z",
+  "last_updated": "2026-05-01T17:07:36.890528Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -596,7 +596,7 @@
         }
       ],
       "count": 45,
-      "last_fetched": "2026-05-01T15:58:38.706191Z"
+      "last_fetched": "2026-05-01T17:07:35.365194Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -881,7 +881,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-05-01T15:58:38.923462Z"
+      "last_fetched": "2026-05-01T17:07:35.637574Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1582,7 +1582,7 @@
         }
       ],
       "count": 53,
-      "last_fetched": "2026-05-01T15:58:39.279392Z"
+      "last_fetched": "2026-05-01T17:07:36.022466Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -1633,16 +1633,16 @@
         },
         {
           "name": "Pennsylvania Energy",
-          "rate": 3.79,
+          "rate": 3.59,
           "rate_type": "Fixed",
           "rate_unit": "Mcf",
-          "term_months": 12,
+          "term_months": 6,
           "early_termination_fee": "$10 per remaining month",
           "introductory": "No",
-          "promotional_details": "Promo Code GASPEQ. This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 12 months of your contract. If you choose our 12-Month Fixed Plan, you will be billed at a fixed price per Mcf for the length of your contract.  Currently not servicing legacy TWP customers.",
+          "promotional_details": "This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 6 months of your contract. If you choose our 6-Month Fixed Plan, you will be billed at a fixed price per Mcf for the length of your contract. Currently not servicing legacy TWP customers.",
           "monthly_fee": null,
-          "website_url": "https://www.pennsylvaniaenergy.com/gaspeq/",
-          "signup_url": "https://www.pennsylvaniaenergy.com/gaspeq/"
+          "website_url": "https://www.pennsylvaniaenergy.com/list-plans/?rateClassCode=01&ldcCode=PEQ",
+          "signup_url": "https://www.pennsylvaniaenergy.com/list-plans/?rateClassCode=01&ldcCode=PEQ"
         },
         {
           "name": "Symmetry Energy Solutions LLC",
@@ -1710,6 +1710,32 @@
           "signup_url": "https://shopping.pagande.com/cust/?PID=6AF1CA18-2C85-424A-B16A-133DF83D1FB0&UID=F785C1CC-CEB1-49BB-9E24-5EDE890C409D&OID=26DC2E21-6D58-4FF1-8426-CE25C0497D18&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD"
         },
         {
+          "name": "Pennsylvania Energy",
+          "rate": 3.99,
+          "rate_type": "Fixed",
+          "rate_unit": "Mcf",
+          "term_months": 12,
+          "early_termination_fee": "$10 per remaining month",
+          "introductory": "No",
+          "promotional_details": "Promo Code GASPEQ. This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 12 months of your contract. If you choose our 12-Month Fixed Plan, you will be billed at a fixed price per Mcf for the length of your contract.  Currently not servicing legacy TWP customers.",
+          "monthly_fee": null,
+          "website_url": "https://www.pennsylvaniaenergy.com/gaspeq/",
+          "signup_url": "https://www.pennsylvaniaenergy.com/gaspeq/"
+        },
+        {
+          "name": "Pennsylvania Energy",
+          "rate": 3.99,
+          "rate_type": "Variable",
+          "rate_unit": "Mcf",
+          "term_months": 0,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": null,
+          "signup_url": null
+        },
+        {
           "name": "Nordic Energy Services",
           "rate": 3.99,
           "rate_type": "Variable",
@@ -1721,19 +1747,6 @@
           "monthly_fee": null,
           "website_url": "https://www.nordicenergy-us.com/",
           "signup_url": "https://www.nordicenergy-us.com/"
-        },
-        {
-          "name": "Pennsylvania Energy",
-          "rate": 4.19,
-          "rate_type": "Fixed",
-          "rate_unit": "Mcf",
-          "term_months": 6,
-          "early_termination_fee": "$10 per remaining month",
-          "introductory": "No",
-          "promotional_details": "This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 6 months of your contract. If you choose our 6-Month Fixed Plan, you will be billed at a fixed price per Mcf for the length of your contract. Currently not servicing legacy TWP customers.",
-          "monthly_fee": null,
-          "website_url": "https://www.pennsylvaniaenergy.com/list-plans/?rateClassCode=01&ldcCode=PEQ",
-          "signup_url": "https://www.pennsylvaniaenergy.com/list-plans/?rateClassCode=01&ldcCode=PEQ"
         },
         {
           "name": "CleanSky Energy",
@@ -1905,19 +1918,6 @@
           "signup_url": "https://www.wglenergy.com/"
         },
         {
-          "name": "Pennsylvania Energy",
-          "rate": 5.99,
-          "rate_type": "Variable",
-          "rate_unit": "Mcf",
-          "term_months": 0,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null
-        },
-        {
           "name": "WGL Energy Services",
           "rate": 6.05,
           "rate_type": "Fixed",
@@ -2049,7 +2049,7 @@
         }
       ],
       "count": 35,
-      "last_fetched": "2026-05-01T15:58:39.537612Z"
+      "last_fetched": "2026-05-01T17:07:36.309415Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2308,7 +2308,7 @@
         }
       ],
       "count": 19,
-      "last_fetched": "2026-05-01T15:58:39.747804Z"
+      "last_fetched": "2026-05-01T17:07:36.571797Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2460,19 +2460,6 @@
           "monthly_fee": null,
           "website_url": "https://www.shipleyenergy.com/enrollment?product=ng",
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng"
-        },
-        {
-          "name": "Pennsylvania Energy",
-          "rate": 0.699,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "$10 per remaining month",
-          "introductory": "No",
-          "promotional_details": "This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 12 months of your contract. If you choose our 12-Month Fixed Plan, you will be billed at a fixed price per Ccf for the length of your contract.",
-          "monthly_fee": null,
-          "website_url": "https://www.pennsylvaniaenergy.com/gasugi/",
-          "signup_url": "https://www.pennsylvaniaenergy.com/gasugi/"
         },
         {
           "name": "Pennsylvania Energy",
@@ -2674,10 +2661,10 @@
           "rate": 0.799,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
-          "term_months": 6,
+          "term_months": 12,
           "early_termination_fee": "$10 per remaining month",
           "introductory": "No",
-          "promotional_details": "This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 6 months of your contract. If you choose our 6-Month Fixed Plan, you will be billed at a fixed price per Ccf and a $3.99 supplier customer charge for the length of your contract.",
+          "promotional_details": "This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 12 months of your contract. If you choose our 12-Month Fixed Plan, you will be billed at a fixed price per Ccf for the length of your contract.",
           "monthly_fee": null,
           "website_url": "https://www.pennsylvaniaenergy.com/gasugi/",
           "signup_url": "https://www.pennsylvaniaenergy.com/gasugi/"
@@ -2865,8 +2852,8 @@
           "signup_url": null
         }
       ],
-      "count": 42,
-      "last_fetched": "2026-05-01T15:58:40.025835Z"
+      "count": 41,
+      "last_fetched": "2026-05-01T17:07:36.890366Z"
     }
   }
 }

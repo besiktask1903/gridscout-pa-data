@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T15:58:44.927692Z",
+  "last_updated": "2026-05-01T17:07:41.720192Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -670,6 +670,21 @@
           "renewable": "Yes"
         },
         {
+          "name": "CleanChoice Energy",
+          "rate": 0.11,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbl1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashopperbl1",
+          "signup_url": "https://mycleanchoice.com/pashopperbl1",
+          "phone": "1-800-460-4900",
+          "renewable": "Yes"
+        },
+        {
           "name": "CleanSky Energy",
           "rate": 0.11,
           "rate_type": "Fixed",
@@ -893,21 +908,6 @@
           "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
           "phone": "800-917-9133",
           "renewable": "No"
-        },
-        {
-          "name": "CleanChoice Energy",
-          "rate": 0.114,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pacleanshopperbl2. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pacleanshopperbl2",
-          "signup_url": "https://mycleanchoice.com/pacleanshopperbl2",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes"
         },
         {
           "name": "AEP Energy",
@@ -2306,7 +2306,7 @@
         }
       ],
       "count": 153,
-      "last_fetched": "2026-05-01T15:58:41.106810Z"
+      "last_fetched": "2026-05-01T17:07:37.931523Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -3232,6 +3232,21 @@
           "renewable": "Yes"
         },
         {
+          "name": "CleanChoice Energy",
+          "rate": 0.133,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbl1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashopperbl1",
+          "signup_url": "https://mycleanchoice.com/pashopperbl1",
+          "phone": "1-800-460-4900",
+          "renewable": "Yes"
+        },
+        {
           "name": "CleanSky Energy",
           "rate": 0.1335,
           "rate_type": "Fixed",
@@ -3394,21 +3409,6 @@
           "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=47155&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1217",
           "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=47155&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1217",
           "phone": "8774300093",
-          "renewable": "No"
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1358,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees! Lock in price security today with our competitive 18-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 18-month term, plus there's no enrollment or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No"
         },
         {
@@ -3596,6 +3596,21 @@
           "rate": 0.1378,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees! Lock in price security today with our competitive 18-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 18-month term, plus there's no enrollment or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No"
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1378,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
           "term_months": 20,
           "early_termination_fee": null,
           "introductory": "No",
@@ -3710,21 +3725,6 @@
           "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106647",
           "phone": "1-800-698-5853",
           "renewable": "No"
-        },
-        {
-          "name": "CleanChoice Energy",
-          "rate": 0.138,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pacleanshopperbl2. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pacleanshopperbl2",
-          "signup_url": "https://mycleanchoice.com/pacleanshopperbl2",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes"
         },
         {
           "name": "WGL Energy Services",
@@ -4853,7 +4853,7 @@
         }
       ],
       "count": 169,
-      "last_fetched": "2026-05-01T15:58:41.839741Z"
+      "last_fetched": "2026-05-01T17:07:38.624645Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5119,6 +5119,21 @@
           "renewable": "Yes"
         },
         {
+          "name": "CleanChoice Energy",
+          "rate": 0.122,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbl1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashopperbl1",
+          "signup_url": "https://mycleanchoice.com/pashopperbl1",
+          "phone": "1-800-460-4900",
+          "renewable": "Yes"
+        },
+        {
           "name": "CleanSky Energy",
           "rate": 0.1246,
           "rate_type": "Fixed",
@@ -5162,21 +5177,6 @@
           "signup_url": "https://shopping.pagande.com/cust/?PID=85A7404A-1A99-43DB-A315-F9D02DE37980&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=BBBD9757-7A93-4FC8-8C80-E6AE2509CD49&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
           "renewable": "No"
-        },
-        {
-          "name": "CleanChoice Energy",
-          "rate": 0.125,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pacleanshopperbl2. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pacleanshopperbl2",
-          "signup_url": "https://mycleanchoice.com/pacleanshopperbl2",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes"
         },
         {
           "name": "Pennsylvania Gas & Electric",
@@ -6980,7 +6980,7 @@
         }
       ],
       "count": 141,
-      "last_fetched": "2026-05-01T15:58:42.478660Z"
+      "last_fetched": "2026-05-01T17:07:39.390809Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -8161,6 +8161,21 @@
           "renewable": "No"
         },
         {
+          "name": "CleanChoice Energy",
+          "rate": 0.137,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbl1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashopperbl1",
+          "signup_url": "https://mycleanchoice.com/pashopperbl1",
+          "phone": "1-800-460-4900",
+          "renewable": "Yes"
+        },
+        {
           "name": "Verde Energy USA, Inc.",
           "rate": 0.1375,
           "rate_type": "Fixed",
@@ -8339,21 +8354,6 @@
           "signup_url": "https://shopping.dynegy.com/cust/?PID=D2087083-6A90-4EDE-B2E3-234CDF8E85A2&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=D82CDC9E-62D5-457D-900F-75B5EEE35BAC&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
           "renewable": "No"
-        },
-        {
-          "name": "CleanChoice Energy",
-          "rate": 0.141,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pacleanshopperbl2. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pacleanshopperbl2",
-          "signup_url": "https://mycleanchoice.com/pacleanshopperbl2",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes"
         },
         {
           "name": "AEP Energy",
@@ -9062,7 +9062,7 @@
         }
       ],
       "count": 138,
-      "last_fetched": "2026-05-01T15:58:43.155813Z"
+      "last_fetched": "2026-05-01T17:07:40.012470Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -10438,6 +10438,21 @@
           "renewable": "No"
         },
         {
+          "name": "CleanChoice Energy",
+          "rate": 0.142,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbl1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashopperbl1",
+          "signup_url": "https://mycleanchoice.com/pashopperbl1",
+          "phone": "1-800-460-4900",
+          "renewable": "Yes"
+        },
+        {
           "name": "APG&E",
           "rate": 0.1428,
           "rate_type": "Fixed",
@@ -10600,21 +10615,6 @@
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_36eco",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_36eco",
           "phone": "1-877-648-1923",
-          "renewable": "Yes"
-        },
-        {
-          "name": "CleanChoice Energy",
-          "rate": 0.147,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pacleanshopperbl2. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pacleanshopperbl2",
-          "signup_url": "https://mycleanchoice.com/pacleanshopperbl2",
-          "phone": "1-800-460-4900",
           "renewable": "Yes"
         },
         {
@@ -11114,7 +11114,7 @@
         }
       ],
       "count": 136,
-      "last_fetched": "2026-05-01T15:58:43.784722Z"
+      "last_fetched": "2026-05-01T17:07:40.596144Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -12145,6 +12145,21 @@
           "renewable": "Yes"
         },
         {
+          "name": "CleanChoice Energy",
+          "rate": 0.14,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbl1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashopperbl1",
+          "signup_url": "https://mycleanchoice.com/pashopperbl1",
+          "phone": "1-800-460-4900",
+          "renewable": "Yes"
+        },
+        {
           "name": "CleanSky Energy",
           "rate": 0.1403,
           "rate_type": "Fixed",
@@ -12293,21 +12308,6 @@
           "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106674",
           "phone": "1-800-698-5853",
           "renewable": "No"
-        },
-        {
-          "name": "CleanChoice Energy",
-          "rate": 0.143,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pacleanshopperbl2. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pacleanshopperbl2",
-          "signup_url": "https://mycleanchoice.com/pacleanshopperbl2",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes"
         },
         {
           "name": "APG&E",
@@ -12866,7 +12866,7 @@
         }
       ],
       "count": 116,
-      "last_fetched": "2026-05-01T15:58:44.304633Z"
+      "last_fetched": "2026-05-01T17:07:41.122690Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -13702,6 +13702,21 @@
           "renewable": "No"
         },
         {
+          "name": "CleanChoice Energy",
+          "rate": 0.121,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbl1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashopperbl1",
+          "signup_url": "https://mycleanchoice.com/pashopperbl1",
+          "phone": "1-800-460-4900",
+          "renewable": "Yes"
+        },
+        {
           "name": "American Electric Rates LLC",
           "rate": 0.1217,
           "rate_type": "Fixed",
@@ -14000,21 +14015,6 @@
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=WPP&channel_code=direct",
           "phone": "844-275-4022",
           "renewable": "No"
-        },
-        {
-          "name": "CleanChoice Energy",
-          "rate": 0.125,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pacleanshopperbl2. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pacleanshopperbl2",
-          "signup_url": "https://mycleanchoice.com/pacleanshopperbl2",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes"
         },
         {
           "name": "American Electric Rates LLC",
@@ -14813,7 +14813,7 @@
         }
       ],
       "count": 129,
-      "last_fetched": "2026-05-01T15:58:44.927502Z"
+      "last_fetched": "2026-05-01T17:07:41.720008Z"
     }
   }
 }
