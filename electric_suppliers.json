@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T19:21:26.565637Z",
+  "last_updated": "2026-05-01T12:00:25.148095Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -26,31 +26,16 @@
         },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0789,
+          "rate": 0.0859,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today!",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer.",
           "monthly_fee": null,
           "website_url": "https://americanpowerandgas.com/?page=5",
           "signup_url": "https://americanpowerandgas.com/?page=5",
-          "phone": "800-380-9261",
-          "renewable": "Yes"
-        },
-        {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0839,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=9",
-          "signup_url": "https://americanpowerandgas.com/?page=9",
           "phone": "800-380-9261",
           "renewable": "Yes"
         },
@@ -68,6 +53,21 @@
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=977C9565-6050-45A1-AC15-F3DB3D1167DA&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=53246F56-175A-40D9-B228-1F680ABCDEBF&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
           "renewable": "No"
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.0909,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer.",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=9",
+          "signup_url": "https://americanpowerandgas.com/?page=9",
+          "phone": "800-380-9261",
+          "renewable": "Yes"
         },
         {
           "name": "Pennsylvania Gas & Electric",
@@ -475,6 +475,21 @@
           "renewable": "No"
         },
         {
+          "name": "APG&E",
+          "rate": 0.1068,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 3-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 3-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No"
+        },
+        {
           "name": "Dynegy",
           "rate": 0.1069,
           "rate_type": "Fixed",
@@ -487,6 +502,21 @@
           "website_url": "https://shopping.dynegy.com/cust/?PID=986F652E-2CD4-4549-A08C-12952FD152C8&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=55843CE6-2390-4201-9411-CCC01A6ABB18&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.dynegy.com/cust/?PID=986F652E-2CD4-4549-A08C-12952FD152C8&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=55843CE6-2390-4201-9411-CCC01A6ABB18&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
+          "renewable": "No"
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1078,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 5,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment fees!  Lock in price security today with our competitive 5-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 5-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": 0.0,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
           "renewable": "No"
         },
         {
@@ -535,21 +565,6 @@
           "renewable": "No"
         },
         {
-          "name": "APG&E",
-          "rate": 0.1088,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 3-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 3-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No"
-        },
-        {
           "name": "American Electric Rates LLC",
           "rate": 0.1097,
           "rate_type": "Fixed",
@@ -577,21 +592,6 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=107294",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=107294",
           "phone": "1-800-225-3813",
-          "renewable": "No"
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1098,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 5,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment fees!  Lock in price security today with our competitive 5-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 5-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": 0.0,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No"
         },
         {
@@ -742,21 +742,6 @@
           "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107226",
           "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107226",
           "phone": "1-800-698-5853",
-          "renewable": "No"
-        },
-        {
-          "name": "1776 Energy",
-          "rate": 0.1109,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=44652&market_id=178",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=44652&market_id=178",
-          "phone": null,
           "renewable": "No"
         },
         {
@@ -1030,21 +1015,6 @@
           "renewable": "No"
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1157,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No"
-        },
-        {
           "name": "CleanSky Energy",
           "rate": 0.1157,
           "rate_type": "Fixed",
@@ -1177,6 +1147,21 @@
           "website_url": "https://shopping.dynegy.com/cust/?PID=04BF452E-0924-4140-B7C4-4FDD012535C5&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=55843CE6-2390-4201-9411-CCC01A6ABB18&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.dynegy.com/cust/?PID=04BF452E-0924-4140-B7C4-4FDD012535C5&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=55843CE6-2390-4201-9411-CCC01A6ABB18&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
+          "renewable": "No"
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.117,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
           "renewable": "No"
         },
         {
@@ -1360,6 +1345,21 @@
           "renewable": "Yes"
         },
         {
+          "name": "APG&E",
+          "rate": 0.1207,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 19,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment fees!  Lock in price security today with our competitive 19-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 19-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": 0.0,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T19_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T19_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No"
+        },
+        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1208,
           "rate_type": "Fixed",
@@ -1387,21 +1387,6 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=60361",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=60361",
           "phone": "1-800-225-3813",
-          "renewable": "No"
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1208,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment fees!  Lock in price security today with our competitive 18-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 18-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": 0.0,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No"
         },
         {
@@ -1676,7 +1661,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1266,
+          "rate": 0.126,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -2156,7 +2141,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1441,
+          "rate": 0.1452,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 18,
@@ -2171,7 +2156,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.146,
+          "rate": 0.1471,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -2365,8 +2350,8 @@
           "renewable": "Yes"
         }
       ],
-      "count": 157,
-      "last_fetched": "2026-04-30T19:21:21.575116Z"
+      "count": 156,
+      "last_fetched": "2026-05-01T12:00:21.559629Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2408,31 +2393,16 @@
         },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0989,
+          "rate": 0.1099,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today!",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer",
           "monthly_fee": null,
           "website_url": "https://americanpowerandgas.com/?page=5",
           "signup_url": "https://americanpowerandgas.com/?page=5",
-          "phone": "800-380-9261",
-          "renewable": "Yes"
-        },
-        {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.1039,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=9",
-          "signup_url": "https://americanpowerandgas.com/?page=9",
           "phone": "800-380-9261",
           "renewable": "Yes"
         },
@@ -2465,6 +2435,21 @@
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=04CB1A1F-A9B3-4C20-8D69-7E1BC0AA8DBD&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=E8CF1897-A296-4FD9-A47A-E1844111CC38&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
           "renewable": "No"
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1149,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=9",
+          "signup_url": "https://americanpowerandgas.com/?page=9",
+          "phone": "800-380-9261",
+          "renewable": "Yes"
         },
         {
           "name": "Renaissance Power & Gas Inc.",
@@ -2647,21 +2632,6 @@
           "renewable": "No"
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1241,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No"
-        },
-        {
           "name": "Inspire Clean Energy",
           "rate": 0.1249,
           "rate_type": "Fixed",
@@ -2719,6 +2689,21 @@
           "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18479",
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18479",
           "phone": null,
+          "renewable": "No"
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1254,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
           "renewable": "No"
         },
         {
@@ -3173,7 +3158,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1314,
+          "rate": 0.1308,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -3349,21 +3334,6 @@
           "website_url": "https://shopping.dynegy.com/cust/?PID=ED5B1A2F-94DF-4C3B-A28C-A8C1C7AFE2E1&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=260F0F14-5974-4C25-9AD6-BB197958E9D8&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.dynegy.com/cust/?PID=ED5B1A2F-94DF-4C3B-A28C-A8C1C7AFE2E1&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=260F0F14-5974-4C25-9AD6-BB197958E9D8&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
-          "renewable": "No"
-        },
-        {
-          "name": "1776 Energy",
-          "rate": 0.1339,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43078&market_id=181",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43078&market_id=181",
-          "phone": null,
           "renewable": "No"
         },
         {
@@ -4372,21 +4342,6 @@
           "renewable": "No"
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1505,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 18 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
-          "phone": "866-752-1907",
-          "renewable": "No"
-        },
-        {
           "name": "WGL Energy Services",
           "rate": 0.1507,
           "rate_type": "Fixed",
@@ -4399,21 +4354,6 @@
           "website_url": "https://www.wglenergy.com/",
           "signup_url": "https://www.wglenergy.com/",
           "phone": "1-844-427-5945",
-          "renewable": "Yes"
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1508,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
-          "monthly_fee": 5.99,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PPLPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PPLPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "phone": "866-752-1907",
           "renewable": "Yes"
         },
         {
@@ -4432,6 +4372,21 @@
           "renewable": "Yes"
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1518,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 18 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "phone": "866-752-1907",
+          "renewable": "No"
+        },
+        {
           "name": "Direct Energy",
           "rate": 0.1519,
           "rate_type": "Fixed",
@@ -4445,6 +4400,21 @@
           "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter-18?msid=720",
           "phone": "855-331-0024",
           "renewable": "No"
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1521,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
+          "monthly_fee": 5.99,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PPLPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PPLPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "phone": "866-752-1907",
+          "renewable": "Yes"
         },
         {
           "name": "Clearview Energy",
@@ -4972,8 +4942,8 @@
           "renewable": "Yes"
         }
       ],
-      "count": 173,
-      "last_fetched": "2026-04-30T19:21:22.502849Z"
+      "count": 172,
+      "last_fetched": "2026-05-01T12:00:22.235319Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5000,31 +4970,16 @@
         },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0979,
+          "rate": 0.1079,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today!",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer.",
           "monthly_fee": null,
           "website_url": "https://americanpowerandgas.com/?page=5",
           "signup_url": "https://americanpowerandgas.com/?page=5",
-          "phone": "800-380-9261",
-          "renewable": "Yes"
-        },
-        {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.1029,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=9",
-          "signup_url": "https://americanpowerandgas.com/?page=9",
           "phone": "800-380-9261",
           "renewable": "Yes"
         },
@@ -5044,8 +4999,38 @@
           "renewable": "No"
         },
         {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1129,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=9",
+          "signup_url": "https://americanpowerandgas.com/?page=9",
+          "phone": "800-380-9261",
+          "renewable": "Yes"
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1129,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer.",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=9",
+          "signup_url": "https://americanpowerandgas.com/?page=9",
+          "phone": "800-380-9261",
+          "renewable": "Yes"
+        },
+        {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1136,
+          "rate": 0.1146,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 6,
@@ -5210,7 +5195,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1224,
+          "rate": 0.1218,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -5779,21 +5764,6 @@
           "renewable": "No"
         },
         {
-          "name": "1776 Energy",
-          "rate": 0.1349,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=44652&market_id=176",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=44652&market_id=176",
-          "phone": null,
-          "renewable": "No"
-        },
-        {
           "name": "Better Buy Energy",
           "rate": 0.1359,
           "rate_type": "Fixed",
@@ -6034,21 +6004,6 @@
           "renewable": "No"
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1398,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 18 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
-          "phone": "866-752-1907",
-          "renewable": "No"
-        },
-        {
           "name": "Brighten Energy",
           "rate": 0.1399,
           "rate_type": "Fixed",
@@ -6137,6 +6092,21 @@
           "signup_url": "https://alphagasandelectric.com/P2C/",
           "phone": "845-810-0088",
           "renewable": "Yes"
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1407,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 18 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "phone": "866-752-1907",
+          "renewable": "No"
         },
         {
           "name": "0 Commit Energy",
@@ -6229,21 +6199,6 @@
           "renewable": "No"
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.142,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
-          "monthly_fee": 5.99,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_DUQPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_DUQPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "phone": "866-752-1907",
-          "renewable": "Yes"
-        },
-        {
           "name": "APG&E",
           "rate": 0.1428,
           "rate_type": "Fixed",
@@ -6257,6 +6212,21 @@
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
           "renewable": "No"
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1429,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
+          "monthly_fee": 5.99,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_DUQPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_DUQPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "phone": "866-752-1907",
+          "renewable": "Yes"
         },
         {
           "name": "American Electric Rates LLC",
@@ -7145,7 +7115,7 @@
         }
       ],
       "count": 144,
-      "last_fetched": "2026-04-30T19:21:23.156508Z"
+      "last_fetched": "2026-05-01T12:00:22.810153Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -7172,31 +7142,16 @@
         },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0999,
+          "rate": 0.1099,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today!",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer.",
           "monthly_fee": null,
           "website_url": "https://americanpowerandgas.com/?page=5",
           "signup_url": "https://americanpowerandgas.com/?page=5",
-          "phone": "800-380-9261",
-          "renewable": "Yes"
-        },
-        {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.1049,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=9",
-          "signup_url": "https://americanpowerandgas.com/?page=9",
           "phone": "800-380-9261",
           "renewable": "Yes"
         },
@@ -7214,6 +7169,21 @@
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=F58DF0E3-F0AE-4A0D-8064-F87F12C29C8F&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=B12F5D81-AED9-453C-ADDE-2C4521159361&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
           "renewable": "No"
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1149,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer.",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=9",
+          "signup_url": "https://americanpowerandgas.com/?page=9",
+          "phone": "800-380-9261",
+          "renewable": "Yes"
         },
         {
           "name": "Public Power, LLC",
@@ -8251,21 +8221,6 @@
           "renewable": "No"
         },
         {
-          "name": "1776 Energy",
-          "rate": 0.1339,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=44652&market_id=177",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=44652&market_id=177",
-          "phone": null,
-          "renewable": "No"
-        },
-        {
           "name": "APG&E",
           "rate": 0.1348,
           "rate_type": "Fixed",
@@ -9286,8 +9241,8 @@
           "renewable": "No"
         }
       ],
-      "count": 142,
-      "last_fetched": "2026-04-30T19:21:24.422518Z"
+      "count": 141,
+      "last_fetched": "2026-05-01T12:00:23.441548Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -9314,31 +9269,16 @@
         },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0919,
+          "rate": 0.1009,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today!",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer",
           "monthly_fee": null,
           "website_url": "https://americanpowerandgas.com/?page=5",
           "signup_url": "https://americanpowerandgas.com/?page=5",
-          "phone": "800-380-9261",
-          "renewable": "Yes"
-        },
-        {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0969,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=9",
-          "signup_url": "https://americanpowerandgas.com/?page=9",
           "phone": "800-380-9261",
           "renewable": "Yes"
         },
@@ -9356,6 +9296,21 @@
           "signup_url": null,
           "phone": "888-865-3402",
           "renewable": "No"
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1059,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=9",
+          "signup_url": "https://americanpowerandgas.com/?page=9",
+          "phone": "800-380-9261",
+          "renewable": "Yes"
         },
         {
           "name": "Public Power, LLC",
@@ -10918,21 +10873,6 @@
           "renewable": "No"
         },
         {
-          "name": "1776 Energy",
-          "rate": 0.1489,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=44652&market_id=180",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=44652&market_id=180",
-          "phone": null,
-          "renewable": "No"
-        },
-        {
           "name": "WGL Energy Services",
           "rate": 0.1496,
           "rate_type": "Fixed",
@@ -11398,8 +11338,8 @@
           "renewable": "No"
         }
       ],
-      "count": 140,
-      "last_fetched": "2026-04-30T19:21:25.277363Z"
+      "count": 139,
+      "last_fetched": "2026-05-01T12:00:24.052637Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -11426,13 +11366,13 @@
         },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0969,
+          "rate": 0.1079,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today!",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer",
           "monthly_fee": null,
           "website_url": "https://americanpowerandgas.com/?page=5",
           "signup_url": "https://americanpowerandgas.com/?page=5",
@@ -11441,13 +11381,13 @@
         },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.1019,
+          "rate": 0.1129,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today!",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer",
           "monthly_fee": null,
           "website_url": "https://americanpowerandgas.com/?page=9",
           "signup_url": "https://americanpowerandgas.com/?page=9",
@@ -13196,7 +13136,7 @@
         }
       ],
       "count": 119,
-      "last_fetched": "2026-04-30T19:21:25.876232Z"
+      "last_fetched": "2026-05-01T12:00:24.566251Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -13223,13 +13163,13 @@
         },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0799,
+          "rate": 0.0899,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today!",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer",
           "monthly_fee": null,
           "website_url": "https://americanpowerandgas.com/?page=5",
           "signup_url": "https://americanpowerandgas.com/?page=5",
@@ -13238,13 +13178,13 @@
         },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0849,
+          "rate": 0.0949,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today!",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer",
           "monthly_fee": null,
           "website_url": "https://americanpowerandgas.com/?page=9",
           "signup_url": "https://americanpowerandgas.com/?page=9",
@@ -14257,21 +14197,6 @@
           "renewable": "No"
         },
         {
-          "name": "1776 Energy",
-          "rate": 0.1229,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=44652&market_id=186",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=44652&market_id=186",
-          "phone": null,
-          "renewable": "No"
-        },
-        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1238,
           "rate_type": "Fixed",
@@ -15202,8 +15127,8 @@
           "renewable": "No"
         }
       ],
-      "count": 133,
-      "last_fetched": "2026-04-30T19:21:26.565423Z"
+      "count": 132,
+      "last_fetched": "2026-05-01T12:00:25.147879Z"
     }
   }
 }

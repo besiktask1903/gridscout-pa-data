@@ -78,6 +78,85 @@
           "rate_unit": "Ccf"
         }
       }
+    },
+    {
+      "month": "2026-05",
+      "type": "gas",
+      "date": "2026-05-01T12:00:20.485081Z",
+      "rates": {
+        "columbia_gas_pa": {
+          "name": "Columbia Gas of Pennsylvania",
+          "rate": 0.41582,
+          "rate_unit": "therm"
+        },
+        "national_fuel_gas": {
+          "name": "National Fuel Gas",
+          "rate": 0.58613,
+          "rate_unit": "Ccf"
+        },
+        "peco_gas": {
+          "name": "PECO Gas",
+          "rate": 0.67301,
+          "rate_unit": "Ccf"
+        },
+        "peoples_gas": {
+          "name": "Peoples Natural Gas",
+          "rate": 4.1425,
+          "rate_unit": "Mcf"
+        },
+        "pgw": {
+          "name": "Philadelphia Gas Works",
+          "rate": 0.50021,
+          "rate_unit": "Ccf"
+        },
+        "ugi_gas": {
+          "name": "UGI Utilities",
+          "rate": 0.76795,
+          "rate_unit": "Ccf"
+        }
+      }
+    },
+    {
+      "month": "2026-05",
+      "type": "electric",
+      "date": "2026-05-01T12:00:25.166071Z",
+      "rates": {
+        "peco_electric": {
+          "name": "PECO Energy",
+          "rate": 0.11024,
+          "rate_unit": "kWh"
+        },
+        "ppl_electric": {
+          "name": "PPL Electric Utilities",
+          "rate": 0.12953,
+          "rate_unit": "kWh"
+        },
+        "duquesne_light": {
+          "name": "Duquesne Light",
+          "rate": 0.1375,
+          "rate_unit": "kWh"
+        },
+        "met_ed": {
+          "name": "Met-Ed",
+          "rate": 0.12965,
+          "rate_unit": "kWh"
+        },
+        "penelec": {
+          "name": "Penelec",
+          "rate": 0.11747,
+          "rate_unit": "kWh"
+        },
+        "penn_power": {
+          "name": "Penn Power",
+          "rate": 0.12606,
+          "rate_unit": "kWh"
+        },
+        "west_penn_power": {
+          "name": "West Penn Power",
+          "rate": 0.10947,
+          "rate_unit": "kWh"
+        }
+      }
     }
   ]
 }

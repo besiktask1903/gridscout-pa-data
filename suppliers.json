@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T19:21:20.090568Z",
+  "last_updated": "2026-05-01T12:00:20.480852Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -596,7 +596,7 @@
         }
       ],
       "count": 45,
-      "last_fetched": "2026-04-30T19:21:18.482945Z"
+      "last_fetched": "2026-05-01T12:00:19.027143Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -881,7 +881,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-04-30T19:21:18.749376Z"
+      "last_fetched": "2026-05-01T12:00:19.274042Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -931,19 +931,6 @@
           "signup_url": "https://americanpowerandgas.com/?page=5"
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.4878,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna\u2019s Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
-          "signup_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3"
-        },
-        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.489,
           "rate_type": "Fixed",
@@ -955,6 +942,19 @@
           "monthly_fee": null,
           "website_url": "https://shopping.pagande.com/cust/?PID=2D74D4FB-0475-496B-9A68-D9F2A51886F7&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=0F0F8BBF-DA5C-42C4-8EE8-DED19AE472EA&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=2D74D4FB-0475-496B-9A68-D9F2A51886F7&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=0F0F8BBF-DA5C-42C4-8EE8-DED19AE472EA&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD"
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.4895,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna\u2019s Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
+          "signup_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3"
         },
         {
           "name": "Pennsylvania Gas & Electric",
@@ -1582,7 +1582,7 @@
         }
       ],
       "count": 53,
-      "last_fetched": "2026-04-30T19:21:19.167214Z"
+      "last_fetched": "2026-05-01T12:00:19.651228Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2049,7 +2049,7 @@
         }
       ],
       "count": 35,
-      "last_fetched": "2026-04-30T19:21:19.477787Z"
+      "last_fetched": "2026-05-01T12:00:19.946655Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2308,7 +2308,7 @@
         }
       ],
       "count": 19,
-      "last_fetched": "2026-04-30T19:21:19.749104Z"
+      "last_fetched": "2026-05-01T12:00:20.181359Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2866,7 +2866,7 @@
         }
       ],
       "count": 42,
-      "last_fetched": "2026-04-30T19:21:20.090394Z"
+      "last_fetched": "2026-05-01T12:00:20.480646Z"
     }
   }
 }
