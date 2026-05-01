@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T14:17:49.839909Z",
+  "last_updated": "2026-05-01T15:58:44.927692Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -355,21 +355,6 @@
           "renewable": "No"
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.1049,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "100% renewable power + a guaranteed Introductory Price = a flexible way to go green! This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 | Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": 5.95,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes"
-        },
-        {
           "name": "1776 Energy",
           "rate": 0.1049,
           "rate_type": "Fixed",
@@ -670,19 +655,19 @@
           "renewable": "No"
         },
         {
-          "name": "Spark Energy, LLC",
+          "name": "CleanSky Energy",
           "rate": 0.1099,
-          "rate_type": "Fixed",
+          "rate_type": "Variable",
           "rate_unit": "kWh",
-          "term_months": 4,
+          "term_months": 1,
           "early_termination_fee": "0",
           "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
-          "renewable": "No"
+          "promotional_details": "100% renewable power + a guaranteed Introductory Price = a flexible way to go green! This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 | Email us: CustomerCare@CleanSkyEnergy.com",
+          "monthly_fee": 5.95,
+          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
+          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
+          "phone": "1-888-355-6205",
+          "renewable": "Yes"
         },
         {
           "name": "CleanSky Energy",
@@ -817,21 +802,6 @@
           "website_url": "https://shopping.energyharbor.com/cust/?PID=AC466820-5916-4946-9256-D3C61417FC48&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=F8D18C47-162E-417B-9B2E-872156D6A9F3&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=AC466820-5916-4946-9256-D3C61417FC48&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=F8D18C47-162E-417B-9B2E-872156D6A9F3&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
-          "renewable": "No"
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1129,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 6 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
           "renewable": "No"
         },
         {
@@ -1208,21 +1178,6 @@
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_12&utm_content=PECO&channel_code=direct",
           "phone": "844-275-4022",
           "renewable": "Yes"
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1179,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 12 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
-          "renewable": "No"
         },
         {
           "name": "CleanSky Energy",
@@ -2350,8 +2305,8 @@
           "renewable": "Yes"
         }
       ],
-      "count": 156,
-      "last_fetched": "2026-05-01T14:17:46.141612Z"
+      "count": 153,
+      "last_fetched": "2026-05-01T15:58:41.106810Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2569,21 +2524,6 @@
           "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43835&market_id=181",
           "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43835&market_id=181",
           "phone": null,
-          "renewable": "No"
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1228,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
           "renewable": "No"
         },
         {
@@ -2824,21 +2764,6 @@
           "website_url": "https://shopping.publicpowercompany.com/cust/?PID=23F2A5CA-59E9-4056-8B79-9AED59E897CE&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=E8CF1897-A296-4FD9-A47A-E1844111CC38&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=23F2A5CA-59E9-4056-8B79-9AED59E897CE&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=E8CF1897-A296-4FD9-A47A-E1844111CC38&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
-          "renewable": "No"
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1269,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 6 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
           "renewable": "No"
         },
         {
@@ -3334,21 +3259,6 @@
           "website_url": "https://shopping.dynegy.com/cust/?PID=ED5B1A2F-94DF-4C3B-A28C-A8C1C7AFE2E1&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=260F0F14-5974-4C25-9AD6-BB197958E9D8&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.dynegy.com/cust/?PID=ED5B1A2F-94DF-4C3B-A28C-A8C1C7AFE2E1&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=260F0F14-5974-4C25-9AD6-BB197958E9D8&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
-          "renewable": "No"
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1339,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 12 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
           "renewable": "No"
         },
         {
@@ -3892,21 +3802,6 @@
           "renewable": "No"
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.1399,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "100% renewable power + a guaranteed Introductory Price = a flexible way to go green! This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 | Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": 5.95,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=39&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=39&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes"
-        },
-        {
           "name": "Dynegy",
           "rate": 0.1409,
           "rate_type": "Fixed",
@@ -4100,6 +3995,21 @@
           "signup_url": "https://www.napower.com/#gref",
           "phone": "877-572-9965",
           "renewable": "No"
+        },
+        {
+          "name": "CleanSky Energy",
+          "rate": 0.1449,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": "0",
+          "introductory": "No",
+          "promotional_details": "100% renewable power + a guaranteed Introductory Price = a flexible way to go green! This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 | Email us: CustomerCare@CleanSkyEnergy.com",
+          "monthly_fee": 5.95,
+          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=39&promocode=PAPOWERZERO",
+          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=39&promocode=PAPOWERZERO",
+          "phone": "1-888-355-6205",
+          "renewable": "Yes"
         },
         {
           "name": "Think Energy",
@@ -4942,8 +4852,8 @@
           "renewable": "Yes"
         }
       ],
-      "count": 172,
-      "last_fetched": "2026-05-01T14:17:46.872543Z"
+      "count": 169,
+      "last_fetched": "2026-05-01T15:58:41.839741Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5389,21 +5299,6 @@
           "renewable": "No"
         },
         {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1279,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
-          "renewable": "No"
-        },
-        {
           "name": "Inspire Clean Energy",
           "rate": 0.1289,
           "rate_type": "Fixed",
@@ -5476,21 +5371,6 @@
           "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=42&promocode=PAPOWERZERO",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=42&promocode=PAPOWERZERO",
           "phone": "1-888-355-6205",
-          "renewable": "No"
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1315,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 6 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
           "renewable": "No"
         },
         {
@@ -6031,21 +5911,6 @@
           "website_url": "https://majorenergy.com/areas/pa/",
           "signup_url": "https://majorenergy.com/areas/pa/",
           "phone": "1-833-488-3124",
-          "renewable": "No"
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1399,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 12 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
           "renewable": "No"
         },
         {
@@ -7114,8 +6979,8 @@
           "renewable": "Yes"
         }
       ],
-      "count": 144,
-      "last_fetched": "2026-05-01T14:17:47.473678Z"
+      "count": 141,
+      "last_fetched": "2026-05-01T15:58:42.478660Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -7348,36 +7213,6 @@
           "website_url": "https://majorenergy.com/areas/pa/",
           "signup_url": "https://majorenergy.com/areas/pa/",
           "phone": "1-833-488-3124",
-          "renewable": "No"
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1225,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
-          "renewable": "No"
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1225,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 6 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
           "renewable": "No"
         },
         {
@@ -7963,21 +7798,6 @@
           "website_url": "https://shopping.pagande.com/cust/?PID=DFC9FB22-ED06-4EF8-B195-32BE4232D046&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=CE90D209-4769-43F5-8D5C-CC34D95FFD23&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=DFC9FB22-ED06-4EF8-B195-32BE4232D046&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=CE90D209-4769-43F5-8D5C-CC34D95FFD23&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
-          "renewable": "No"
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1315,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 12 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
           "renewable": "No"
         },
         {
@@ -9241,8 +9061,8 @@
           "renewable": "No"
         }
       ],
-      "count": 141,
-      "last_fetched": "2026-05-01T14:17:48.141211Z"
+      "count": 138,
+      "last_fetched": "2026-05-01T15:58:43.155813Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -10123,21 +9943,6 @@
           "renewable": "No"
         },
         {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1319,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
-          "renewable": "No"
-        },
-        {
           "name": "Cirro Energy",
           "rate": 0.132,
           "rate_type": "Fixed",
@@ -10210,21 +10015,6 @@
           "website_url": "https://majorenergy.com/areas/pa/",
           "signup_url": "https://majorenergy.com/areas/pa/",
           "phone": "1-833-488-3124",
-          "renewable": "No"
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1329,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 6 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
           "renewable": "No"
         },
         {
@@ -10513,21 +10303,6 @@
           "renewable": "No"
         },
         {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1379,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 12 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
-          "renewable": "No"
-        },
-        {
           "name": "Better Buy Energy",
           "rate": 0.1389,
           "rate_type": "Fixed",
@@ -10601,21 +10376,6 @@
           "signup_url": "https://shopping.dynegy.com/cust/?PID=ABC1ECFA-79BB-4842-8BFB-9401714C2B6E&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=CB50DB42-AC91-4924-A5FC-F19FC4E4B6C5&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
           "renewable": "No"
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.1399,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "100% renewable power + a guaranteed Introductory Price = a flexible way to go green! This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 | Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": 5.95,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=44&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=44&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes"
         },
         {
           "name": "Brighten Energy",
@@ -10751,6 +10511,21 @@
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_36",
           "phone": "1-877-648-1923",
           "renewable": "No"
+        },
+        {
+          "name": "CleanSky Energy",
+          "rate": 0.1449,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": "0",
+          "introductory": "No",
+          "promotional_details": "100% renewable power + a guaranteed Introductory Price = a flexible way to go green! This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 | Email us: CustomerCare@CleanSkyEnergy.com",
+          "monthly_fee": 5.95,
+          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=44&promocode=PAPOWERZERO",
+          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=44&promocode=PAPOWERZERO",
+          "phone": "1-888-355-6205",
+          "renewable": "Yes"
         },
         {
           "name": "WGL Energy Services",
@@ -11338,8 +11113,8 @@
           "renewable": "No"
         }
       ],
-      "count": 139,
-      "last_fetched": "2026-05-01T14:17:48.738844Z"
+      "count": 136,
+      "last_fetched": "2026-05-01T15:58:43.784722Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -11455,21 +11230,6 @@
           "renewable": "No"
         },
         {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1149,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
-          "renewable": "No"
-        },
-        {
           "name": "Public Power, LLC",
           "rate": 0.1179,
           "rate_type": "Fixed",
@@ -11512,21 +11272,6 @@
           "website_url": "https://majorenergy.com/areas/pa/",
           "signup_url": "https://majorenergy.com/areas/pa/",
           "phone": "1-833-488-3124",
-          "renewable": "No"
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1185,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 6 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
           "renewable": "No"
         },
         {
@@ -11677,21 +11422,6 @@
           "website_url": "https://majorenergy.com/areas/pa/",
           "signup_url": "https://majorenergy.com/areas/pa/",
           "phone": "1-833-488-3124",
-          "renewable": "No"
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1229,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 12 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
           "renewable": "No"
         },
         {
@@ -12145,21 +11875,6 @@
           "renewable": "Yes"
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.1349,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "100% renewable power + a guaranteed Introductory Price = a flexible way to go green! This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 | Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": 5.95,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=45&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=45&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes"
-        },
-        {
           "name": "AEP Energy",
           "rate": 0.1365,
           "rate_type": "Fixed",
@@ -12413,6 +12128,21 @@
           "signup_url": "https://shopping.dynegy.com/cust/?PID=4F45C604-EE77-4A2B-BE76-1E2ED753FA6D&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=A70BA8ED-97A1-438F-873E-7819720E7808&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
           "renewable": "No"
+        },
+        {
+          "name": "CleanSky Energy",
+          "rate": 0.1399,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": "0",
+          "introductory": "No",
+          "promotional_details": "100% renewable power + a guaranteed Introductory Price = a flexible way to go green! This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 | Email us: CustomerCare@CleanSkyEnergy.com",
+          "monthly_fee": 5.95,
+          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=45&promocode=PAPOWERZERO",
+          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=45&promocode=PAPOWERZERO",
+          "phone": "1-888-355-6205",
+          "renewable": "Yes"
         },
         {
           "name": "CleanSky Energy",
@@ -13135,8 +12865,8 @@
           "renewable": "No"
         }
       ],
-      "count": 119,
-      "last_fetched": "2026-05-01T14:17:49.267228Z"
+      "count": 116,
+      "last_fetched": "2026-05-01T15:58:44.304633Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -13657,21 +13387,6 @@
           "renewable": "No"
         },
         {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1159,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
-          "renewable": "No"
-        },
-        {
           "name": "CleanSky Energy",
           "rate": 0.1166,
           "rate_type": "Fixed",
@@ -13759,21 +13474,6 @@
           "website_url": "https://majorenergy.com/enroll/",
           "signup_url": "https://majorenergy.com/enroll/",
           "phone": "1-833-488-3124",
-          "renewable": "No"
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1179,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 6 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
           "renewable": "No"
         },
         {
@@ -14467,21 +14167,6 @@
           "renewable": "No"
         },
         {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1279,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 12 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
-          "renewable": "No"
-        },
-        {
           "name": "American Electric Rates LLC",
           "rate": 0.1279,
           "rate_type": "Fixed",
@@ -15127,8 +14812,8 @@
           "renewable": "No"
         }
       ],
-      "count": 132,
-      "last_fetched": "2026-05-01T14:17:49.839717Z"
+      "count": 129,
+      "last_fetched": "2026-05-01T15:58:44.927502Z"
     }
   }
 }
