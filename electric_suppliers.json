@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T17:49:46.971361Z",
+  "last_updated": "2026-05-04T12:21:18.605501Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -1136,7 +1136,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.117,
+          "rate": 0.1178,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 6,
@@ -2126,7 +2126,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1452,
+          "rate": 0.1458,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 18,
@@ -2141,7 +2141,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1471,
+          "rate": 0.1478,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -2336,7 +2336,7 @@
         }
       ],
       "count": 155,
-      "last_fetched": "2026-05-03T17:49:43.600077Z"
+      "last_fetched": "2026-05-04T12:21:15.500445Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2677,21 +2677,6 @@
           "renewable": "No"
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1254,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No"
-        },
-        {
           "name": "Renaissance Power & Gas Inc.",
           "rate": 0.1257,
           "rate_type": "Fixed",
@@ -2764,6 +2749,21 @@
           "website_url": "https://www.shipleyenergy.com/enrollment/",
           "signup_url": "https://www.shipleyenergy.com/enrollment/",
           "phone": "866-477-9180",
+          "renewable": "No"
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1266,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
           "renewable": "No"
         },
         {
@@ -4342,21 +4342,6 @@
           "renewable": "Yes"
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1518,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 18 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
-          "phone": "866-752-1907",
-          "renewable": "No"
-        },
-        {
           "name": "Direct Energy",
           "rate": 0.1519,
           "rate_type": "Fixed",
@@ -4373,18 +4358,18 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1521,
+          "rate": 0.1525,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 12,
+          "term_months": 18,
           "early_termination_fee": "$120.00",
           "introductory": "No",
-          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
-          "monthly_fee": 5.99,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PPLPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PPLPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 18 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
           "phone": "866-752-1907",
-          "renewable": "Yes"
+          "renewable": "No"
         },
         {
           "name": "Clearview Energy",
@@ -4415,6 +4400,21 @@
           "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter-24?msid=720",
           "phone": "855-331-0024",
           "renewable": "No"
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1529,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
+          "monthly_fee": 5.99,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PPLPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PPLPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "phone": "866-752-1907",
+          "renewable": "Yes"
         },
         {
           "name": "Constellation Energy",
@@ -4913,7 +4913,7 @@
         }
       ],
       "count": 171,
-      "last_fetched": "2026-05-03T17:49:44.235168Z"
+      "last_fetched": "2026-05-04T12:21:16.069426Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -4999,21 +4999,6 @@
           "renewable": "Yes"
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1146,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_DUQPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_DUQPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No"
-        },
-        {
           "name": "American Power & Gas of Pennsylvania LLC",
           "rate": 0.1149,
           "rate_type": "Variable",
@@ -5042,6 +5027,21 @@
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Duq&channel_code=direct",
           "phone": "844-275-4022",
           "renewable": "Yes"
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1151,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_DUQPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_DUQPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No"
         },
         {
           "name": "Town Square Energy",
@@ -5766,12 +5766,12 @@
         {
           "name": "Renaissance Power & Gas Inc.",
           "rate": 0.1367,
-          "rate_type": "Fixed",
+          "rate_type": "Variable",
           "rate_unit": "kWh",
-          "term_months": 4,
+          "term_months": 1,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "4 month rate at $0.1367. Fast, easy sign up. Just call 888-811-0877 or go to www.renaissancepowerandgas.com",
+          "promotional_details": "1 month rate at $0.1367. Fast, easy sign up. Just call 888-811-0877 or go to www.renaissancepowerandgas.com",
           "monthly_fee": null,
           "website_url": "https://www.renaissancepowerandgas.com",
           "signup_url": "https://www.renaissancepowerandgas.com",
@@ -6064,21 +6064,6 @@
           "renewable": "Yes"
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1407,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 18 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
-          "phone": "866-752-1907",
-          "renewable": "No"
-        },
-        {
           "name": "0 Commit Energy",
           "rate": 0.1408,
           "rate_type": "Fixed",
@@ -6139,6 +6124,21 @@
           "renewable": "No"
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.141,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 18 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "phone": "866-752-1907",
+          "renewable": "No"
+        },
+        {
           "name": "APG&E",
           "rate": 0.1418,
           "rate_type": "Fixed",
@@ -6185,7 +6185,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1429,
+          "rate": 0.1434,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -6334,21 +6334,6 @@
           "renewable": "No"
         },
         {
-          "name": "Renaissance Power & Gas Inc.",
-          "rate": 0.1457,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 16,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "16 month fixed rate at $0.1457. Fast and easy sign up. Just call 888-811-0877 or go to www.renaissancepowerandgas.com",
-          "monthly_fee": null,
-          "website_url": "https://www.renaissancepowerandgas.com",
-          "signup_url": "https://www.renaissancepowerandgas.com",
-          "phone": "888-811-0877",
-          "renewable": "No"
-        },
-        {
           "name": "APG&E",
           "rate": 0.1458,
           "rate_type": "Fixed",
@@ -6439,6 +6424,21 @@
           "renewable": "No"
         },
         {
+          "name": "Renaissance Power & Gas Inc.",
+          "rate": 0.147,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "12 month fixed rate at $0.147. Fast and easy sign up. Just call 888-811-0877 or go to www.renaissancepowerandgas.com",
+          "monthly_fee": null,
+          "website_url": "https://www.renaissancepowerandgas.com",
+          "signup_url": "https://www.renaissancepowerandgas.com",
+          "phone": "888-811-0877",
+          "renewable": "No"
+        },
+        {
           "name": "Spring Power & Gas",
           "rate": 0.1479,
           "rate_type": "Variable",
@@ -6482,21 +6482,6 @@
           "signup_url": "https://americanpowerandgas.com/?page=8",
           "phone": "800-380-9261",
           "renewable": "Yes"
-        },
-        {
-          "name": "Renaissance Power & Gas Inc.",
-          "rate": 0.1497,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 28,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "28 Months fixed rate at $0.1497.  Fast, easy sign up. Call 888-811-0877 or go to www.renaissancepowerandgas.com",
-          "monthly_fee": null,
-          "website_url": "https://www.renaissancepowerandgas.com",
-          "signup_url": "https://www.renaissancepowerandgas.com",
-          "phone": "888-811-0877",
-          "renewable": "No"
         },
         {
           "name": "Just Energy",
@@ -7084,8 +7069,8 @@
           "renewable": "Yes"
         }
       ],
-      "count": 144,
-      "last_fetched": "2026-05-03T17:49:44.784411Z"
+      "count": 143,
+      "last_fetched": "2026-05-04T12:21:16.544096Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9197,7 +9182,7 @@
         }
       ],
       "count": 140,
-      "last_fetched": "2026-05-03T17:49:45.364747Z"
+      "last_fetched": "2026-05-04T12:21:17.078270Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -11279,7 +11264,7 @@
         }
       ],
       "count": 138,
-      "last_fetched": "2026-05-03T17:49:45.930148Z"
+      "last_fetched": "2026-05-04T12:21:17.573674Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13076,7 +13061,7 @@
         }
       ],
       "count": 119,
-      "last_fetched": "2026-05-03T17:49:46.417579Z"
+      "last_fetched": "2026-05-04T12:21:17.997001Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -15053,7 +15038,7 @@
         }
       ],
       "count": 131,
-      "last_fetched": "2026-05-03T17:49:46.971168Z"
+      "last_fetched": "2026-05-04T12:21:18.605305Z"
     }
   }
 }
