@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T17:26:02.268665Z",
+  "last_updated": "2026-05-06T12:28:07.802116Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -295,21 +295,6 @@
           "renewable": "Yes"
         },
         {
-          "name": "Shipley Energy",
-          "rate": 0.1043,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Shopping for Electric Supply just got EASY! No monthly fee, no cancellation fee, and best of all a LOW fixed price to take control of your energy costs. Lock in this low fixed rate today! Plus earn 3% REWARDS with Shipley Energy's Rewards Program. For New Customers Only.",
-          "monthly_fee": null,
-          "website_url": "https://www.shipleyenergy.com/enrollment?product=el",
-          "signup_url": "https://www.shipleyenergy.com/enrollment?product=el",
-          "phone": "866-477-9180",
-          "renewable": "No"
-        },
-        {
           "name": "Clearview Energy",
           "rate": 0.1049,
           "rate_type": "Fixed",
@@ -473,6 +458,21 @@
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_5&utm_content=PECO&channel_code=direct",
           "phone": "844-275-4022",
           "renewable": "Yes"
+        },
+        {
+          "name": "Shipley Energy",
+          "rate": 0.1079,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Shopping for Electric Supply just got EASY! No monthly fee, no cancellation fee, and best of all a LOW fixed price to take control of your energy costs. Lock in this low fixed rate today! Plus earn 3% REWARDS with Shipley Energy's Rewards Program. For New Customers Only.",
+          "monthly_fee": null,
+          "website_url": "https://www.shipleyenergy.com/enrollment?product=el",
+          "signup_url": "https://www.shipleyenergy.com/enrollment?product=el",
+          "phone": "866-477-9180",
+          "renewable": "No"
         },
         {
           "name": "Cirro Energy",
@@ -805,21 +805,6 @@
           "renewable": "No"
         },
         {
-          "name": "0 Commit Energy",
-          "rate": 0.1138,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107242",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107242",
-          "phone": "1-800-698-5853",
-          "renewable": "No"
-        },
-        {
           "name": "Dynegy",
           "rate": 0.1139,
           "rate_type": "Fixed",
@@ -895,21 +880,6 @@
           "renewable": "No"
         },
         {
-          "name": "0 Commit Energy",
-          "rate": 0.1148,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107243",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107243",
-          "phone": "1-800-698-5853",
-          "renewable": "No"
-        },
-        {
           "name": "Brighten Energy",
           "rate": 0.1149,
           "rate_type": "Fixed",
@@ -967,21 +937,6 @@
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T7_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T7_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
-          "renewable": "No"
-        },
-        {
-          "name": "0 Commit Energy",
-          "rate": 0.1158,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107244",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107244",
-          "phone": "1-800-698-5853",
           "renewable": "No"
         },
         {
@@ -1075,21 +1030,6 @@
           "renewable": "No"
         },
         {
-          "name": "0 Commit Energy",
-          "rate": 0.1178,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 7,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107058",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107058",
-          "phone": "1-800-698-5853",
-          "renewable": "No"
-        },
-        {
           "name": "Brighten Energy",
           "rate": 0.1179,
           "rate_type": "Fixed",
@@ -1135,6 +1075,21 @@
           "renewable": "No"
         },
         {
+          "name": "0 Commit Energy",
+          "rate": 0.1188,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 5,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108034",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108034",
+          "phone": "1-800-698-5853",
+          "renewable": "No"
+        },
+        {
           "name": "CleanSky Energy",
           "rate": 0.119,
           "rate_type": "Fixed",
@@ -1163,6 +1118,21 @@
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
           "phone": "1-888-355-6205",
           "renewable": "Yes"
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1193,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No"
         },
         {
           "name": "AEP Energy",
@@ -1208,21 +1178,6 @@
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_12&utm_content=PECO&channel_code=direct",
           "phone": "844-275-4022",
           "renewable": "Yes"
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1209,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No"
         },
         {
           "name": "Atlantic Energy MD LLC",
@@ -1480,6 +1435,21 @@
           "renewable": "Yes"
         },
         {
+          "name": "0 Commit Energy",
+          "rate": 0.1239,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106672",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106672",
+          "phone": "1-800-698-5853",
+          "renewable": "No"
+        },
+        {
           "name": "American Electric Rates LLC",
           "rate": 0.1247,
           "rate_type": "Fixed",
@@ -1522,6 +1492,21 @@
           "website_url": "https://shopping.brightenenergy.com/cust/?PID=F474A05D-CE21-445D-AC48-AB396001CE09&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=DE5F4ED3-C69B-4565-933F-917A0B8C681A&RFID=PAPS&PUC=1&STATE=PA&SN=BRI&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.brightenenergy.com/cust/?PID=F474A05D-CE21-445D-AC48-AB396001CE09&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=DE5F4ED3-C69B-4565-933F-917A0B8C681A&RFID=PAPS&PUC=1&STATE=PA&SN=BRI&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0917",
+          "renewable": "Yes"
+        },
+        {
+          "name": "Green Mountain Energy Company",
+          "rate": 0.125,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=peco&state=pa",
+          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=peco&state=pa",
+          "phone": "855-724-6473",
           "renewable": "Yes"
         },
         {
@@ -1645,18 +1630,33 @@
           "renewable": "No"
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1279,
+          "name": "NRG Home",
+          "rate": 0.128,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
+          "term_months": 6,
+          "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "promotional_details": "The PA Power Switch Fixed Plan 6 is only available to new customers through this site. Includes 6-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6786-568. This plan is for new customers only who enroll via the Web.",
           "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes"
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1288,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 14,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108037",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108037",
+          "phone": "1-800-698-5853",
           "renewable": "No"
         },
         {
@@ -1702,6 +1702,21 @@
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_PEC_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_PEC_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
+          "renewable": "No"
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1298,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108038",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108038",
+          "phone": "1-800-698-5853",
           "renewable": "No"
         },
         {
@@ -1840,19 +1855,19 @@
           "renewable": "No"
         },
         {
-          "name": "Green Mountain Energy Company",
-          "rate": 0.131,
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1304,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
           "introductory": "No",
-          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
           "monthly_fee": null,
-          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=peco&state=pa",
-          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=peco&state=pa",
-          "phone": "855-724-6473",
-          "renewable": "Yes"
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No"
         },
         {
           "name": "Cirro Energy",
@@ -1900,23 +1915,8 @@
           "renewable": "Yes"
         },
         {
-          "name": "Think Energy",
-          "rate": 0.133,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Sign up and receive a $100 gift card. New Customers only. Eligibility rules apply. See www.thinkenergy.com/gift-card-promotion for more information.",
-          "monthly_fee": null,
-          "website_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
-          "signup_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
-          "phone": "(833) 669 3080",
-          "renewable": "Yes"
-        },
-        {
           "name": "Green Mountain Energy Company",
-          "rate": 0.134,
+          "rate": 0.133,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 9,
@@ -1930,18 +1930,18 @@
           "renewable": "Yes"
         },
         {
-          "name": "NRG Home",
-          "rate": 0.134,
+          "name": "Think Energy",
+          "rate": 0.133,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 6,
+          "term_months": 12,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 6 is only available to new customers through this site. Includes 6-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6786-568. This plan is for new customers only who enroll via the Web.",
+          "promotional_details": "Sign up and receive a $100 gift card. New Customers only. Eligibility rules apply. See www.thinkenergy.com/gift-card-promotion for more information.",
           "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
+          "website_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
+          "signup_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
+          "phone": "(833) 669 3080",
           "renewable": "Yes"
         },
         {
@@ -1958,6 +1958,21 @@
           "signup_url": "https://enrollment.citypowerandgas.com/home",
           "phone": "1-877-518-9339",
           "renewable": "No"
+        },
+        {
+          "name": "Green Mountain Energy Company",
+          "rate": 0.135,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=peco&state=pa",
+          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=peco&state=pa",
+          "phone": "855-724-6473",
+          "renewable": "Yes"
         },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
@@ -2005,6 +2020,21 @@
           "renewable": "No"
         },
         {
+          "name": "NRG Home",
+          "rate": 0.139,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes"
+        },
+        {
           "name": "WGL Energy Services",
           "rate": 0.1408,
           "rate_type": "Fixed",
@@ -2035,21 +2065,6 @@
           "renewable": "Yes"
         },
         {
-          "name": "Green Mountain Energy Company",
-          "rate": 0.141,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=peco&state=pa",
-          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=peco&state=pa",
-          "phone": "855-724-6473",
-          "renewable": "Yes"
-        },
-        {
           "name": "City Power & Gas PA",
           "rate": 0.1417,
           "rate_type": "Fixed",
@@ -2065,19 +2080,19 @@
           "renewable": "No"
         },
         {
-          "name": "NRG Home",
-          "rate": 0.144,
+          "name": "AAA Energy by Santanna",
+          "rate": 0.147,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
+          "term_months": 18,
+          "early_termination_fee": "$120.00",
           "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 18 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
           "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
-          "renewable": "Yes"
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "phone": "866-752-1907",
+          "renewable": "No"
         },
         {
           "name": "IGS Energy",
@@ -2126,18 +2141,18 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1482,
+          "rate": 0.1489,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 18,
+          "term_months": 12,
           "early_termination_fee": "$120.00",
           "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 18 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
+          "monthly_fee": 5.99,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PECPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PECPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
           "phone": "866-752-1907",
-          "renewable": "No"
+          "renewable": "Yes"
         },
         {
           "name": "IGS Energy",
@@ -2152,21 +2167,6 @@
           "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
           "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
           "phone": "1-800-280-4474",
-          "renewable": "Yes"
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1503,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
-          "monthly_fee": 5.99,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PECPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PECPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "phone": "866-752-1907",
           "renewable": "Yes"
         },
         {
@@ -2291,7 +2291,7 @@
         }
       ],
       "count": 152,
-      "last_fetched": "2026-05-05T17:25:58.560714Z"
+      "last_fetched": "2026-05-06T12:28:04.227080Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2390,21 +2390,6 @@
           "signup_url": "https://americanpowerandgas.com/?page=9",
           "phone": "800-380-9261",
           "renewable": "Yes"
-        },
-        {
-          "name": "Renaissance Power & Gas Inc.",
-          "rate": 0.1187,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "3 months at 0.1187 - Sign up at www.renaissancepowerandgas.com or call 888-811-0877",
-          "monthly_fee": null,
-          "website_url": "https://renaissancepowerandgas.com/",
-          "signup_url": "https://renaissancepowerandgas.com/",
-          "phone": "888-811-0877",
-          "renewable": "No"
         },
         {
           "name": "Pennsylvania Gas & Electric",
@@ -2591,10 +2576,10 @@
           "rate": 0.1257,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 6,
+          "term_months": 3,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "$0.1257 for 6 months. Sign up at www.renaissancepowerandgas.com or call 888-811-0877",
+          "promotional_details": "$0.1257 for 3 months. Sign up at www.renaissancepowerandgas.com or call 888-811-0877",
           "monthly_fee": null,
           "website_url": "http://www.renaissancepowerandgas.com",
           "signup_url": "http://www.renaissancepowerandgas.com",
@@ -2644,21 +2629,6 @@
           "website_url": "https://polarispwr.com/enrollment/?src=rb",
           "signup_url": "https://polarispwr.com/enrollment/?src=rb",
           "phone": "866-362-9800",
-          "renewable": "No"
-        },
-        {
-          "name": "Shipley Energy",
-          "rate": 0.1265,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Shopping for Electric Supply just got EASY! No monthly fee, no cancellation fee, and best of all a LOW fixed price to take control of your energy costs. Lock in this low fixed rate today! Plus earn 3% REWARDS with Shipley Energy's Rewards Program. For New Customers Only.",
-          "monthly_fee": null,
-          "website_url": "https://www.shipleyenergy.com/enrollment/",
-          "signup_url": "https://www.shipleyenergy.com/enrollment/",
-          "phone": "866-477-9180",
           "renewable": "No"
         },
         {
@@ -2749,6 +2719,36 @@
           "website_url": "https://energycoopofamerica.org/services/residential-electric/",
           "signup_url": "https://energycoopofamerica.org/services/residential-electric/",
           "phone": "1-800-422-1475",
+          "renewable": "No"
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1274,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No"
+        },
+        {
+          "name": "Shipley Energy",
+          "rate": 0.1275,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Shopping for Electric Supply just got EASY! No monthly fee, no cancellation fee, and best of all a LOW fixed price to take control of your energy costs. Lock in this low fixed rate today! Plus earn 3% REWARDS with Shipley Energy's Rewards Program. For New Customers Only.",
+          "monthly_fee": null,
+          "website_url": "https://www.shipleyenergy.com/enrollment/",
+          "signup_url": "https://www.shipleyenergy.com/enrollment/",
+          "phone": "866-477-9180",
           "renewable": "No"
         },
         {
@@ -2899,21 +2899,6 @@
           "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=47135&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1247",
           "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=47135&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1247",
           "phone": "8774300093",
-          "renewable": "No"
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1296,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
           "renewable": "No"
         },
         {
@@ -3097,21 +3082,6 @@
           "renewable": "Yes"
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1331,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No"
-        },
-        {
           "name": "CleanSky Energy",
           "rate": 0.1335,
           "rate_type": "Fixed",
@@ -3247,6 +3217,21 @@
           "renewable": "Yes"
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1354,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No"
+        },
+        {
           "name": "Town Square Energy",
           "rate": 0.1357,
           "rate_type": "Fixed",
@@ -3262,6 +3247,21 @@
           "renewable": "No"
         },
         {
+          "name": "Renaissance Power & Gas Inc.",
+          "rate": 0.1357,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 5,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "5 month fixed rate of $0.1357. Fast, easy signup at www.renaissancepowerandgas.com or call 888-811-0877.",
+          "monthly_fee": null,
+          "website_url": "https://renaissancepowerandgas.com",
+          "signup_url": "https://renaissancepowerandgas.com",
+          "phone": "888-811-0877",
+          "renewable": "No"
+        },
+        {
           "name": "APG&E",
           "rate": 0.1358,
           "rate_type": "Fixed",
@@ -3274,21 +3274,6 @@
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T7_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T7_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
-          "renewable": "No"
-        },
-        {
-          "name": "0 Commit Energy",
-          "rate": 0.1358,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107254",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107254",
-          "phone": "1-800-698-5853",
           "renewable": "No"
         },
         {
@@ -3346,8 +3331,8 @@
           "introductory": "No",
           "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
           "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106083",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106083",
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106082",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106082",
           "phone": "1-800-698-5853",
           "renewable": "No"
         },
@@ -3442,21 +3427,6 @@
           "renewable": "No"
         },
         {
-          "name": "Renaissance Power & Gas Inc.",
-          "rate": 0.137,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 16,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "16 Months Fixed rate at $0.137. Quick, easy sign up. Just call 888-811-0877 or go to www.renaissancepowerandgas.com",
-          "monthly_fee": null,
-          "website_url": "https://www.renaissancepowerandgas.com/",
-          "signup_url": "https://www.renaissancepowerandgas.com/",
-          "phone": "888-811-0877",
-          "renewable": "No"
-        },
-        {
           "name": "City Power & Gas PA",
           "rate": 0.1373,
           "rate_type": "Fixed",
@@ -3484,21 +3454,6 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=108004",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=108004",
           "phone": "1-800-225-3813",
-          "renewable": "No"
-        },
-        {
-          "name": "0 Commit Energy",
-          "rate": 0.1378,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 8,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=102701",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=102701",
-          "phone": "1-800-698-5853",
           "renewable": "No"
         },
         {
@@ -3847,6 +3802,21 @@
           "renewable": "No"
         },
         {
+          "name": "0 Commit Energy",
+          "rate": 0.1428,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 8,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108053",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108053",
+          "phone": "1-800-698-5853",
+          "renewable": "No"
+        },
+        {
           "name": "CleanSky Energy",
           "rate": 0.1434,
           "rate_type": "Fixed",
@@ -3934,6 +3904,21 @@
           "website_url": "https://secure.cirroenergy.com/landing/shop/",
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
+          "renewable": "No"
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1448,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 14,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108054",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108054",
+          "phone": "1-800-698-5853",
           "renewable": "No"
         },
         {
@@ -4076,13 +4061,28 @@
           "rate": 0.147,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
+          "term_months": 16,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "16 Months Fixed rate at $0.147. Quick, easy sign up. Just call 888-811-0877 or go to www.renaissancepowerandgas.com",
+          "monthly_fee": null,
+          "website_url": "https://www.renaissancepowerandgas.com/",
+          "signup_url": "https://www.renaissancepowerandgas.com/",
+          "phone": "888-811-0877",
+          "renewable": "No"
+        },
+        {
+          "name": "Renaissance Power & Gas Inc.",
+          "rate": 0.147,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
           "term_months": 24,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "24 month fixed rate of $0.147. Fast, easy signup at www.renaissancepowerandgas.com or call 888-811-0877.",
+          "promotional_details": "24 months at 0.147 - Sign up at www.renaissancepowerandgas.com or call 888-811-0877",
           "monthly_fee": null,
-          "website_url": "https://renaissancepowerandgas.com",
-          "signup_url": "https://renaissancepowerandgas.com",
+          "website_url": "https://renaissancepowerandgas.com/",
+          "signup_url": "https://renaissancepowerandgas.com/",
           "phone": "888-811-0877",
           "renewable": "No"
         },
@@ -4282,6 +4282,21 @@
           "renewable": "Yes"
         },
         {
+          "name": "Green Mountain Energy Company",
+          "rate": 0.152,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=ppl&state=pa",
+          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=ppl&state=pa",
+          "phone": "855-724-6473",
+          "renewable": "Yes"
+        },
+        {
           "name": "Clearview Energy",
           "rate": 0.1529,
           "rate_type": "Fixed",
@@ -4295,6 +4310,36 @@
           "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=32&utilityidG=&utilityname=PPL&utilitynameG=&ctype=Resi&utility-state=pa&productNum=410054",
           "phone": "888-512-8994",
           "renewable": "No"
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1533,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 18 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "phone": "866-752-1907",
+          "renewable": "No"
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1536,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
+          "monthly_fee": 5.99,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PPLPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PPLPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "phone": "866-752-1907",
+          "renewable": "Yes"
         },
         {
           "name": "Cirro Energy",
@@ -4312,48 +4357,18 @@
           "renewable": "No"
         },
         {
-          "name": "Green Mountain Energy Company",
-          "rate": 0.154,
+          "name": "NRG Home",
+          "rate": 0.156,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 6,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
+          "promotional_details": "The PA Power Switch Fixed Plan 6 is only available to new customers through this site. Includes 6-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6786-568. This plan is for new customers only who enroll via the Web.",
           "monthly_fee": null,
-          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=ppl&state=pa",
-          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=ppl&state=pa",
-          "phone": "855-724-6473",
-          "renewable": "Yes"
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1546,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 18 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
-          "phone": "866-752-1907",
-          "renewable": "No"
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1552,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
-          "monthly_fee": 5.99,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PPLPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PPLPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "phone": "866-752-1907",
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
           "renewable": "Yes"
         },
         {
@@ -4387,18 +4402,18 @@
           "renewable": "Yes"
         },
         {
-          "name": "NRG Home",
-          "rate": 0.16,
+          "name": "Green Mountain Energy Company",
+          "rate": 0.159,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 6,
+          "term_months": 12,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 6 is only available to new customers through this site. Includes 6-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6786-568. This plan is for new customers only who enroll via the Web.",
+          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
           "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
+          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=ppl&state=pa",
+          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=ppl&state=pa",
+          "phone": "855-724-6473",
           "renewable": "Yes"
         },
         {
@@ -4414,6 +4429,21 @@
           "website_url": "https://americanpowerandgas.com/?page=8",
           "signup_url": "https://americanpowerandgas.com/?page=8",
           "phone": "800-380-9261",
+          "renewable": "Yes"
+        },
+        {
+          "name": "NRG Home",
+          "rate": 0.163,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
           "renewable": "Yes"
         },
         {
@@ -4447,21 +4477,6 @@
           "renewable": "Yes"
         },
         {
-          "name": "Green Mountain Energy Company",
-          "rate": 0.165,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=ppl&state=pa",
-          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=ppl&state=pa",
-          "phone": "855-724-6473",
-          "renewable": "Yes"
-        },
-        {
           "name": "American Power & Gas of Pennsylvania LLC",
           "rate": 0.1669,
           "rate_type": "Fixed",
@@ -4474,21 +4489,6 @@
           "website_url": "https://americanpowerandgas.com/?page=10",
           "signup_url": "https://americanpowerandgas.com/?page=10",
           "phone": "800-380-9261",
-          "renewable": "Yes"
-        },
-        {
-          "name": "NRG Home",
-          "rate": 0.167,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
           "renewable": "Yes"
         },
         {
@@ -4793,7 +4793,7 @@
         }
       ],
       "count": 166,
-      "last_fetched": "2026-05-05T17:25:59.242849Z"
+      "last_fetched": "2026-05-06T12:28:04.898402Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -4909,6 +4909,21 @@
           "renewable": "No"
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1158,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_DUQPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_DUQPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No"
+        },
+        {
           "name": "Public Power, LLC",
           "rate": 0.1159,
           "rate_type": "Fixed",
@@ -4921,21 +4936,6 @@
           "website_url": "https://shopping.publicpowercompany.com/cust/?PID=3ECA3502-0855-42A8-9C8C-E01E92EEFD34&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=2459B633-023C-4F62-AAB4-2FE279180F19&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=3ECA3502-0855-42A8-9C8C-E01E92EEFD34&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=2459B633-023C-4F62-AAB4-2FE279180F19&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
-          "renewable": "No"
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1174,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_DUQPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_DUQPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
           "renewable": "No"
         },
         {
@@ -5044,21 +5044,6 @@
           "renewable": "Yes"
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1233,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No"
-        },
-        {
           "name": "Inspire Clean Energy",
           "rate": 0.1239,
           "rate_type": "Fixed",
@@ -5116,6 +5101,21 @@
           "website_url": "https://shopping.pagande.com/cust/?PID=85A7404A-1A99-43DB-A315-F9D02DE37980&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=BBBD9757-7A93-4FC8-8C80-E6AE2509CD49&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=85A7404A-1A99-43DB-A315-F9D02DE37980&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=BBBD9757-7A93-4FC8-8C80-E6AE2509CD49&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
+          "renewable": "No"
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.125,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
           "renewable": "No"
         },
         {
@@ -5899,21 +5899,6 @@
           "renewable": "No"
         },
         {
-          "name": "0 Commit Energy",
-          "rate": 0.1408,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107233",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107233",
-          "phone": "1-800-698-5853",
-          "renewable": "No"
-        },
-        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1409,
           "rate_type": "Fixed",
@@ -5959,6 +5944,21 @@
           "renewable": "No"
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1416,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 18 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "phone": "866-752-1907",
+          "renewable": "No"
+        },
+        {
           "name": "Energy Harbor LLC",
           "rate": 0.1419,
           "rate_type": "Fixed",
@@ -5989,18 +5989,18 @@
           "renewable": "No"
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1427,
+          "name": "0 Commit Energy",
+          "rate": 0.1428,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "$120.00",
+          "term_months": 3,
+          "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 18 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
           "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
-          "phone": "866-752-1907",
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107045",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107045",
+          "phone": "1-800-698-5853",
           "renewable": "No"
         },
         {
@@ -6034,19 +6034,19 @@
           "renewable": "No"
         },
         {
-          "name": "0 Commit Energy",
+          "name": "AAA Energy by Santanna",
           "rate": 0.1438,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 8,
-          "early_termination_fee": null,
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
           "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107234",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107234",
-          "phone": "1-800-698-5853",
-          "renewable": "No"
+          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
+          "monthly_fee": 5.99,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_DUQPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_DUQPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "phone": "866-752-1907",
+          "renewable": "Yes"
         },
         {
           "name": "Better Buy Energy",
@@ -6154,21 +6154,6 @@
           "renewable": "No"
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1452,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
-          "monthly_fee": 5.99,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_DUQPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_DUQPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "phone": "866-752-1907",
-          "renewable": "Yes"
-        },
-        {
           "name": "WGL Energy Services",
           "rate": 0.1452,
           "rate_type": "Variable",
@@ -6255,6 +6240,21 @@
           "monthly_fee": null,
           "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106626",
           "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106626",
+          "phone": "1-800-698-5853",
+          "renewable": "No"
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1468,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 8,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108024",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108024",
           "phone": "1-800-698-5853",
           "renewable": "No"
         },
@@ -6439,21 +6439,6 @@
           "renewable": "Yes"
         },
         {
-          "name": "Green Mountain Energy Company",
-          "rate": 0.1549,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=duq&state=pa",
-          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=duq&state=pa",
-          "phone": "855-724-6473",
-          "renewable": "Yes"
-        },
-        {
           "name": "Just Energy",
           "rate": 0.1549,
           "rate_type": "Fixed",
@@ -6557,6 +6542,21 @@
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=el",
           "phone": "866-477-9180",
           "renewable": "No"
+        },
+        {
+          "name": "Green Mountain Energy Company",
+          "rate": 0.157,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=duq&state=pa",
+          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=duq&state=pa",
+          "phone": "855-724-6473",
+          "renewable": "Yes"
         },
         {
           "name": "WGL Energy Services",
@@ -6664,21 +6664,6 @@
           "renewable": "Yes"
         },
         {
-          "name": "Green Mountain Energy Company",
-          "rate": 0.159,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=duq&state=pa",
-          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=duq&state=pa",
-          "phone": "855-724-6473",
-          "renewable": "Yes"
-        },
-        {
           "name": "Direct Energy",
           "rate": 0.1599,
           "rate_type": "Fixed",
@@ -6739,6 +6724,21 @@
           "renewable": "Yes"
         },
         {
+          "name": "Green Mountain Energy Company",
+          "rate": 0.161,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=duq&state=pa",
+          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=duq&state=pa",
+          "phone": "855-724-6473",
+          "renewable": "Yes"
+        },
+        {
           "name": "Direct Energy",
           "rate": 0.1619,
           "rate_type": "Fixed",
@@ -6755,7 +6755,7 @@
         },
         {
           "name": "Green Mountain Energy Company",
-          "rate": 0.165,
+          "rate": 0.163,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -6766,6 +6766,21 @@
           "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=duq&state=pa",
           "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=duq&state=pa",
           "phone": "855-724-6473",
+          "renewable": "Yes"
+        },
+        {
+          "name": "NRG Home",
+          "rate": 0.1649,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
           "renewable": "Yes"
         },
         {
@@ -6797,21 +6812,6 @@
           "signup_url": "https://www.constellation.com/rateboard",
           "phone": "1-855-799-7022",
           "renewable": "No"
-        },
-        {
-          "name": "NRG Home",
-          "rate": 0.1669,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
-          "renewable": "Yes"
         },
         {
           "name": "Mpower Energy NJ LLC",
@@ -6905,7 +6905,7 @@
         }
       ],
       "count": 140,
-      "last_fetched": "2026-05-05T17:25:59.856577Z"
+      "last_fetched": "2026-05-06T12:28:05.472549Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -7621,21 +7621,6 @@
           "renewable": "No"
         },
         {
-          "name": "0 Commit Energy",
-          "rate": 0.1308,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107237",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107237",
-          "phone": "1-800-698-5853",
-          "renewable": "No"
-        },
-        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.1309,
           "rate_type": "Fixed",
@@ -7693,21 +7678,6 @@
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T7_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T7_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
-          "renewable": "No"
-        },
-        {
-          "name": "0 Commit Energy",
-          "rate": 0.1318,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 5,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=94422",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=94422",
-          "phone": "1-800-698-5853",
           "renewable": "No"
         },
         {
@@ -7798,21 +7768,6 @@
           "website_url": "https://majorenergy.com/areas/pa/",
           "signup_url": "https://majorenergy.com/areas/pa/",
           "phone": "1-833-488-3124",
-          "renewable": "No"
-        },
-        {
-          "name": "0 Commit Energy",
-          "rate": 0.1328,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107238",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107238",
-          "phone": "1-800-698-5853",
           "renewable": "No"
         },
         {
@@ -7940,13 +7895,13 @@
           "rate": 0.1358,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 8,
+          "term_months": 4,
           "early_termination_fee": null,
           "introductory": "No",
           "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
           "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107053",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107053",
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108026",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108026",
           "phone": "1-800-698-5853",
           "renewable": "No"
         },
@@ -8131,21 +8086,6 @@
           "renewable": "Yes"
         },
         {
-          "name": "0 Commit Energy",
-          "rate": 0.1398,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107240",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107240",
-          "phone": "1-800-698-5853",
-          "renewable": "No"
-        },
-        {
           "name": "Better Buy Energy",
           "rate": 0.1399,
           "rate_type": "Fixed",
@@ -8189,6 +8129,21 @@
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=43&promocode=PAPOWERZERO",
           "phone": "1-888-355-6205",
           "renewable": "Yes"
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1399,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107040",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107040",
+          "phone": "1-800-698-5853",
+          "renewable": "No"
         },
         {
           "name": "WGL Energy Services",
@@ -8251,6 +8206,51 @@
           "renewable": "No"
         },
         {
+          "name": "0 Commit Energy",
+          "rate": 0.1409,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 15,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106663",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106663",
+          "phone": "1-800-698-5853",
+          "renewable": "No"
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1409,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106664",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106664",
+          "phone": "1-800-698-5853",
+          "renewable": "No"
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1409,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 20,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106662",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106662",
+          "phone": "1-800-698-5853",
+          "renewable": "No"
+        },
+        {
           "name": "AEP Energy",
           "rate": 0.1415,
           "rate_type": "Fixed",
@@ -8309,6 +8309,21 @@
           "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43167&market_id=177",
           "phone": null,
           "renewable": "No"
+        },
+        {
+          "name": "Green Mountain Energy Company",
+          "rate": 0.143,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up.. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=duq&state=pa",
+          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=duq&state=pa",
+          "phone": "855-724-6473",
+          "renewable": "Yes"
         },
         {
           "name": "Inspire Clean Energy",
@@ -8491,18 +8506,18 @@
           "renewable": "No"
         },
         {
-          "name": "Green Mountain Energy Company",
+          "name": "NRG Home",
           "rate": 0.149,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 6,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up.. This plan is for new customers only who enroll via the Web.",
+          "promotional_details": "The PA Power Switch Fixed Plan 6 is only available to new customers through this site. Includes 6-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6786-568. This plan is for new customers only who enroll via the Web.",
           "monthly_fee": null,
-          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=duq&state=pa",
-          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=duq&state=pa",
-          "phone": "855-724-6473",
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
           "renewable": "Yes"
         },
         {
@@ -8551,21 +8566,6 @@
           "renewable": "Yes"
         },
         {
-          "name": "Green Mountain Energy Company",
-          "rate": 0.15,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=duq&state=pa",
-          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=duq&state=pa",
-          "phone": "855-724-6473",
-          "renewable": "Yes"
-        },
-        {
           "name": "CleanSky Energy",
           "rate": 0.15,
           "rate_type": "Fixed",
@@ -8593,6 +8593,21 @@
           "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=43&promocode=PAPOWERZERO",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=43&promocode=PAPOWERZERO",
           "phone": "1-888-355-6205",
+          "renewable": "Yes"
+        },
+        {
+          "name": "Green Mountain Energy Company",
+          "rate": 0.1504,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=duq&state=pa",
+          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=duq&state=pa",
+          "phone": "855-724-6473",
           "renewable": "Yes"
         },
         {
@@ -8686,21 +8701,6 @@
           "renewable": "Yes"
         },
         {
-          "name": "NRG Home",
-          "rate": 0.153,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 6 is only available to new customers through this site. Includes 6-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6786-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
-          "renewable": "Yes"
-        },
-        {
           "name": "AEP Energy",
           "rate": 0.1535,
           "rate_type": "Fixed",
@@ -8744,6 +8744,21 @@
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
           "renewable": "No"
+        },
+        {
+          "name": "Green Mountain Energy Company",
+          "rate": 0.154,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=meted&state=pa",
+          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=meted&state=pa",
+          "phone": "855-724-6473",
+          "renewable": "Yes"
         },
         {
           "name": "CleanSky Energy",
@@ -8791,21 +8806,6 @@
           "renewable": "No"
         },
         {
-          "name": "Green Mountain Energy Company",
-          "rate": 0.157,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=meted&state=pa",
-          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=meted&state=pa",
-          "phone": "855-724-6473",
-          "renewable": "Yes"
-        },
-        {
           "name": "WGL Energy Services",
           "rate": 0.1573,
           "rate_type": "Fixed",
@@ -8821,6 +8821,21 @@
           "renewable": "Yes"
         },
         {
+          "name": "NRG Home",
+          "rate": 0.158,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes"
+        },
+        {
           "name": "American Power & Gas of Pennsylvania LLC",
           "rate": 0.1589,
           "rate_type": "Fixed",
@@ -8833,21 +8848,6 @@
           "website_url": "https://americanpowerandgas.com/?page=10",
           "signup_url": "https://americanpowerandgas.com/?page=10",
           "phone": "800-380-9261",
-          "renewable": "Yes"
-        },
-        {
-          "name": "NRG Home",
-          "rate": 0.161,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
           "renewable": "Yes"
         },
         {
@@ -8957,7 +8957,7 @@
         }
       ],
       "count": 136,
-      "last_fetched": "2026-05-05T17:26:00.476810Z"
+      "last_fetched": "2026-05-06T12:28:06.088376Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -9388,21 +9388,6 @@
           "renewable": "No"
         },
         {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1266,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 7,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=107295",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=107295",
-          "phone": "1-800-225-3813",
-          "renewable": "No"
-        },
-        {
           "name": "Town Square Energy",
           "rate": 0.1267,
           "rate_type": "Fixed",
@@ -9415,21 +9400,6 @@
           "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=46556&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PNLC&utm_content=893",
           "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=46556&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PNLC&utm_content=893",
           "phone": "8774300093",
-          "renewable": "No"
-        },
-        {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1268,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 8,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=107296",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=107296",
-          "phone": "1-800-225-3813",
           "renewable": "No"
         },
         {
@@ -9523,21 +9493,6 @@
           "renewable": "No"
         },
         {
-          "name": "Shipley Energy",
-          "rate": 0.1294,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Shopping for Electric Supply just got EASY! No monthly fee, no cancellation fee, and best of all a LOW fixed price to take control of your energy costs. Lock in this low fixed rate today! Plus earn 3% REWARDS with Shipley Energy's Rewards Program. For New Customers Only.",
-          "monthly_fee": null,
-          "website_url": "https://www.shipleyenergy.com/enrollment?product=el",
-          "signup_url": "https://www.shipleyenergy.com/enrollment?product=el",
-          "phone": "866-477-9180",
-          "renewable": "No"
-        },
-        {
           "name": "AEP Energy",
           "rate": 0.1295,
           "rate_type": "Fixed",
@@ -9557,13 +9512,13 @@
           "rate": 0.1298,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 14,
+          "term_months": 7,
           "early_termination_fee": null,
           "introductory": "No",
           "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
           "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=107297",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=107297",
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=84249",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=84249",
           "phone": "1-800-225-3813",
           "renewable": "No"
         },
@@ -9647,13 +9602,13 @@
           "rate": 0.1308,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 12,
+          "term_months": 8,
           "early_termination_fee": null,
           "introductory": "No",
           "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
           "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=107298",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=107298",
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=107995",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=107995",
           "phone": "1-800-225-3813",
           "renewable": "No"
         },
@@ -9853,6 +9808,36 @@
           "renewable": "No"
         },
         {
+          "name": "Shipley Energy",
+          "rate": 0.1326,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Shopping for Electric Supply just got EASY! No monthly fee, no cancellation fee, and best of all a LOW fixed price to take control of your energy costs. Lock in this low fixed rate today! Plus earn 3% REWARDS with Shipley Energy's Rewards Program. For New Customers Only.",
+          "monthly_fee": null,
+          "website_url": "https://www.shipleyenergy.com/enrollment?product=el",
+          "signup_url": "https://www.shipleyenergy.com/enrollment?product=el",
+          "phone": "866-477-9180",
+          "renewable": "No"
+        },
+        {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1328,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 14,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=107996",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=107996",
+          "phone": "1-800-225-3813",
+          "renewable": "No"
+        },
+        {
           "name": "APG&E",
           "rate": 0.1328,
           "rate_type": "Fixed",
@@ -9865,36 +9850,6 @@
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T14_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T14_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
-          "renewable": "No"
-        },
-        {
-          "name": "Shipley Energy",
-          "rate": 0.1328,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Support renewable energy today - choose Shipley Energy's Green Electricity offer with 100% wind generation. No monthly fees and no cancellation fees.  Plus, lock in this low fixed rate today and you'll earn 3% REWARDS through Shipley Energy's Rewards Program. For New Customers Only.",
-          "monthly_fee": null,
-          "website_url": "https://www.shipleyenergy.com/enrollment?product=el",
-          "signup_url": "https://www.shipleyenergy.com/enrollment?product=el",
-          "phone": "866-477-9180",
-          "renewable": "Yes"
-        },
-        {
-          "name": "0 Commit Energy",
-          "rate": 0.1328,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 8,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=102693",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=102693",
-          "phone": "1-800-698-5853",
           "renewable": "No"
         },
         {
@@ -9932,13 +9887,13 @@
           "rate": 0.1338,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 18,
+          "term_months": 12,
           "early_termination_fee": null,
           "introductory": "No",
           "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
           "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=107299",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=107299",
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=107997",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=107997",
           "phone": "1-800-225-3813",
           "renewable": "No"
         },
@@ -9988,6 +9943,21 @@
           "renewable": "No"
         },
         {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1348,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=107998",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=107998",
+          "phone": "1-800-225-3813",
+          "renewable": "No"
+        },
+        {
           "name": "APG&E",
           "rate": 0.1348,
           "rate_type": "Fixed",
@@ -10000,21 +9970,6 @@
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
-          "renewable": "No"
-        },
-        {
-          "name": "0 Commit Energy",
-          "rate": 0.1348,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 14,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107249",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107249",
-          "phone": "1-800-698-5853",
           "renewable": "No"
         },
         {
@@ -10063,19 +10018,19 @@
           "renewable": "No"
         },
         {
-          "name": "0 Commit Energy",
+          "name": "Shipley Energy",
           "rate": 0.1358,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 12,
+          "term_months": 6,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "promotional_details": "Support renewable energy today - choose Shipley Energy's Green Electricity offer with 100% wind generation. No monthly fees and no cancellation fees.  Plus, lock in this low fixed rate today and you'll earn 3% REWARDS through Shipley Energy's Rewards Program. For New Customers Only.",
           "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=94441",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=94441",
-          "phone": "1-800-698-5853",
-          "renewable": "No"
+          "website_url": "https://www.shipleyenergy.com/enrollment?product=el",
+          "signup_url": "https://www.shipleyenergy.com/enrollment?product=el",
+          "phone": "866-477-9180",
+          "renewable": "Yes"
         },
         {
           "name": "American Electric Rates LLC",
@@ -10097,28 +10052,13 @@
           "rate": 0.1368,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 18,
+          "term_months": 8,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
           "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=102381",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=102381",
-          "phone": "1-800-698-5853",
-          "renewable": "No"
-        },
-        {
-          "name": "0 Commit Energy",
-          "rate": 0.1368,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 20,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107250",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107250",
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108042",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108042",
           "phone": "1-800-698-5853",
           "renewable": "No"
         },
@@ -10151,6 +10091,51 @@
           "signup_url": "https://shopping.brightenenergy.com/cust/?PID=F03D5101-5638-4445-BFAF-F03729792FF3&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=4F95F789-380F-4CE1-A392-91AA318A290C&RFID=PAPS&PUC=1&STATE=PA&SN=BRI&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0917",
           "renewable": "Yes"
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1378,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 14,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108044",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108044",
+          "phone": "1-800-698-5853",
+          "renewable": "No"
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1388,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=99749",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=99749",
+          "phone": "1-800-698-5853",
+          "renewable": "No"
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1388,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=104321",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=104321",
+          "phone": "1-800-698-5853",
+          "renewable": "No"
         },
         {
           "name": "Better Buy Energy",
@@ -10211,6 +10196,21 @@
           "signup_url": "https://www.verdeenergy.com/get-rates/",
           "phone": "1-833-488-3125",
           "renewable": "Yes"
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1389,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 20,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106666",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106666",
+          "phone": "1-800-698-5853",
+          "renewable": "No"
         },
         {
           "name": "0 Commit Energy",
@@ -10678,6 +10678,21 @@
           "renewable": "Yes"
         },
         {
+          "name": "NRG Home",
+          "rate": 0.155,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes"
+        },
+        {
           "name": "CleanSky Energy",
           "rate": 0.1551,
           "rate_type": "Fixed",
@@ -10768,21 +10783,6 @@
           "renewable": "No"
         },
         {
-          "name": "NRG Home",
-          "rate": 0.158,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
-          "renewable": "Yes"
-        },
-        {
           "name": "CleanSky Energy",
           "rate": 0.1586,
           "rate_type": "Fixed",
@@ -10833,6 +10833,21 @@
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 9,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=penelec&state=pa",
+          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=penelec&state=pa",
+          "phone": "855-724-6473",
+          "renewable": "Yes"
+        },
+        {
+          "name": "Green Mountain Energy Company",
+          "rate": 0.159,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
           "early_termination_fee": null,
           "introductory": "No",
           "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
@@ -10900,21 +10915,6 @@
           "website_url": "https://americanpowerandgas.com/?page=10",
           "signup_url": "https://americanpowerandgas.com/?page=10",
           "phone": "800-380-9261",
-          "renewable": "Yes"
-        },
-        {
-          "name": "Green Mountain Energy Company",
-          "rate": 0.164,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=penelec&state=pa",
-          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=penelec&state=pa",
-          "phone": "855-724-6473",
           "renewable": "Yes"
         },
         {
@@ -10994,7 +10994,7 @@
         }
       ],
       "count": 135,
-      "last_fetched": "2026-05-05T17:26:01.061513Z"
+      "last_fetched": "2026-05-06T12:28:06.677849Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -11590,21 +11590,6 @@
           "renewable": "No"
         },
         {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1328,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 5,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=90937",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=90937",
-          "phone": "1-800-225-3813",
-          "renewable": "No"
-        },
-        {
           "name": "Better Buy Energy",
           "rate": 0.1329,
           "rate_type": "Fixed",
@@ -11695,6 +11680,21 @@
           "renewable": "Yes"
         },
         {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1348,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 5,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=108000",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=108000",
+          "phone": "1-800-225-3813",
+          "renewable": "No"
+        },
+        {
           "name": "APG&E",
           "rate": 0.1348,
           "rate_type": "Fixed",
@@ -11725,6 +11725,21 @@
           "renewable": "Yes"
         },
         {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1358,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=108001",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=108001",
+          "phone": "1-800-225-3813",
+          "renewable": "No"
+        },
+        {
           "name": "APG&E",
           "rate": 0.1358,
           "rate_type": "Fixed",
@@ -11752,21 +11767,6 @@
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penpw&utm_source=papower&utm_medium=shopping&utm_campaign=penpw_24",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penpw&utm_source=papower&utm_medium=shopping&utm_campaign=penpw_24",
           "phone": "1-877-648-1923",
-          "renewable": "No"
-        },
-        {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1369,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=107220",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=107220",
-          "phone": "1-800-225-3813",
           "renewable": "No"
         },
         {
@@ -11828,21 +11828,6 @@
           "signup_url": "https://www.wglenergy.com/",
           "phone": "1-844-427-5945",
           "renewable": "Yes"
-        },
-        {
-          "name": "0 Commit Energy",
-          "rate": 0.1378,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 5,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107066",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107066",
-          "phone": "1-800-698-5853",
-          "renewable": "No"
         },
         {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
@@ -11980,6 +11965,21 @@
           "renewable": "No"
         },
         {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1398,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=89775",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=89775",
+          "phone": "1-800-225-3813",
+          "renewable": "No"
+        },
+        {
           "name": "APG&E",
           "rate": 0.1398,
           "rate_type": "Fixed",
@@ -11992,6 +11992,21 @@
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPW_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPW_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
+          "renewable": "No"
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1398,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 5,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108045",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108045",
+          "phone": "1-800-698-5853",
           "renewable": "No"
         },
         {
@@ -12100,18 +12115,18 @@
           "renewable": "No"
         },
         {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1409,
+          "name": "0 Commit Energy",
+          "rate": 0.1408,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 15,
+          "term_months": 6,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
           "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=106599",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=106599",
-          "phone": "1-800-225-3813",
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108046",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108046",
+          "phone": "1-800-698-5853",
           "renewable": "No"
         },
         {
@@ -12158,21 +12173,6 @@
           "signup_url": "https://alphagasandelectric.com/P2C/",
           "phone": "845-810-0088",
           "renewable": "Yes"
-        },
-        {
-          "name": "0 Commit Energy",
-          "rate": 0.1418,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 8,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107067",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107067",
-          "phone": "1-800-698-5853",
-          "renewable": "No"
         },
         {
           "name": "0 Commit Energy",
@@ -12269,7 +12269,37 @@
           "rate": 0.146,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=penn&state=pa",
+          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=penn&state=pa",
+          "phone": "855-724-6473",
+          "renewable": "Yes"
+        },
+        {
+          "name": "Green Mountain Energy Company",
+          "rate": 0.146,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
           "term_months": 9,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=penn&state=pa",
+          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=penn&state=pa",
+          "phone": "855-724-6473",
+          "renewable": "Yes"
+        },
+        {
+          "name": "Green Mountain Energy Company",
+          "rate": 0.146,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
           "early_termination_fee": null,
           "introductory": "No",
           "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
@@ -12337,36 +12367,6 @@
           "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_24&utm_content=PPower&channel_code=direct",
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_24&utm_content=PPower&channel_code=direct",
           "phone": "844-275-4022",
-          "renewable": "Yes"
-        },
-        {
-          "name": "Green Mountain Energy Company",
-          "rate": 0.148,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=penn&state=pa",
-          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=penn&state=pa",
-          "phone": "855-724-6473",
-          "renewable": "Yes"
-        },
-        {
-          "name": "Green Mountain Energy Company",
-          "rate": 0.148,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=penn&state=pa",
-          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=penn&state=pa",
-          "phone": "855-724-6473",
           "renewable": "Yes"
         },
         {
@@ -12505,6 +12505,36 @@
           "renewable": "No"
         },
         {
+          "name": "NRG Home",
+          "rate": 0.152,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "The PA Power Switch Fixed Plan 6 is only available to new customers through this site. Includes 6-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6786-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes"
+        },
+        {
+          "name": "NRG Home",
+          "rate": 0.152,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes"
+        },
+        {
           "name": "Direct Energy",
           "rate": 0.1529,
           "rate_type": "Fixed",
@@ -12520,21 +12550,6 @@
           "renewable": "No"
         },
         {
-          "name": "NRG Home",
-          "rate": 0.153,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 6 is only available to new customers through this site. Includes 6-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6786-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
-          "renewable": "Yes"
-        },
-        {
           "name": "North American Power",
           "rate": 0.1539,
           "rate_type": "Fixed",
@@ -12548,21 +12563,6 @@
           "signup_url": "https://www.napower.com/#gref",
           "phone": "877-572-9965",
           "renewable": "No"
-        },
-        {
-          "name": "NRG Home",
-          "rate": 0.154,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
-          "renewable": "Yes"
         },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
@@ -12746,7 +12746,7 @@
         }
       ],
       "count": 116,
-      "last_fetched": "2026-05-05T17:26:01.657610Z"
+      "last_fetched": "2026-05-06T12:28:07.187328Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -13372,36 +13372,6 @@
           "renewable": "No"
         },
         {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1188,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 7,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=107323",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=107323",
-          "phone": "1-800-225-3813",
-          "renewable": "No"
-        },
-        {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1198,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 8,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=107324",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=107324",
-          "phone": "1-800-225-3813",
-          "renewable": "No"
-        },
-        {
           "name": "CleanSky Energy",
           "rate": 0.1199,
           "rate_type": "Variable",
@@ -13582,6 +13552,21 @@
           "renewable": "No"
         },
         {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1218,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 7,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=108019",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=108019",
+          "phone": "1-800-225-3813",
+          "renewable": "No"
+        },
+        {
           "name": "APG&E",
           "rate": 0.1218,
           "rate_type": "Fixed",
@@ -13711,8 +13696,8 @@
           "introductory": "No",
           "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
           "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107230",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107230",
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106693",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106693",
           "phone": "1-800-698-5853",
           "renewable": "No"
         },
@@ -13721,7 +13706,7 @@
           "rate": 0.1229,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 7,
+          "term_months": 6,
           "early_termination_fee": null,
           "introductory": "No",
           "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
@@ -13729,36 +13714,6 @@
           "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107230",
           "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107230",
           "phone": "1-800-698-5853",
-          "renewable": "No"
-        },
-        {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1238,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 20,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=107325",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=107325",
-          "phone": "1-800-225-3813",
-          "renewable": "No"
-        },
-        {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1238,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=85358",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=85358",
-          "phone": "1-800-225-3813",
           "renewable": "No"
         },
         {
@@ -13792,18 +13747,18 @@
           "renewable": "Yes"
         },
         {
-          "name": "0 Commit Energy",
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1248,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 8,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
           "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107260",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107260",
-          "phone": "1-800-698-5853",
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=108020",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=108020",
+          "phone": "1-800-225-3813",
           "renewable": "No"
         },
         {
@@ -13867,6 +13822,21 @@
           "renewable": "No"
         },
         {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1258,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=85359",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=85359",
+          "phone": "1-800-225-3813",
+          "renewable": "No"
+        },
+        {
           "name": "APG&E",
           "rate": 0.1258,
           "rate_type": "Fixed",
@@ -13880,6 +13850,21 @@
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
           "renewable": "No"
+        },
+        {
+          "name": "Green Mountain Energy Company",
+          "rate": 0.126,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=wpp&state=pa",
+          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=wpp&state=pa",
+          "phone": "855-724-6473",
+          "renewable": "Yes"
         },
         {
           "name": "American Electric Rates LLC",
@@ -13897,18 +13882,18 @@
           "renewable": "No"
         },
         {
-          "name": "0 Commit Energy",
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1268,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 18,
+          "term_months": 12,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
           "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=104330",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=104330",
-          "phone": "1-800-698-5853",
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=87178",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=87178",
+          "phone": "1-800-225-3813",
           "renewable": "No"
         },
         {
@@ -13972,21 +13957,6 @@
           "renewable": "No"
         },
         {
-          "name": "0 Commit Energy",
-          "rate": 0.1278,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=104332",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=104332",
-          "phone": "1-800-698-5853",
-          "renewable": "No"
-        },
-        {
           "name": "Dynegy",
           "rate": 0.1279,
           "rate_type": "Fixed",
@@ -14029,21 +13999,6 @@
           "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=17767",
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=17767",
           "phone": null,
-          "renewable": "No"
-        },
-        {
-          "name": "0 Commit Energy",
-          "rate": 0.1288,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=102711",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=102711",
-          "phone": "1-800-698-5853",
           "renewable": "No"
         },
         {
@@ -14107,6 +14062,36 @@
           "renewable": "No"
         },
         {
+          "name": "0 Commit Energy",
+          "rate": 0.1289,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 15,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106691",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=106691",
+          "phone": "1-800-698-5853",
+          "renewable": "No"
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1289,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107231",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=107231",
+          "phone": "1-800-698-5853",
+          "renewable": "No"
+        },
+        {
           "name": "1776 Energy",
           "rate": 0.1289,
           "rate_type": "Fixed",
@@ -14122,34 +14107,19 @@
           "renewable": "No"
         },
         {
-          "name": "Green Mountain Energy Company",
-          "rate": 0.129,
+          "name": "0 Commit Energy",
+          "rate": 0.1298,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 6,
+          "term_months": 8,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
           "monthly_fee": null,
-          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=wpp&state=pa",
-          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=wpp&state=pa",
-          "phone": "855-724-6473",
-          "renewable": "Yes"
-        },
-        {
-          "name": "Green Mountain Energy Company",
-          "rate": 0.129,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=wpp&state=pa",
-          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=wpp&state=pa",
-          "phone": "855-724-6473",
-          "renewable": "Yes"
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108061",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108061",
+          "phone": "1-800-698-5853",
+          "renewable": "No"
         },
         {
           "name": "Vista Energy Marketing L.P.",
@@ -14209,6 +14179,21 @@
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_WPP_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_WPP_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
+          "renewable": "No"
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1308,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108063",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108063",
+          "phone": "1-800-698-5853",
           "renewable": "No"
         },
         {
@@ -14332,6 +14317,36 @@
           "renewable": "Yes"
         },
         {
+          "name": "Green Mountain Energy Company",
+          "rate": 0.134,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=wpp&state=pa",
+          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=wpp&state=pa",
+          "phone": "855-724-6473",
+          "renewable": "Yes"
+        },
+        {
+          "name": "Green Mountain Energy Company",
+          "rate": 0.134,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=wpp&state=pa",
+          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=wpp&state=pa",
+          "phone": "855-724-6473",
+          "renewable": "Yes"
+        },
+        {
           "name": "City Power & Gas PA",
           "rate": 0.1343,
           "rate_type": "Fixed",
@@ -14360,21 +14375,6 @@
           "signup_url": "https://enrollment.citypowerandgas.com/home",
           "phone": "1-877-518-9339",
           "renewable": "No"
-        },
-        {
-          "name": "Green Mountain Energy Company",
-          "rate": 0.136,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "All of our residential customers get their electricity supplied from non-polluting 100% national wind sources. Visit the site for plan details and to sign up. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=wpp&state=pa",
-          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=wpp&state=pa",
-          "phone": "855-724-6473",
-          "renewable": "Yes"
         },
         {
           "name": "AEP Energy",
@@ -14542,6 +14542,21 @@
           "renewable": "No"
         },
         {
+          "name": "NRG Home",
+          "rate": 0.142,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes"
+        },
+        {
           "name": "American Power & Gas of Pennsylvania LLC",
           "rate": 0.1439,
           "rate_type": "Fixed",
@@ -14554,21 +14569,6 @@
           "website_url": "https://americanpowerandgas.com/?page=10",
           "signup_url": "https://americanpowerandgas.com/?page=10",
           "phone": "800-380-9261",
-          "renewable": "Yes"
-        },
-        {
-          "name": "NRG Home",
-          "rate": 0.144,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
           "renewable": "Yes"
         },
         {
@@ -14678,7 +14678,7 @@
         }
       ],
       "count": 128,
-      "last_fetched": "2026-05-05T17:26:02.268484Z"
+      "last_fetched": "2026-05-06T12:28:07.801906Z"
     }
   }
 }
