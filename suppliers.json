@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T12:57:45.093806Z",
+  "last_updated": "2026-05-07T15:30:27.671510Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -580,6 +580,21 @@
           "service_area": null
         },
         {
+          "name": "City Power & Gas PA",
+          "rate": 0.6152,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://enrollment.citypowerandgas.com/home",
+          "signup_url": "https://enrollment.citypowerandgas.com/home",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Agway Energy Services",
           "rate": 0.619,
           "rate_type": "Variable",
@@ -591,21 +606,6 @@
           "monthly_fee": null,
           "website_url": null,
           "signup_url": null,
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "City Power & Gas PA",
-          "rate": 0.6279,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://enrollment.citypowerandgas.com/home",
-          "signup_url": "https://enrollment.citypowerandgas.com/home",
           "bundle_required": false,
           "service_area": null
         },
@@ -686,7 +686,7 @@
         }
       ],
       "count": 45,
-      "last_fetched": "2026-05-07T12:57:43.849116Z"
+      "last_fetched": "2026-05-07T15:30:26.097136Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1013,7 +1013,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-05-07T12:57:44.054412Z"
+      "last_fetched": "2026-05-07T15:30:26.388629Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1669,6 +1669,21 @@
           "service_area": null
         },
         {
+          "name": "City Power & Gas PA",
+          "rate": 0.8975,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://enrollment.citypowerandgas.com/home",
+          "signup_url": "https://enrollment.citypowerandgas.com/home",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "IGS Energy",
           "rate": 0.899,
           "rate_type": "Fixed",
@@ -1725,21 +1740,6 @@
           "monthly_fee": null,
           "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?gasSlug=peco_gas&state=pa",
           "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?gasSlug=peco_gas&state=pa",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "City Power & Gas PA",
-          "rate": 0.904,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://enrollment.citypowerandgas.com/home",
-          "signup_url": "https://enrollment.citypowerandgas.com/home",
           "bundle_required": false,
           "service_area": null
         },
@@ -1820,7 +1820,7 @@
         }
       ],
       "count": 53,
-      "last_fetched": "2026-05-07T12:57:44.388168Z"
+      "last_fetched": "2026-05-07T15:30:26.800295Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2357,7 +2357,7 @@
         }
       ],
       "count": 35,
-      "last_fetched": "2026-05-07T12:57:44.637108Z"
+      "last_fetched": "2026-05-07T15:30:27.101825Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2579,7 +2579,7 @@
         },
         {
           "name": "City Power & Gas PA",
-          "rate": 0.9198,
+          "rate": 0.912,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -2654,7 +2654,7 @@
         }
       ],
       "count": 19,
-      "last_fetched": "2026-05-07T12:57:44.830760Z"
+      "last_fetched": "2026-05-07T15:30:27.352916Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3206,7 +3206,7 @@
         },
         {
           "name": "City Power & Gas PA",
-          "rate": 0.9737,
+          "rate": 0.9607,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -3281,7 +3281,7 @@
         }
       ],
       "count": 41,
-      "last_fetched": "2026-05-07T12:57:45.093612Z"
+      "last_fetched": "2026-05-07T15:30:27.671308Z"
     }
   }
 }
