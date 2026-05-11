@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T13:48:57.099001Z",
+  "last_updated": "2026-05-11T16:33:50.703758Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -248,23 +248,6 @@
           "service_area": null
         },
         {
-          "name": "1776 Energy",
-          "rate": 0.1019,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "50",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": 14.95,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=178",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=178",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Inspire Clean Energy",
           "rate": 0.1039,
           "rate_type": "Fixed",
@@ -430,6 +413,23 @@
           "website_url": "https://shopping.pagande.com/cust/?PID=5C6D8CAA-421A-4B28-915A-764E080BB4E8&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=0C05E6C1-DCAA-4D41-A543-7A454C5969DA&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=5C6D8CAA-421A-4B28-915A-764E080BB4E8&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=0C05E6C1-DCAA-4D41-A543-7A454C5969DA&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "1776 Energy",
+          "rate": 0.1069,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "50",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": 14.95,
+          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=178",
+          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=178",
+          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -1081,23 +1081,6 @@
           "service_area": null
         },
         {
-          "name": "1776 Energy",
-          "rate": 0.116,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 5,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": 0.0,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=44582&market_id=178",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=44582&market_id=178",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1179,
           "rate_type": "Fixed",
@@ -1387,6 +1370,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1218,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 14,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment fees!  Lock in price security today with our competitive 14-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 14-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": 0.0,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T14_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T14_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "0 Commit Energy",
           "rate": 0.1218,
           "rate_type": "Fixed",
@@ -1467,6 +1467,23 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=71231",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=71231",
           "phone": "1-800-225-3813",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1228,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment fees!  Lock in price security today with our competitive 12-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 12-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": 0.0,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -1608,23 +1625,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1238,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 14,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment fees!  Lock in price security today with our competitive 14-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 14-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": 0.0,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T14_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T14_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Dynegy",
           "rate": 0.1239,
           "rate_type": "Fixed",
@@ -1637,23 +1637,6 @@
           "website_url": "https://shopping.dynegy.com/cust/?PID=B99528A7-430B-4812-9023-F75D5A47CDE5&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=3FF5CEBC-E43F-4341-93D6-621B6B93D837&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.dynegy.com/cust/?PID=B99528A7-430B-4812-9023-F75D5A47CDE5&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=3FF5CEBC-E43F-4341-93D6-621B6B93D837&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1248,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment fees!  Lock in price security today with our competitive 12-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 12-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": 0.0,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2139,7 +2122,7 @@
           "rate": 0.1299,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 5,
+          "term_months": 6,
           "early_termination_fee": null,
           "introductory": "No",
           "promotional_details": null,
@@ -2645,8 +2628,8 @@
           "service_area": null
         }
       ],
-      "count": 155,
-      "last_fetched": "2026-05-11T13:48:53.573823Z"
+      "count": 154,
+      "last_fetched": "2026-05-11T16:33:47.760530Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2929,23 +2912,6 @@
           "service_area": null
         },
         {
-          "name": "1776 Energy",
-          "rate": 0.1259,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "50",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": 14.95,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=181",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=181",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Nordic Energy Services LLC",
           "rate": 0.12599,
           "rate_type": "Variable",
@@ -3167,23 +3133,6 @@
           "service_area": null
         },
         {
-          "name": "1776 Energy",
-          "rate": 0.1285,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43078&market_id=181",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43078&market_id=181",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Direct Energy",
           "rate": 0.1289,
           "rate_type": "Fixed",
@@ -3303,6 +3252,23 @@
           "service_area": null
         },
         {
+          "name": "1776 Energy",
+          "rate": 0.1295,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43078&market_id=181",
+          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43078&market_id=181",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "City Power & Gas PA",
           "rate": 0.1297,
           "rate_type": "Fixed",
@@ -3367,6 +3333,23 @@
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_5&utm_content=PPL&channel_code=direct",
           "phone": "844-275-4022",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "1776 Energy",
+          "rate": 0.1309,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "50",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": 14.95,
+          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=181",
+          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=181",
+          "phone": null,
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -3898,6 +3881,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1377,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 14,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees! Lock in price security today with our competitive 14-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 14-month term, plus there's no enrollment or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T14_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T14_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Town Square Energy",
           "rate": 0.1377,
           "rate_type": "Fixed",
@@ -3927,6 +3927,23 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=108004",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=108004",
           "phone": "1-800-225-3813",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1378,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees! Lock in price security today with our competitive 12-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 12-month term, plus there's no enrollment or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -4004,13 +4021,13 @@
           "rate": 0.1388,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 14,
+          "term_months": 18,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees! Lock in price security today with our competitive 14-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 14-month term, plus there's no enrollment or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees! Lock in price security today with our competitive 18-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 18-month term, plus there's no enrollment or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
           "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T14_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T14_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
@@ -4072,13 +4089,13 @@
           "rate": 0.1398,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 12,
+          "term_months": 24,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees! Lock in price security today with our competitive 12-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 12-month term, plus there's no enrollment or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "promotional_details": "Don't get caught paying high enrollment, early termination, or monthly fees!  Lock in price security today with our competitive 24-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 24-month term, plus there's no enrollment, no early termination, and no monthly fees! Flexible. Affordable. Energy. That's APG&E.",
           "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
@@ -4136,23 +4153,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1407,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 20,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees! Lock in price security today with our competitive 20-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 20-month term, plus there's no enrollment or monthly fees!  Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T20_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T20_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1408,
           "rate_type": "Fixed",
@@ -4182,23 +4182,6 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=108006",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=108006",
           "phone": "1-800-225-3813",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1408,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees! Lock in price security today with our competitive 18-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 18-month term, plus there's no enrollment or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -4306,23 +4289,6 @@
           "service_area": null
         },
         {
-          "name": "1776 Energy",
-          "rate": 0.142,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43294&market_id=181",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43294&market_id=181",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "CleanSky Energy",
           "rate": 0.1422,
           "rate_type": "Fixed",
@@ -4361,13 +4327,13 @@
           "rate": 0.1428,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 24,
+          "term_months": 36,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment, early termination, or monthly fees!  Lock in price security today with our competitive 24-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 24-month term, plus there's no enrollment, no early termination, and no monthly fees! Flexible. Affordable. Energy. That's APG&E.",
+          "promotional_details": "Lock in price security today with our competitive 36-month fixed-rate plan with no hidden fees.  Enjoy a $75 reward on us with a qualifying enrollment.  Flexible. Affordable. Energy. That's APG&E.",
           "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_PPL_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board%20Reward",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_PPL_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board%20Reward",
           "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
@@ -4692,40 +4658,6 @@
           "website_url": "https://www.renaissancepowerandgas.com/",
           "signup_url": "https://www.renaissancepowerandgas.com/",
           "phone": "888-811-0877",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "1776 Energy",
-          "rate": 0.147,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": 0.0,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43204&market_id=181",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43204&market_id=181",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1478,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 36,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Lock in price security today with our competitive 36-month fixed-rate plan with no hidden fees.  Enjoy a $75 reward on us with a qualifying enrollment.  Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_PPL_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board%20Reward",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_PPL_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board%20Reward",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -5513,8 +5445,8 @@
           "service_area": null
         }
       ],
-      "count": 168,
-      "last_fetched": "2026-05-11T13:48:54.233688Z"
+      "count": 165,
+      "last_fetched": "2026-05-11T16:33:48.321013Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5933,23 +5865,6 @@
           "service_area": null
         },
         {
-          "name": "1776 Energy",
-          "rate": 0.1269,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "50",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": 14.95,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=176",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=176",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "CleanSky Energy",
           "rate": 0.1271,
           "rate_type": "Fixed",
@@ -6047,6 +5962,23 @@
           "website_url": "https://signup.sparkenergy.com/",
           "signup_url": "https://signup.sparkenergy.com/",
           "phone": "(877) 346-0861",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "1776 Energy",
+          "rate": 0.1299,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "50",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": 14.95,
+          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=176",
+          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=176",
+          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7940,7 +7872,7 @@
         }
       ],
       "count": 142,
-      "last_fetched": "2026-05-11T13:48:54.810276Z"
+      "last_fetched": "2026-05-11T16:33:48.868832Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -8376,23 +8308,6 @@
           "service_area": null
         },
         {
-          "name": "1776 Energy",
-          "rate": 0.125,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 5,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": 14.95,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=44583&market_id=177",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=44583&market_id=177",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Shipley Energy",
           "rate": 0.1258,
           "rate_type": "Fixed",
@@ -8422,23 +8337,6 @@
           "website_url": "https://shopping.publicpowercompany.com/cust/?PID=8E55ABB8-9A95-440A-BF00-12EA811B5A68&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=52220CF4-68AB-4E84-98DB-34D89E2DC6F5&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=8E55ABB8-9A95-440A-BF00-12EA811B5A68&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=52220CF4-68AB-4E84-98DB-34D89E2DC6F5&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "1776 Energy",
-          "rate": 0.1259,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "50",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": 14.95,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=177",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=177",
-          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -8716,6 +8614,23 @@
           "service_area": null
         },
         {
+          "name": "1776 Energy",
+          "rate": 0.1309,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "50",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": 14.95,
+          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=177",
+          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=177",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Town Square Energy",
           "rate": 0.1317,
           "rate_type": "Fixed",
@@ -8988,23 +8903,6 @@
           "service_area": null
         },
         {
-          "name": "0 Commit Energy",
-          "rate": 0.1359,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108159",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108159",
-          "phone": "1-800-698-5853",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "APG&E",
           "rate": 0.1368,
           "rate_type": "Fixed",
@@ -9068,6 +8966,23 @@
           "website_url": "https://shopping.energyharbor.com/cust/?PID=D0938A04-2609-4438-A605-FEBD6575944E&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=FDD5897B-B5D4-4056-825B-55A88449C7F7&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=D0938A04-2609-4438-A605-FEBD6575944E&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=FDD5897B-B5D4-4056-825B-55A88449C7F7&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1369,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108687",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108687",
+          "phone": "1-800-698-5853",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -9153,6 +9068,23 @@
           "website_url": "https://shopping.dynegy.com/cust/?PID=F412ABC0-8F67-4BE6-9930-E0845E0CCCB0&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=7999351D-1EDB-4DD1-A199-951A53669455&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.dynegy.com/cust/?PID=F412ABC0-8F67-4BE6-9930-E0845E0CCCB0&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=7999351D-1EDB-4DD1-A199-951A53669455&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "1776 Energy",
+          "rate": 0.1379,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43167&market_id=177",
+          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43167&market_id=177",
+          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -9561,23 +9493,6 @@
           "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108028",
           "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108028",
           "phone": "1-800-698-5853",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "1776 Energy",
-          "rate": 0.1429,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43167&market_id=177",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43167&market_id=177",
-          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -10297,8 +10212,8 @@
           "service_area": null
         }
       ],
-      "count": 138,
-      "last_fetched": "2026-05-11T13:48:55.407392Z"
+      "count": 137,
+      "last_fetched": "2026-05-11T16:33:49.353238Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -10729,23 +10644,6 @@
           "website_url": "https://shopping.energyharbor.com/cust/?PID=54E6916F-A130-4336-B631-254FE5AE67EB&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=C8A330CA-1B2D-4AD8-A769-2BC97AF099D8&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=54E6916F-A130-4336-B631-254FE5AE67EB&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=C8A330CA-1B2D-4AD8-A769-2BC97AF099D8&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "1776 Energy",
-          "rate": 0.126,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 10,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": 14.95,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=44565&market_id=180",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=44565&market_id=180",
-          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -11601,6 +11499,23 @@
           "service_area": null
         },
         {
+          "name": "1776 Energy",
+          "rate": 0.1369,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43167&market_id=180",
+          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43167&market_id=180",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "0 Commit Energy",
           "rate": 0.1378,
           "rate_type": "Fixed",
@@ -11737,23 +11652,6 @@
           "service_area": null
         },
         {
-          "name": "1776 Energy",
-          "rate": 0.139,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43294&market_id=180",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43294&market_id=180",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Dynegy",
           "rate": 0.1399,
           "rate_type": "Fixed",
@@ -11835,23 +11733,6 @@
           "signup_url": "https://shopping.brightenenergy.com/cust/?PID=FB4422A5-45E4-40C2-AF87-86A4A283C3CF&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=4EA44A10-85B8-4DFE-80B9-ED5FAF25F4DA&RFID=PAPS&PUC=1&STATE=PA&SN=BRI&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0917",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "1776 Energy",
-          "rate": 0.1409,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43167&market_id=180",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43167&market_id=180",
-          "phone": null,
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -12655,8 +12536,8 @@
           "service_area": null
         }
       ],
-      "count": 138,
-      "last_fetched": "2026-05-11T13:48:55.977922Z"
+      "count": 136,
+      "last_fetched": "2026-05-11T16:33:49.827792Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13007,23 +12888,6 @@
           "service_area": null
         },
         {
-          "name": "1776 Energy",
-          "rate": 0.1249,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "50",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": 14.95,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=184",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=184",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1259,
           "rate_type": "Fixed",
@@ -13155,6 +13019,23 @@
           "website_url": "https://shopping.pagande.com/cust/?PID=178FD057-17BD-428D-8E09-210A21423CEF&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=CD1EDFA0-8FD5-444C-A1E7-EC8C64B3D90E&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=178FD057-17BD-428D-8E09-210A21423CEF&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=CD1EDFA0-8FD5-444C-A1E7-EC8C64B3D90E&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "1776 Energy",
+          "rate": 0.1279,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "50",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": 14.95,
+          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=184",
+          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=184",
+          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -14129,6 +14010,23 @@
           "service_area": null
         },
         {
+          "name": "1776 Energy",
+          "rate": 0.1459,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43167&market_id=184",
+          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43167&market_id=184",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Green Mountain Energy Company",
           "rate": 0.146,
           "rate_type": "Fixed",
@@ -14278,23 +14176,6 @@
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penpw&utm_source=papower&utm_medium=shopping&utm_campaign=penpw_36eco",
           "phone": "1-877-648-1923",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "1776 Energy",
-          "rate": 0.1489,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43167&market_id=184",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43167&market_id=184",
-          "phone": null,
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -14674,7 +14555,7 @@
         }
       ],
       "count": 118,
-      "last_fetched": "2026-05-11T13:48:56.471707Z"
+      "last_fetched": "2026-05-11T16:33:50.250411Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -15093,23 +14974,6 @@
           "service_area": null
         },
         {
-          "name": "1776 Energy",
-          "rate": 0.1149,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "50",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": 14.95,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=186",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=186",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.1159,
           "rate_type": "Fixed",
@@ -15280,6 +15144,23 @@
           "service_area": null
         },
         {
+          "name": "1776 Energy",
+          "rate": 0.1189,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "50",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": 14.95,
+          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=186",
+          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=186",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Major Energy",
           "rate": 0.1199,
           "rate_type": "Fixed",
@@ -15411,6 +15292,23 @@
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T7_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T7_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1209,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=108686",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=108686",
+          "phone": "1-800-225-3813",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -15717,23 +15615,6 @@
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1239,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=108156",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=108156",
-          "phone": "1-800-225-3813",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -16913,7 +16794,7 @@
         }
       ],
       "count": 131,
-      "last_fetched": "2026-05-11T13:48:57.098848Z"
+      "last_fetched": "2026-05-11T16:33:50.703598Z"
     }
   }
 }
