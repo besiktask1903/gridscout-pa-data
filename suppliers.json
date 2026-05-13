@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T18:56:52.964124Z",
+  "last_updated": "2026-05-13T13:12:14.653578Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -21,6 +21,21 @@
           "monthly_fee": null,
           "website_url": null,
           "signup_url": null,
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Power and Gas of Pennsylvania LLC",
+          "rate": 0.285,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 3,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Switch to our gas plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today!",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=5",
+          "signup_url": "https://americanpowerandgas.com/?page=5",
           "bundle_required": false,
           "service_area": null
         },
@@ -66,21 +81,6 @@
           "monthly_fee": null,
           "website_url": "https://shopping.energyharbor.com/cust/?PID=709374EE-2877-4AB2-B782-59432CD4DEF0&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=F1EBFEF4-AA3A-4AE0-9A2B-3B0B72C0B577&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=709374EE-2877-4AB2-B782-59432CD4DEF0&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=F1EBFEF4-AA3A-4AE0-9A2B-3B0B72C0B577&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Power and Gas of Pennsylvania LLC",
-          "rate": 0.339,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Switch to our gas plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=5",
-          "signup_url": "https://americanpowerandgas.com/?page=5",
           "bundle_required": false,
           "service_area": null
         },
@@ -400,6 +400,21 @@
           "service_area": null
         },
         {
+          "name": "IGS Energy",
+          "rate": 0.549,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 12,
+          "early_termination_fee": "$99",
+          "introductory": "No",
+          "promotional_details": "Contribute to a brighter future by choosing this environmentally conscious product for your home. Our 100% Carbon Neutral Fixed Rate provides you with stability and predictability for the entire term length.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "SFE Energy Pennsylvania, Inc.",
           "rate": 0.549,
           "rate_type": "Fixed",
@@ -456,21 +471,6 @@
           "monthly_fee": null,
           "website_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=720",
           "signup_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=720",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "IGS Energy",
-          "rate": 0.574,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 12,
-          "early_termination_fee": "$99",
-          "introductory": "No",
-          "promotional_details": "Contribute to a brighter future by choosing this environmentally conscious product for your home. Our 100% Carbon Neutral Fixed Rate provides you with stability and predictability for the entire term length.",
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
           "bundle_required": false,
           "service_area": null
         },
@@ -686,7 +686,7 @@
         }
       ],
       "count": 45,
-      "last_fetched": "2026-05-12T18:56:51.399185Z"
+      "last_fetched": "2026-05-13T13:12:13.344705Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -923,7 +923,7 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 0.749,
+          "rate": 0.699,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -1013,7 +1013,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-05-12T18:56:51.685095Z"
+      "last_fetched": "2026-05-13T13:12:13.556053Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1054,6 +1054,21 @@
           "service_area": null
         },
         {
+          "name": "American Power and Gas of Pennsylvania LLC",
+          "rate": 0.429,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 3,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Switch to our gas plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today!",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=5",
+          "signup_url": "https://americanpowerandgas.com/?page=5",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.459,
           "rate_type": "Fixed",
@@ -1065,21 +1080,6 @@
           "monthly_fee": null,
           "website_url": "https://shopping.pagande.com/cust/?PID=AFF825E5-2DA6-4175-AE46-826B3F6B7261&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=0F0F8BBF-DA5C-42C4-8EE8-DED19AE472EA&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=AFF825E5-2DA6-4175-AE46-826B3F6B7261&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=0F0F8BBF-DA5C-42C4-8EE8-DED19AE472EA&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Power and Gas of Pennsylvania LLC",
-          "rate": 0.479,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Switch to our gas plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=5",
-          "signup_url": "https://americanpowerandgas.com/?page=5",
           "bundle_required": false,
           "service_area": null
         },
@@ -1100,7 +1100,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.4892,
+          "rate": 0.4969,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -1655,7 +1655,7 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 0.879,
+          "rate": 0.849,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 24,
@@ -1820,7 +1820,7 @@
         }
       ],
       "count": 53,
-      "last_fetched": "2026-05-12T18:56:52.073726Z"
+      "last_fetched": "2026-05-13T13:12:13.908082Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2071,6 +2071,21 @@
           "service_area": null
         },
         {
+          "name": "IGS Energy",
+          "rate": 4.99,
+          "rate_type": "Fixed",
+          "rate_unit": "Mcf",
+          "term_months": 12,
+          "early_termination_fee": "$99",
+          "introductory": "No",
+          "promotional_details": "Contribute to a brighter future by choosing this environmentally conscious product for your home. Our 100% Carbon Neutral Fixed Rate provides you with stability and predictability for the entire term length.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "CleanSky Energy",
           "rate": 4.99,
           "rate_type": "Fixed",
@@ -2097,21 +2112,6 @@
           "monthly_fee": null,
           "website_url": "https://signup.sfeenergy.com/",
           "signup_url": "https://signup.sfeenergy.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "IGS Energy",
-          "rate": 5.59,
-          "rate_type": "Fixed",
-          "rate_unit": "Mcf",
-          "term_months": 12,
-          "early_termination_fee": "$99",
-          "introductory": "No",
-          "promotional_details": "Contribute to a brighter future by choosing this environmentally conscious product for your home. Our 100% Carbon Neutral Fixed Rate provides you with stability and predictability for the entire term length.",
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
           "bundle_required": false,
           "service_area": null
         },
@@ -2266,6 +2266,21 @@
           "service_area": null
         },
         {
+          "name": "IGS Energy",
+          "rate": 6.49,
+          "rate_type": "Fixed",
+          "rate_unit": "Mcf",
+          "term_months": 24,
+          "early_termination_fee": "$149",
+          "introductory": "No",
+          "promotional_details": "Contribute to a brighter future by choosing this environmentally conscious product for your home. Our 100% Carbon Neutral Fixed Rate provides you with stability and predictability for the entire term length.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Spring Power & Gas",
           "rate": 6.4999,
           "rate_type": "Variable",
@@ -2292,21 +2307,6 @@
           "monthly_fee": null,
           "website_url": "https://springpowerandgas.us/",
           "signup_url": "https://springpowerandgas.us/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "IGS Energy",
-          "rate": 6.79,
-          "rate_type": "Fixed",
-          "rate_unit": "Mcf",
-          "term_months": 24,
-          "early_termination_fee": "$149",
-          "introductory": "No",
-          "promotional_details": "Contribute to a brighter future by choosing this environmentally conscious product for your home. Our 100% Carbon Neutral Fixed Rate provides you with stability and predictability for the entire term length.",
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
           "bundle_required": false,
           "service_area": null
         },
@@ -2357,7 +2357,7 @@
         }
       ],
       "count": 35,
-      "last_fetched": "2026-05-12T18:56:52.382284Z"
+      "last_fetched": "2026-05-13T13:12:14.174971Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2654,7 +2654,7 @@
         }
       ],
       "count": 19,
-      "last_fetched": "2026-05-12T18:56:52.634003Z"
+      "last_fetched": "2026-05-13T13:12:14.381800Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3130,6 +3130,21 @@
           "service_area": null
         },
         {
+          "name": "IGS Energy",
+          "rate": 0.859,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "99",
+          "introductory": "No",
+          "promotional_details": "Contribute to a brighter future by choosing this environmentally conscious product for your home. Our 100% Carbon Neutral Fixed Rate provides you with stability and predictability for the entire term length.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Frontier Utilities",
           "rate": 0.859,
           "rate_type": "Fixed",
@@ -3141,21 +3156,6 @@
           "monthly_fee": null,
           "website_url": "https://portal.frontierutilities.com/Enrollment/NE/Campaign?Zip_Code=17003&TDSP_CODE=UGI&target=ZZRHETLLBN",
           "signup_url": "https://portal.frontierutilities.com/Enrollment/NE/Campaign?Zip_Code=17003&TDSP_CODE=UGI&target=ZZRHETLLBN",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "IGS Energy",
-          "rate": 0.899,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "99",
-          "introductory": "No",
-          "promotional_details": "Contribute to a brighter future by choosing this environmentally conscious product for your home. Our 100% Carbon Neutral Fixed Rate provides you with stability and predictability for the entire term length.",
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
           "bundle_required": false,
           "service_area": null
         },
@@ -3281,7 +3281,7 @@
         }
       ],
       "count": 41,
-      "last_fetched": "2026-05-12T18:56:52.963986Z"
+      "last_fetched": "2026-05-13T13:12:14.653390Z"
     }
   }
 }
