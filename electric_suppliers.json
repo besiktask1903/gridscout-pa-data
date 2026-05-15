@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T12:54:55.498716Z",
+  "last_updated": "2026-05-15T15:15:30.519509Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -362,23 +362,6 @@
           "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18303",
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18303",
           "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AEP Energy",
-          "rate": 0.1065,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "When you enroll with AEP Energy, you'll receive Reward Dollars each month for simply being our customer. Shop Reward Store and redeem your Reward Dollars towards purchases for additional savings. Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-peco&utm_source=papower&utm_medium=shopping&utm_campaign=peco_6",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-peco&utm_source=papower&utm_medium=shopping&utm_campaign=peco_6",
-          "phone": "1-877-648-1923",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -1110,23 +1093,6 @@
           "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18182",
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18182",
           "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "WGL Energy Services",
-          "rate": 0.1188,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 0,
-          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "phone": "1-844-427-5945",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2118,6 +2084,23 @@
           "service_area": null
         },
         {
+          "name": "WGL Energy Services",
+          "rate": 0.1309,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 0,
+          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "phone": "1-844-427-5945",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Alpha Gas and Electric LLC",
           "rate": 0.132,
           "rate_type": "Fixed",
@@ -2216,23 +2199,6 @@
           "signup_url": "https://americanpowerandgas.com/?page=8",
           "phone": "800-380-9261",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "WGL Energy Services",
-          "rate": 0.1364,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "phone": "1-844-427-5945",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -2361,14 +2327,14 @@
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
-          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
           "introductory": "No",
           "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
           "monthly_fee": null,
           "website_url": "https://www.wglenergy.com/",
           "signup_url": "https://www.wglenergy.com/",
           "phone": "1-844-427-5945",
-          "renewable": "Yes",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -2403,6 +2369,23 @@
           "signup_url": "http://pa.citypowerandgas.com/",
           "phone": "1-877-518-9339",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 0.1452,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "phone": "1-844-427-5945",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -2611,8 +2594,8 @@
           "service_area": null
         }
       ],
-      "count": 153,
-      "last_fetched": "2026-05-15T12:54:52.718335Z"
+      "count": 152,
+      "last_fetched": "2026-05-15T15:15:26.673999Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2993,23 +2976,6 @@
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=PPL&channel_code=direct",
           "phone": "844-275-4022",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AEP Energy",
-          "rate": 0.1275,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Enroll in this price plan and you'll receive up to $30 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_6",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_6",
-          "phone": "1-877-648-1923",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -3949,23 +3915,6 @@
           "service_area": null
         },
         {
-          "name": "WGL Energy Services",
-          "rate": 0.1381,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 0,
-          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "phone": "1-844-427-5945",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1388,
           "rate_type": "Fixed",
@@ -4391,23 +4340,6 @@
           "service_area": null
         },
         {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1436,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 12 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_12&utm_content=PPL&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_12&utm_content=PPL&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "0 Commit Energy",
           "rate": 0.1438,
           "rate_type": "Fixed",
@@ -4438,6 +4370,23 @@
           "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter-12?msid=720",
           "phone": "855-331-0024",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1439,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 12 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_12&utm_content=PPL&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_12&utm_content=PPL&channel_code=direct",
+          "phone": "844-275-4022",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -4595,23 +4544,6 @@
           "service_area": null
         },
         {
-          "name": "WGL Energy Services",
-          "rate": 0.146,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "phone": "1-844-427-5945",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Direct Energy",
           "rate": 0.1469,
           "rate_type": "Fixed",
@@ -4714,6 +4646,23 @@
           "service_area": null
         },
         {
+          "name": "WGL Energy Services",
+          "rate": 0.1485,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "phone": "1-844-427-5945",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Direct Energy",
           "rate": 0.1489,
           "rate_type": "Fixed",
@@ -4744,6 +4693,23 @@
           "signup_url": "https://account.smartenergy.com/ppl-web-only-6months?&utm_source=PUC_Site_PPL_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
           "phone": "(800) 702-7371",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 0.1496,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 0,
+          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "phone": "1-844-427-5945",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -4795,23 +4761,6 @@
           "signup_url": "https://alphagasandelectric.com/P2C/",
           "phone": "845-810-0088",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "WGL Energy Services",
-          "rate": 0.1507,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "phone": "1-844-427-5945",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -4897,6 +4846,23 @@
           "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=32&utilityidG=&utilityname=PPL&utilitynameG=&ctype=Resi&utility-state=pa&productNum=410054",
           "phone": "888-512-8994",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 0.1529,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "phone": "1-844-427-5945",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -5445,8 +5411,8 @@
           "service_area": null
         }
       ],
-      "count": 166,
-      "last_fetched": "2026-05-15T12:54:53.233011Z"
+      "count": 165,
+      "last_fetched": "2026-05-15T15:15:27.401743Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -6154,23 +6120,6 @@
           "service_area": null
         },
         {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1339,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=99489",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=99489",
-          "phone": "1-800-225-3813",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "SmartEnergy",
           "rate": 0.134,
           "rate_type": "Fixed",
@@ -6511,23 +6460,6 @@
           "service_area": null
         },
         {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1399,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=100096",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=100096",
-          "phone": "1-800-225-3813",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Vista Energy Marketing L.P.",
           "rate": 0.1399,
           "rate_type": "Fixed",
@@ -6575,6 +6507,23 @@
           "signup_url": "https://alphagasandelectric.com/P2C/",
           "phone": "845-810-0088",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1408,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 8,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=107977",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=107977",
+          "phone": "1-800-225-3813",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -6727,6 +6676,23 @@
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1428,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=108958",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=108958",
+          "phone": "1-800-225-3813",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -6920,6 +6886,23 @@
         },
         {
           "name": "0 Commit Energy",
+          "rate": 0.1439,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=109366",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=109366",
+          "phone": "1-800-698-5853",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Commit Energy",
           "rate": 0.1448,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
@@ -6965,23 +6948,6 @@
           "website_url": "https://shopping.dynegy.com/cust/?PID=8A11D4BA-C950-4837-A251-A72AF7AE494D&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=ED742D48-5BD7-4CBB-94E3-74CB4A2EDC3D&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.dynegy.com/cust/?PID=8A11D4BA-C950-4837-A251-A72AF7AE494D&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=ED742D48-5BD7-4CBB-94E3-74CB4A2EDC3D&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "WGL Energy Services",
-          "rate": 0.1452,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 0,
-          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "phone": "1-844-427-5945",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7123,6 +7089,23 @@
           "service_area": null
         },
         {
+          "name": "WGL Energy Services",
+          "rate": 0.1485,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 0,
+          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "phone": "1-844-427-5945",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "APG&E",
           "rate": 0.1488,
           "rate_type": "Fixed",
@@ -7259,23 +7242,6 @@
           "service_area": null
         },
         {
-          "name": "WGL Energy Services",
-          "rate": 0.1526,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "phone": "1-844-427-5945",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "City Power & Gas PA",
           "rate": 0.1534,
           "rate_type": "Fixed",
@@ -7323,6 +7289,23 @@
           "signup_url": "https://americanpowerandgas.com/?page=10",
           "phone": "800-380-9261",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 0.1546,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "phone": "1-844-427-5945",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -7407,23 +7390,6 @@
           "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=duq&state=pa",
           "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=duq&state=pa",
           "phone": "855-724-6473",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "WGL Energy Services",
-          "rate": 0.1573,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://one.wglenergy.com/",
-          "signup_url": "https://one.wglenergy.com/",
-          "phone": "1-844-427-5945",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -7560,6 +7526,23 @@
           "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16199",
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16199",
           "phone": null,
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 0.1595,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://one.wglenergy.com/",
+          "signup_url": "https://one.wglenergy.com/",
+          "phone": "1-844-427-5945",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -7871,8 +7854,8 @@
           "service_area": null
         }
       ],
-      "count": 142,
-      "last_fetched": "2026-05-15T12:54:53.706644Z"
+      "count": 143,
+      "last_fetched": "2026-05-15T15:15:28.014296Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -8354,23 +8337,6 @@
           "website_url": "https://shopping.pagande.com/cust/?PID=95AFD1D9-60FB-405A-B1F3-7298B252FD3B&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=DAE42332-377B-441F-AEE1-6208D60E27B1&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=95AFD1D9-60FB-405A-B1F3-7298B252FD3B&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=DAE42332-377B-441F-AEE1-6208D60E27B1&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AEP Energy",
-          "rate": 0.1285,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "When you enroll with AEP Energy, you'll receive Reward Dollars each month for simply being our customer. Shop Reward Store and redeem your Reward Dollars towards purchases for additional savings. Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-meted&utm_source=papower&utm_medium=shopping&utm_campaign=meted_6",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-meted&utm_source=papower&utm_medium=shopping&utm_campaign=meted_6",
-          "phone": "1-877-648-1923",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -9294,23 +9260,6 @@
           "service_area": null
         },
         {
-          "name": "WGL Energy Services",
-          "rate": 0.1403,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 0,
-          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "phone": "1-844-427-5945",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Shipley Energy",
           "rate": 0.1406,
           "rate_type": "Fixed",
@@ -9379,23 +9328,6 @@
           "service_area": null
         },
         {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1416,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 12 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_12&utm_content=Meted&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_12&utm_content=Meted&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "0 Commit Energy",
           "rate": 0.1418,
           "rate_type": "Fixed",
@@ -9425,6 +9357,23 @@
           "website_url": "https://shopping.brightenenergy.com/cust/?PID=CA7D9EF6-D97E-4000-80FE-90458360A777&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=A03F423B-1BA6-4881-9FB9-41DBC9446F19&RFID=PAPS&PUC=1&STATE=PA&SN=BRI&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.brightenenergy.com/cust/?PID=CA7D9EF6-D97E-4000-80FE-90458360A777&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=A03F423B-1BA6-4881-9FB9-41DBC9446F19&RFID=PAPS&PUC=1&STATE=PA&SN=BRI&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0917",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1419,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 12 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_12&utm_content=Meted&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_12&utm_content=Meted&channel_code=direct",
+          "phone": "844-275-4022",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -9578,6 +9527,23 @@
           "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=Meted&channel_code=direct",
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=Meted&channel_code=direct",
           "phone": "844-275-4022",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 0.1463,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 0,
+          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "phone": "1-844-427-5945",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -9838,23 +9804,6 @@
           "service_area": null
         },
         {
-          "name": "WGL Energy Services",
-          "rate": 0.1526,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "phone": "1-844-427-5945",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "CleanSky Energy",
           "rate": 0.1527,
           "rate_type": "Fixed",
@@ -9991,6 +9940,23 @@
           "service_area": null
         },
         {
+          "name": "WGL Energy Services",
+          "rate": 0.1551,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "phone": "1-844-427-5945",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "AEP Energy",
           "rate": 0.1555,
           "rate_type": "Fixed",
@@ -10003,23 +9969,6 @@
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-meted&utm_source=papower&utm_medium=shopping&utm_campaign=meted_36eco",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-meted&utm_source=papower&utm_medium=shopping&utm_campaign=meted_36eco",
           "phone": "1-877-648-1923",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "WGL Energy Services",
-          "rate": 0.1573,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "phone": "1-844-427-5945",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -10072,6 +10021,23 @@
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 0.1595,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "phone": "1-844-427-5945",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -10178,8 +10144,8 @@
           "service_area": null
         }
       ],
-      "count": 135,
-      "last_fetched": "2026-05-15T12:54:54.153153Z"
+      "count": 134,
+      "last_fetched": "2026-05-15T15:15:28.650515Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -10513,23 +10479,6 @@
           "service_area": null
         },
         {
-          "name": "AEP Energy",
-          "rate": 0.1225,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "When you enroll with AEP Energy, you'll receive Reward Dollars each month for simply being our customer. Shop Reward Store and redeem your Reward Dollars towards purchases for additional savings. Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_6",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_6",
-          "phone": "1-877-648-1923",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "American Electric Rates LLC",
           "rate": 0.1237,
           "rate_type": "Fixed",
@@ -10645,23 +10594,6 @@
           "signup_url": "https://shopping.pagande.com/cust/?PID=6940CD05-FBB0-406B-88B4-6DB4455C3072&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=89314503-CC76-44CD-8166-45FDE75A05B2&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "WGL Energy Services",
-          "rate": 0.1276,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 0,
-          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "phone": "1-844-427-5945",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -11669,6 +11601,23 @@
           "service_area": null
         },
         {
+          "name": "WGL Energy Services",
+          "rate": 0.1408,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 0,
+          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "phone": "1-844-427-5945",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Brighten Energy",
           "rate": 0.1409,
           "rate_type": "Fixed",
@@ -11873,23 +11822,6 @@
           "service_area": null
         },
         {
-          "name": "WGL Energy Services",
-          "rate": 0.1452,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "phone": "1-844-427-5945",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "AEP Energy",
           "rate": 0.1455,
           "rate_type": "Fixed",
@@ -11902,6 +11834,23 @@
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_36eco",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_36eco",
           "phone": "1-877-648-1923",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 0.1458,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "phone": "1-844-427-5945",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -11941,40 +11890,6 @@
           "service_area": null
         },
         {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1496,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 12 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_12&utm_content=Penelec&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_12&utm_content=Penelec&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "WGL Energy Services",
-          "rate": 0.1496,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "phone": "1-844-427-5945",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "IGS Energy",
           "rate": 0.1499,
           "rate_type": "Fixed",
@@ -11987,6 +11902,23 @@
           "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
           "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
           "phone": "1-800-280-4474",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1499,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 12 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_12&utm_content=Penelec&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_12&utm_content=Penelec&channel_code=direct",
+          "phone": "844-275-4022",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -12005,6 +11937,23 @@
           "signup_url": "https://www.napower.com/#gref",
           "phone": "877-572-9965",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 0.1507,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "phone": "1-844-427-5945",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -12468,8 +12417,8 @@
           "service_area": null
         }
       ],
-      "count": 134,
-      "last_fetched": "2026-05-15T12:54:54.598058Z"
+      "count": 133,
+      "last_fetched": "2026-05-15T15:15:29.337227Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13398,23 +13347,6 @@
           "service_area": null
         },
         {
-          "name": "WGL Energy Services",
-          "rate": 0.1375,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 0,
-          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "phone": "1-844-427-5945",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Energy Harbor LLC",
           "rate": 0.1379,
           "rate_type": "Fixed",
@@ -13891,23 +13823,6 @@
           "service_area": null
         },
         {
-          "name": "WGL Energy Services",
-          "rate": 0.1458,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "phone": "1-844-427-5945",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "AEP Energy",
           "rate": 0.1459,
           "rate_type": "Fixed",
@@ -14124,6 +14039,40 @@
           "website_url": "https://www.verdeenergy.com/get-rates/",
           "signup_url": "https://www.verdeenergy.com/get-rates/",
           "phone": "1-833-488-3125",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 0.1491,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 0,
+          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "phone": "1-844-427-5945",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 0.1499,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "phone": "1-844-427-5945",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -14487,7 +14436,7 @@
         }
       ],
       "count": 118,
-      "last_fetched": "2026-05-15T12:54:54.990784Z"
+      "last_fetched": "2026-05-15T15:15:29.903647Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -14821,23 +14770,6 @@
           "service_area": null
         },
         {
-          "name": "AEP Energy",
-          "rate": 0.1125,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "When you enroll with AEP Energy, you'll receive Reward Dollars each month for simply being our customer. Shop Reward Store and redeem your Reward Dollars towards purchases for additional savings. Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-wpp&utm_source=papower&utm_medium=shopping&utm_campaign=wpp_6",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-wpp&utm_source=papower&utm_medium=shopping&utm_campaign=wpp_6",
-          "phone": "1-877-648-1923",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Public Power, LLC",
           "rate": 0.1129,
           "rate_type": "Fixed",
@@ -14986,23 +14918,6 @@
           "website_url": "https://shopping.pagande.com/cust/?PID=EF71CACB-4044-4B2E-B975-F45D1BB153DB&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=75D0A2D4-E4E9-4AC0-ADCD-BB2DA133DCA6&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=EF71CACB-4044-4B2E-B975-F45D1BB153DB&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=75D0A2D4-E4E9-4AC0-ADCD-BB2DA133DCA6&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "WGL Energy Services",
-          "rate": 0.1183,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 0,
-          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "phone": "1-844-427-5945",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -15195,23 +15110,6 @@
           "service_area": null
         },
         {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1209,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=108686",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=108686",
-          "phone": "1-800-225-3813",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Better Buy Energy",
           "rate": 0.1209,
           "rate_type": "Fixed",
@@ -15259,6 +15157,40 @@
           "signup_url": "https://mycleanchoice.com/pashopperbl1",
           "phone": "1-800-460-4900",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1216,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=109364",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=109364",
+          "phone": "1-800-225-3813",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1216,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=109372",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=109372",
+          "phone": "1-800-698-5853",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -15892,6 +15824,23 @@
           "service_area": null
         },
         {
+          "name": "WGL Energy Services",
+          "rate": 0.1287,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 0,
+          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "phone": "1-844-427-5945",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Brighten Energy",
           "rate": 0.1289,
           "rate_type": "Fixed",
@@ -15989,6 +15938,23 @@
           "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=7563&market_id=186",
           "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=7563&market_id=186",
           "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1298,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=94462",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=94462",
+          "phone": "1-800-698-5853",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -16182,7 +16148,7 @@
         },
         {
           "name": "WGL Energy Services",
-          "rate": 0.1328,
+          "rate": 0.1323,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -16674,8 +16640,8 @@
           "service_area": null
         }
       ],
-      "count": 128,
-      "last_fetched": "2026-05-15T12:54:55.498553Z"
+      "count": 129,
+      "last_fetched": "2026-05-15T15:15:30.519334Z"
     }
   }
 }
