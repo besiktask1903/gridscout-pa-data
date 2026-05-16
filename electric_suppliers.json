@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T17:40:12.517169Z",
+  "last_updated": "2026-05-16T11:53:02.014648Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -571,23 +571,6 @@
           "service_area": null
         },
         {
-          "name": "CleanChoice Energy",
-          "rate": 0.11,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbl1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pashopperbl1",
-          "signup_url": "https://mycleanchoice.com/pashopperbl1",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "CleanSky Energy",
           "rate": 0.11,
           "rate_type": "Fixed",
@@ -754,6 +737,23 @@
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=AC466820-5916-4946-9256-D3C61417FC48&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=D42E8CD9-2B3F-456C-A034-FB493EF005E7&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "CleanChoice Energy",
+          "rate": 0.113,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashoppera12. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashoppera12",
+          "signup_url": "https://mycleanchoice.com/pashoppera12",
+          "phone": "1-800-460-4900",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -1778,23 +1778,6 @@
           "service_area": null
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1272,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No",
-          "bundle_required": true,
-          "service_area": null
-        },
-        {
           "name": "City Power & Gas PA",
           "rate": 0.1274,
           "rate_type": "Fixed",
@@ -1877,6 +1860,23 @@
           "phone": "855-692-8330",
           "renewable": "Yes",
           "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1282,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No",
+          "bundle_required": true,
           "service_area": null
         },
         {
@@ -2595,7 +2595,7 @@
         }
       ],
       "count": 152,
-      "last_fetched": "2026-05-15T17:40:08.792226Z"
+      "last_fetched": "2026-05-16T11:52:58.518873Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -3269,23 +3269,6 @@
           "service_area": null
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1322,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No",
-          "bundle_required": true,
-          "service_area": null
-        },
-        {
           "name": "Spark Energy, LLC",
           "rate": 0.1325,
           "rate_type": "Fixed",
@@ -3303,20 +3286,20 @@
           "service_area": null
         },
         {
-          "name": "CleanChoice Energy",
+          "name": "AAA Energy by Santanna",
           "rate": 0.133,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
-          "early_termination_fee": null,
+          "early_termination_fee": "$120.00",
           "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbl1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
           "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pashopperbl1",
-          "signup_url": "https://mycleanchoice.com/pashopperbl1",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes",
-          "bundle_required": false,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No",
+          "bundle_required": true,
           "service_area": null
         },
         {
@@ -3656,6 +3639,23 @@
           "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108384",
           "phone": "1-800-698-5853",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "CleanChoice Energy",
+          "rate": 0.136,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashoppera12. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashoppera12",
+          "signup_url": "https://mycleanchoice.com/pashoppera12",
+          "phone": "1-800-460-4900",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -5412,7 +5412,7 @@
         }
       ],
       "count": 165,
-      "last_fetched": "2026-05-15T17:40:09.474542Z"
+      "last_fetched": "2026-05-16T11:52:59.245158Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5627,25 +5627,8 @@
           "service_area": null
         },
         {
-          "name": "CleanChoice Energy",
-          "rate": 0.122,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbl1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pashopperbl1",
-          "signup_url": "https://mycleanchoice.com/pashopperbl1",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1227,
+          "rate": 0.1236,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -5742,6 +5725,23 @@
           "signup_url": "https://shopping.pagande.com/cust/?PID=85A7404A-1A99-43DB-A315-F9D02DE37980&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=69EC23C6-F549-4543-B410-2CC84C0E0699&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "CleanChoice Energy",
+          "rate": 0.125,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashoppera12. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashoppera12",
+          "signup_url": "https://mycleanchoice.com/pashoppera12",
+          "phone": "1-800-460-4900",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -7855,7 +7855,7 @@
         }
       ],
       "count": 143,
-      "last_fetched": "2026-05-15T17:40:10.087215Z"
+      "last_fetched": "2026-05-16T11:52:59.812727Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -8937,23 +8937,6 @@
           "service_area": null
         },
         {
-          "name": "CleanChoice Energy",
-          "rate": 0.137,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbl1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pashopperbl1",
-          "signup_url": "https://mycleanchoice.com/pashopperbl1",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1378,
           "rate_type": "Fixed",
@@ -9256,6 +9239,23 @@
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "CleanChoice Energy",
+          "rate": 0.14,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashoppera12. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashoppera12",
+          "signup_url": "https://mycleanchoice.com/pashoppera12",
+          "phone": "1-800-460-4900",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -10145,7 +10145,7 @@
         }
       ],
       "count": 134,
-      "last_fetched": "2026-05-15T17:40:10.815298Z"
+      "last_fetched": "2026-05-16T11:53:00.380731Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -11686,23 +11686,6 @@
           "service_area": null
         },
         {
-          "name": "CleanChoice Energy",
-          "rate": 0.142,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbl1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pashopperbl1",
-          "signup_url": "https://mycleanchoice.com/pashopperbl1",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "AEP Energy",
           "rate": 0.1425,
           "rate_type": "Fixed",
@@ -11817,6 +11800,23 @@
           "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=44&promocode=PAPOWERZERO",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=44&promocode=PAPOWERZERO",
           "phone": "1-888-355-6205",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "CleanChoice Energy",
+          "rate": 0.145,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashoppera12. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashoppera12",
+          "signup_url": "https://mycleanchoice.com/pashoppera12",
+          "phone": "1-800-460-4900",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -12418,7 +12418,7 @@
         }
       ],
       "count": 133,
-      "last_fetched": "2026-05-15T17:40:11.403683Z"
+      "last_fetched": "2026-05-16T11:53:00.955591Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13602,23 +13602,6 @@
           "service_area": null
         },
         {
-          "name": "CleanChoice Energy",
-          "rate": 0.14,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbl1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pashopperbl1",
-          "signup_url": "https://mycleanchoice.com/pashopperbl1",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "CleanSky Energy",
           "rate": 0.1403,
           "rate_type": "Fixed",
@@ -13751,6 +13734,23 @@
           "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108408",
           "phone": "1-800-698-5853",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "CleanChoice Energy",
+          "rate": 0.143,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashoppera12. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashoppera12",
+          "signup_url": "https://mycleanchoice.com/pashoppera12",
+          "phone": "1-800-460-4900",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -14436,7 +14436,7 @@
         }
       ],
       "count": 118,
-      "last_fetched": "2026-05-15T17:40:11.931470Z"
+      "last_fetched": "2026-05-16T11:53:01.460485Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -15144,23 +15144,6 @@
           "service_area": null
         },
         {
-          "name": "CleanChoice Energy",
-          "rate": 0.121,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbl1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pashopperbl1",
-          "signup_url": "https://mycleanchoice.com/pashopperbl1",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1216,
           "rate_type": "Fixed",
@@ -15462,6 +15445,23 @@
           "website_url": "https://shopping.brightenenergy.com/cust/?PID=4D249FB9-A308-4B37-BC3A-470C1A0411BA&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=C9346EF7-8CE0-4ACA-9E74-E19120055368&RFID=PAPS&PUC=1&STATE=PA&SN=BRI&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.brightenenergy.com/cust/?PID=4D249FB9-A308-4B37-BC3A-470C1A0411BA&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=C9346EF7-8CE0-4ACA-9E74-E19120055368&RFID=PAPS&PUC=1&STATE=PA&SN=BRI&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0917",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "CleanChoice Energy",
+          "rate": 0.124,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashoppera12. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashoppera12",
+          "signup_url": "https://mycleanchoice.com/pashoppera12",
+          "phone": "1-800-460-4900",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -16641,7 +16641,7 @@
         }
       ],
       "count": 129,
-      "last_fetched": "2026-05-15T17:40:12.516964Z"
+      "last_fetched": "2026-05-16T11:53:02.014468Z"
     }
   }
 }
