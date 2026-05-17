@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T17:55:58.138812Z",
+  "last_updated": "2026-05-17T12:00:37.305073Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -2595,7 +2595,7 @@
         }
       ],
       "count": 152,
-      "last_fetched": "2026-05-16T17:55:54.452759Z"
+      "last_fetched": "2026-05-17T12:00:34.282139Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2605,6 +2605,23 @@
       "ptc_previous_rate": 0.10771,
       "ptc_previous_date": "2025-05-31",
       "suppliers": [
+        {
+          "name": "EcoPlus Power LLC",
+          "rate": 0.0979,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "Yes",
+          "promotional_details": "This offer is for NEW CUSTOMERS ONLY Experience the future of energy with our 100% Renewable Energy product. This is an Introductory rate product.  The price you will pay for electricity supply under this Agreement will be based on the following factors: The PJM Day Ahead Locational Marginal Price of wholesale electricity, plus the following, which will be reflected as separate line items on your bill:  (i) estimated Capacity charges, (ii) estimated Network Integration Transmission Service charges (iii) estimated gross receipts tax recovery charge, and (iv) an adder to cover EcoPlus's margin, renewable portfolio standards costs, line losses and other costs and expenses. The amount of the charges may vary from month to month. Your electricity supply price may be higher or lower than the utility's price in any particular month and there is no guarantee of savings. There is no limit on how much the price may change from one billing cycle to the next.    Experience the future of energy with our 100% Renewable Energy product. Plus, enjoy added peace of mind with a complimentary Norton LifeLock Personal Identity Theft Protection Subscription (Valued over $300 annually). We value your loyalty, which is why we're thrilled to reward you with an Amazon Gift Card every six months of uninterrupted service. It's more than just a service; it's a commitment to your security, savings, and satisfaction.",
+          "monthly_fee": null,
+          "website_url": "http://www.ecopluspower.com",
+          "signup_url": "http://www.ecopluspower.com",
+          "phone": "866-302-0559",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
           "rate": 0.0999,
@@ -2619,23 +2636,6 @@
           "signup_url": "https://americanpowerandgas.com/?page=2",
           "phone": "800-380-9261",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "EcoPlus Power LLC",
-          "rate": 0.1045,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "Yes",
-          "promotional_details": "This offer is for NEW CUSTOMERS ONLY Experience the future of energy with our 100% Renewable Energy product. This is an Introductory rate product.  The price you will pay for electricity supply under this Agreement will be based on the following factors: The PJM Day Ahead Locational Marginal Price of wholesale electricity, plus the following, which will be reflected as separate line items on your bill:  (i) estimated Capacity charges, (ii) estimated Network Integration Transmission Service charges (iii) estimated gross receipts tax recovery charge, and (iv) an adder to cover EcoPlus's margin, renewable portfolio standards costs, line losses and other costs and expenses. The amount of the charges may vary from month to month. Your electricity supply price may be higher or lower than the utility's price in any particular month and there is no guarantee of savings. There is no limit on how much the price may change from one billing cycle to the next.    Experience the future of energy with our 100% Renewable Energy product. Plus, enjoy added peace of mind with a complimentary Norton LifeLock Personal Identity Theft Protection Subscription (Valued over $300 annually). We value your loyalty, which is why we're thrilled to reward you with an Amazon Gift Card every six months of uninterrupted service. It's more than just a service; it's a commitment to your security, savings, and satisfaction.",
-          "monthly_fee": null,
-          "website_url": "http://www.ecopluspower.com",
-          "signup_url": "http://www.ecopluspower.com",
-          "phone": "866-302-0559",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -5412,7 +5412,7 @@
         }
       ],
       "count": 165,
-      "last_fetched": "2026-05-16T17:55:55.171991Z"
+      "last_fetched": "2026-05-17T12:00:34.911991Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7855,7 +7855,7 @@
         }
       ],
       "count": 143,
-      "last_fetched": "2026-05-16T17:55:55.780911Z"
+      "last_fetched": "2026-05-17T12:00:35.414002Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -10145,7 +10145,7 @@
         }
       ],
       "count": 134,
-      "last_fetched": "2026-05-16T17:55:56.391606Z"
+      "last_fetched": "2026-05-17T12:00:35.916977Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -12418,7 +12418,7 @@
         }
       ],
       "count": 133,
-      "last_fetched": "2026-05-16T17:55:56.983208Z"
+      "last_fetched": "2026-05-17T12:00:36.392324Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -14436,7 +14436,7 @@
         }
       ],
       "count": 118,
-      "last_fetched": "2026-05-16T17:55:57.551031Z"
+      "last_fetched": "2026-05-17T12:00:36.820205Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16641,7 +16641,7 @@
         }
       ],
       "count": 129,
-      "last_fetched": "2026-05-16T17:55:58.138599Z"
+      "last_fetched": "2026-05-17T12:00:37.304870Z"
     }
   }
 }
