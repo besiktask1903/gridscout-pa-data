@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T17:09:38.407717Z",
+  "last_updated": "2026-05-18T14:31:17.255025Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -1149,6 +1149,23 @@
           "service_area": null
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1191,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No",
+          "bundle_required": true,
+          "service_area": null
+        },
+        {
           "name": "CleanSky Energy",
           "rate": 0.1191,
           "rate_type": "Fixed",
@@ -1197,23 +1214,6 @@
           "phone": "844-275-4022",
           "renewable": "Yes",
           "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1197,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No",
-          "bundle_required": true,
           "service_area": null
         },
         {
@@ -2186,23 +2186,6 @@
           "service_area": null
         },
         {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.1359,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Interested in upgrading to 100% green energy? Call us to learn more!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=8",
-          "signup_url": "https://americanpowerandgas.com/?page=8",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Cirro Energy",
           "rate": 0.1369,
           "rate_type": "Fixed",
@@ -2339,23 +2322,6 @@
           "service_area": null
         },
         {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.1409,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Call us to learn more!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=10",
-          "signup_url": "https://americanpowerandgas.com/?page=10",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "City Power & Gas PA",
           "rate": 0.1417,
           "rate_type": "Fixed",
@@ -2369,6 +2335,23 @@
           "signup_url": "http://pa.citypowerandgas.com/",
           "phone": "1-877-518-9339",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1429,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Interested in upgrading to 100% green energy? Call us to learn more!",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=8",
+          "signup_url": "https://americanpowerandgas.com/?page=8",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -2391,7 +2374,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.146,
+          "rate": 0.1457,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 18,
@@ -2403,6 +2386,40 @@
           "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
           "phone": "866-752-1907",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1477,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
+          "monthly_fee": 5.99,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PECPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PECPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "phone": "866-752-1907",
+          "renewable": "Yes",
+          "bundle_required": true,
+          "service_area": null
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1479,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Call us to learn more!",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=10",
+          "signup_url": "https://americanpowerandgas.com/?page=10",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -2421,23 +2438,6 @@
           "phone": "1-800-280-4474",
           "renewable": "Yes",
           "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.148,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
-          "monthly_fee": 5.99,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PECPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PECPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "phone": "866-752-1907",
-          "renewable": "Yes",
-          "bundle_required": true,
           "service_area": null
         },
         {
@@ -2595,7 +2595,7 @@
         }
       ],
       "count": 152,
-      "last_fetched": "2026-05-17T17:09:34.413252Z"
+      "last_fetched": "2026-05-18T14:31:13.471007Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2605,23 +2605,6 @@
       "ptc_previous_rate": 0.10771,
       "ptc_previous_date": "2025-05-31",
       "suppliers": [
-        {
-          "name": "EcoPlus Power LLC",
-          "rate": 0.0979,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "Yes",
-          "promotional_details": "This offer is for NEW CUSTOMERS ONLY Experience the future of energy with our 100% Renewable Energy product. This is an Introductory rate product.  The price you will pay for electricity supply under this Agreement will be based on the following factors: The PJM Day Ahead Locational Marginal Price of wholesale electricity, plus the following, which will be reflected as separate line items on your bill:  (i) estimated Capacity charges, (ii) estimated Network Integration Transmission Service charges (iii) estimated gross receipts tax recovery charge, and (iv) an adder to cover EcoPlus's margin, renewable portfolio standards costs, line losses and other costs and expenses. The amount of the charges may vary from month to month. Your electricity supply price may be higher or lower than the utility's price in any particular month and there is no guarantee of savings. There is no limit on how much the price may change from one billing cycle to the next.    Experience the future of energy with our 100% Renewable Energy product. Plus, enjoy added peace of mind with a complimentary Norton LifeLock Personal Identity Theft Protection Subscription (Valued over $300 annually). We value your loyalty, which is why we're thrilled to reward you with an Amazon Gift Card every six months of uninterrupted service. It's more than just a service; it's a commitment to your security, savings, and satisfaction.",
-          "monthly_fee": null,
-          "website_url": "http://www.ecopluspower.com",
-          "signup_url": "http://www.ecopluspower.com",
-          "phone": "866-302-0559",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
           "rate": 0.0999,
@@ -2636,6 +2619,23 @@
           "signup_url": "https://americanpowerandgas.com/?page=2",
           "phone": "800-380-9261",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "EcoPlus Power LLC",
+          "rate": 0.1045,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": null,
+          "introductory": "Yes",
+          "promotional_details": "This offer is for NEW CUSTOMERS ONLY Experience the future of energy with our 100% Renewable Energy product. This is an Introductory rate product.  The price you will pay for electricity supply under this Agreement will be based on the following factors: The PJM Day Ahead Locational Marginal Price of wholesale electricity, plus the following, which will be reflected as separate line items on your bill:  (i) estimated Capacity charges, (ii) estimated Network Integration Transmission Service charges (iii) estimated gross receipts tax recovery charge, and (iv) an adder to cover EcoPlus's margin, renewable portfolio standards costs, line losses and other costs and expenses. The amount of the charges may vary from month to month. Your electricity supply price may be higher or lower than the utility's price in any particular month and there is no guarantee of savings. There is no limit on how much the price may change from one billing cycle to the next.    Experience the future of energy with our 100% Renewable Energy product. Plus, enjoy added peace of mind with a complimentary Norton LifeLock Personal Identity Theft Protection Subscription (Valued over $300 annually). We value your loyalty, which is why we're thrilled to reward you with an Amazon Gift Card every six months of uninterrupted service. It's more than just a service; it's a commitment to your security, savings, and satisfaction.",
+          "monthly_fee": null,
+          "website_url": "http://www.ecopluspower.com",
+          "signup_url": "http://www.ecopluspower.com",
+          "phone": "866-302-0559",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -3202,7 +3202,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1306,
+          "rate": 0.1303,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 6,
@@ -4850,6 +4850,23 @@
           "service_area": null
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1529,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
+          "monthly_fee": 5.99,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PPLPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PPLPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "phone": "866-752-1907",
+          "renewable": "Yes",
+          "bundle_required": true,
+          "service_area": null
+        },
+        {
           "name": "WGL Energy Services",
           "rate": 0.1529,
           "rate_type": "Fixed",
@@ -4868,24 +4885,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1531,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
-          "monthly_fee": 5.99,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PPLPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PPLPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "phone": "866-752-1907",
-          "renewable": "Yes",
-          "bundle_required": true,
-          "service_area": null
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1538,
+          "rate": 0.1536,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 18,
@@ -5037,23 +5037,6 @@
           "service_area": null
         },
         {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.1619,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Interested in upgrading to 100% green energy? Call us to learn more!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=8",
-          "signup_url": "https://americanpowerandgas.com/?page=8",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "NRG Home",
           "rate": 0.163,
           "rate_type": "Fixed",
@@ -5089,16 +5072,16 @@
         },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.1669,
+          "rate": 0.1679,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 6,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Call us to learn more!",
+          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Interested in upgrading to 100% green energy? Call us to learn more!",
           "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=10",
-          "signup_url": "https://americanpowerandgas.com/?page=10",
+          "website_url": "https://americanpowerandgas.com/?page=8",
+          "signup_url": "https://americanpowerandgas.com/?page=8",
           "phone": "800-380-9261",
           "renewable": "Yes",
           "bundle_required": false,
@@ -5151,6 +5134,23 @@
           "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
           "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
           "phone": "1-800-280-4474",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1729,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Call us to learn more!",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=10",
+          "signup_url": "https://americanpowerandgas.com/?page=10",
+          "phone": "800-380-9261",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -5412,7 +5412,7 @@
         }
       ],
       "count": 165,
-      "last_fetched": "2026-05-17T17:09:35.136878Z"
+      "last_fetched": "2026-05-18T14:31:14.160352Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5508,6 +5508,23 @@
           "service_area": null
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1187,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_DUQPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_DUQPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No",
+          "bundle_required": true,
+          "service_area": null
+        },
+        {
           "name": "Town Square Energy",
           "rate": 0.1187,
           "rate_type": "Fixed",
@@ -5522,23 +5539,6 @@
           "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1193,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_DUQPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_DUQPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No",
-          "bundle_required": true,
           "service_area": null
         },
         {
@@ -6664,6 +6664,23 @@
           "service_area": null
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1425,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 18 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "phone": "866-752-1907",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "APG&E",
           "rate": 0.1427,
           "rate_type": "Fixed",
@@ -6784,19 +6801,19 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1431,
+          "rate": 0.1433,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 18,
+          "term_months": 12,
           "early_termination_fee": "$120.00",
           "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 18 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
+          "monthly_fee": 5.99,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_DUQPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_DUQPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
           "phone": "866-752-1907",
-          "renewable": "No",
-          "bundle_required": false,
+          "renewable": "Yes",
+          "bundle_required": true,
           "service_area": null
         },
         {
@@ -6865,23 +6882,6 @@
           "phone": "800-915-0706",
           "renewable": "No",
           "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1439,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
-          "monthly_fee": 5.99,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_DUQPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_DUQPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "phone": "866-752-1907",
-          "renewable": "Yes",
-          "bundle_required": true,
           "service_area": null
         },
         {
@@ -7157,23 +7157,6 @@
           "service_area": null
         },
         {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.1489,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Interested in upgrading to 100% green energy? Call us to learn more!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=8",
-          "signup_url": "https://americanpowerandgas.com/?page=8",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "0 Commit Energy",
           "rate": 0.1498,
           "rate_type": "Fixed",
@@ -7276,23 +7259,6 @@
           "service_area": null
         },
         {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.1539,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Call us to learn more!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=10",
-          "signup_url": "https://americanpowerandgas.com/?page=10",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "WGL Energy Services",
           "rate": 0.1546,
           "rate_type": "Fixed",
@@ -7323,6 +7289,23 @@
           "signup_url": "https://justenergy.com/paswitch/",
           "phone": "866-239-5107",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1559,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Interested in upgrading to 100% green energy? Call us to learn more!",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=8",
+          "signup_url": "https://americanpowerandgas.com/?page=8",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -7650,6 +7633,23 @@
           "service_area": null
         },
         {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1609,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Call us to learn more!",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=10",
+          "signup_url": "https://americanpowerandgas.com/?page=10",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Green Mountain Energy Company",
           "rate": 0.161,
           "rate_type": "Fixed",
@@ -7855,7 +7855,7 @@
         }
       ],
       "count": 143,
-      "last_fetched": "2026-05-17T17:09:35.760674Z"
+      "last_fetched": "2026-05-18T14:31:14.899727Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -8921,7 +8921,7 @@
         },
         {
           "name": "0 Commit Energy",
-          "rate": 0.1369,
+          "rate": 0.1376,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 6,
@@ -8929,8 +8929,8 @@
           "introductory": "No",
           "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
           "monthly_fee": null,
-          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108687",
-          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=108687",
+          "website_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=109503",
+          "signup_url": "https://0commitenergy.energypricing.com/enrollmentrequest/?plan=109503",
           "phone": "1-800-698-5853",
           "renewable": "No",
           "bundle_required": false,
@@ -9838,23 +9838,6 @@
           "service_area": null
         },
         {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.1539,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Interested in upgrading to 100% green energy? Call us to learn more!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=8",
-          "signup_url": "https://americanpowerandgas.com/?page=8",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Green Mountain Energy Company",
           "rate": 0.154,
           "rate_type": "Fixed",
@@ -9991,23 +9974,6 @@
           "service_area": null
         },
         {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.1589,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Call us to learn more!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=10",
-          "signup_url": "https://americanpowerandgas.com/?page=10",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Cirro Energy",
           "rate": 0.159,
           "rate_type": "Fixed",
@@ -10055,6 +10021,40 @@
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1609,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Interested in upgrading to 100% green energy? Call us to learn more!",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=8",
+          "signup_url": "https://americanpowerandgas.com/?page=8",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1659,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Call us to learn more!",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=10",
+          "signup_url": "https://americanpowerandgas.com/?page=10",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -10145,7 +10145,7 @@
         }
       ],
       "count": 134,
-      "last_fetched": "2026-05-17T17:09:36.407289Z"
+      "last_fetched": "2026-05-18T14:31:15.515494Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -12213,23 +12213,6 @@
           "service_area": null
         },
         {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.1589,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Interested in upgrading to 100% green energy? Call us to learn more!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=8",
-          "signup_url": "https://americanpowerandgas.com/?page=8",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Agway Energy Services LLC",
           "rate": 0.159,
           "rate_type": "Variable",
@@ -12339,6 +12322,23 @@
           "term_months": 6,
           "early_termination_fee": null,
           "introductory": "No",
+          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Interested in upgrading to 100% green energy? Call us to learn more!",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=8",
+          "signup_url": "https://americanpowerandgas.com/?page=8",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1689,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
           "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Call us to learn more!",
           "monthly_fee": null,
           "website_url": "https://americanpowerandgas.com/?page=10",
@@ -12418,7 +12418,7 @@
         }
       ],
       "count": 133,
-      "last_fetched": "2026-05-17T17:09:37.044936Z"
+      "last_fetched": "2026-05-18T14:31:16.121720Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -14248,23 +14248,6 @@
           "service_area": null
         },
         {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.1559,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Interested in upgrading to 100% green energy? Call us to learn more!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=8",
-          "signup_url": "https://americanpowerandgas.com/?page=8",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "North American Power",
           "rate": 0.1559,
           "rate_type": "Fixed",
@@ -14323,10 +14306,10 @@
           "term_months": 6,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Call us to learn more!",
+          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Interested in upgrading to 100% green energy? Call us to learn more!",
           "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=10",
-          "signup_url": "https://americanpowerandgas.com/?page=10",
+          "website_url": "https://americanpowerandgas.com/?page=8",
+          "signup_url": "https://americanpowerandgas.com/?page=8",
           "phone": "800-380-9261",
           "renewable": "Yes",
           "bundle_required": false,
@@ -14363,6 +14346,23 @@
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1659,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Call us to learn more!",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=10",
+          "signup_url": "https://americanpowerandgas.com/?page=10",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -14436,7 +14436,7 @@
         }
       ],
       "count": 118,
-      "last_fetched": "2026-05-17T17:09:37.728547Z"
+      "last_fetched": "2026-05-18T14:31:16.641962Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16419,23 +16419,6 @@
           "service_area": null
         },
         {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.1389,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Interested in upgrading to 100% green energy? Call us to learn more!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=8",
-          "signup_url": "https://americanpowerandgas.com/?page=8",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Direct Energy",
           "rate": 0.1389,
           "rate_type": "Fixed",
@@ -16504,23 +16487,6 @@
           "service_area": null
         },
         {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.1439,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Call us to learn more!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=10",
-          "signup_url": "https://americanpowerandgas.com/?page=10",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "North American Power",
           "rate": 0.1439,
           "rate_type": "Fixed",
@@ -16534,6 +16500,23 @@
           "signup_url": "https://www.napower.com/#gref",
           "phone": "877-572-9965",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1459,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Interested in upgrading to 100% green energy? Call us to learn more!",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=8",
+          "signup_url": "https://americanpowerandgas.com/?page=8",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -16567,6 +16550,23 @@
           "website_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
           "signup_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
           "phone": "(833) 669 3080",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1509,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Call us to learn more!",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=10",
+          "signup_url": "https://americanpowerandgas.com/?page=10",
+          "phone": "800-380-9261",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -16641,7 +16641,7 @@
         }
       ],
       "count": 129,
-      "last_fetched": "2026-05-17T17:09:38.407561Z"
+      "last_fetched": "2026-05-18T14:31:17.254824Z"
     }
   }
 }
