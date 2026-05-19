@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T13:56:14.137807Z",
+  "last_updated": "2026-05-19T16:51:04.383370Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -2595,7 +2595,7 @@
         }
       ],
       "count": 152,
-      "last_fetched": "2026-05-19T13:56:10.709486Z"
+      "last_fetched": "2026-05-19T16:51:01.099256Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -5361,7 +5361,7 @@
         }
       ],
       "count": 162,
-      "last_fetched": "2026-05-19T13:56:11.354305Z"
+      "last_fetched": "2026-05-19T16:51:01.707984Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7787,7 +7787,7 @@
         }
       ],
       "count": 142,
-      "last_fetched": "2026-05-19T13:56:11.922089Z"
+      "last_fetched": "2026-05-19T16:51:02.214661Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -10077,7 +10077,7 @@
         }
       ],
       "count": 134,
-      "last_fetched": "2026-05-19T13:56:12.516943Z"
+      "last_fetched": "2026-05-19T16:51:02.772261Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -12350,7 +12350,7 @@
         }
       ],
       "count": 133,
-      "last_fetched": "2026-05-19T13:56:13.080397Z"
+      "last_fetched": "2026-05-19T16:51:03.321771Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -14368,7 +14368,7 @@
         }
       ],
       "count": 118,
-      "last_fetched": "2026-05-19T13:56:13.579634Z"
+      "last_fetched": "2026-05-19T16:51:03.791797Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -15076,23 +15076,6 @@
           "service_area": null
         },
         {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1216,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=109364",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=109364",
-          "phone": "1-800-225-3813",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "0 Commit Energy",
           "rate": 0.1216,
           "rate_type": "Fixed",
@@ -15768,6 +15751,23 @@
           "website_url": "https://www.wglenergy.com/",
           "signup_url": "https://www.wglenergy.com/",
           "phone": "1-844-427-5945",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1289,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=108368",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=108368",
+          "phone": "1-800-225-3813",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -16573,7 +16573,7 @@
         }
       ],
       "count": 129,
-      "last_fetched": "2026-05-19T13:56:14.137606Z"
+      "last_fetched": "2026-05-19T16:51:04.383200Z"
     }
   }
 }
