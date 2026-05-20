@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T13:40:28.082137Z",
+  "last_updated": "2026-05-20T16:53:38.624113Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -686,7 +686,7 @@
         }
       ],
       "count": 45,
-      "last_fetched": "2026-05-20T13:40:26.919388Z"
+      "last_fetched": "2026-05-20T16:53:37.108946Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1013,7 +1013,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-05-20T13:40:27.133827Z"
+      "last_fetched": "2026-05-20T16:53:37.371668Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1820,7 +1820,7 @@
         }
       ],
       "count": 53,
-      "last_fetched": "2026-05-20T13:40:27.420349Z"
+      "last_fetched": "2026-05-20T16:53:37.765332Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2357,7 +2357,7 @@
         }
       ],
       "count": 35,
-      "last_fetched": "2026-05-20T13:40:27.676912Z"
+      "last_fetched": "2026-05-20T16:53:38.060669Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2654,7 +2654,7 @@
         }
       ],
       "count": 19,
-      "last_fetched": "2026-05-20T13:40:27.838167Z"
+      "last_fetched": "2026-05-20T16:53:38.308828Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2751,6 +2751,21 @@
           "monthly_fee": null,
           "website_url": "https://residentsenergy.com/get-started/account-information/?filter_offerid=106929&filter_utility=UGI&filter_rate=62.420&filter_commodity=G&filter_etf=No&filter_ratetype=Variable&filter_energytype=Brown&filter_offerenddate=02/28/2018&filter_campaign=default&filter_zip=&filter_state=PA",
           "signup_url": "https://residentsenergy.com/get-started/account-information/?filter_offerid=106929&filter_utility=UGI&filter_rate=62.420&filter_commodity=G&filter_etf=No&filter_ratetype=Variable&filter_energytype=Brown&filter_offerenddate=02/28/2018&filter_campaign=default&filter_zip=&filter_state=PA",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Rhoads Energy",
+          "rate": 0.669,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "$70",
+          "introductory": "No",
+          "promotional_details": "Plus $1.00 per month customer charge.  $.669 per ccf rate is for residential only.",
+          "monthly_fee": null,
+          "website_url": "https://www.rhoadsenergy.com/fuels/natural-gas/natural-gas-landing-page-compare-rates/compare-ugi/",
+          "signup_url": "https://www.rhoadsenergy.com/fuels/natural-gas/natural-gas-landing-page-compare-rates/compare-ugi/",
           "bundle_required": false,
           "service_area": null
         },
@@ -2901,21 +2916,6 @@
           "monthly_fee": null,
           "website_url": "https://www.verdeenergy.com/",
           "signup_url": "https://www.verdeenergy.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Rhoads Energy",
-          "rate": 0.719,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "$70",
-          "introductory": "No",
-          "promotional_details": "Plus $1.00 per month customer charge.  $.719 per ccf rate is for residential only.",
-          "monthly_fee": null,
-          "website_url": "https://www.rhoadsenergy.com/fuels/natural-gas/natural-gas-landing-page-compare-rates/compare-ugi/",
-          "signup_url": "https://www.rhoadsenergy.com/fuels/natural-gas/natural-gas-landing-page-compare-rates/compare-ugi/",
           "bundle_required": false,
           "service_area": null
         },
@@ -3281,7 +3281,7 @@
         }
       ],
       "count": 41,
-      "last_fetched": "2026-05-20T13:40:28.081950Z"
+      "last_fetched": "2026-05-20T16:53:38.623905Z"
     }
   }
 }
