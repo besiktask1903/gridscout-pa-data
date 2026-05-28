@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T17:57:21.216850Z",
+  "last_updated": "2026-05-28T14:38:23.606516Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -326,7 +326,7 @@
         },
         {
           "name": "Symmetry Energy Solutions LLC",
-          "rate": 0.525,
+          "rate": 0.499,
           "rate_type": "Fixed",
           "rate_unit": "therm",
           "term_months": 12,
@@ -686,7 +686,7 @@
         }
       ],
       "count": 45,
-      "last_fetched": "2026-05-27T17:57:20.183495Z"
+      "last_fetched": "2026-05-28T14:38:22.508833Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1013,7 +1013,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-05-27T17:57:20.362740Z"
+      "last_fetched": "2026-05-28T14:38:22.685015Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1085,7 +1085,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.4795,
+          "rate": 0.4876,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -1820,7 +1820,7 @@
         }
       ],
       "count": 53,
-      "last_fetched": "2026-05-27T17:57:20.630488Z"
+      "last_fetched": "2026-05-28T14:38:22.969535Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -1887,6 +1887,21 @@
           "monthly_fee": null,
           "website_url": "https://www.pennsylvaniaenergy.com/list-plans/?rateClassCode=01&ldcCode=PEQ",
           "signup_url": "https://www.pennsylvaniaenergy.com/list-plans/?rateClassCode=01&ldcCode=PEQ",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Symmetry Energy Solutions LLC",
+          "rate": 3.89,
+          "rate_type": "Fixed",
+          "rate_unit": "Mcf",
+          "term_months": 8,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "With this product, you get exclusive access to Symmetry Rewards, where you earn $50 in Reward Dollars every month. Use your rewards in over 500,000 ways including local deals, restaurants, movies, online shopping, gift cards and more. That adds up to $600 in Reward Dollars each year! Plus, great bonuses like gift card giveaways, product giveaways, cash giveaways, daily deals, and more. An active account and valid email address are required. Reward eligibility is at the sole discretion of Symmetry Energy Solutions. Access to Rewards account is through symmetryrewards.com.",
+          "monthly_fee": null,
+          "website_url": "https://symmetryenergy.com/enroll/",
+          "signup_url": "https://symmetryenergy.com/enroll/",
           "bundle_required": false,
           "service_area": null
         },
@@ -1992,21 +2007,6 @@
           "monthly_fee": null,
           "website_url": "https://www.nordicenergy-us.com/",
           "signup_url": "https://www.nordicenergy-us.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Symmetry Energy Solutions LLC",
-          "rate": 3.99,
-          "rate_type": "Fixed",
-          "rate_unit": "Mcf",
-          "term_months": 8,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "With this product, you get exclusive access to Symmetry Rewards, where you earn $50 in Reward Dollars every month. Use your rewards in over 500,000 ways including local deals, restaurants, movies, online shopping, gift cards and more. That adds up to $600 in Reward Dollars each year! Plus, great bonuses like gift card giveaways, product giveaways, cash giveaways, daily deals, and more. An active account and valid email address are required. Reward eligibility is at the sole discretion of Symmetry Energy Solutions. Access to Rewards account is through symmetryrewards.com.",
-          "monthly_fee": null,
-          "website_url": "https://symmetryenergy.com/enroll/",
-          "signup_url": "https://symmetryenergy.com/enroll/",
           "bundle_required": false,
           "service_area": null
         },
@@ -2357,7 +2357,7 @@
         }
       ],
       "count": 35,
-      "last_fetched": "2026-05-27T17:57:20.834687Z"
+      "last_fetched": "2026-05-28T14:38:23.192810Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2654,7 +2654,7 @@
         }
       ],
       "count": 19,
-      "last_fetched": "2026-05-27T17:57:20.991117Z"
+      "last_fetched": "2026-05-28T14:38:23.359614Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3281,7 +3281,7 @@
         }
       ],
       "count": 41,
-      "last_fetched": "2026-05-27T17:57:21.216697Z"
+      "last_fetched": "2026-05-28T14:38:23.606311Z"
     }
   }
 }
