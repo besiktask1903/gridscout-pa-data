@@ -111,16 +111,72 @@
       "entity_name": "National Fuel Gas",
       "old_rate": 0.60493,
       "new_rate": 0.58613
+    },
+    {
+      "date": "2026-05-31T12:12:22.553870Z",
+      "type": "utility_ptc",
+      "entity_id": "peco_electric",
+      "entity_name": "PECO Energy",
+      "old_rate": 0.11024,
+      "new_rate": 0.11759
+    },
+    {
+      "date": "2026-05-31T12:12:22.553889Z",
+      "type": "utility_ptc",
+      "entity_id": "ppl_electric",
+      "entity_name": "PPL Electric Utilities",
+      "old_rate": 0.12953,
+      "new_rate": 0.13147
+    },
+    {
+      "date": "2026-05-31T12:12:22.553898Z",
+      "type": "utility_ptc",
+      "entity_id": "duquesne_light",
+      "entity_name": "Duquesne Light",
+      "old_rate": 0.1375,
+      "new_rate": 0.1414
+    },
+    {
+      "date": "2026-05-31T12:12:22.553903Z",
+      "type": "utility_ptc",
+      "entity_id": "met_ed",
+      "entity_name": "Met-Ed",
+      "old_rate": 0.12965,
+      "new_rate": 0.13951
+    },
+    {
+      "date": "2026-05-31T12:12:22.553908Z",
+      "type": "utility_ptc",
+      "entity_id": "penelec",
+      "entity_name": "Penelec",
+      "old_rate": 0.11747,
+      "new_rate": 0.13142
+    },
+    {
+      "date": "2026-05-31T12:12:22.553913Z",
+      "type": "utility_ptc",
+      "entity_id": "penn_power",
+      "entity_name": "Penn Power",
+      "old_rate": 0.12606,
+      "new_rate": 0.13477
+    },
+    {
+      "date": "2026-05-31T12:12:22.553917Z",
+      "type": "utility_ptc",
+      "entity_id": "west_penn_power",
+      "entity_name": "West Penn Power",
+      "old_rate": 0.10947,
+      "new_rate": 0.12075
     }
   ],
   "last_known_rates": {
-    "electric_ptc_ppl_electric": 0.12953,
-    "electric_ptc_peco_electric": 0.11024,
-    "electric_ptc_duquesne_light": 0.1375,
-    "electric_ptc_met_ed": 0.12965,
-    "electric_ptc_penelec": 0.11747,
-    "electric_ptc_penn_power": 0.12606,
-    "electric_ptc_west_penn_power": 0.10947,
+    "electric_ptc_ppl_electric": 0.13147,
+    "electric_ptc_peco_electric": 0.11759,
+    "electric_ptc_duquesne_light": 0.1414,
+    "electric_ptc_met_ed": 0.13951,
+    "electric_ptc_penelec": 0.13142,
+    "electric_ptc_penn_power": 0.13477,
+    "electric_ptc_west_penn_power": 0.12075,
     "gas_sco_columbia_gas_pa": 0.41582,
     "gas_sco_national_fuel_gas": 0.58613,
     "gas_sco_peoples_gas": 4.1425,

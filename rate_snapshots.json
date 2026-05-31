@@ -119,41 +119,41 @@
     {
       "month": "2026-05",
       "type": "electric",
-      "date": "2026-05-01T12:00:25.166071Z",
+      "date": "2026-05-31T12:12:22.554405Z",
       "rates": {
         "peco_electric": {
           "name": "PECO Energy",
-          "rate": 0.11024,
+          "rate": 0.11759,
           "rate_unit": "kWh"
         },
         "ppl_electric": {
           "name": "PPL Electric Utilities",
-          "rate": 0.12953,
+          "rate": 0.13147,
           "rate_unit": "kWh"
         },
         "duquesne_light": {
           "name": "Duquesne Light",
-          "rate": 0.1375,
+          "rate": 0.1414,
           "rate_unit": "kWh"
         },
         "met_ed": {
           "name": "Met-Ed",
-          "rate": 0.12965,
+          "rate": 0.13951,
           "rate_unit": "kWh"
         },
         "penelec": {
           "name": "Penelec",
-          "rate": 0.11747,
+          "rate": 0.13142,
           "rate_unit": "kWh"
         },
         "penn_power": {
           "name": "Penn Power",
-          "rate": 0.12606,
+          "rate": 0.13477,
           "rate_unit": "kWh"
         },
         "west_penn_power": {
           "name": "West Penn Power",
-          "rate": 0.10947,
+          "rate": 0.12075,
           "rate_unit": "kWh"
         }
       }

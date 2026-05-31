@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-30T18:02:32.080581Z",
+  "last_updated": "2026-05-31T12:12:22.534603Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
       "rate_unit": "kWh",
-      "ptc_rate": 0.11024,
+      "ptc_rate": 0.11759,
       "ptc_effective_date": null,
-      "ptc_previous_rate": 0.09239,
-      "ptc_previous_date": "2025-05-31",
+      "ptc_previous_rate": 0.104,
+      "ptc_previous_date": "2025-11-30",
       "suppliers": [
         {
           "name": "American Power & Gas of Pennsylvania LLC",
@@ -2731,15 +2731,15 @@
         }
       ],
       "count": 160,
-      "last_fetched": "2026-05-30T18:02:28.622310Z"
+      "last_fetched": "2026-05-31T12:12:19.209345Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
       "rate_unit": "kWh",
-      "ptc_rate": 0.12953,
+      "ptc_rate": 0.13147,
       "ptc_effective_date": null,
-      "ptc_previous_rate": 0.10771,
-      "ptc_previous_date": "2025-05-31",
+      "ptc_previous_rate": 0.1249,
+      "ptc_previous_date": "2025-11-30",
       "suppliers": [
         {
           "name": "American Power & Gas of Pennsylvania LLC",
@@ -5565,15 +5565,15 @@
         }
       ],
       "count": 166,
-      "last_fetched": "2026-05-30T18:02:29.301070Z"
+      "last_fetched": "2026-05-31T12:12:19.838717Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
       "rate_unit": "kWh",
-      "ptc_rate": 0.1375,
+      "ptc_rate": 0.1414,
       "ptc_effective_date": null,
-      "ptc_previous_rate": 0.1085,
-      "ptc_previous_date": "2025-05-31",
+      "ptc_previous_rate": 0.1243,
+      "ptc_previous_date": "2025-11-30",
       "suppliers": [
         {
           "name": "American Power & Gas of Pennsylvania LLC",
@@ -8042,15 +8042,15 @@
         }
       ],
       "count": 145,
-      "last_fetched": "2026-05-30T18:02:29.859581Z"
+      "last_fetched": "2026-05-31T12:12:20.378048Z"
     },
     "met_ed": {
       "name": "Met-Ed",
       "rate_unit": "kWh",
-      "ptc_rate": 0.12965,
+      "ptc_rate": 0.13951,
       "ptc_effective_date": null,
-      "ptc_previous_rate": 0.11011,
-      "ptc_previous_date": "2025-05-31",
+      "ptc_previous_rate": 0.11903,
+      "ptc_previous_date": "2025-11-30",
       "suppliers": [
         {
           "name": "American Power & Gas of Pennsylvania LLC",
@@ -10451,15 +10451,15 @@
         }
       ],
       "count": 141,
-      "last_fetched": "2026-05-30T18:02:30.430324Z"
+      "last_fetched": "2026-05-31T12:12:20.946137Z"
     },
     "penelec": {
       "name": "Penelec",
       "rate_unit": "kWh",
-      "ptc_rate": 0.11747,
+      "ptc_rate": 0.13142,
       "ptc_effective_date": null,
-      "ptc_previous_rate": 0.10474,
-      "ptc_previous_date": "2025-05-31",
+      "ptc_previous_rate": 0.11003,
+      "ptc_previous_date": "2025-11-30",
       "suppliers": [
         {
           "name": "American Power & Gas of Pennsylvania LLC",
@@ -12843,15 +12843,15 @@
         }
       ],
       "count": 140,
-      "last_fetched": "2026-05-30T18:02:31.000085Z"
+      "last_fetched": "2026-05-31T12:12:21.498950Z"
     },
     "penn_power": {
       "name": "Penn Power",
       "rate_unit": "kWh",
-      "ptc_rate": 0.12606,
+      "ptc_rate": 0.13477,
       "ptc_effective_date": null,
-      "ptc_previous_rate": 0.11168,
-      "ptc_previous_date": "2025-05-31",
+      "ptc_previous_rate": 0.11857,
+      "ptc_previous_date": "2025-11-30",
       "suppliers": [
         {
           "name": "American Power & Gas of Pennsylvania LLC",
@@ -14861,15 +14861,15 @@
         }
       ],
       "count": 118,
-      "last_fetched": "2026-05-30T18:02:31.529279Z"
+      "last_fetched": "2026-05-31T12:12:21.982992Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
       "rate_unit": "kWh",
-      "ptc_rate": 0.10947,
+      "ptc_rate": 0.12075,
       "ptc_effective_date": null,
-      "ptc_previous_rate": 0.09481,
-      "ptc_previous_date": "2025-05-31",
+      "ptc_previous_rate": 0.10317,
+      "ptc_previous_date": "2025-11-30",
       "suppliers": [
         {
           "name": "American Power & Gas of Pennsylvania LLC",
@@ -17100,7 +17100,7 @@
         }
       ],
       "count": 131,
-      "last_fetched": "2026-05-30T18:02:32.080369Z"
+      "last_fetched": "2026-05-31T12:12:22.534388Z"
     }
   }
 }
