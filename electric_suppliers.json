@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T14:54:26.437068Z",
+  "last_updated": "2026-06-02T18:40:35.329344Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -124,6 +124,23 @@
           "website_url": "https://shopping.publicpowercompany.com/cust/?PID=BD0139D8-05B1-49CB-828C-E3BD378B5881&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=33F8EF6F-75D1-43E9-B436-2E3F6AB90D7C&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=BD0139D8-05B1-49CB-828C-E3BD378B5881&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=33F8EF6F-75D1-43E9-B436-2E3F6AB90D7C&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.0999,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "150",
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=111853",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=111853",
+          "phone": "1-800-225-3813",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2679,8 +2696,8 @@
           "service_area": null
         }
       ],
-      "count": 157,
-      "last_fetched": "2026-06-02T14:54:23.181235Z"
+      "count": 158,
+      "last_fetched": "2026-06-02T18:40:31.923557Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -5412,7 +5429,7 @@
         }
       ],
       "count": 160,
-      "last_fetched": "2026-06-02T14:54:23.796545Z"
+      "last_fetched": "2026-06-02T18:40:32.520685Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5605,6 +5622,23 @@
           "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=47645&utm_source=PAPOWER&utm_medium=Site&utm_campaign=DUQ&utm_content=1127",
           "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=47645&utm_source=PAPOWER&utm_medium=Site&utm_campaign=DUQ&utm_content=1127",
           "phone": "8774300093",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1199,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "150",
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=111860",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=111860",
+          "phone": "1-800-225-3813",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7888,8 +7922,8 @@
           "service_area": null
         }
       ],
-      "count": 145,
-      "last_fetched": "2026-06-02T14:54:24.330183Z"
+      "count": 146,
+      "last_fetched": "2026-06-02T18:40:33.108005Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -10281,7 +10315,7 @@
         }
       ],
       "count": 140,
-      "last_fetched": "2026-06-02T14:54:24.886013Z"
+      "last_fetched": "2026-06-02T18:40:33.707239Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -12656,7 +12690,7 @@
         }
       ],
       "count": 139,
-      "last_fetched": "2026-06-02T14:54:25.427462Z"
+      "last_fetched": "2026-06-02T18:40:34.283653Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -14674,7 +14708,7 @@
         }
       ],
       "count": 118,
-      "last_fetched": "2026-06-02T14:54:25.895183Z"
+      "last_fetched": "2026-06-02T18:40:34.735481Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16913,7 +16947,7 @@
         }
       ],
       "count": 131,
-      "last_fetched": "2026-06-02T14:54:26.436864Z"
+      "last_fetched": "2026-06-02T18:40:35.329144Z"
     }
   }
 }
