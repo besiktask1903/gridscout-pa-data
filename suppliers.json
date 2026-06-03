@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T18:40:30.845496Z",
+  "last_updated": "2026-06-03T15:27:41.054499Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -701,7 +701,7 @@
         }
       ],
       "count": 46,
-      "last_fetched": "2026-06-02T18:40:29.600763Z"
+      "last_fetched": "2026-06-03T15:27:39.911280Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1028,7 +1028,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-06-02T18:40:29.795459Z"
+      "last_fetched": "2026-06-03T15:27:40.104325Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1129,6 +1129,21 @@
           "service_area": null
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.4887,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna\u2019s Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
+          "signup_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
+          "bundle_required": true,
+          "service_area": null
+        },
+        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.489,
           "rate_type": "Fixed",
@@ -1141,21 +1156,6 @@
           "website_url": "https://shopping.pagande.com/cust/?PID=F0A993AD-E01C-434B-A700-DAF2208B38A8&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=63F74057-D392-4F8A-BBD6-B9656F7D367A&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=F0A993AD-E01C-434B-A700-DAF2208B38A8&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=63F74057-D392-4F8A-BBD6-B9656F7D367A&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.4924,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna\u2019s Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
-          "signup_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
-          "bundle_required": true,
           "service_area": null
         },
         {
@@ -1654,6 +1654,21 @@
           "service_area": null
         },
         {
+          "name": "Green Mountain Energy",
+          "rate": 0.86,
+          "rate_type": "Variable",
+          "rate_unit": "Ccf",
+          "term_months": 3,
+          "early_termination_fee": null,
+          "introductory": "Yes",
+          "promotional_details": "Includes 100% carbon-offset natural gas supply. Visit the site to learn more; call 844-460-0314 for details and to enroll. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?gasSlug=peco_gas&state=pa",
+          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?gasSlug=peco_gas&state=pa",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "City Power & Gas PA",
           "rate": 0.8915,
           "rate_type": "Fixed",
@@ -1710,21 +1725,6 @@
           "monthly_fee": null,
           "website_url": "https://springpowerandgas.us/",
           "signup_url": "https://springpowerandgas.us/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Green Mountain Energy",
-          "rate": 0.9,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "Yes",
-          "promotional_details": "Includes 100% carbon-offset natural gas supply. Visit the site to learn more; call 844-460-0314 for details and to enroll. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?gasSlug=peco_gas&state=pa",
-          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?gasSlug=peco_gas&state=pa",
           "bundle_required": false,
           "service_area": null
         },
@@ -1835,7 +1835,7 @@
         }
       ],
       "count": 53,
-      "last_fetched": "2026-06-02T18:40:30.124315Z"
+      "last_fetched": "2026-06-03T15:27:40.404657Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -1917,21 +1917,6 @@
           "monthly_fee": null,
           "website_url": "https://www.pennsylvaniaenergy.com/gaspeq/",
           "signup_url": "https://www.pennsylvaniaenergy.com/gaspeq/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Symmetry Energy Solutions LLC",
-          "rate": 3.89,
-          "rate_type": "Fixed",
-          "rate_unit": "Mcf",
-          "term_months": 8,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "With this product, you get exclusive access to Symmetry Rewards, where you earn $50 in Reward Dollars every month. Use your rewards in over 500,000 ways including local deals, restaurants, movies, online shopping, gift cards and more. That adds up to $600 in Reward Dollars each year! Plus, great bonuses like gift card giveaways, product giveaways, cash giveaways, daily deals, and more. An active account and valid email address are required. Reward eligibility is at the sole discretion of Symmetry Energy Solutions. Access to Rewards account is through symmetryrewards.com.",
-          "monthly_fee": null,
-          "website_url": "https://symmetryenergy.com/enroll/",
-          "signup_url": "https://symmetryenergy.com/enroll/",
           "bundle_required": false,
           "service_area": null
         },
@@ -2022,6 +2007,21 @@
           "monthly_fee": null,
           "website_url": "https://www.nordicenergy-us.com/",
           "signup_url": "https://www.nordicenergy-us.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Symmetry Energy Solutions LLC",
+          "rate": 3.99,
+          "rate_type": "Fixed",
+          "rate_unit": "Mcf",
+          "term_months": 8,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "With this product, you get exclusive access to Symmetry Rewards, where you earn $50 in Reward Dollars every month. Use your rewards in over 500,000 ways including local deals, restaurants, movies, online shopping, gift cards and more. That adds up to $600 in Reward Dollars each year! Plus, great bonuses like gift card giveaways, product giveaways, cash giveaways, daily deals, and more. An active account and valid email address are required. Reward eligibility is at the sole discretion of Symmetry Energy Solutions. Access to Rewards account is through symmetryrewards.com.",
+          "monthly_fee": null,
+          "website_url": "https://symmetryenergy.com/enroll/",
+          "signup_url": "https://symmetryenergy.com/enroll/",
           "bundle_required": false,
           "service_area": null
         },
@@ -2387,7 +2387,7 @@
         }
       ],
       "count": 36,
-      "last_fetched": "2026-06-02T18:40:30.406602Z"
+      "last_fetched": "2026-06-03T15:27:40.625498Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2443,6 +2443,21 @@
           "service_area": null
         },
         {
+          "name": "Pennsylvania Energy",
+          "rate": 0.419,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "$10 per remaining month",
+          "introductory": "No",
+          "promotional_details": "$100 Visa\u00ae\u00a0Prepaid Reward Card - Promo Code GASPGW100. This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 12 months of your contract. If you choose our 12-Month Fixed Plan, you will be billed at a fixed price per ccf for the length of your contract.",
+          "monthly_fee": null,
+          "website_url": "https://www.pennsylvaniaenergy.com/gaspgw100/",
+          "signup_url": "https://www.pennsylvaniaenergy.com/gaspgw100/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Nordic Energy Services",
           "rate": 0.449,
           "rate_type": "Variable",
@@ -2470,21 +2485,6 @@
           "website_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PGWPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
           "signup_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PGWPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
           "bundle_required": true,
-          "service_area": null
-        },
-        {
-          "name": "Pennsylvania Energy",
-          "rate": 0.459,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "$10 per remaining month",
-          "introductory": "No",
-          "promotional_details": "$100 Visa\u00ae\u00a0Prepaid Reward Card - Promo Code GASPGW100. This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 12 months of your contract. If you choose our 12-Month Fixed Plan, you will be billed at a fixed price per ccf for the length of your contract.",
-          "monthly_fee": null,
-          "website_url": "https://www.pennsylvaniaenergy.com/gaspgw100/",
-          "signup_url": "https://www.pennsylvaniaenergy.com/gaspgw100/",
-          "bundle_required": false,
           "service_area": null
         },
         {
@@ -2654,7 +2654,7 @@
         },
         {
           "name": "Green Mountain Energy",
-          "rate": 1.31,
+          "rate": 1.25,
           "rate_type": "Variable",
           "rate_unit": "Ccf",
           "term_months": 3,
@@ -2699,7 +2699,7 @@
         }
       ],
       "count": 20,
-      "last_fetched": "2026-06-02T18:40:30.589328Z"
+      "last_fetched": "2026-06-03T15:27:40.812576Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3311,7 +3311,7 @@
         },
         {
           "name": "Green Mountain Energy",
-          "rate": 1.13,
+          "rate": 1.11,
           "rate_type": "Variable",
           "rate_unit": "Ccf",
           "term_months": 3,
@@ -3356,7 +3356,7 @@
         }
       ],
       "count": 43,
-      "last_fetched": "2026-06-02T18:40:30.845312Z"
+      "last_fetched": "2026-06-03T15:27:41.054322Z"
     }
   }
 }
