@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T15:27:41.054499Z",
+  "last_updated": "2026-06-03T19:50:44.397395Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -701,7 +701,7 @@
         }
       ],
       "count": 46,
-      "last_fetched": "2026-06-03T15:27:39.911280Z"
+      "last_fetched": "2026-06-03T19:50:43.258456Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1028,7 +1028,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-06-03T15:27:40.104325Z"
+      "last_fetched": "2026-06-03T19:50:43.467304Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1279,36 +1279,6 @@
           "service_area": null
         },
         {
-          "name": "UGI EnergyLink",
-          "rate": 0.61,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 24,
-          "early_termination_fee": "$75.00",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://ugienergylink.com/home-energy/",
-          "signup_url": "https://ugienergylink.com/home-energy/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "UGI EnergyLink",
-          "rate": 0.615,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "1st month is fixed and the remainder is variable.",
-          "monthly_fee": null,
-          "website_url": "https://ugienergylink.com/home-energy/",
-          "signup_url": "https://ugienergylink.com/home-energy/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Direct Energy",
           "rate": 0.619,
           "rate_type": "Fixed",
@@ -1320,21 +1290,6 @@
           "monthly_fee": null,
           "website_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=720",
           "signup_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=720",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "UGI EnergyLink",
-          "rate": 0.62,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "$75.00",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://ugienergylink.com/home-energy/",
-          "signup_url": "https://ugienergylink.com/home-energy/",
           "bundle_required": false,
           "service_area": null
         },
@@ -1834,8 +1789,8 @@
           "service_area": null
         }
       ],
-      "count": 53,
-      "last_fetched": "2026-06-03T15:27:40.404657Z"
+      "count": 50,
+      "last_fetched": "2026-06-03T19:50:43.750275Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2387,7 +2342,7 @@
         }
       ],
       "count": 36,
-      "last_fetched": "2026-06-03T15:27:40.625498Z"
+      "last_fetched": "2026-06-03T19:50:43.995220Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2699,7 +2654,7 @@
         }
       ],
       "count": 20,
-      "last_fetched": "2026-06-03T15:27:40.812576Z"
+      "last_fetched": "2026-06-03T19:50:44.168202Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2980,21 +2935,6 @@
           "service_area": null
         },
         {
-          "name": "UGI EnergyLink",
-          "rate": 0.715,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 24,
-          "early_termination_fee": "$75.00",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://ugienergylink.com/home-energy/",
-          "signup_url": "https://ugienergylink.com/home-energy/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Verde Energy USA Pennsylvania LLC",
           "rate": 0.715,
           "rate_type": "Fixed",
@@ -3021,36 +2961,6 @@
           "monthly_fee": null,
           "website_url": "https://shopping.pagande.com/cust/?PID=7C9322DB-DFC1-4E4C-941F-AB62E942949A&UID=0F07420A-5C99-4727-83FA-7E865EFF27E5&OID=8A4D506B-28D9-40B3-A09F-0F73FE5D1A50&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=7C9322DB-DFC1-4E4C-941F-AB62E942949A&UID=0F07420A-5C99-4727-83FA-7E865EFF27E5&OID=8A4D506B-28D9-40B3-A09F-0F73FE5D1A50&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "UGI EnergyLink",
-          "rate": 0.72,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "Yes",
-          "promotional_details": "1st month is fixed and the remainder is variable.",
-          "monthly_fee": null,
-          "website_url": "https://ugienergylink.com/home-energy/",
-          "signup_url": "https://ugienergylink.com/home-energy/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "UGI EnergyLink",
-          "rate": 0.725,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "$75.00",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://ugienergylink.com/home-energy/",
-          "signup_url": "https://ugienergylink.com/home-energy/",
           "bundle_required": false,
           "service_area": null
         },
@@ -3355,8 +3265,8 @@
           "service_area": null
         }
       ],
-      "count": 43,
-      "last_fetched": "2026-06-03T15:27:41.054322Z"
+      "count": 40,
+      "last_fetched": "2026-06-03T19:50:44.397233Z"
     }
   }
 }
