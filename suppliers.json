@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T19:50:44.397395Z",
+  "last_updated": "2026-06-04T13:57:44.528824Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -580,6 +580,21 @@
           "service_area": null
         },
         {
+          "name": "Constellation Energy",
+          "rate": 0.599,
+          "rate_type": "Variable",
+          "rate_unit": "therm",
+          "term_months": 1,
+          "early_termination_fee": "0",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://www.constellation.com/rateboard",
+          "signup_url": "http://www.constellation.com/rateboard",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Verde Energy USA Pennsylvania LLC",
           "rate": 0.599,
           "rate_type": "Fixed",
@@ -640,21 +655,6 @@
           "service_area": null
         },
         {
-          "name": "Constellation Energy",
-          "rate": 0.689,
-          "rate_type": "Variable",
-          "rate_unit": "therm",
-          "term_months": 1,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "http://www.constellation.com/rateboard",
-          "signup_url": "http://www.constellation.com/rateboard",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "IGS Energy",
           "rate": 0.699,
           "rate_type": "Fixed",
@@ -701,7 +701,7 @@
         }
       ],
       "count": 46,
-      "last_fetched": "2026-06-03T19:50:43.258456Z"
+      "last_fetched": "2026-06-04T13:57:43.152490Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1028,7 +1028,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-06-03T19:50:43.467304Z"
+      "last_fetched": "2026-06-04T13:57:43.399341Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1099,6 +1099,21 @@
           "service_area": null
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.4648,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna\u2019s Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
+          "signup_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
+          "bundle_required": true,
+          "service_area": null
+        },
+        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.479,
           "rate_type": "Fixed",
@@ -1126,21 +1141,6 @@
           "website_url": "https://shopping.pagande.com/cust/?PID=2D74D4FB-0475-496B-9A68-D9F2A51886F7&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=63F74057-D392-4F8A-BBD6-B9656F7D367A&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=2D74D4FB-0475-496B-9A68-D9F2A51886F7&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=63F74057-D392-4F8A-BBD6-B9656F7D367A&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.4887,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna\u2019s Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
-          "signup_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
-          "bundle_required": true,
           "service_area": null
         },
         {
@@ -1790,7 +1790,7 @@
         }
       ],
       "count": 50,
-      "last_fetched": "2026-06-03T19:50:43.750275Z"
+      "last_fetched": "2026-06-04T13:57:43.752190Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2342,7 +2342,7 @@
         }
       ],
       "count": 36,
-      "last_fetched": "2026-06-03T19:50:43.995220Z"
+      "last_fetched": "2026-06-04T13:57:44.029305Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2654,7 +2654,7 @@
         }
       ],
       "count": 20,
-      "last_fetched": "2026-06-03T19:50:44.168202Z"
+      "last_fetched": "2026-06-04T13:57:44.247270Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3266,7 +3266,7 @@
         }
       ],
       "count": 40,
-      "last_fetched": "2026-06-03T19:50:44.397233Z"
+      "last_fetched": "2026-06-04T13:57:44.528633Z"
     }
   }
 }
