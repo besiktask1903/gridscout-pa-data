@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T16:30:20.286933Z",
+  "last_updated": "2026-06-05T18:58:02.727208Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -605,23 +605,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1088,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment fees!  Lock in price security today with our competitive 4-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 4-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": 0.0,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Shipley Energy",
           "rate": 0.1097,
           "rate_type": "Fixed",
@@ -758,40 +741,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.1099,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "100% renewable power + a guaranteed Introductory Price = a flexible way to go green! This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 | Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": 5.95,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.11,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Polaris Power Services",
           "rate": 0.11,
           "rate_type": "Variable",
@@ -804,23 +753,6 @@
           "website_url": "https://polarispwr.com/enrollment/",
           "signup_url": "https://polarispwr.com/enrollment/",
           "phone": "866-362-9800",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1108,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 5,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 5-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 5-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -872,6 +804,23 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=71227",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=71227",
           "phone": "1-800-225-3813",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1118,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment fees!  Lock in price security today with our competitive 4-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 4-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": 0.0,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -1013,6 +962,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1138,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 5,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 5-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 5-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "AEP Energy",
           "rate": 0.1145,
           "rate_type": "Fixed",
@@ -1061,23 +1027,6 @@
           "phone": "866-752-1907",
           "renewable": "No",
           "bundle_required": true,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.1157,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
           "service_area": null
         },
         {
@@ -1268,23 +1217,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.1179,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "American Electric Rates LLC",
           "rate": 0.1187,
           "rate_type": "Fixed",
@@ -1366,40 +1298,6 @@
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=872650E1-1ECD-4B2E-9FAE-6BF1418CD01C&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=472E74C3-D881-47CA-8215-201F85E88083&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.119,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.1191,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -1489,23 +1387,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1208,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 13,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment fees!  Lock in price security today with our competitive 13-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 13-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": 0.0,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T13_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T13_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Brighten Energy",
           "rate": 0.1209,
           "rate_type": "Fixed",
@@ -1561,13 +1442,13 @@
           "rate": 0.1218,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 12,
+          "term_months": 13,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment fees!  Lock in price security today with our competitive 12-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 12-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "promotional_details": "Don't get caught paying high enrollment fees!  Lock in price security today with our competitive 13-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 13-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
           "monthly_fee": 0.0,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T13_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T13_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
@@ -1586,6 +1467,23 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=89768",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=89768",
           "phone": "1-800-225-3813",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1228,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment fees!  Lock in price security today with our competitive 12-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 12-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": 0.0,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -1676,23 +1574,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1248,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment fees!  Lock in price security today with our competitive 24-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 24-month term, plus there's no enrollment, cancellation, or monthly fees! Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": 0.0,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Dynegy",
           "rate": 0.1249,
           "rate_type": "Fixed",
@@ -1723,6 +1604,40 @@
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=4E8DDC02-51FB-4246-8E7A-1DBBFCA19CD7&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=472E74C3-D881-47CA-8215-201F85E88083&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "CleanSky Energy",
+          "rate": 0.1249,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "0",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
+          "monthly_fee": null,
+          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
+          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
+          "phone": "1-888-355-6205",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "CleanSky Energy",
+          "rate": 0.1249,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": "0",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
+          "monthly_fee": null,
+          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
+          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=40&promocode=PAPOWERZERO",
+          "phone": "1-888-355-6205",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -1775,6 +1690,23 @@
           "phone": "866-752-1907",
           "renewable": "No",
           "bundle_required": true,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1258,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment fees!  Lock in price security today with our competitive 24-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 24-month term, plus there's no enrollment, cancellation, or monthly fees! Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": 0.0,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
           "service_area": null
         },
         {
@@ -2679,8 +2611,8 @@
           "service_area": null
         }
       ],
-      "count": 157,
-      "last_fetched": "2026-06-05T16:30:17.000986Z"
+      "count": 153,
+      "last_fetched": "2026-06-05T18:57:58.611249Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -3745,40 +3677,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.1335,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=39&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=39&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1338,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment, early termination or monthly fees!  Lock in price security today with our competitive 6-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 6-month term, plus there's no enrollment, no early termination and no monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Better Buy Energy",
           "rate": 0.1339,
           "rate_type": "Fixed",
@@ -4012,6 +3910,23 @@
           "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18621",
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18621",
           "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1368,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment, early termination or monthly fees!  Lock in price security today with our competitive 6-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 6-month term, plus there's no enrollment, no early termination and no monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -4374,23 +4289,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1418,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment, early termination, or monthly fees!  Lock in price security today with our competitive 24-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 24-month term, plus there's no enrollment, no early termination, and no monthly fees! Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Brighten Energy",
           "rate": 0.1419,
           "rate_type": "Fixed",
@@ -4437,40 +4335,6 @@
           "website_url": "https://www.verdeenergy.com/get-rates/",
           "signup_url": "https://www.verdeenergy.com/get-rates/",
           "phone": "1-833-488-3125",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.1422,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=39&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=39&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.1422,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=39&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=39&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -4527,6 +4391,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1438,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment, early termination, or monthly fees!  Lock in price security today with our competitive 24-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 24-month term, plus there's no enrollment, no early termination, and no monthly fees! Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "0 Commit Energy",
           "rate": 0.1438,
           "rate_type": "Fixed",
@@ -4557,23 +4438,6 @@
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=PPL&channel_code=direct",
           "phone": "844-275-4022",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.1449,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "100% renewable power + a guaranteed Introductory Price = a flexible way to go green! This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 | Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": 5.95,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=39&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=39&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -5411,8 +5275,8 @@
           "service_area": null
         }
       ],
-      "count": 160,
-      "last_fetched": "2026-06-05T16:30:17.563177Z"
+      "count": 156,
+      "last_fetched": "2026-06-05T18:57:59.341554Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5695,23 +5559,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.1199,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "100% renewable power + a guaranteed Introductory Price = a flexible way to go green! This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 | Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": 5.95,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=42&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=42&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Clearview Energy",
           "rate": 0.1209,
           "rate_type": "Fixed",
@@ -5826,23 +5673,6 @@
           "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_5&utm_content=Duq&channel_code=direct",
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_5&utm_content=Duq&channel_code=direct",
           "phone": "844-275-4022",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.1246,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=42&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=42&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -6120,57 +5950,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.1311,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=42&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=42&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.1318,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=42&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=42&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.1318,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=42&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=42&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Clearview Energy",
           "rate": 0.1319,
           "rate_type": "Fixed",
@@ -6303,6 +6082,23 @@
           "signup_url": "https://majorenergy.com/areas/pa/",
           "phone": "1-833-488-3124",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "CleanSky Energy",
+          "rate": 0.1349,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "0",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
+          "monthly_fee": null,
+          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=42&promocode=PAPOWERZERO",
+          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=42&promocode=PAPOWERZERO",
+          "phone": "1-888-355-6205",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -7888,8 +7684,8 @@
           "service_area": null
         }
       ],
-      "count": 145,
-      "last_fetched": "2026-06-05T16:30:18.062156Z"
+      "count": 141,
+      "last_fetched": "2026-06-05T18:58:00.003257Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -8308,23 +8104,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1258,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Lock in price security today with our competitive 3-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 3-month term. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.1259,
           "rate_type": "Fixed",
@@ -8444,23 +8223,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1278,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 6-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Public Power, LLC",
           "rate": 0.1279,
           "rate_type": "Fixed",
@@ -8563,6 +8325,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1298,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Lock in price security today with our competitive 3-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 3-month term. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "American Power & Gas of Pennsylvania LLC",
           "rate": 0.1299,
           "rate_type": "Variable",
@@ -8643,6 +8422,23 @@
           "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=177",
           "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=177",
           "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1308,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 6-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -9345,23 +9141,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.1399,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "100% renewable power + a guaranteed Introductory Price = a flexible way to go green! This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 | Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": 5.95,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=43&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=43&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "American Electric Rates LLC",
           "rate": 0.1399,
           "rate_type": "Fixed",
@@ -9447,6 +9226,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1417,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 24-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 24-month term, plus there's no cancellation,  enrollment, or monthly fees! Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1418,
           "rate_type": "Fixed",
@@ -9459,23 +9255,6 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=112635",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=112635",
           "phone": "1-800-225-3813",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1418,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 24-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 24-month term, plus there's no cancellation,  enrollment, or monthly fees! Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -9838,23 +9617,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.1503,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only.\t Have a question about a plan or need help placing an order?\t Call us: 1-888-355-6205 | \t Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=43&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=43&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Direct Energy",
           "rate": 0.1509,
           "rate_type": "Fixed",
@@ -9889,23 +9651,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.1515,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=43&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=43&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "North American Power",
           "rate": 0.1519,
           "rate_type": "Fixed",
@@ -9919,23 +9664,6 @@
           "signup_url": "https://www.napower.com/#gref",
           "phone": "877-572-9965",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.1527,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=43&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=43&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -10280,8 +10008,8 @@
           "service_area": null
         }
       ],
-      "count": 140,
-      "last_fetched": "2026-06-05T16:30:18.591412Z"
+      "count": 136,
+      "last_fetched": "2026-06-05T18:58:00.725198Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -12094,23 +11822,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.1449,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "100% renewable power + a guaranteed Introductory Price = a flexible way to go green! This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 | Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": 5.95,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=44&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=44&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "WGL Energy Services",
           "rate": 0.1458,
           "rate_type": "Fixed",
@@ -12366,23 +12077,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.1551,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=44&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=44&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "NRG Home",
           "rate": 0.156,
           "rate_type": "Fixed",
@@ -12412,40 +12106,6 @@
           "website_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
           "signup_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
           "phone": "(833) 669 3080",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.1574,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=44&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=44&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.1586,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=44&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=44&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -12638,8 +12298,8 @@
           "service_area": null
         }
       ],
-      "count": 138,
-      "last_fetched": "2026-06-05T16:30:19.280633Z"
+      "count": 134,
+      "last_fetched": "2026-06-05T18:58:01.349257Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13755,23 +13415,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.1388,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=45&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=45&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Better Buy Energy",
           "rate": 0.1389,
           "rate_type": "Fixed",
@@ -13938,23 +13581,6 @@
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=87B25F5D-1281-4279-B42A-7B6FCBB93153&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=863A4C63-73E5-456F-B1F0-B226F874A39C&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.1399,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "100% renewable power + a guaranteed Introductory Price = a flexible way to go green! This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 | Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": 5.95,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=45&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=45&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -14231,23 +13857,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.1474,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 17,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=45&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=45&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Green Mountain Energy Company",
           "rate": 0.148,
           "rate_type": "Fixed",
@@ -14277,23 +13886,6 @@
           "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=penn&state=pa",
           "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=penn&state=pa",
           "phone": "855-724-6473",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.1483,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=45&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=45&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -14673,8 +14265,8 @@
           "service_area": null
         }
       ],
-      "count": 119,
-      "last_fetched": "2026-06-05T16:30:19.724084Z"
+      "count": 115,
+      "last_fetched": "2026-06-05T18:58:01.965907Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -15514,23 +15106,6 @@
           "signup_url": "https://majorenergy.com/enroll/",
           "phone": "1-833-488-3124",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.1199,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "100% renewable power + a guaranteed Introductory Price = a flexible way to go green! This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 | Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": 5.95,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=46&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=46&promocode=PAPOWERZERO",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -16895,8 +16470,8 @@
           "service_area": null
         }
       ],
-      "count": 130,
-      "last_fetched": "2026-06-05T16:30:20.286772Z"
+      "count": 129,
+      "last_fetched": "2026-06-05T18:58:02.726988Z"
     }
   }
 }
