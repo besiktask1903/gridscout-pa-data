@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T13:52:25.429787Z",
+  "last_updated": "2026-06-05T16:30:20.286933Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -532,23 +532,6 @@
           "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18303",
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18303",
           "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AEP Energy",
-          "rate": 0.1065,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "When you enroll with AEP Energy, you'll receive Reward Dollars each month for simply being our customer. Shop Reward Store and redeem your Reward Dollars towards purchases for additional savings. Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-peco&utm_source=papower&utm_medium=shopping&utm_campaign=peco_6",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-peco&utm_source=papower&utm_medium=shopping&utm_campaign=peco_6",
-          "phone": "1-877-648-1923",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2561,7 +2544,7 @@
         },
         {
           "name": "Agway Energy Services LLC",
-          "rate": 0.159,
+          "rate": 0.169,
           "rate_type": "Variable",
           "rate_unit": "kWh",
           "term_months": 0,
@@ -2696,8 +2679,8 @@
           "service_area": null
         }
       ],
-      "count": 158,
-      "last_fetched": "2026-06-05T13:52:21.999301Z"
+      "count": 157,
+      "last_fetched": "2026-06-05T16:30:17.000986Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2772,6 +2755,23 @@
           "signup_url": "https://americanpowerandgas.com/?page=5",
           "phone": "800-380-9261",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Town Square Energy",
+          "rate": 0.1117,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "6 monthly bill cycles fixed at 11.17 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 19.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=47793&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1247",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=47793&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1247",
+          "phone": "8774300093",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -2872,23 +2872,6 @@
           "monthly_fee": 19.95,
           "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=47794&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1217",
           "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=47794&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1217",
-          "phone": "8774300093",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Town Square Energy",
-          "rate": 0.1177,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "6 monthly bill cycles fixed at 11.77 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 19.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=47793&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1247",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=47793&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1247",
           "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
@@ -3541,6 +3524,23 @@
           "service_area": null
         },
         {
+          "name": "AEP Energy",
+          "rate": 0.1305,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Enroll in this price plan and you'll receive up to $60 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_12",
+          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_12",
+          "phone": "1-877-648-1923",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Shipley Energy",
           "rate": 0.1308,
           "rate_type": "Fixed",
@@ -3621,23 +3621,6 @@
           "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=112189",
           "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=112189",
           "phone": "1-800-698-5853",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AEP Energy",
-          "rate": 0.1315,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Enroll in this price plan and you'll receive up to $60 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_12",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_12",
-          "phone": "1-877-648-1923",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -3724,6 +3707,23 @@
           "signup_url": "https://shopping.brightenenergy.com/cust/?PID=8C769ACD-43AC-4D6F-9E11-DBB34D417082&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=F33E76EA-4218-452C-AB50-FCC9AD6BBB15&RFID=PAPS&PUC=1&STATE=PA&SN=BRI&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0917",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "AEP Energy",
+          "rate": 0.1335,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Enroll in this price plan and you'll receive up to $90 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_18",
+          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_18",
+          "phone": "1-877-648-1923",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -3945,23 +3945,6 @@
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=39&promocode=PAPOWERZERO",
           "phone": "1-888-355-6205",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AEP Energy",
-          "rate": 0.1355,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Enroll in this price plan and you'll receive up to $90 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_18",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_18",
-          "phone": "1-877-648-1923",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -4748,6 +4731,23 @@
           "service_area": null
         },
         {
+          "name": "AEP Energy",
+          "rate": 0.1475,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 36,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Enroll in this price plan and you'll receive up to $180 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_36",
+          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_36",
+          "phone": "1-877-648-1923",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "APG&E",
           "rate": 0.1478,
           "rate_type": "Fixed",
@@ -4816,23 +4816,6 @@
           "service_area": null
         },
         {
-          "name": "AEP Energy",
-          "rate": 0.1485,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 36,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Enroll in this price plan and you'll receive up to $180 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_36",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_36",
-          "phone": "1-877-648-1923",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "WGL Energy Services",
           "rate": 0.1485,
           "rate_type": "Fixed",
@@ -4862,6 +4845,23 @@
           "website_url": "https://account.smartenergy.com/ppl-web-only-6months?&utm_source=PUC_Site_PPL_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
           "signup_url": "https://account.smartenergy.com/ppl-web-only-6months?&utm_source=PUC_Site_PPL_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
           "phone": "(800) 702-7371",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "AEP Energy",
+          "rate": 0.1495,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 36,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Enroll in this price plan and you'll receive up to $180 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_36eco",
+          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_36eco",
+          "phone": "1-877-648-1923",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -4948,23 +4948,6 @@
           "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=7563&market_id=181",
           "phone": null,
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AEP Energy",
-          "rate": 0.1515,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 36,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Enroll in this price plan and you'll receive up to $180 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_36eco",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_36eco",
-          "phone": "1-877-648-1923",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -5088,23 +5071,6 @@
           "service_area": null
         },
         {
-          "name": "Agway Energy Services LLC",
-          "rate": 0.159,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 0,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "In order to help you make the most informed decision possible, this rate reflects our current variable rate for newly enrolled customers and includes Agway's EnergyGuard\u00ae repair program.  This valuable coverage is included with our commodity supply and provides Peace of Mind repair protection on your central a/c unit and the interior electric lines in your home.",
-          "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null,
-          "phone": "888-982-4929",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Cirro Energy",
           "rate": 0.159,
           "rate_type": "Fixed",
@@ -5203,6 +5169,23 @@
           "signup_url": "https://americanpowerandgas.com/?page=8",
           "phone": "800-380-9261",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Agway Energy Services LLC",
+          "rate": 0.169,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 0,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "In order to help you make the most informed decision possible, this rate reflects our current variable rate for newly enrolled customers and includes Agway's EnergyGuard\u00ae repair program.  This valuable coverage is included with our commodity supply and provides Peace of Mind repair protection on your central a/c unit and the interior electric lines in your home.",
+          "monthly_fee": null,
+          "website_url": null,
+          "signup_url": null,
+          "phone": "888-982-4929",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -5429,7 +5412,7 @@
         }
       ],
       "count": 160,
-      "last_fetched": "2026-06-05T13:52:22.693787Z"
+      "last_fetched": "2026-06-05T16:30:17.563177Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -6460,23 +6443,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1378,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Lock in price security today with our competitive 4-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Brighten Energy",
           "rate": 0.1379,
           "rate_type": "Fixed",
@@ -6506,6 +6472,23 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=108957",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=108957",
           "phone": "1-800-225-3813",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1388,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Lock in price security today with our competitive 3-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -6557,23 +6540,6 @@
           "website_url": "https://shopping.energyharbor.com/cust/?PID=7A9E4DBE-CB60-40ED-9564-81FFE1C63A27&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=DFC324C7-6339-4E0A-B1C8-74A8C405E464&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=7A9E4DBE-CB60-40ED-9564-81FFE1C63A27&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=DFC324C7-6339-4E0A-B1C8-74A8C405E464&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1398,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Lock in price security today with our competitive 6-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -6800,6 +6766,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1418,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Lock in price security today with our competitive 6-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Brighten Energy",
           "rate": 0.1419,
           "rate_type": "Fixed",
@@ -6851,23 +6834,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1438,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Lock in price security today with our competitive 12-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "0 Commit Energy",
           "rate": 0.1438,
           "rate_type": "Fixed",
@@ -6902,6 +6868,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1448,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Lock in price security today with our competitive 12-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Better Buy Energy",
           "rate": 0.1449,
           "rate_type": "Fixed",
@@ -6931,6 +6914,23 @@
           "website_url": "https://shopping.energyharbor.com/cust/?PID=E4407238-7008-45D8-A0B8-12CB1B354140&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=DFC324C7-6339-4E0A-B1C8-74A8C405E464&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=E4407238-7008-45D8-A0B8-12CB1B354140&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=DFC324C7-6339-4E0A-B1C8-74A8C405E464&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "AEP Energy",
+          "rate": 0.145,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Enroll in this price plan and you'll receive up to $60 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-duq&utm_source=papower&utm_medium=shopping&utm_campaign=duq_12",
+          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-duq&utm_source=papower&utm_medium=shopping&utm_campaign=duq_12",
+          "phone": "1-877-648-1923",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -6981,23 +6981,6 @@
           "monthly_fee": null,
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1458,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Lock in price security today with our competitive 24-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
@@ -7118,6 +7101,40 @@
           "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=110521",
           "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=110521",
           "phone": "1-800-698-5853",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "AEP Energy",
+          "rate": 0.1475,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Enroll in this price plan and you'll receive up to $120 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-duq&utm_source=papower&utm_medium=shopping&utm_campaign=duq_24",
+          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-duq&utm_source=papower&utm_medium=shopping&utm_campaign=duq_24",
+          "phone": "1-877-648-1923",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1478,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Lock in price security today with our competitive 24-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7276,23 +7293,6 @@
           "service_area": null
         },
         {
-          "name": "AEP Energy",
-          "rate": 0.1535,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Enroll in this price plan and you'll receive up to $60 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-duq&utm_source=papower&utm_medium=shopping&utm_campaign=duq_12",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-duq&utm_source=papower&utm_medium=shopping&utm_campaign=duq_12",
-          "phone": "1-877-648-1923",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "WGL Energy Services",
           "rate": 0.1546,
           "rate_type": "Fixed",
@@ -7357,23 +7357,6 @@
           "signup_url": "https://americanpowerandgas.com/?page=8",
           "phone": "800-380-9261",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AEP Energy",
-          "rate": 0.1565,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Enroll in this price plan and you'll receive up to $120 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-duq&utm_source=papower&utm_medium=shopping&utm_campaign=duq_24",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-duq&utm_source=papower&utm_medium=shopping&utm_campaign=duq_24",
-          "phone": "1-877-648-1923",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -7906,7 +7889,7 @@
         }
       ],
       "count": 145,
-      "last_fetched": "2026-06-05T13:52:23.242473Z"
+      "last_fetched": "2026-06-05T16:30:18.062156Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -10246,23 +10229,6 @@
           "service_area": null
         },
         {
-          "name": "Agway Energy Services LLC",
-          "rate": 0.179,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 0,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "In order to help you make the most informed decision possible, this rate reflects our current variable rate for newly enrolled customers and includes Agway's EnergyGuard\u00ae repair program.  This valuable coverage is included with our commodity supply and provides Peace of Mind repair protection on your central a/c unit and the interior electric lines in your home.",
-          "monthly_fee": null,
-          "website_url": "http://www.agwayenergy.com",
-          "signup_url": "http://www.agwayenergy.com",
-          "phone": "888-982-4929",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "IGS Energy",
           "rate": 0.1799,
           "rate_type": "Fixed",
@@ -10276,6 +10242,23 @@
           "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
           "phone": "1-800-280-4474",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Agway Energy Services LLC",
+          "rate": 0.189,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 0,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "In order to help you make the most informed decision possible, this rate reflects our current variable rate for newly enrolled customers and includes Agway's EnergyGuard\u00ae repair program.  This valuable coverage is included with our commodity supply and provides Peace of Mind repair protection on your central a/c unit and the interior electric lines in your home.",
+          "monthly_fee": null,
+          "website_url": "http://www.agwayenergy.com",
+          "signup_url": "http://www.agwayenergy.com",
+          "phone": "888-982-4929",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -10298,7 +10281,7 @@
         }
       ],
       "count": 140,
-      "last_fetched": "2026-06-05T13:52:23.816308Z"
+      "last_fetched": "2026-06-05T16:30:18.591412Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -10836,6 +10819,23 @@
           "service_area": null
         },
         {
+          "name": "AEP Energy",
+          "rate": 0.1269,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Enroll in this price plan and you'll receive up to $60 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_12",
+          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_12",
+          "phone": "1-877-648-1923",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.1269,
           "rate_type": "Fixed",
@@ -10882,23 +10882,6 @@
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AEP Energy",
-          "rate": 0.1285,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Enroll in this price plan and you'll receive up to $60 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_12",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_12",
-          "phone": "1-877-648-1923",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -11312,6 +11295,23 @@
           "service_area": null
         },
         {
+          "name": "AEP Energy",
+          "rate": 0.1335,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Enroll in this price plan and you'll receive up to $120 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_24",
+          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_24",
+          "phone": "1-877-648-1923",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Inspire Clean Energy",
           "rate": 0.1339,
           "rate_type": "Fixed",
@@ -11444,23 +11444,6 @@
           "signup_url": "https://www.verdeenergy.com/get-rates/",
           "phone": "1-833-488-3125",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AEP Energy",
-          "rate": 0.1355,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Enroll in this price plan and you'll receive up to $120 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_24",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_24",
-          "phone": "1-877-648-1923",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -11924,6 +11907,23 @@
           "service_area": null
         },
         {
+          "name": "AEP Energy",
+          "rate": 0.141,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 36,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Enroll in this price plan and you'll receive up to $180 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_36",
+          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_36",
+          "phone": "1-877-648-1923",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Alpha Gas and Electric LLC",
           "rate": 0.141,
           "rate_type": "Fixed",
@@ -11953,23 +11953,6 @@
           "website_url": "https://www.shipleyenergy.com/enrollment?product=el",
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=el",
           "phone": "866-477-9180",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AEP Energy",
-          "rate": 0.1425,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 36,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Enroll in this price plan and you'll receive up to $180 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_36",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_36",
-          "phone": "1-877-648-1923",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -12005,6 +11988,23 @@
           "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter-18?msid=720",
           "phone": "855-331-0024",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "AEP Energy",
+          "rate": 0.1435,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 36,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Enroll in this price plan and you'll receive up to $180 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_36eco",
+          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_36eco",
+          "phone": "1-877-648-1923",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -12106,23 +12106,6 @@
           "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=44&promocode=PAPOWERZERO",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=44&promocode=PAPOWERZERO",
           "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AEP Energy",
-          "rate": 0.1455,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 36,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Enroll in this price plan and you'll receive up to $180 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_36eco",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_36eco",
-          "phone": "1-877-648-1923",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -12468,23 +12451,6 @@
           "service_area": null
         },
         {
-          "name": "Agway Energy Services LLC",
-          "rate": 0.159,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 0,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "In order to help you make the most informed decision possible, this rate reflects our current variable rate for newly enrolled customers and includes Agway's EnergyGuard\u00ae repair program.  This valuable coverage is included with our commodity supply and provides Peace of Mind repair protection on your central a/c unit and the interior electric lines in your home.",
-          "monthly_fee": null,
-          "website_url": "http://www.agwayenergy.com",
-          "signup_url": "http://www.agwayenergy.com",
-          "phone": "888-982-4929",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Green Mountain Energy Company",
           "rate": 0.159,
           "rate_type": "Fixed",
@@ -12638,6 +12604,23 @@
           "service_area": null
         },
         {
+          "name": "Agway Energy Services LLC",
+          "rate": 0.179,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 0,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "In order to help you make the most informed decision possible, this rate reflects our current variable rate for newly enrolled customers and includes Agway's EnergyGuard\u00ae repair program.  This valuable coverage is included with our commodity supply and provides Peace of Mind repair protection on your central a/c unit and the interior electric lines in your home.",
+          "monthly_fee": null,
+          "website_url": "http://www.agwayenergy.com",
+          "signup_url": "http://www.agwayenergy.com",
+          "phone": "888-982-4929",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Park Power",
           "rate": 0.2099,
           "rate_type": "Fixed",
@@ -12656,7 +12639,7 @@
         }
       ],
       "count": 138,
-      "last_fetched": "2026-06-05T13:52:24.375228Z"
+      "last_fetched": "2026-06-05T16:30:19.280633Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -14639,23 +14622,6 @@
           "service_area": null
         },
         {
-          "name": "Agway Energy Services LLC",
-          "rate": 0.179,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 0,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "In order to help you make the most informed decision possible, this rate reflects our current variable rate for newly enrolled customers and includes Agway's EnergyGuard\u00ae repair program.  This valuable coverage is included with our commodity supply and provides Peace of Mind repair protection on your central a/c unit and the interior electric lines in your home.",
-          "monthly_fee": null,
-          "website_url": "http://www.agwayenergy.com",
-          "signup_url": "http://www.agwayenergy.com",
-          "phone": "888-982-4929",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "IGS Energy",
           "rate": 0.1799,
           "rate_type": "Fixed",
@@ -14688,10 +14654,27 @@
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
+        },
+        {
+          "name": "Agway Energy Services LLC",
+          "rate": 0.189,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 0,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "In order to help you make the most informed decision possible, this rate reflects our current variable rate for newly enrolled customers and includes Agway's EnergyGuard\u00ae repair program.  This valuable coverage is included with our commodity supply and provides Peace of Mind repair protection on your central a/c unit and the interior electric lines in your home.",
+          "monthly_fee": null,
+          "website_url": "http://www.agwayenergy.com",
+          "signup_url": "http://www.agwayenergy.com",
+          "phone": "888-982-4929",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
         }
       ],
       "count": 119,
-      "last_fetched": "2026-06-05T13:52:24.871000Z"
+      "last_fetched": "2026-06-05T16:30:19.724084Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -15093,23 +15076,6 @@
           "service_area": null
         },
         {
-          "name": "AEP Energy",
-          "rate": 0.1125,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "When you enroll with AEP Energy, you'll receive Reward Dollars each month for simply being our customer. Shop Reward Store and redeem your Reward Dollars towards purchases for additional savings. Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-wpp&utm_source=papower&utm_medium=shopping&utm_campaign=wpp_6",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-wpp&utm_source=papower&utm_medium=shopping&utm_campaign=wpp_6",
-          "phone": "1-877-648-1923",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1129,
           "rate_type": "Fixed",
@@ -15139,6 +15105,23 @@
           "website_url": "https://shopping.pagande.com/cust/?PID=B5DD0E6D-2A75-4691-B347-A085F81957E6&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=9B510F6B-B70C-449C-BEA6-E3354B3CAF27&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=B5DD0E6D-2A75-4691-B347-A085F81957E6&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=9B510F6B-B70C-449C-BEA6-E3354B3CAF27&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "AEP Energy",
+          "rate": 0.1135,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Enroll in this price plan and you'll receive up to $60 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-wpp&utm_source=papower&utm_medium=shopping&utm_campaign=wpp_12",
+          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-wpp&utm_source=papower&utm_medium=shopping&utm_campaign=wpp_12",
+          "phone": "1-877-648-1923",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -15241,6 +15224,23 @@
           "website_url": "https://signup.sparkenergy.com/",
           "signup_url": "https://signup.sparkenergy.com/",
           "phone": "(877) 346-0861",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "AEP Energy",
+          "rate": 0.1165,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Enroll in this price plan and you'll receive up to $90 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-wpp&utm_source=papower&utm_medium=shopping&utm_campaign=wpp_18",
+          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-wpp&utm_source=papower&utm_medium=shopping&utm_campaign=wpp_18",
+          "phone": "1-877-648-1923",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -15360,23 +15360,6 @@
           "website_url": "https://shopping.energyharbor.com/cust/?PID=55A16B80-007A-4D37-BBA6-3F6FF8B39586&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=AC85D331-224B-4E08-B9E9-7D5D3F8E3D77&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=55A16B80-007A-4D37-BBA6-3F6FF8B39586&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=AC85D331-224B-4E08-B9E9-7D5D3F8E3D77&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AEP Energy",
-          "rate": 0.1185,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Enroll in this price plan and you'll receive up to $60 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-wpp&utm_source=papower&utm_medium=shopping&utm_campaign=wpp_12",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-wpp&utm_source=papower&utm_medium=shopping&utm_campaign=wpp_12",
-          "phone": "1-877-648-1923",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -15564,23 +15547,6 @@
           "website_url": "https://vistaenergymarketing.com/commodity/electricity/wpp/wpp-secure-3/",
           "signup_url": "https://vistaenergymarketing.com/commodity/electricity/wpp/wpp-secure-3/",
           "phone": "888-508-4782",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AEP Energy",
-          "rate": 0.1205,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Enroll in this price plan and you'll receive up to $90 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-wpp&utm_source=papower&utm_medium=shopping&utm_campaign=wpp_18",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-wpp&utm_source=papower&utm_medium=shopping&utm_campaign=wpp_18",
-          "phone": "1-877-648-1923",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -16062,6 +16028,23 @@
           "service_area": null
         },
         {
+          "name": "AEP Energy",
+          "rate": 0.1285,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 36,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Enroll in this price plan and you'll receive up to $180 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-wpp&utm_source=papower&utm_medium=shopping&utm_campaign=wpp_36",
+          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-wpp&utm_source=papower&utm_medium=shopping&utm_campaign=wpp_36",
+          "phone": "1-877-648-1923",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "WGL Energy Services",
           "rate": 0.1287,
           "rate_type": "Variable",
@@ -16334,6 +16317,23 @@
           "service_area": null
         },
         {
+          "name": "AEP Energy",
+          "rate": 0.1309,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 36,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Enroll in this price plan and you'll receive up to $180 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-wpp&utm_source=papower&utm_medium=shopping&utm_campaign=wpp_36eco",
+          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-wpp&utm_source=papower&utm_medium=shopping&utm_campaign=wpp_36eco",
+          "phone": "1-877-648-1923",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "SmartEnergy",
           "rate": 0.131,
           "rate_type": "Fixed",
@@ -16487,23 +16487,6 @@
           "service_area": null
         },
         {
-          "name": "AEP Energy",
-          "rate": 0.1335,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 36,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Enroll in this price plan and you'll receive up to $180 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-wpp&utm_source=papower&utm_medium=shopping&utm_campaign=wpp_36",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-wpp&utm_source=papower&utm_medium=shopping&utm_campaign=wpp_36",
-          "phone": "1-877-648-1923",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "0 Commit Energy",
           "rate": 0.1338,
           "rate_type": "Fixed",
@@ -16601,23 +16584,6 @@
           "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=wpp&state=pa",
           "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=wpp&state=pa",
           "phone": "855-724-6473",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AEP Energy",
-          "rate": 0.1365,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 36,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Enroll in this price plan and you'll receive up to $180 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-wpp&utm_source=papower&utm_medium=shopping&utm_campaign=wpp_36eco",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-wpp&utm_source=papower&utm_medium=shopping&utm_campaign=wpp_36eco",
-          "phone": "1-877-648-1923",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -16929,8 +16895,8 @@
           "service_area": null
         }
       ],
-      "count": 131,
-      "last_fetched": "2026-06-05T13:52:25.429555Z"
+      "count": 130,
+      "last_fetched": "2026-06-05T16:30:20.286772Z"
     }
   }
 }

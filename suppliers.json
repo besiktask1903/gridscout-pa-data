@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T13:52:20.807117Z",
+  "last_updated": "2026-06-05T16:30:15.871647Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -626,7 +626,7 @@
         },
         {
           "name": "Agway Energy Services",
-          "rate": 0.619,
+          "rate": 0.649,
           "rate_type": "Variable",
           "rate_unit": "therm",
           "term_months": 0,
@@ -701,7 +701,7 @@
         }
       ],
       "count": 46,
-      "last_fetched": "2026-06-05T13:52:19.502673Z"
+      "last_fetched": "2026-06-05T16:30:14.469407Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -952,21 +952,6 @@
           "service_area": null
         },
         {
-          "name": "Agway Energy Services",
-          "rate": 0.819,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 0,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "To help you make the most informed decision, this rate reflects our current variable rate for newly enrolled customers and includes Agway\u2019s EnergyGuard\u00ae repair program. This valuable coverage comes with your commodity supply and provides around-the-clock peace-of-mind repair protection for your primary furnace or boiler in your home, 24 hours a day, 7 days a week.",
-          "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null,
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "IDT Energy Inc.",
           "rate": 0.8257,
           "rate_type": "Fixed",
@@ -978,6 +963,21 @@
           "monthly_fee": null,
           "website_url": "https://idtenergy.com/get-started/account-information/?filter_offerid=106967&filter_utility=NFG&filter_rate=60.750&filter_offerenddate=02/28/2018&filter_commodity=G&filter_etf=No&filter_ratetype=Fixed&filter_energytype=Brown&filter_campaign=default",
           "signup_url": "https://idtenergy.com/get-started/account-information/?filter_offerid=106967&filter_utility=NFG&filter_rate=60.750&filter_offerenddate=02/28/2018&filter_commodity=G&filter_etf=No&filter_ratetype=Fixed&filter_energytype=Brown&filter_campaign=default",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Agway Energy Services",
+          "rate": 0.829,
+          "rate_type": "Variable",
+          "rate_unit": "Ccf",
+          "term_months": 0,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "To help you make the most informed decision, this rate reflects our current variable rate for newly enrolled customers and includes Agway\u2019s EnergyGuard\u00ae repair program. This valuable coverage comes with your commodity supply and provides around-the-clock peace-of-mind repair protection for your primary furnace or boiler in your home, 24 hours a day, 7 days a week.",
+          "monthly_fee": null,
+          "website_url": null,
+          "signup_url": null,
           "bundle_required": false,
           "service_area": null
         },
@@ -1028,7 +1028,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-06-05T13:52:19.726357Z"
+      "last_fetched": "2026-06-05T16:30:14.799694Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1505,7 +1505,7 @@
         },
         {
           "name": "Agway Energy Services",
-          "rate": 0.769,
+          "rate": 0.779,
           "rate_type": "Variable",
           "rate_unit": "Ccf",
           "term_months": 0,
@@ -1790,7 +1790,7 @@
         }
       ],
       "count": 50,
-      "last_fetched": "2026-06-05T13:52:20.053079Z"
+      "last_fetched": "2026-06-05T16:30:15.139259Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2282,7 +2282,7 @@
         },
         {
           "name": "Agway Energy Services",
-          "rate": 6.89,
+          "rate": 6.79,
           "rate_type": "Variable",
           "rate_unit": "Mcf",
           "term_months": 0,
@@ -2342,7 +2342,7 @@
         }
       ],
       "count": 36,
-      "last_fetched": "2026-06-05T13:52:20.318957Z"
+      "last_fetched": "2026-06-05T16:30:15.377449Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2654,7 +2654,7 @@
         }
       ],
       "count": 20,
-      "last_fetched": "2026-06-05T13:52:20.534600Z"
+      "last_fetched": "2026-06-05T16:30:15.607861Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3266,7 +3266,7 @@
         }
       ],
       "count": 40,
-      "last_fetched": "2026-06-05T13:52:20.806938Z"
+      "last_fetched": "2026-06-05T16:30:15.871470Z"
     }
   }
 }
