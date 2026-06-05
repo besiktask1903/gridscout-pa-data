@@ -167,6 +167,14 @@
       "entity_name": "West Penn Power",
       "old_rate": 0.10947,
       "new_rate": 0.12075
+    },
+    {
+      "date": "2026-06-05T13:52:20.811147Z",
+      "type": "utility_sco",
+      "entity_id": "pgw",
+      "entity_name": "Philadelphia Gas Works",
+      "old_rate": 0.50021,
+      "new_rate": 0.50139
     }
   ],
   "last_known_rates": {
@@ -180,7 +188,7 @@
     "gas_sco_columbia_gas_pa": 0.41582,
     "gas_sco_national_fuel_gas": 0.58613,
     "gas_sco_peoples_gas": 4.1425,
-    "gas_sco_pgw": 0.50021,
+    "gas_sco_pgw": 0.50139,
     "gas_sco_ugi_gas": 0.76795,
     "gas_sco_peco_gas": 0.67301
   }
