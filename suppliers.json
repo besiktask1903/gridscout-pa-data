@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T18:05:18.613510Z",
+  "last_updated": "2026-06-08T14:49:20.404258Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -701,7 +701,7 @@
         }
       ],
       "count": 46,
-      "last_fetched": "2026-06-07T18:05:16.524704Z"
+      "last_fetched": "2026-06-08T14:49:19.235410Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1028,7 +1028,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-06-07T18:05:17.219520Z"
+      "last_fetched": "2026-06-08T14:49:19.425791Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1174,6 +1174,21 @@
           "service_area": null
         },
         {
+          "name": "nTherm LLC",
+          "rate": 0.499,
+          "rate_type": "Variable",
+          "rate_unit": "Ccf",
+          "term_months": 1,
+          "early_termination_fee": "0",
+          "introductory": "Yes",
+          "promotional_details": "20% rebate on the average months energy supply charge after 12 consecutive months with nTherm as the Competitive Natural Gas Supplier",
+          "monthly_fee": null,
+          "website_url": null,
+          "signup_url": null,
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "SFE Energy Pennsylvania, Inc.",
           "rate": 0.529,
           "rate_type": "Fixed",
@@ -1290,21 +1305,6 @@
           "monthly_fee": null,
           "website_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=720",
           "signup_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=720",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "nTherm LLC",
-          "rate": 0.624,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 1,
-          "early_termination_fee": "0",
-          "introductory": "Yes",
-          "promotional_details": "20% rebate on the average months energy supply charge after 12 consecutive months with nTherm as the Competitive Natural Gas Supplier",
-          "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null,
           "bundle_required": false,
           "service_area": null
         },
@@ -1790,7 +1790,7 @@
         }
       ],
       "count": 50,
-      "last_fetched": "2026-06-07T18:05:17.661785Z"
+      "last_fetched": "2026-06-08T14:49:19.737785Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2342,7 +2342,7 @@
         }
       ],
       "count": 36,
-      "last_fetched": "2026-06-07T18:05:18.132576Z"
+      "last_fetched": "2026-06-08T14:49:19.971857Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2654,7 +2654,7 @@
         }
       ],
       "count": 20,
-      "last_fetched": "2026-06-07T18:05:18.354856Z"
+      "last_fetched": "2026-06-08T14:49:20.160177Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2696,10 +2696,10 @@
         },
         {
           "name": "nTherm LLC",
-          "rate": 0.543,
+          "rate": 0.629,
           "rate_type": "Variable",
           "rate_unit": "Ccf",
-          "term_months": 0,
+          "term_months": 1,
           "early_termination_fee": null,
           "introductory": "Yes",
           "promotional_details": "20% rebate on the average months energy supply charge after 12 consecutive months with nTherm as the Competitive Natural Gas Supplier",
@@ -3266,7 +3266,7 @@
         }
       ],
       "count": 40,
-      "last_fetched": "2026-06-07T18:05:18.613347Z"
+      "last_fetched": "2026-06-08T14:49:20.404103Z"
     }
   }
 }
