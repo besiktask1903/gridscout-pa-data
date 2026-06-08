@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T14:49:20.404258Z",
+  "last_updated": "2026-06-08T17:55:20.710256Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -355,6 +355,36 @@
           "service_area": null
         },
         {
+          "name": "Constellation Energy",
+          "rate": 0.519,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 12,
+          "early_termination_fee": "$150",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://www.constellation.com/rateboard",
+          "signup_url": "http://www.constellation.com/rateboard",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Constellation Energy",
+          "rate": 0.519,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 24,
+          "early_termination_fee": "$150",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://www.constellation.com/rateboard",
+          "signup_url": "http://www.constellation.com/rateboard",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Symmetry Energy Solutions LLC",
           "rate": 0.525,
           "rate_type": "Fixed",
@@ -396,36 +426,6 @@
           "monthly_fee": null,
           "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=64&promocode=PAGASZERO",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=64&promocode=PAGASZERO",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Constellation Energy",
-          "rate": 0.539,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 12,
-          "early_termination_fee": "$150",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "http://www.constellation.com/rateboard",
-          "signup_url": "http://www.constellation.com/rateboard",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Constellation Energy",
-          "rate": 0.539,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 24,
-          "early_termination_fee": "$150",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "http://www.constellation.com/rateboard",
-          "signup_url": "http://www.constellation.com/rateboard",
           "bundle_required": false,
           "service_area": null
         },
@@ -701,7 +701,7 @@
         }
       ],
       "count": 46,
-      "last_fetched": "2026-06-08T14:49:19.235410Z"
+      "last_fetched": "2026-06-08T17:55:19.558955Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1028,7 +1028,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-06-08T14:49:19.425791Z"
+      "last_fetched": "2026-06-08T17:55:19.779765Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1729,21 +1729,6 @@
           "service_area": null
         },
         {
-          "name": "1776 Energy",
-          "rate": 0.933,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=42644&market_id=179",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=42644&market_id=179",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Frontier Utilities",
           "rate": 1.069,
           "rate_type": "Fixed",
@@ -1787,10 +1772,25 @@
           "signup_url": null,
           "bundle_required": false,
           "service_area": null
+        },
+        {
+          "name": "1776 Energy",
+          "rate": 892.0,
+          "rate_type": "Variable",
+          "rate_unit": "Ccf",
+          "term_months": 3,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": null,
+          "signup_url": null,
+          "bundle_required": false,
+          "service_area": null
         }
       ],
       "count": 50,
-      "last_fetched": "2026-06-08T14:49:19.737785Z"
+      "last_fetched": "2026-06-08T17:55:20.059554Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2342,7 +2342,7 @@
         }
       ],
       "count": 36,
-      "last_fetched": "2026-06-08T14:49:19.971857Z"
+      "last_fetched": "2026-06-08T17:55:20.285424Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2624,7 +2624,7 @@
         },
         {
           "name": "1776 Energy",
-          "rate": 1.358,
+          "rate": 1.296,
           "rate_type": "Variable",
           "rate_unit": "Ccf",
           "term_months": 3,
@@ -2654,7 +2654,7 @@
         }
       ],
       "count": 20,
-      "last_fetched": "2026-06-08T14:49:20.160177Z"
+      "last_fetched": "2026-06-08T17:55:20.472412Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3251,7 +3251,7 @@
         },
         {
           "name": "1776 Energy",
-          "rate": 1.172,
+          "rate": 1.151,
           "rate_type": "Variable",
           "rate_unit": "Ccf",
           "term_months": 3,
@@ -3266,7 +3266,7 @@
         }
       ],
       "count": 40,
-      "last_fetched": "2026-06-08T14:49:20.404103Z"
+      "last_fetched": "2026-06-08T17:55:20.710089Z"
     }
   }
 }
