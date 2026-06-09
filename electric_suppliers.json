@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T13:45:25.442461Z",
+  "last_updated": "2026-06-09T16:32:03.647526Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -209,6 +209,23 @@
           "website_url": "https://secure.cirroenergy.com/landing/shop/",
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Better Buy Energy",
+          "rate": 0.1009,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Your energy efficiency could qualify you for the Load Factor rate. If your home uses energy in a steady, balanced way through the year, rather than in big seasonal or short-term bursts, it means your energy habits are smooth and efficient, and could earn you the offered rate.",
+          "monthly_fee": null,
+          "website_url": "https://shopping.betterbuyenergy.com/cust/?PID=7EF6E64A-5E8C-43DE-B45A-27F733DFD286&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=137BDCAD-7D61-4E21-B72B-55C338B5A8A9&RFID=PAPS&PUC=1&STATE=PA&SN=BBE&CT=E&PromoCode=LOADFACTORRB",
+          "signup_url": "https://shopping.betterbuyenergy.com/cust/?PID=7EF6E64A-5E8C-43DE-B45A-27F733DFD286&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=137BDCAD-7D61-4E21-B72B-55C338B5A8A9&RFID=PAPS&PUC=1&STATE=PA&SN=BBE&CT=E&PromoCode=LOADFACTORRB",
+          "phone": "833-200-9831",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -775,23 +792,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1118,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment fees!  Lock in price security today with our competitive 4-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 4-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": 0.0,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Brighten Energy",
           "rate": 0.1119,
           "rate_type": "Fixed",
@@ -928,23 +928,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1138,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 5,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 5-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 5-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "AAA Energy by Santanna",
           "rate": 0.1143,
           "rate_type": "Fixed",
@@ -996,6 +979,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1148,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment fees!  Lock in price security today with our competitive 4-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 4-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": 0.0,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "0 Commit Energy",
           "rate": 0.1148,
           "rate_type": "Fixed",
@@ -1008,6 +1008,23 @@
           "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=107243",
           "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=107243",
           "phone": "1-800-698-5853",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1158,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 5,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 5-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 5-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2628,8 +2645,8 @@
           "service_area": null
         }
       ],
-      "count": 154,
-      "last_fetched": "2026-06-09T13:45:22.129327Z"
+      "count": 155,
+      "last_fetched": "2026-06-09T16:31:59.546962Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -3031,6 +3048,23 @@
           "service_area": null
         },
         {
+          "name": "Better Buy Energy",
+          "rate": 0.1249,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Your energy efficiency could qualify you for the Load Factor rate. If your home uses energy in a steady, balanced way through the year, rather than in big seasonal or short-term bursts, it means your energy habits are smooth and efficient, and could earn you the offered rate.",
+          "monthly_fee": null,
+          "website_url": "https://shopping.betterbuyenergy.com/cust/?PID=344B9787-081F-4CFF-8E9B-6D49C5F15CC6&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=C2D6B92F-7558-4F73-9182-AC8A0242DE75&RFID=PAPS&PUC=1&STATE=PA&SN=BBE&CT=E&PromoCode=LOADFACTORRB",
+          "signup_url": "https://shopping.betterbuyenergy.com/cust/?PID=344B9787-081F-4CFF-8E9B-6D49C5F15CC6&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=C2D6B92F-7558-4F73-9182-AC8A0242DE75&RFID=PAPS&PUC=1&STATE=PA&SN=BBE&CT=E&PromoCode=LOADFACTORRB",
+          "phone": "833-200-9831",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Public Power, LLC",
           "rate": 0.1249,
           "rate_type": "Fixed",
@@ -3264,23 +3298,6 @@
           "website_url": "https://energycoopofamerica.org/services/residential-electric/",
           "signup_url": "https://energycoopofamerica.org/services/residential-electric/",
           "phone": "1-800-422-1475",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AEP Energy",
-          "rate": 0.1275,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Enroll in this price plan and you'll receive up to $30 Reward Dollars over the course of the plan to use in AEP Energy Reward Store, our one-stop online marketplace filled with a variety of energy-saving products for your home, available exclusively for AEP Energy customers!  Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_6",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_6",
-          "phone": "1-877-648-1923",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -3711,23 +3728,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1334,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment, early termination or monthly fees!  Lock in price security today with our competitive 6-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 6-month term, plus there's no enrollment, no early termination and no monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "AEP Energy",
           "rate": 0.1335,
           "rate_type": "Fixed",
@@ -3910,6 +3910,23 @@
           "website_url": "https://renaissancepowerandgas.com",
           "signup_url": "https://renaissancepowerandgas.com",
           "phone": "888-811-0877",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1358,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 7,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment, early termination or monthly fees!  Lock in price security today with our competitive 7-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 7-month term, plus there's no enrollment, no early termination and no monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -5293,7 +5310,7 @@
         }
       ],
       "count": 156,
-      "last_fetched": "2026-06-09T13:45:22.733240Z"
+      "last_fetched": "2026-06-09T16:32:00.305418Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5623,6 +5640,23 @@
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_5&utm_content=Duq&channel_code=direct",
           "phone": "844-275-4022",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Better Buy Energy",
+          "rate": 0.1229,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Your energy efficiency could qualify you for the Load Factor rate. If your home uses energy in a steady, balanced way through the year, rather than in big seasonal or short-term bursts, it means your energy habits are smooth and efficient, and could earn you the offered rate.",
+          "monthly_fee": null,
+          "website_url": "https://shopping.betterbuyenergy.com/cust/?PID=2D09E188-DD28-489A-B38C-9860DA9EBDBB&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=E65F553C-3161-419F-B20C-E9BC8D6B2540&RFID=PAPS&PUC=1&STATE=PA&SN=BBE&CT=E&PromoCode=LOADFACTORRB",
+          "signup_url": "https://shopping.betterbuyenergy.com/cust/?PID=2D09E188-DD28-489A-B38C-9860DA9EBDBB&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=E65F553C-3161-419F-B20C-E9BC8D6B2540&RFID=PAPS&PUC=1&STATE=PA&SN=BBE&CT=E&PromoCode=LOADFACTORRB",
+          "phone": "833-200-9831",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -6268,23 +6302,6 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=108957",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=108957",
           "phone": "1-800-225-3813",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1388,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Lock in price security today with our competitive 3-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7702,7 +7719,7 @@
         }
       ],
       "count": 141,
-      "last_fetched": "2026-06-09T13:45:23.301794Z"
+      "last_fetched": "2026-06-09T16:32:00.978101Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -7946,6 +7963,23 @@
           "website_url": "https://shopping.publicpowercompany.com/cust/?PID=5815575C-062B-4E42-965C-4A04FADA5365&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=8687EA4E-34FD-4062-8E99-ECB17B852BE4&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=5815575C-062B-4E42-965C-4A04FADA5365&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=8687EA4E-34FD-4062-8E99-ECB17B852BE4&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Better Buy Energy",
+          "rate": 0.1219,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Your energy efficiency could qualify you for the Load Factor rate. If your home uses energy in a steady, balanced way through the year, rather than in big seasonal or short-term bursts, it means your energy habits are smooth and efficient, and could earn you the offered rate.",
+          "monthly_fee": null,
+          "website_url": "https://shopping.betterbuyenergy.com/cust/?PID=0FD792C5-262F-44BD-AA17-EB53F504BC5D&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=1CBCE474-A17E-4B15-994A-7F28BE98C2B0&RFID=PAPS&PUC=1&STATE=PA&SN=BBE&CT=E&PromoCode=LOADFACTORRB",
+          "signup_url": "https://shopping.betterbuyenergy.com/cust/?PID=0FD792C5-262F-44BD-AA17-EB53F504BC5D&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=1CBCE474-A17E-4B15-994A-7F28BE98C2B0&RFID=PAPS&PUC=1&STATE=PA&SN=BBE&CT=E&PromoCode=LOADFACTORRB",
+          "phone": "833-200-9831",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -8291,23 +8325,6 @@
           "service_area": null
         },
         {
-          "name": "AEP Energy",
-          "rate": 0.1285,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "When you enroll with AEP Energy, you'll receive Reward Dollars each month for simply being our customer. Shop Reward Store and redeem your Reward Dollars towards purchases for additional savings. Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-meted&utm_source=papower&utm_medium=shopping&utm_campaign=meted_6",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-meted&utm_source=papower&utm_medium=shopping&utm_campaign=meted_6",
-          "phone": "1-877-648-1923",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1288,
           "rate_type": "Fixed",
@@ -8354,23 +8371,6 @@
           "website_url": "https://shopping.publicpowercompany.com/cust/?PID=1B3E6A80-79C0-499F-AEF1-0A787D77E2E6&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=8687EA4E-34FD-4062-8E99-ECB17B852BE4&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=1B3E6A80-79C0-499F-AEF1-0A787D77E2E6&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=8687EA4E-34FD-4062-8E99-ECB17B852BE4&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1298,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Lock in price security today with our competitive 3-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 3-month term. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -10059,8 +10059,8 @@
           "service_area": null
         }
       ],
-      "count": 138,
-      "last_fetched": "2026-06-09T13:45:23.882323Z"
+      "count": 137,
+      "last_fetched": "2026-06-09T16:32:01.657458Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -10445,23 +10445,6 @@
           "service_area": null
         },
         {
-          "name": "AEP Energy",
-          "rate": 0.1225,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "When you enroll with AEP Energy, you'll receive Reward Dollars each month for simply being our customer. Shop Reward Store and redeem your Reward Dollars towards purchases for additional savings. Offer is valid for both new and existing customers. For more information, visit AEPenergyrewardstore.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_6",
-          "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_6",
-          "phone": "1-877-648-1923",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Better Buy Energy",
           "rate": 0.1239,
           "rate_type": "Fixed",
@@ -10491,6 +10474,23 @@
           "website_url": "https://shopping.energyharbor.com/cust/?PID=54E6916F-A130-4336-B631-254FE5AE67EB&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=300C98BC-C66C-4C25-9E84-9DBDBD815860&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=54E6916F-A130-4336-B631-254FE5AE67EB&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=300C98BC-C66C-4C25-9E84-9DBDBD815860&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Better Buy Energy",
+          "rate": 0.1249,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Your energy efficiency could qualify you for the Load Factor rate. If your home uses energy in a steady, balanced way through the year, rather than in big seasonal or short-term bursts, it means your energy habits are smooth and efficient, and could earn you the offered rate.",
+          "monthly_fee": null,
+          "website_url": "https://shopping.betterbuyenergy.com/cust/?PID=D3897BFC-E267-4629-9611-2D960FFFD4AC&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=17CBA3AC-87A6-49EB-82BA-FE0FAF920D91&RFID=PAPS&PUC=1&STATE=PA&SN=BBE&CT=E&PromoCode=LOADFACTORRB",
+          "signup_url": "https://shopping.betterbuyenergy.com/cust/?PID=D3897BFC-E267-4629-9611-2D960FFFD4AC&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=17CBA3AC-87A6-49EB-82BA-FE0FAF920D91&RFID=PAPS&PUC=1&STATE=PA&SN=BBE&CT=E&PromoCode=LOADFACTORRB",
+          "phone": "833-200-9831",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -12367,7 +12367,7 @@
         }
       ],
       "count": 135,
-      "last_fetched": "2026-06-09T13:45:24.425795Z"
+      "last_fetched": "2026-06-09T16:32:02.329844Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -12509,6 +12509,23 @@
           "website_url": null,
           "signup_url": null,
           "phone": "888-865-3402",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Better Buy Energy",
+          "rate": 0.1199,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Your energy efficiency could qualify you for the Load Factor rate. If your home uses energy in a steady, balanced way through the year, rather than in big seasonal or short-term bursts, it means your energy habits are smooth and efficient, and could earn you the offered rate.",
+          "monthly_fee": null,
+          "website_url": "https://shopping.betterbuyenergy.com/cust/?PID=1254116B-DFD1-4BB6-891B-FCB1DB8D611C&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=B0EB23C1-5444-4E2E-A8DB-28DCE2C2AC4A&RFID=PAPS&PUC=1&STATE=PA&SN=BBE&CT=E&PromoCode=LOADFACTORRB",
+          "signup_url": "https://shopping.betterbuyenergy.com/cust/?PID=1254116B-DFD1-4BB6-891B-FCB1DB8D611C&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=B0EB23C1-5444-4E2E-A8DB-28DCE2C2AC4A&RFID=PAPS&PUC=1&STATE=PA&SN=BBE&CT=E&PromoCode=LOADFACTORRB",
+          "phone": "833-200-9831",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -13041,23 +13058,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1328,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 5,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment, early termination or monthly fees!  Lock in price security today with our competitive 5-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 5-month term, plus there's no enrollment, no early termination and no monthly fees!! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPW_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPW_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Dynegy",
           "rate": 0.1329,
           "rate_type": "Variable",
@@ -13070,23 +13070,6 @@
           "website_url": "https://shopping.dynegy.com/cust/?PID=F4478231-3EF5-4BC1-87D3-84AA9C1F816F&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=1FECDF57-7F83-4D46-9164-87C5FC6AF2C6&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.dynegy.com/cust/?PID=F4478231-3EF5-4BC1-87D3-84AA9C1F816F&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=1FECDF57-7F83-4D46-9164-87C5FC6AF2C6&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1338,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment, early termination or monthly fees!  Lock in price security today with our competitive 6-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 6-month term, plus there's no enrollment, no early termination and no monthly fees!! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPW_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPW_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -13206,6 +13189,23 @@
           "website_url": "https://shopping.energyharbor.com/cust/?PID=D8C7B126-2F64-4B49-8365-2C2B2DB39637&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=863A4C63-73E5-456F-B1F0-B226F874A39C&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=D8C7B126-2F64-4B49-8365-2C2B2DB39637&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=863A4C63-73E5-456F-B1F0-B226F874A39C&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1348,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment, early termination or monthly fees!  Lock in price security today with our competitive 6-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 6-month term, plus there's no enrollment, no early termination and no monthly fees!! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPW_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPW_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -14334,7 +14334,7 @@
         }
       ],
       "count": 115,
-      "last_fetched": "2026-06-09T13:45:24.888161Z"
+      "last_fetched": "2026-06-09T16:32:02.936904Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -14579,6 +14579,23 @@
           "signup_url": "https://americanpowerandgas.com/?page=2",
           "phone": "800-380-9261",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Better Buy Energy",
+          "rate": 0.1099,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Your energy efficiency could qualify you for the Load Factor rate. If your home uses energy in a steady, balanced way through the year, rather than in big seasonal or short-term bursts, it means your energy habits are smooth and efficient, and could earn you the offered rate.",
+          "monthly_fee": null,
+          "website_url": "https://shopping.betterbuyenergy.com/cust/?PID=BB2CFCFB-67C7-4FFB-B3DA-E8FD0F05FFF5&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=A795DBBC-DA1F-4422-88E7-25EF12E42432&RFID=PAPS&PUC=1&STATE=PA&SN=BBE&CT=E&PromoCode=LOADFACTORRB",
+          "signup_url": "https://shopping.betterbuyenergy.com/cust/?PID=BB2CFCFB-67C7-4FFB-B3DA-E8FD0F05FFF5&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=A795DBBC-DA1F-4422-88E7-25EF12E42432&RFID=PAPS&PUC=1&STATE=PA&SN=BBE&CT=E&PromoCode=LOADFACTORRB",
+          "phone": "833-200-9831",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -16555,8 +16572,8 @@
           "service_area": null
         }
       ],
-      "count": 130,
-      "last_fetched": "2026-06-09T13:45:25.442217Z"
+      "count": 131,
+      "last_fetched": "2026-06-09T16:32:03.647342Z"
     }
   }
 }
