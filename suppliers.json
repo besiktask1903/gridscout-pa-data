@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T14:23:56.722332Z",
+  "last_updated": "2026-06-10T17:58:13.583532Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -701,7 +701,7 @@
         }
       ],
       "count": 46,
-      "last_fetched": "2026-06-10T14:23:55.596878Z"
+      "last_fetched": "2026-06-10T17:58:12.255681Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1028,7 +1028,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-06-10T14:23:55.786956Z"
+      "last_fetched": "2026-06-10T17:58:12.472355Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1790,7 +1790,7 @@
         }
       ],
       "count": 50,
-      "last_fetched": "2026-06-10T14:23:56.070423Z"
+      "last_fetched": "2026-06-10T17:58:12.813328Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2342,7 +2342,7 @@
         }
       ],
       "count": 36,
-      "last_fetched": "2026-06-10T14:23:56.296665Z"
+      "last_fetched": "2026-06-10T17:58:13.071168Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2654,7 +2654,7 @@
         }
       ],
       "count": 20,
-      "last_fetched": "2026-06-10T14:23:56.476060Z"
+      "last_fetched": "2026-06-10T17:58:13.297837Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3070,6 +3070,51 @@
           "service_area": null
         },
         {
+          "name": "UGI EnergyLink",
+          "rate": 0.76,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 24,
+          "early_termination_fee": "$75.00",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://ugienergylink.com/home-energy/",
+          "signup_url": "https://ugienergylink.com/home-energy/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "UGI EnergyLink",
+          "rate": 0.767,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "$75.00",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://ugienergylink.com/home-energy/",
+          "signup_url": "https://ugienergylink.com/home-energy/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "UGI EnergyLink",
+          "rate": 0.767,
+          "rate_type": "Variable",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "Yes",
+          "promotional_details": "1st month is fixed and the remainder is variable.",
+          "monthly_fee": null,
+          "website_url": "https://ugienergylink.com/home-energy/",
+          "signup_url": "https://ugienergylink.com/home-energy/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.775,
           "rate_type": "Fixed",
@@ -3265,8 +3310,8 @@
           "service_area": null
         }
       ],
-      "count": 40,
-      "last_fetched": "2026-06-10T14:23:56.722166Z"
+      "count": 43,
+      "last_fetched": "2026-06-10T17:58:13.583334Z"
     }
   }
 }
