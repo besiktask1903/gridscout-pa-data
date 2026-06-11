@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T17:58:13.583532Z",
+  "last_updated": "2026-06-11T14:38:35.388561Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -611,7 +611,7 @@
         },
         {
           "name": "City Power & Gas PA",
-          "rate": 0.6155,
+          "rate": 0.6068,
           "rate_type": "Fixed",
           "rate_unit": "therm",
           "term_months": 12,
@@ -701,7 +701,7 @@
         }
       ],
       "count": 46,
-      "last_fetched": "2026-06-10T17:58:12.255681Z"
+      "last_fetched": "2026-06-11T14:38:33.879734Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1028,7 +1028,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-06-10T17:58:12.472355Z"
+      "last_fetched": "2026-06-11T14:38:34.146390Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1100,7 +1100,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.4649,
+          "rate": 0.4683,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -1625,7 +1625,7 @@
         },
         {
           "name": "City Power & Gas PA",
-          "rate": 0.8915,
+          "rate": 0.8844,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -1790,7 +1790,7 @@
         }
       ],
       "count": 50,
-      "last_fetched": "2026-06-10T17:58:12.813328Z"
+      "last_fetched": "2026-06-11T14:38:34.510808Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2342,7 +2342,7 @@
         }
       ],
       "count": 36,
-      "last_fetched": "2026-06-10T17:58:13.071168Z"
+      "last_fetched": "2026-06-11T14:38:34.797272Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2579,7 +2579,7 @@
         },
         {
           "name": "City Power & Gas PA",
-          "rate": 0.9096,
+          "rate": 0.9059,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -2654,7 +2654,7 @@
         }
       ],
       "count": 20,
-      "last_fetched": "2026-06-10T17:58:13.297837Z"
+      "last_fetched": "2026-06-11T14:38:35.031315Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3221,7 +3221,7 @@
         },
         {
           "name": "City Power & Gas PA",
-          "rate": 0.9608,
+          "rate": 0.9544,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -3311,7 +3311,7 @@
         }
       ],
       "count": 43,
-      "last_fetched": "2026-06-10T17:58:13.583334Z"
+      "last_fetched": "2026-06-11T14:38:35.388382Z"
     }
   }
 }
