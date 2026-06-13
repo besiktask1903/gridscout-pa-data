@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T17:38:22.082951Z",
+  "last_updated": "2026-06-13T12:26:47.486119Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -1779,7 +1779,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1266,
+          "rate": 0.1259,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -2612,7 +2612,7 @@
         }
       ],
       "count": 153,
-      "last_fetched": "2026-06-12T17:38:18.619457Z"
+      "last_fetched": "2026-06-13T12:26:38.890936Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -3456,6 +3456,23 @@
           "service_area": null
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1306,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No",
+          "bundle_required": true,
+          "service_area": null
+        },
+        {
           "name": "Shipley Energy",
           "rate": 0.1308,
           "rate_type": "Fixed",
@@ -3572,23 +3589,6 @@
           "phone": null,
           "renewable": "No",
           "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1318,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No",
-          "bundle_required": true,
           "service_area": null
         },
         {
@@ -5242,7 +5242,7 @@
         }
       ],
       "count": 154,
-      "last_fetched": "2026-06-12T17:38:19.250579Z"
+      "last_fetched": "2026-06-13T12:26:40.429032Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5577,7 +5577,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1227,
+          "rate": 0.1225,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -7668,7 +7668,7 @@
         }
       ],
       "count": 142,
-      "last_fetched": "2026-06-12T17:38:19.844307Z"
+      "last_fetched": "2026-06-13T12:26:42.127262Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -10009,7 +10009,7 @@
         }
       ],
       "count": 137,
-      "last_fetched": "2026-06-12T17:38:20.416044Z"
+      "last_fetched": "2026-06-13T12:26:43.880276Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -12316,7 +12316,7 @@
         }
       ],
       "count": 135,
-      "last_fetched": "2026-06-12T17:38:21.006862Z"
+      "last_fetched": "2026-06-13T12:26:45.580493Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -14283,7 +14283,7 @@
         }
       ],
       "count": 115,
-      "last_fetched": "2026-06-12T17:38:21.549148Z"
+      "last_fetched": "2026-06-13T12:26:46.360689Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16505,7 +16505,7 @@
         }
       ],
       "count": 130,
-      "last_fetched": "2026-06-12T17:38:22.082737Z"
+      "last_fetched": "2026-06-13T12:26:47.485942Z"
     }
   }
 }
