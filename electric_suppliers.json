@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T16:17:57.757477Z",
+  "last_updated": "2026-06-15T20:26:50.702872Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -2612,7 +2612,7 @@
         }
       ],
       "count": 153,
-      "last_fetched": "2026-06-15T16:17:54.580157Z"
+      "last_fetched": "2026-06-15T20:26:46.825418Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -3541,6 +3541,23 @@
           "service_area": null
         },
         {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1309,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "A great time for new customers to secure a low rate. Lock in for 6 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18768",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18768",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "0 Commit Energy",
           "rate": 0.1309,
           "rate_type": "Fixed",
@@ -3656,23 +3673,6 @@
           "signup_url": "https://shopping.brightenenergy.com/cust/?PID=8C769ACD-43AC-4D6F-9E11-DBB34D417082&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=F33E76EA-4218-452C-AB50-FCC9AD6BBB15&RFID=PAPS&PUC=1&STATE=PA&SN=BRI&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0917",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1329,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "A great time for new customers to secure a low rate. Lock in for 6 months. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18679",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18679",
-          "phone": null,
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -5242,7 +5242,7 @@
         }
       ],
       "count": 154,
-      "last_fetched": "2026-06-15T16:17:55.147545Z"
+      "last_fetched": "2026-06-15T20:26:47.522608Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7668,7 +7668,7 @@
         }
       ],
       "count": 142,
-      "last_fetched": "2026-06-15T16:17:55.691151Z"
+      "last_fetched": "2026-06-15T20:26:48.148003Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -10009,7 +10009,7 @@
         }
       ],
       "count": 137,
-      "last_fetched": "2026-06-15T16:17:56.230816Z"
+      "last_fetched": "2026-06-15T20:26:48.791268Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -12316,7 +12316,7 @@
         }
       ],
       "count": 135,
-      "last_fetched": "2026-06-15T16:17:56.731048Z"
+      "last_fetched": "2026-06-15T20:26:49.413553Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -14283,7 +14283,7 @@
         }
       ],
       "count": 115,
-      "last_fetched": "2026-06-15T16:17:57.189847Z"
+      "last_fetched": "2026-06-15T20:26:50.047246Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16505,7 +16505,7 @@
         }
       ],
       "count": 130,
-      "last_fetched": "2026-06-15T16:17:57.757273Z"
+      "last_fetched": "2026-06-15T20:26:50.702683Z"
     }
   }
 }
