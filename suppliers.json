@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T14:26:21.257444Z",
+  "last_updated": "2026-06-17T17:49:30.508794Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -701,7 +701,7 @@
         }
       ],
       "count": 46,
-      "last_fetched": "2026-06-17T14:26:19.670741Z"
+      "last_fetched": "2026-06-17T17:49:29.346821Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1028,7 +1028,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-06-17T14:26:19.935341Z"
+      "last_fetched": "2026-06-17T17:49:29.531128Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1200,21 +1200,6 @@
           "monthly_fee": null,
           "website_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=720",
           "signup_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=720",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Atlantic Energy MD LLC",
-          "rate": 0.5489,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 18,
-          "early_termination_fee": "$75.00",
-          "introductory": "No",
-          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
-          "monthly_fee": null,
-          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=paswitchgas",
-          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=paswitchgas",
           "bundle_required": false,
           "service_area": null
         },
@@ -1789,8 +1774,8 @@
           "service_area": null
         }
       ],
-      "count": 50,
-      "last_fetched": "2026-06-17T14:26:20.336545Z"
+      "count": 49,
+      "last_fetched": "2026-06-17T17:49:29.828408Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2342,7 +2327,7 @@
         }
       ],
       "count": 36,
-      "last_fetched": "2026-06-17T14:26:20.639883Z"
+      "last_fetched": "2026-06-17T17:49:30.068484Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2654,7 +2639,7 @@
         }
       ],
       "count": 20,
-      "last_fetched": "2026-06-17T14:26:20.895194Z"
+      "last_fetched": "2026-06-17T17:49:30.249718Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3311,7 +3296,7 @@
         }
       ],
       "count": 43,
-      "last_fetched": "2026-06-17T14:26:21.257242Z"
+      "last_fetched": "2026-06-17T17:49:30.508661Z"
     }
   }
 }
