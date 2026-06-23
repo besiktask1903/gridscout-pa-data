@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T16:27:37.179679Z",
+  "last_updated": "2026-06-23T19:08:49.567330Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -2578,7 +2578,7 @@
         }
       ],
       "count": 151,
-      "last_fetched": "2026-06-23T16:27:33.655214Z"
+      "last_fetched": "2026-06-23T19:08:45.982324Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -3456,6 +3456,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1328,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment, early termination or monthly fees!  Lock in price security today with our competitive 6-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 6-month term, plus there's no enrollment, no early termination and no monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1329,
           "rate_type": "Fixed",
@@ -3502,23 +3519,6 @@
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_18",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_18",
           "phone": "1-877-648-1923",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1338,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment, early termination or monthly fees!  Lock in price security today with our competitive 6-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 6-month term, plus there's no enrollment, no early termination and no monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T6_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -5208,7 +5208,7 @@
         }
       ],
       "count": 154,
-      "last_fetched": "2026-06-23T16:27:34.371304Z"
+      "last_fetched": "2026-06-23T19:08:46.634449Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7634,7 +7634,7 @@
         }
       ],
       "count": 142,
-      "last_fetched": "2026-06-23T16:27:34.918668Z"
+      "last_fetched": "2026-06-23T19:08:47.226459Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9941,7 +9941,7 @@
         }
       ],
       "count": 135,
-      "last_fetched": "2026-06-23T16:27:35.471163Z"
+      "last_fetched": "2026-06-23T19:08:47.860026Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -12214,7 +12214,7 @@
         }
       ],
       "count": 133,
-      "last_fetched": "2026-06-23T16:27:36.037702Z"
+      "last_fetched": "2026-06-23T19:08:48.457169Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -14164,7 +14164,7 @@
         }
       ],
       "count": 114,
-      "last_fetched": "2026-06-23T16:27:36.597246Z"
+      "last_fetched": "2026-06-23T19:08:48.978722Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16352,7 +16352,7 @@
         }
       ],
       "count": 128,
-      "last_fetched": "2026-06-23T16:27:37.179505Z"
+      "last_fetched": "2026-06-23T19:08:49.567109Z"
     }
   }
 }
