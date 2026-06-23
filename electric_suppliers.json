@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T13:43:22.184534Z",
+  "last_updated": "2026-06-23T16:27:37.179679Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -2391,7 +2391,7 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 0.1499,
+          "rate": 0.1549,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -2408,7 +2408,7 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 0.1549,
+          "rate": 0.1579,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 36,
@@ -2578,7 +2578,7 @@
         }
       ],
       "count": 151,
-      "last_fetched": "2026-06-23T13:43:18.666408Z"
+      "last_fetched": "2026-06-23T16:27:33.655214Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -4629,23 +4629,6 @@
           "service_area": null
         },
         {
-          "name": "IGS Energy",
-          "rate": 0.1499,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "99",
-          "introductory": "No",
-          "promotional_details": "How you benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "phone": "1-800-280-4474",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Inspire Clean Energy",
           "rate": 0.1499,
           "rate_type": "Fixed",
@@ -4777,6 +4760,23 @@
           "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=ppl&state=pa",
           "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?electricSlug=ppl&state=pa",
           "phone": "855-724-6473",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "IGS Energy",
+          "rate": 0.1549,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "99",
+          "introductory": "No",
+          "promotional_details": "How you benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "phone": "1-800-280-4474",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -5007,23 +5007,6 @@
           "rate": 0.1699,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 36,
-          "early_termination_fee": "199",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "phone": "1-800-280-4474",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "IGS Energy",
-          "rate": 0.1699,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
           "term_months": 24,
           "early_termination_fee": "149",
           "introductory": "No",
@@ -5049,6 +5032,23 @@
           "website_url": "https://americanpowerandgas.com/?page=10",
           "signup_url": "https://americanpowerandgas.com/?page=10",
           "phone": "800-380-9261",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "IGS Energy",
+          "rate": 0.1749,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 36,
+          "early_termination_fee": "199",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "phone": "1-800-280-4474",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -5208,7 +5208,7 @@
         }
       ],
       "count": 154,
-      "last_fetched": "2026-06-23T13:43:19.320331Z"
+      "last_fetched": "2026-06-23T16:27:34.371304Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -6460,23 +6460,6 @@
           "service_area": null
         },
         {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1448,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 11,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=114272",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=114272",
-          "phone": "1-800-225-3813",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "AAA Energy by Santanna",
           "rate": 0.1448,
           "rate_type": "Fixed",
@@ -6573,6 +6556,23 @@
           "monthly_fee": null,
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=79963",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=79963",
+          "phone": "1-800-225-3813",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1458,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 11,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=114929",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=114929",
           "phone": "1-800-225-3813",
           "renewable": "No",
           "bundle_required": false,
@@ -7617,7 +7617,7 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 0.1999,
+          "rate": 0.2049,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 36,
@@ -7634,7 +7634,7 @@
         }
       ],
       "count": 142,
-      "last_fetched": "2026-06-23T13:43:19.914930Z"
+      "last_fetched": "2026-06-23T16:27:34.918668Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9464,23 +9464,6 @@
           "service_area": null
         },
         {
-          "name": "IGS Energy",
-          "rate": 0.1499,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "99",
-          "introductory": "No",
-          "promotional_details": "How you Benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "phone": "1-800-280-4474",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Inspire Clean Energy",
           "rate": 0.1499,
           "rate_type": "Fixed",
@@ -9663,6 +9646,23 @@
           "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
           "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
           "phone": "855-692-8330",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "IGS Energy",
+          "rate": 0.1549,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "99",
+          "introductory": "No",
+          "promotional_details": "How you Benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "phone": "1-800-280-4474",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -9873,7 +9873,7 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 0.1749,
+          "rate": 0.1779,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 24,
@@ -9941,7 +9941,7 @@
         }
       ],
       "count": 135,
-      "last_fetched": "2026-06-23T13:43:20.517685Z"
+      "last_fetched": "2026-06-23T16:27:35.471163Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -10667,6 +10667,23 @@
         },
         {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1298,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=83089",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=83089",
+          "phone": "1-800-225-3813",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1299,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
@@ -10755,13 +10772,13 @@
           "rate": 0.1308,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 12,
+          "term_months": 6,
           "early_termination_fee": null,
           "introductory": "No",
           "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
           "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=107298",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=107298",
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=114139",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=114139",
           "phone": "1-800-225-3813",
           "renewable": "No",
           "bundle_required": false,
@@ -10806,13 +10823,13 @@
           "rate": 0.1318,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 6,
+          "term_months": 18,
           "early_termination_fee": null,
           "introductory": "No",
           "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
           "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=114282",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=114282",
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=89772",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=89772",
           "phone": "1-800-225-3813",
           "renewable": "No",
           "bundle_required": false,
@@ -10848,23 +10865,6 @@
           "website_url": "https://www.shipleyenergy.com/enrollment?product=el",
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=el",
           "phone": "866-477-9180",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1328,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=87753",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=87753",
-          "phone": "1-800-225-3813",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -12214,7 +12214,7 @@
         }
       ],
       "count": 133,
-      "last_fetched": "2026-06-23T13:43:21.097634Z"
+      "last_fetched": "2026-06-23T16:27:36.037702Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13126,23 +13126,6 @@
           "service_area": null
         },
         {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1368,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=114283",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=114283",
-          "phone": "1-800-225-3813",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Better Buy Energy",
           "rate": 0.1369,
           "rate_type": "Fixed",
@@ -13207,6 +13190,23 @@
           "signup_url": "https://www.verdeenergy.com/get-rates/",
           "phone": "1-833-488-3125",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1378,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=88320",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=88320",
+          "phone": "1-800-225-3813",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -14061,23 +14061,6 @@
           "service_area": null
         },
         {
-          "name": "IGS Energy",
-          "rate": 0.1599,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "99",
-          "introductory": "No",
-          "promotional_details": "How you benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "phone": "1-800-280-4474",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "American Power & Gas of Pennsylvania LLC",
           "rate": 0.1609,
           "rate_type": "Fixed",
@@ -14090,6 +14073,23 @@
           "website_url": "https://americanpowerandgas.com/?page=8",
           "signup_url": "https://americanpowerandgas.com/?page=8",
           "phone": "800-380-9261",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "IGS Energy",
+          "rate": 0.1649,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "99",
+          "introductory": "No",
+          "promotional_details": "How you benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "phone": "1-800-280-4474",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -14112,8 +14112,25 @@
           "service_area": null
         },
         {
+          "name": "Agway Energy Services LLC",
+          "rate": 0.189,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 0,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "In order to help you make the most informed decision possible, this rate reflects our current variable rate for newly enrolled customers and includes Agway's EnergyGuard\u00ae repair program.  This valuable coverage is included with our commodity supply and provides Peace of Mind repair protection on your central a/c unit and the interior electric lines in your home.",
+          "monthly_fee": null,
+          "website_url": "http://www.agwayenergy.com",
+          "signup_url": "http://www.agwayenergy.com",
+          "phone": "888-982-4929",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "IGS Energy",
-          "rate": 0.1799,
+          "rate": 0.1899,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 24,
@@ -14130,7 +14147,7 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 0.1879,
+          "rate": 0.1979,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 36,
@@ -14144,27 +14161,10 @@
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
-        },
-        {
-          "name": "Agway Energy Services LLC",
-          "rate": 0.189,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 0,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "In order to help you make the most informed decision possible, this rate reflects our current variable rate for newly enrolled customers and includes Agway's EnergyGuard\u00ae repair program.  This valuable coverage is included with our commodity supply and provides Peace of Mind repair protection on your central a/c unit and the interior electric lines in your home.",
-          "monthly_fee": null,
-          "website_url": "http://www.agwayenergy.com",
-          "signup_url": "http://www.agwayenergy.com",
-          "phone": "888-982-4929",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
         }
       ],
       "count": 114,
-      "last_fetched": "2026-06-23T13:43:21.595741Z"
+      "last_fetched": "2026-06-23T16:27:36.597246Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -15298,16 +15298,16 @@
         },
         {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1278,
+          "rate": 0.1279,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 18,
+          "term_months": 20,
           "early_termination_fee": null,
           "introductory": "No",
           "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
           "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=87179",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=87179",
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=113634",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=113634",
           "phone": "1-800-225-3813",
           "renewable": "No",
           "bundle_required": false,
@@ -16266,23 +16266,6 @@
           "service_area": null
         },
         {
-          "name": "IGS Energy",
-          "rate": 0.1549,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": "149",
-          "introductory": "No",
-          "promotional_details": "How you benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "phone": "1-800-280-4474",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Think Energy",
           "rate": 0.156,
           "rate_type": "Fixed",
@@ -16321,6 +16304,23 @@
           "rate": 0.1599,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": "149",
+          "introductory": "No",
+          "promotional_details": "How you benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "phone": "1-800-280-4474",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "IGS Energy",
+          "rate": 0.1649,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
           "term_months": 36,
           "early_termination_fee": "199",
           "introductory": "No",
@@ -16352,7 +16352,7 @@
         }
       ],
       "count": 128,
-      "last_fetched": "2026-06-23T13:43:22.184341Z"
+      "last_fetched": "2026-06-23T16:27:37.179505Z"
     }
   }
 }
