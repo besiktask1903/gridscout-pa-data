@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T19:08:44.855424Z",
+  "last_updated": "2026-06-24T13:23:20.732987Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -340,21 +340,6 @@
           "service_area": null
         },
         {
-          "name": "Symmetry Energy Solutions LLC",
-          "rate": 0.499,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "With this product, you get exclusive access to Symmetry Rewards, where you earn $50 in Reward Dollars every month. Use your rewards in over 500,000 ways including local deals, restaurants, movies, online shopping, gift cards and more. That adds up to $600 in Reward Dollars each year! Plus, great bonuses like gift card giveaways, product giveaways, cash giveaways, daily deals, and more. An active account and valid email address are required. Reward eligibility is at the sole discretion of Symmetry Energy Solutions. Access to Rewards account is through symmetryrewards.com.",
-          "monthly_fee": null,
-          "website_url": "https://symmetryenergy.com/enroll/",
-          "signup_url": "https://symmetryenergy.com/enroll/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Shipley Energy",
           "rate": 0.509,
           "rate_type": "Fixed",
@@ -396,6 +381,21 @@
           "monthly_fee": null,
           "website_url": "http://www.constellation.com/rateboard",
           "signup_url": "http://www.constellation.com/rateboard",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Symmetry Energy Solutions LLC",
+          "rate": 0.525,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "With this product, you get exclusive access to Symmetry Rewards, where you earn $50 in Reward Dollars every month. Use your rewards in over 500,000 ways including local deals, restaurants, movies, online shopping, gift cards and more. That adds up to $600 in Reward Dollars each year! Plus, great bonuses like gift card giveaways, product giveaways, cash giveaways, daily deals, and more. An active account and valid email address are required. Reward eligibility is at the sole discretion of Symmetry Energy Solutions. Access to Rewards account is through symmetryrewards.com.",
+          "monthly_fee": null,
+          "website_url": "https://symmetryenergy.com/enroll/",
+          "signup_url": "https://symmetryenergy.com/enroll/",
           "bundle_required": false,
           "service_area": null
         },
@@ -701,7 +701,7 @@
         }
       ],
       "count": 46,
-      "last_fetched": "2026-06-23T19:08:43.255850Z"
+      "last_fetched": "2026-06-24T13:23:19.022624Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1028,7 +1028,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-06-23T19:08:43.545682Z"
+      "last_fetched": "2026-06-24T13:23:19.316973Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1100,7 +1100,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.4689,
+          "rate": 0.4686,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -1775,7 +1775,7 @@
         }
       ],
       "count": 49,
-      "last_fetched": "2026-06-23T19:08:43.944987Z"
+      "last_fetched": "2026-06-24T13:23:19.840621Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2327,7 +2327,7 @@
         }
       ],
       "count": 36,
-      "last_fetched": "2026-06-23T19:08:44.263293Z"
+      "last_fetched": "2026-06-24T13:23:20.143595Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2639,7 +2639,7 @@
         }
       ],
       "count": 20,
-      "last_fetched": "2026-06-23T19:08:44.520992Z"
+      "last_fetched": "2026-06-24T13:23:20.403678Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3296,7 +3296,7 @@
         }
       ],
       "count": 43,
-      "last_fetched": "2026-06-23T19:08:44.855222Z"
+      "last_fetched": "2026-06-24T13:23:20.732778Z"
     }
   }
 }
