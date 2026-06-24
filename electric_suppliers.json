@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T13:23:26.136446Z",
+  "last_updated": "2026-06-24T16:22:52.030199Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -452,6 +452,23 @@
           "service_area": null
         },
         {
+          "name": "Town Square Energy",
+          "rate": 0.1077,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "4 monthly bill cycles fixed at 10.77 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 14.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48237&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PECO&utm_content=777",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48237&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PECO&utm_content=777",
+          "phone": "8774300093",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Clearview Energy",
           "rate": 0.1079,
           "rate_type": "Fixed",
@@ -787,6 +804,23 @@
           "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18685",
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18685",
           "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Town Square Energy",
+          "rate": 0.1147,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "12 monthly bill cycles fixed at 11.47 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 9.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48238&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PECO&utm_content=997",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48238&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PECO&utm_content=997",
+          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -1506,23 +1540,6 @@
           "service_area": null
         },
         {
-          "name": "Town Square Energy",
-          "rate": 0.1257,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "6 monthly bill cycles fixed at 12.57 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48198&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PECO&utm_content=777",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48198&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PECO&utm_content=777",
-          "phone": "8774300093",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "APG&E",
           "rate": 0.1258,
           "rate_type": "Fixed",
@@ -1586,23 +1603,6 @@
           "website_url": "https://signup.sparkenergy.com/",
           "signup_url": "https://signup.sparkenergy.com/",
           "phone": "(877) 346-0861",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Town Square Energy",
-          "rate": 0.1267,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "12 monthly bill cycles fixed at 12.67 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48199&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PECO&utm_content=997",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48199&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PECO&utm_content=997",
-          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2578,7 +2578,7 @@
         }
       ],
       "count": 151,
-      "last_fetched": "2026-06-24T13:23:22.220999Z"
+      "last_fetched": "2026-06-24T16:22:48.391752Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -3150,6 +3150,23 @@
           "service_area": null
         },
         {
+          "name": "Town Square Energy",
+          "rate": 0.1277,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "4 monthly bill cycles fixed at 12.77 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 14.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48235&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1247",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48235&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1247",
+          "phone": "8774300093",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Shipley Energy",
           "rate": 0.1278,
           "rate_type": "Fixed",
@@ -3230,6 +3247,23 @@
           "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18752",
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18752",
           "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Town Square Energy",
+          "rate": 0.1297,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "12 monthly bill cycles fixed at 12.97 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 9.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48236&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1217",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48236&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1217",
+          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -3541,6 +3575,23 @@
           "service_area": null
         },
         {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1336,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 6 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=PPL&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=PPL&channel_code=direct",
+          "phone": "844-275-4022",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Better Buy Energy",
           "rate": 0.1339,
           "rate_type": "Fixed",
@@ -3690,23 +3741,6 @@
           "signup_url": "https://enrollment.citypowerandgas.com/home",
           "phone": "1-877-518-9339",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1353,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 6 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=PPL&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=PPL&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -3898,23 +3932,6 @@
           "service_area": null
         },
         {
-          "name": "Town Square Energy",
-          "rate": 0.1387,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "6 monthly bill cycles fixed at 13.87 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48195&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1247",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48195&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1247",
-          "phone": "8774300093",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "APG&E",
           "rate": 0.1388,
           "rate_type": "Fixed",
@@ -3979,23 +3996,6 @@
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16035",
           "phone": null,
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Town Square Energy",
-          "rate": 0.1397,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "12 monthly bill cycles fixed at 13.97 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48197&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1217",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48197&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1217",
-          "phone": "8774300093",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -5208,7 +5208,7 @@
         }
       ],
       "count": 154,
-      "last_fetched": "2026-06-24T13:23:22.948374Z"
+      "last_fetched": "2026-06-24T16:22:49.079229Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5287,6 +5287,23 @@
           "service_area": null
         },
         {
+          "name": "Town Square Energy",
+          "rate": 0.1097,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "4 monthly bill cycles fixed at 10.97 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 14.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48234&utm_source=PAPOWER&utm_medium=Site&utm_campaign=DUQ&utm_content=907",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48234&utm_source=PAPOWER&utm_medium=Site&utm_campaign=DUQ&utm_content=907",
+          "phone": "8774300093",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Clearview Energy",
           "rate": 0.1099,
           "rate_type": "Fixed",
@@ -5333,6 +5350,23 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=112549",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=112549",
           "phone": "1-800-225-3813",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Town Square Energy",
+          "rate": 0.1177,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "12 monthly bill cycles fixed at 11.77 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 14.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48259&utm_source=PAPOWER&utm_medium=Site&utm_campaign=DUQ&utm_content=1097",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48259&utm_source=PAPOWER&utm_medium=Site&utm_campaign=DUQ&utm_content=1097",
+          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -5695,23 +5729,6 @@
           "service_area": null
         },
         {
-          "name": "Town Square Energy",
-          "rate": 0.1287,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "6 monthly bill cycles fixed at 12.87 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48194&utm_source=PAPOWER&utm_medium=Site&utm_campaign=DUQ&utm_content=907",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48194&utm_source=PAPOWER&utm_medium=Site&utm_campaign=DUQ&utm_content=907",
-          "phone": "8774300093",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "AAA Energy by Santanna",
           "rate": 0.1289,
           "rate_type": "Fixed",
@@ -5759,23 +5776,6 @@
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=Duq&channel_code=direct",
           "phone": "844-275-4022",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Town Square Energy",
-          "rate": 0.1297,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "12 monthly bill cycles fixed at 12.97 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48195&utm_source=PAPOWER&utm_medium=Site&utm_campaign=DUQ&utm_content=1097",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48195&utm_source=PAPOWER&utm_medium=Site&utm_campaign=DUQ&utm_content=1097",
-          "phone": "8774300093",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -7634,7 +7634,7 @@
         }
       ],
       "count": 142,
-      "last_fetched": "2026-06-24T13:23:23.596564Z"
+      "last_fetched": "2026-06-24T16:22:49.666656Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -7759,6 +7759,23 @@
           "website_url": "https://shopping.publicpowercompany.com/cust/?PID=189665AA-46B6-4F20-8B63-032A77B063F0&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=644DEE76-E4ED-48C5-89DE-A1293ACFE0F5&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=189665AA-46B6-4F20-8B63-032A77B063F0&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=644DEE76-E4ED-48C5-89DE-A1293ACFE0F5&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Town Square Energy",
+          "rate": 0.1197,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "4 monthly bill cycles fixed at 11.97 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 14.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48239&utm_source=PAPOWER&utm_medium=Site&utm_campaign=MetEd&utm_content=1253",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48239&utm_source=PAPOWER&utm_medium=Site&utm_campaign=MetEd&utm_content=1253",
+          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7912,6 +7929,23 @@
           "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=44583&market_id=177",
           "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=44583&market_id=177",
           "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Town Square Energy",
+          "rate": 0.1247,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "12 monthly bill cycles fixed at 12.47 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 9.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48239&utm_source=PAPOWER&utm_medium=Site&utm_campaign=MetEd&utm_content=1317",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48239&utm_source=PAPOWER&utm_medium=Site&utm_campaign=MetEd&utm_content=1317",
+          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -8546,6 +8580,23 @@
           "service_area": null
         },
         {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1343,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 6 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=Meted&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=Meted&channel_code=direct",
+          "phone": "844-275-4022",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1348,
           "rate_type": "Fixed",
@@ -8648,40 +8699,6 @@
           "service_area": null
         },
         {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1356,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 6 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=Meted&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=Meted&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Town Square Energy",
-          "rate": 0.1357,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "6 monthly bill cycles fixed at 13.57 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48200&utm_source=PAPOWER&utm_medium=Site&utm_campaign=MetEd&utm_content=1253",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48200&utm_source=PAPOWER&utm_medium=Site&utm_campaign=MetEd&utm_content=1253",
-          "phone": "8774300093",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "APG&E",
           "rate": 0.1358,
           "rate_type": "Fixed",
@@ -8746,23 +8763,6 @@
           "signup_url": "https://www.verdeenergy.com/get-rates/",
           "phone": "1-833-488-3125",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Town Square Energy",
-          "rate": 0.1367,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "12 monthly bill cycles fixed at 13.67 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48201&utm_source=PAPOWER&utm_medium=Site&utm_campaign=MetEd&utm_content=1317",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48201&utm_source=PAPOWER&utm_medium=Site&utm_campaign=MetEd&utm_content=1317",
-          "phone": "8774300093",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -9000,6 +9000,23 @@
           "website_url": "https://signup.sparkenergy.com/",
           "signup_url": "https://signup.sparkenergy.com/",
           "phone": "(877) 346-0861",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1389,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=113653",
+          "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=113653",
+          "phone": "1-800-698-5853",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -9940,8 +9957,8 @@
           "service_area": null
         }
       ],
-      "count": 135,
-      "last_fetched": "2026-06-24T13:23:24.264615Z"
+      "count": 136,
+      "last_fetched": "2026-06-24T16:22:50.312617Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -10275,6 +10292,23 @@
           "service_area": null
         },
         {
+          "name": "Town Square Energy",
+          "rate": 0.1217,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "4 monthly bill cycles fixed at 12.17 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 14.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48241&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PNLC&utm_content=893",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48241&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PNLC&utm_content=893",
+          "phone": "8774300093",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Direct Energy",
           "rate": 0.1219,
           "rate_type": "Fixed",
@@ -10491,6 +10525,23 @@
           "website_url": "https://shopping.dynegy.com/cust/?PID=18196CBA-166C-4BEA-B1B8-E67297E93FDB&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=A483E33F-E0D5-4973-98A2-84DC53BDE514&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.dynegy.com/cust/?PID=18196CBA-166C-4BEA-B1B8-E67297E93FDB&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=A483E33F-E0D5-4973-98A2-84DC53BDE514&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Town Square Energy",
+          "rate": 0.1267,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "12 monthly bill cycles fixed at 12.67 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 9.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48242&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PNLC&utm_content=1227",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48242&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PNLC&utm_content=1227",
+          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -11108,23 +11159,6 @@
           "service_area": null
         },
         {
-          "name": "Town Square Energy",
-          "rate": 0.1357,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "6 monthly bill cycles fixed at 13.57 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48202&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PNLC&utm_content=893",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48202&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PNLC&utm_content=893",
-          "phone": "8774300093",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "APG&E",
           "rate": 0.1358,
           "rate_type": "Fixed",
@@ -11155,23 +11189,6 @@
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=el",
           "phone": "866-477-9180",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Town Square Energy",
-          "rate": 0.1367,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "12 monthly bill cycles fixed at 13.67 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48203&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PNLC&utm_content=1227",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48203&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PNLC&utm_content=1227",
-          "phone": "8774300093",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -11380,6 +11397,23 @@
           "service_area": null
         },
         {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1409,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 6 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=Penelec&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=Penelec&channel_code=direct",
+          "phone": "844-275-4022",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Major Energy",
           "rate": 0.1409,
           "rate_type": "Fixed",
@@ -11563,23 +11597,6 @@
           "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter-18?msid=720",
           "phone": "855-331-0024",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1429,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 6 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=Penelec&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=Penelec&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -12214,7 +12231,7 @@
         }
       ],
       "count": 133,
-      "last_fetched": "2026-06-24T13:23:24.896145Z"
+      "last_fetched": "2026-06-24T16:22:50.903461Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -12288,6 +12305,23 @@
           "website_url": "https://secure.cirroenergy.com/landing/shop/",
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Town Square Energy",
+          "rate": 0.1157,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "4 monthly bill cycles fixed at 11.57 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 14.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48243&utm_source=PAPOWER&utm_medium=Site&utm_campaign=Penn&utm_content=1357",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48243&utm_source=PAPOWER&utm_medium=Site&utm_campaign=Penn&utm_content=1357",
+          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -12424,6 +12458,23 @@
           "website_url": "https://shopping.pagande.com/cust/?PID=40F162D2-4CC1-4710-BE3D-9E64C133DF83&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=1BC89B6D-40B6-46B2-A9F3-215DF4BD4F20&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=40F162D2-4CC1-4710-BE3D-9E64C133DF83&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=1BC89B6D-40B6-46B2-A9F3-215DF4BD4F20&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Town Square Energy",
+          "rate": 0.1217,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "12 monthly bill cycles fixed at 12.17 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 9.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48244&utm_source=PAPOWER&utm_medium=Site&utm_campaign=Penn&utm_content=897",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48244&utm_source=PAPOWER&utm_medium=Site&utm_campaign=Penn&utm_content=897",
+          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -13041,23 +13092,6 @@
           "service_area": null
         },
         {
-          "name": "Town Square Energy",
-          "rate": 0.1347,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "6 monthly bill cycles fixed at 13.47 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48204&utm_source=PAPOWER&utm_medium=Site&utm_campaign=Penn&utm_content=1357",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48204&utm_source=PAPOWER&utm_medium=Site&utm_campaign=Penn&utm_content=1357",
-          "phone": "8774300093",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Inspire Clean Energy",
           "rate": 0.1349,
           "rate_type": "Fixed",
@@ -13075,19 +13109,19 @@
           "service_area": null
         },
         {
-          "name": "Town Square Energy",
-          "rate": 0.1357,
+          "name": "Inspire Clean Energy",
+          "rate": 0.1359,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 12,
+          "term_months": 6,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "12 monthly bill cycles fixed at 13.57 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48205&utm_source=PAPOWER&utm_medium=Site&utm_campaign=Penn&utm_content=897",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48205&utm_source=PAPOWER&utm_medium=Site&utm_campaign=Penn&utm_content=897",
-          "phone": "8774300093",
-          "renewable": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 6 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=PPower&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=PPower&channel_code=direct",
+          "phone": "844-275-4022",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -13156,23 +13190,6 @@
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=9CB1A635-5C61-4C41-9E0A-E37063C804C3&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=6ACCDADC-6FAE-4D32-9983-2C7AA66211CB&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1369,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 6 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=PPower&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=PPower&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -14164,7 +14181,7 @@
         }
       ],
       "count": 114,
-      "last_fetched": "2026-06-24T13:23:25.442221Z"
+      "last_fetched": "2026-06-24T16:22:51.410730Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -14702,6 +14719,23 @@
           "service_area": null
         },
         {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1139,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=WPP&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=WPP&channel_code=direct",
+          "phone": "844-275-4022",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "NRG Home",
           "rate": 0.114,
           "rate_type": "Variable",
@@ -14736,6 +14770,23 @@
           "service_area": null
         },
         {
+          "name": "Town Square Energy",
+          "rate": 0.1147,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "4 monthly bill cycles fixed at 11.47 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 14.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48245&utm_source=PAPOWER&utm_medium=Site&utm_campaign=WPP&utm_content=967",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48245&utm_source=PAPOWER&utm_medium=Site&utm_campaign=WPP&utm_content=967",
+          "phone": "8774300093",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.1149,
           "rate_type": "Fixed",
@@ -14749,23 +14800,6 @@
           "signup_url": "https://shopping.pagande.com/cust/?PID=0E2B5B7E-B722-4887-AE68-A8FCD51FAD73&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=E1169548-FE34-4E70-B016-655C1CA0030D&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1156,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=WPP&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=WPP&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -14867,6 +14901,23 @@
           "website_url": "https://shopping.dynegy.com/cust/?PID=8804236F-4E88-4DB8-99FE-EF58E0D15A83&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=DB76B418-84ED-44CC-BDA5-494B0260C9E7&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.dynegy.com/cust/?PID=8804236F-4E88-4DB8-99FE-EF58E0D15A83&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=DB76B418-84ED-44CC-BDA5-494B0260C9E7&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Town Square Energy",
+          "rate": 0.1177,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "12 monthly bill cycles fixed at 11.77 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 9.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48246&utm_source=PAPOWER&utm_medium=Site&utm_campaign=WPP&utm_content=967",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48246&utm_source=PAPOWER&utm_medium=Site&utm_campaign=WPP&utm_content=967",
+          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -15450,23 +15501,6 @@
           "service_area": null
         },
         {
-          "name": "Town Square Energy",
-          "rate": 0.1297,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "6 monthly bill cycles fixed at 12.97 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48206&utm_source=PAPOWER&utm_medium=Site&utm_campaign=WPP&utm_content=967",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48206&utm_source=PAPOWER&utm_medium=Site&utm_campaign=WPP&utm_content=967",
-          "phone": "8774300093",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "American Electric Rates LLC",
           "rate": 0.1297,
           "rate_type": "Fixed",
@@ -15547,23 +15581,6 @@
           "website_url": "https://secure.cirroenergy.com/landing/shop/",
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Town Square Energy",
-          "rate": 0.1307,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "12 monthly bill cycles fixed at 13.07 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48207&utm_source=PAPOWER&utm_medium=Site&utm_campaign=WPP&utm_content=967",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48207&utm_source=PAPOWER&utm_medium=Site&utm_campaign=WPP&utm_content=967",
-          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -16352,7 +16369,7 @@
         }
       ],
       "count": 128,
-      "last_fetched": "2026-06-24T13:23:26.136175Z"
+      "last_fetched": "2026-06-24T16:22:52.029965Z"
     }
   }
 }
