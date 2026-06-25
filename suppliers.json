@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T18:51:57.660948Z",
+  "last_updated": "2026-06-25T13:20:28.294553Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -701,7 +701,7 @@
         }
       ],
       "count": 46,
-      "last_fetched": "2026-06-24T18:51:55.865600Z"
+      "last_fetched": "2026-06-25T13:20:26.663018Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1028,7 +1028,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-06-24T18:51:56.256921Z"
+      "last_fetched": "2026-06-25T13:20:26.935518Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1100,7 +1100,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.4686,
+          "rate": 0.462,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -1775,7 +1775,7 @@
         }
       ],
       "count": 49,
-      "last_fetched": "2026-06-24T18:51:56.666226Z"
+      "last_fetched": "2026-06-25T13:20:27.340967Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2327,7 +2327,7 @@
         }
       ],
       "count": 36,
-      "last_fetched": "2026-06-24T18:51:57.019962Z"
+      "last_fetched": "2026-06-25T13:20:27.658505Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2398,6 +2398,21 @@
           "service_area": null
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.449,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna\u2019s Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PGWPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
+          "signup_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PGWPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
+          "bundle_required": true,
+          "service_area": null
+        },
+        {
           "name": "Nordic Energy Services",
           "rate": 0.449,
           "rate_type": "Variable",
@@ -2410,21 +2425,6 @@
           "website_url": "https://www.nordicenergy-us.com/",
           "signup_url": "https://www.nordicenergy-us.com/",
           "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.459,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna\u2019s Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PGWPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
-          "signup_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PGWPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
-          "bundle_required": true,
           "service_area": null
         },
         {
@@ -2639,7 +2639,7 @@
         }
       ],
       "count": 20,
-      "last_fetched": "2026-06-24T18:51:57.284860Z"
+      "last_fetched": "2026-06-25T13:20:27.932001Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3296,7 +3296,7 @@
         }
       ],
       "count": 43,
-      "last_fetched": "2026-06-24T18:51:57.660777Z"
+      "last_fetched": "2026-06-25T13:20:28.294367Z"
     }
   }
 }
