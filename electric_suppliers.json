@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T19:05:29.921988Z",
+  "last_updated": "2026-06-26T13:13:07.448000Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -767,8 +767,8 @@
           "introductory": "No",
           "promotional_details": "A great time for new customers to secure a fixed rate. Enjoy peace of mind with a consistent rate for 6 months. With this energy plan, there is no monthly service fee and no early termination fee.",
           "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18685",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18685",
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18762",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18762",
           "phone": null,
           "renewable": "No",
           "bundle_required": false,
@@ -1234,18 +1234,18 @@
           "service_area": null
         },
         {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1237,
+          "name": "0 Commit Energy",
+          "rate": 0.1229,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 18,
+          "term_months": 6,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Lock in your rate for 18 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
           "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18001",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18001",
-          "phone": null,
+          "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=113661",
+          "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=113661",
+          "phone": "1-800-698-5853",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -1472,6 +1472,23 @@
           "service_area": null
         },
         {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1267,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Lock in your rate for 18 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18001",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18001",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "APG&E",
           "rate": 0.1268,
           "rate_type": "Fixed",
@@ -1557,23 +1574,6 @@
           "service_area": null
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1271,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No",
-          "bundle_required": true,
-          "service_area": null
-        },
-        {
           "name": "APG&E",
           "rate": 0.1274,
           "rate_type": "Fixed",
@@ -1642,23 +1642,6 @@
           "service_area": null
         },
         {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1279,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "A nice boost of clean power can help you make a positive impact on the environment with this offer! Lock in your rate for 12 months. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16064",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16064",
-          "phone": null,
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "0 Commit Energy",
           "rate": 0.1279,
           "rate_type": "Fixed",
@@ -1673,6 +1656,23 @@
           "phone": "1-800-698-5853",
           "renewable": "No",
           "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1282,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No",
+          "bundle_required": true,
           "service_area": null
         },
         {
@@ -1744,23 +1744,6 @@
           "service_area": null
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1299,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No",
-          "bundle_required": true,
-          "service_area": null
-        },
-        {
           "name": "Verde Energy USA, Inc.",
           "rate": 0.1299,
           "rate_type": "Fixed",
@@ -1824,6 +1807,57 @@
           "website_url": "https://vistaenergymarketing.com/commodity/electricity/pecoel/pecoel-starter-12-etf-75/",
           "signup_url": "https://vistaenergymarketing.com/commodity/electricity/pecoel/pecoel-starter-12-etf-75/",
           "phone": "888-508-4782",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1299,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "A nice boost of clean power can help you make a positive impact on the environment with this offer! Lock in your rate for 12 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16064",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16064",
+          "phone": null,
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1305,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No",
+          "bundle_required": true,
+          "service_area": null
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1308,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=115314",
+          "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=115314",
+          "phone": "1-800-698-5853",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -1897,6 +1931,23 @@
           "service_area": null
         },
         {
+          "name": "0 Commit Energy",
+          "rate": 0.1328,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=115316",
+          "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=115316",
+          "phone": "1-800-698-5853",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Cirro Energy",
           "rate": 0.133,
           "rate_type": "Fixed",
@@ -1909,6 +1960,23 @@
           "website_url": "https://secure.cirroenergy.com/landing/shop/",
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1338,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 36,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=115317",
+          "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=115317",
+          "phone": "1-800-698-5853",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2203,23 +2271,6 @@
           "service_area": null
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1574,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
-          "monthly_fee": 5.99,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PECPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PECPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "phone": "866-752-1907",
-          "renewable": "Yes",
-          "bundle_required": true,
-          "service_area": null
-        },
-        {
           "name": "IGS Energy",
           "rate": 0.1579,
           "rate_type": "Fixed",
@@ -2238,7 +2289,24 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.158,
+          "rate": 0.1581,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
+          "monthly_fee": 5.99,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PECPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PECPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "phone": "866-752-1907",
+          "renewable": "Yes",
+          "bundle_required": true,
+          "service_area": null
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1587,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 18,
@@ -2407,8 +2475,8 @@
           "service_area": null
         }
       ],
-      "count": 141,
-      "last_fetched": "2026-06-25T19:05:26.535352Z"
+      "count": 145,
+      "last_fetched": "2026-06-26T13:13:03.778951Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -3150,23 +3218,6 @@
           "service_area": null
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1305,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No",
-          "bundle_required": true,
-          "service_area": null
-        },
-        {
           "name": "Shipley Energy",
           "rate": 0.1308,
           "rate_type": "Fixed",
@@ -3334,6 +3385,23 @@
           "phone": "866-706-7361",
           "renewable": "No",
           "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.132,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No",
+          "bundle_required": true,
           "service_area": null
         },
         {
@@ -3592,6 +3660,23 @@
           "service_area": null
         },
         {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1369,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "A great time for new customers to secure a low rate. Lock in for 6 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18827",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18827",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1379,
           "rate_type": "Fixed",
@@ -3711,40 +3796,6 @@
           "service_area": null
         },
         {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1389,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Lock in your rate for 6 months. With this energy plan, there is no monthly service fee and no early termination fee. Enjoy 100% clean energy through renewable energy credits!",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16035",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16035",
-          "phone": null,
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1397,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Lock in a great rate for 18 months. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18006",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18006",
-          "phone": null,
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Better Buy Energy",
           "rate": 0.1399,
           "rate_type": "Fixed",
@@ -3792,23 +3843,6 @@
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=39&promocode=PAPOWERZERO",
           "phone": "1-888-355-6205",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1399,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "A great time for new customers to secure a low rate. Lock in for 6 months. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18768",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18768",
-          "phone": null,
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -3949,23 +3983,6 @@
           "service_area": null
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1419,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No",
-          "bundle_required": true,
-          "service_area": null
-        },
-        {
           "name": "Spark Energy, LLC",
           "rate": 0.1419,
           "rate_type": "Fixed",
@@ -4014,6 +4031,23 @@
           "phone": "888-512-8994",
           "renewable": "No",
           "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1432,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 6 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_6M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No",
+          "bundle_required": true,
           "service_area": null
         },
         {
@@ -4080,6 +4114,40 @@
           "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=39&promocode=PAPOWERZERO",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=39&promocode=PAPOWERZERO",
           "phone": "1-888-355-6205",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1439,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Lock in your rate for 6 months. With this energy plan, there is no monthly service fee and no early termination fee. Enjoy 100% clean energy through renewable energy credits!",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16035",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16035",
+          "phone": null,
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1447,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Lock in a great rate for 18 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18006",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18006",
+          "phone": null,
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -4238,6 +4306,23 @@
           "service_area": null
         },
         {
+          "name": "0 Commit Energy",
+          "rate": 0.1478,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=115327",
+          "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=115327",
+          "phone": "1-800-698-5853",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Constellation Energy",
           "rate": 0.1479,
           "rate_type": "Fixed",
@@ -4340,6 +4425,23 @@
           "service_area": null
         },
         {
+          "name": "0 Commit Energy",
+          "rate": 0.1498,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=115328",
+          "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=115328",
+          "phone": "1-800-698-5853",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Inspire Clean Energy",
           "rate": 0.1499,
           "rate_type": "Fixed",
@@ -4404,6 +4506,23 @@
           "signup_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
           "phone": "(833) 669 3080",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1518,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 36,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=115329",
+          "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=115329",
+          "phone": "1-800-698-5853",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -4544,23 +4663,6 @@
           "service_area": null
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1624,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
-          "monthly_fee": 5.99,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PPLPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PPLPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
-          "phone": "866-752-1907",
-          "renewable": "Yes",
-          "bundle_required": true,
-          "service_area": null
-        },
-        {
           "name": "Renaissance Power & Gas Inc.",
           "rate": 0.163,
           "rate_type": "Fixed",
@@ -4575,6 +4677,23 @@
           "phone": "888-811-0877",
           "renewable": "No",
           "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1635,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's 100% Renewable Fixed Price for initial term duration of 12 months. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards! After 60 days of billed usage, we'll donate to plant trees. See website for details.",
+          "monthly_fee": 5.99,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PPLPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_EF07_PPLPAE&strategyGuid=e9b3e2a4-e284-43cb-966e-a9887cbe9df1&product_type=earth-friendly",
+          "phone": "866-752-1907",
+          "renewable": "Yes",
+          "bundle_required": true,
           "service_area": null
         },
         {
@@ -4630,7 +4749,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1655,
+          "rate": 0.1665,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 18,
@@ -4918,8 +5037,8 @@
           "service_area": null
         }
       ],
-      "count": 147,
-      "last_fetched": "2026-06-25T19:05:27.215269Z"
+      "count": 150,
+      "last_fetched": "2026-06-26T13:13:04.571463Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5271,7 +5390,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.123,
+          "rate": 0.1239,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -5458,7 +5577,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1304,
+          "rate": 0.1311,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 6,
@@ -5605,23 +5724,6 @@
           "website_url": "https://signup.sparkenergy.com/",
           "signup_url": "https://signup.sparkenergy.com/",
           "phone": "(877) 346-0861",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Renaissance Power & Gas Inc.",
-          "rate": 0.1367,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "1 month rate at $0.1367. Fast, easy sign up. Just call 888-811-0877 or go to www.renaissancepowerandgas.com",
-          "monthly_fee": null,
-          "website_url": "https://www.renaissancepowerandgas.com",
-          "signup_url": "https://www.renaissancepowerandgas.com",
-          "phone": "888-811-0877",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -6546,7 +6648,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1536,
+          "rate": 0.1543,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -6559,23 +6661,6 @@
           "phone": "866-752-1907",
           "renewable": "Yes",
           "bundle_required": true,
-          "service_area": null
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1548,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 18 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
-          "phone": "866-752-1907",
-          "renewable": "No",
-          "bundle_required": false,
           "service_area": null
         },
         {
@@ -6625,6 +6710,23 @@
           "website_url": "https://enrollment.citypowerandgas.com/home",
           "signup_url": "https://enrollment.citypowerandgas.com/home",
           "phone": "1-877-518-9339",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1555,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 18 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_18M_M7_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "phone": "866-752-1907",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7242,8 +7344,8 @@
           "service_area": null
         }
       ],
-      "count": 136,
-      "last_fetched": "2026-06-25T19:05:27.790615Z"
+      "count": 135,
+      "last_fetched": "2026-06-26T13:13:05.159935Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -8325,23 +8427,6 @@
           "service_area": null
         },
         {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1369,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "A great time for new customers to secure a fixed rate. Enjoy peace of mind with a consistent rate for 12 months. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16045",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16045",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1375,
           "rate_type": "Fixed",
@@ -8354,6 +8439,23 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=114055",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=114055",
           "phone": "1-800-225-3813",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1375,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "A great time for new customers to secure a fixed rate. Enjoy peace of mind with a consistent rate for 12 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16068",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16068",
+          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -8405,6 +8507,23 @@
           "website_url": "https://mycleanchoice.com/pashopperbl1",
           "signup_url": "https://mycleanchoice.com/pashopperbl1",
           "phone": "1-800-460-4900",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1383,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "A great time for new customers to secure a fixed rate. Enjoy peace of mind with a fixed rate for 6 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18825",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18825",
+          "phone": null,
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -8593,23 +8712,6 @@
           "signup_url": "https://shopping.dynegy.com/cust/?PID=D2087083-6A90-4EDE-B2E3-234CDF8E85A2&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=81402325-B8D0-4737-A143-E82C406B5364&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1407,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "A great time for new customers to secure a fixed rate. Enjoy peace of mind with a consistent rate for 6 months. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18060",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18060",
-          "phone": null,
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -9465,7 +9567,7 @@
         }
       ],
       "count": 130,
-      "last_fetched": "2026-06-25T19:05:28.396813Z"
+      "last_fetched": "2026-06-26T13:13:05.791695Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -9574,23 +9676,6 @@
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Electric Rates LLC",
-          "rate": 0.109,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 2,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "A great time for new customers to secure a low rate. There is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18611",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18611",
-          "phone": null,
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -9710,6 +9795,23 @@
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=3EAF4749-3ECF-47BB-BC53-0579AFDDF565&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=96F5D341-A53C-4EE6-9D8E-6263EC42B8EC&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Electric Rates LLC",
+          "rate": 0.119,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 2,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "A great time for new customers to secure a low rate. There is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18775",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18775",
+          "phone": null,
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -10207,40 +10309,6 @@
           "service_area": null
         },
         {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1289,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 10,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "A  great time for new customers to secure a fixed rate. Enjoy peace of mind with a consistent rate for 10 months. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18363",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18363",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1297,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "A  great time for new customers to secure a fixed rate. Enjoy peace of mind with a consistent rate for 12 months. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18034",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18034",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Constellation Energy",
           "rate": 0.1299,
           "rate_type": "Fixed",
@@ -10326,23 +10394,6 @@
           "service_area": null
         },
         {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1317,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "A  great time for new customers to secure a fixed rate. Enjoy peace of mind with a consistent rate for 18 months. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18035",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18035",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "APG&E",
           "rate": 0.1318,
           "rate_type": "Fixed",
@@ -10423,6 +10474,23 @@
           "website_url": "https://majorenergy.com/areas/pa/",
           "signup_url": "https://majorenergy.com/areas/pa/",
           "phone": "1-833-488-3124",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1329,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 7,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "A  great time for new customers to secure a fixed rate. Enjoy peace of mind with a consistent rate for 7 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18687",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18687",
+          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -10598,6 +10666,23 @@
           "service_area": null
         },
         {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1357,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "A  great time for new customers to secure a fixed rate. Enjoy peace of mind with a consistent rate for 12 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18034",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18034",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "APG&E",
           "rate": 0.1358,
           "rate_type": "Fixed",
@@ -10628,6 +10713,23 @@
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=el",
           "phone": "866-477-9180",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1367,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "A  great time for new customers to secure a fixed rate. Enjoy peace of mind with a consistent rate for 18 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18035",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18035",
+          "phone": null,
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -11619,7 +11721,7 @@
         }
       ],
       "count": 126,
-      "last_fetched": "2026-06-25T19:05:28.904943Z"
+      "last_fetched": "2026-06-26T13:13:06.350977Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13433,7 +13535,7 @@
         }
       ],
       "count": 106,
-      "last_fetched": "2026-06-25T19:05:29.394881Z"
+      "last_fetched": "2026-06-26T13:13:06.888725Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -14685,23 +14787,6 @@
           "service_area": null
         },
         {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1297,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "A  great time for new customers to secure a fixed rate. Enjoy peace of mind with a consistent rate for 12 months. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18010",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18010",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "CleanSky Energy",
           "rate": 0.1299,
           "rate_type": "Fixed",
@@ -14872,6 +14957,23 @@
           "service_area": null
         },
         {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1309,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "A  great time for new customers to secure a fixed rate. Enjoy peace of mind with a consistent rate for 12 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=17767",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=17767",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "SmartEnergy",
           "rate": 0.131,
           "rate_type": "Fixed",
@@ -14885,23 +14987,6 @@
           "signup_url": "https://account.smartenergy.com/wpp-6months?&utm_source=PUC_Site_WPP_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
           "phone": "(800) 702-7371",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1317,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Lock in your rate for 18 months. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18011",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18011",
-          "phone": null,
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -15089,6 +15174,23 @@
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=46&promocode=PAPOWERZERO",
           "phone": "1-888-355-6205",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1357,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Lock in your rate for 18 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18011",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18011",
+          "phone": null,
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -15519,7 +15621,7 @@
         }
       ],
       "count": 122,
-      "last_fetched": "2026-06-25T19:05:29.921782Z"
+      "last_fetched": "2026-06-26T13:13:07.447816Z"
     }
   }
 }
