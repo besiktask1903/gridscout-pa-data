@@ -175,10 +175,18 @@
       "entity_name": "Philadelphia Gas Works",
       "old_rate": 0.50021,
       "new_rate": 0.50139
+    },
+    {
+      "date": "2026-06-30T13:09:31.495731Z",
+      "type": "utility_ptc",
+      "entity_id": "ppl_electric",
+      "entity_name": "PPL Electric Utilities",
+      "old_rate": 0.13147,
+      "new_rate": 0.13079
     }
   ],
   "last_known_rates": {
-    "electric_ptc_ppl_electric": 0.13147,
+    "electric_ptc_ppl_electric": 0.13079,
     "electric_ptc_peco_electric": 0.11759,
     "electric_ptc_duquesne_light": 0.1414,
     "electric_ptc_met_ed": 0.13951,
