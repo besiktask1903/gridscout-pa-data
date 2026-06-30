@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T13:09:26.730091Z",
+  "last_updated": "2026-06-30T16:23:30.697693Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -701,7 +701,7 @@
         }
       ],
       "count": 46,
-      "last_fetched": "2026-06-30T13:09:25.326599Z"
+      "last_fetched": "2026-06-30T16:23:28.842011Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1028,7 +1028,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-06-30T13:09:25.558325Z"
+      "last_fetched": "2026-06-30T16:23:29.216403Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1775,15 +1775,15 @@
         }
       ],
       "count": 49,
-      "last_fetched": "2026-06-30T13:09:25.903716Z"
+      "last_fetched": "2026-06-30T16:23:29.637831Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
       "rate_unit": "Mcf",
-      "sco_rate": 4.1425,
-      "sco_effective_date": "2001-04-01",
-      "sco_previous_rate": 4.0427,
-      "sco_previous_date": "2026-01-01",
+      "sco_rate": 3.7137,
+      "sco_effective_date": null,
+      "sco_previous_rate": 4.1425,
+      "sco_previous_date": "2026-04-01",
       "suppliers": [
         {
           "name": "American Power and Gas of Pennsylvania LLC",
@@ -2297,7 +2297,7 @@
         }
       ],
       "count": 34,
-      "last_fetched": "2026-06-30T13:09:26.184742Z"
+      "last_fetched": "2026-06-30T16:23:30.016379Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2609,7 +2609,7 @@
         }
       ],
       "count": 20,
-      "last_fetched": "2026-06-30T13:09:26.421040Z"
+      "last_fetched": "2026-06-30T16:23:30.306984Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3281,7 +3281,7 @@
         }
       ],
       "count": 44,
-      "last_fetched": "2026-06-30T13:09:26.729946Z"
+      "last_fetched": "2026-06-30T16:23:30.697513Z"
     }
   }
 }

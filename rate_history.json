@@ -183,6 +183,14 @@
       "entity_name": "PPL Electric Utilities",
       "old_rate": 0.13147,
       "new_rate": 0.13079
+    },
+    {
+      "date": "2026-06-30T16:23:30.701639Z",
+      "type": "utility_sco",
+      "entity_id": "peoples_gas",
+      "entity_name": "Peoples Natural Gas",
+      "old_rate": 4.1425,
+      "new_rate": 3.7137
     }
   ],
   "last_known_rates": {
@@ -195,7 +203,7 @@
     "electric_ptc_west_penn_power": 0.12075,
     "gas_sco_columbia_gas_pa": 0.41582,
     "gas_sco_national_fuel_gas": 0.58613,
-    "gas_sco_peoples_gas": 4.1425,
+    "gas_sco_peoples_gas": 3.7137,
     "gas_sco_pgw": 0.50139,
     "gas_sco_ugi_gas": 0.76795,
     "gas_sco_peco_gas": 0.67301
