@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T12:56:50.648474Z",
+  "last_updated": "2026-07-03T15:14:15.555188Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -90,23 +90,6 @@
           "website_url": "https://www.clearviewenergy.com/enrollment/?utilityid=45&utilityidG=&utilityname=PECO&utilitynameG=&ctype=Resi&utility-state=pa&productNum=411517",
           "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=45&utilityidG=&utilityname=PECO&utilitynameG=&ctype=Resi&utility-state=pa&productNum=411517",
           "phone": "888-512-8994",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "SFE Energy Pennsylvania, Inc.",
-          "rate": 0.0999,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "$7.50",
-          "introductory": "No",
-          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 15,000 kWh. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will plant 1 complimentary tree per customer. SFE Energy will purchase carbon emissions credits to offset 100% of the electricity carbon footprint from your household usage. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the electricity supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected. You may pay a daily customer charge in the amount of $0.89 per commodity, which includes commodity related charges to provide you with your electricity supply service.",
-          "monthly_fee": 27.07,
-          "website_url": "https://signup.sfeenergy.com/",
-          "signup_url": "https://signup.sfeenergy.com/",
-          "phone": "1-877-316-6344",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -532,6 +515,23 @@
           "website_url": "https://secure.cirroenergy.com/landing/shop/",
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "SFE Energy Pennsylvania, Inc.",
+          "rate": 0.1128,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
+          "early_termination_fee": "$7.50",
+          "introductory": "No",
+          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 15,000 kWh. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will plant 1 complimentary tree per customer. SFE Energy will purchase carbon emissions credits to offset 100% of the electricity carbon footprint from your household usage. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the electricity supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected. You may pay a daily customer charge in the amount of $0.59 per commodity, which includes commodity related charges to provide you with your electricity supply service.",
+          "monthly_fee": 17.95,
+          "website_url": "https://signup.sfeenergy.com/",
+          "signup_url": "https://signup.sfeenergy.com/",
+          "phone": "1-877-316-6344",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2578,7 +2578,7 @@
         }
       ],
       "count": 151,
-      "last_fetched": "2026-07-03T12:56:47.662109Z"
+      "last_fetched": "2026-07-03T15:14:11.870122Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2771,23 +2771,6 @@
           "website_url": "https://shopping.publicpowercompany.com/cust/?PID=84816D55-1467-418E-B8F7-C7DB174F52F0&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=BCDE5AAC-F076-4A9A-ACFD-82B8C83C6199&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=84816D55-1467-418E-B8F7-C7DB174F52F0&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=BCDE5AAC-F076-4A9A-ACFD-82B8C83C6199&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "SFE Energy Pennsylvania, Inc.",
-          "rate": 0.1199,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "$7.50",
-          "introductory": "No",
-          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 15,000 kWh. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will plant 1 complimentary tree per customer. SFE Energy will purchase carbon emissions credits to offset 100% of the electricity carbon footprint from your household usage. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the electricity supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected. You may pay a daily customer charge in the amount of $0.89 per commodity, which includes commodity related charges to provide you with your electricity supply service.",
-          "monthly_fee": 27.07,
-          "website_url": "https://signup.sfeenergy.com/",
-          "signup_url": "https://signup.sfeenergy.com/",
-          "phone": "1-877-316-6344",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -3230,6 +3213,23 @@
           "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48236&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1217",
           "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48236&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1217",
           "phone": "8774300093",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "SFE Energy Pennsylvania, Inc.",
+          "rate": 0.1298,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
+          "early_termination_fee": "$7.50",
+          "introductory": "No",
+          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 15,000 kWh. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will plant 1 complimentary tree per customer. SFE Energy will purchase carbon emissions credits to offset 100% of the electricity carbon footprint from your household usage. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the electricity supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected. You may pay a daily customer charge in the amount of $0.69 per commodity, which includes commodity related charges to provide you with your electricity supply service.",
+          "monthly_fee": 20.99,
+          "website_url": "https://signup.sfeenergy.com/",
+          "signup_url": "https://signup.sfeenergy.com/",
+          "phone": "1-877-316-6344",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -5174,7 +5174,7 @@
         }
       ],
       "count": 152,
-      "last_fetched": "2026-07-03T12:56:48.209526Z"
+      "last_fetched": "2026-07-03T15:14:12.573600Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5367,23 +5367,6 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=112551",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=112551",
           "phone": "1-800-225-3813",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "SFE Energy Pennsylvania, Inc.",
-          "rate": 0.1199,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "$7.50",
-          "introductory": "No",
-          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 15,000 kWh. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will plant 1 complimentary tree per customer. SFE Energy will purchase carbon emissions credits to offset 100% of the electricity carbon footprint from your household usage. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the electricity supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected. You may pay a monthly customer charge in the amount of $8.82 per commodity, which includes commodity related charges to provide you with your electricity supply service.",
-          "monthly_fee": 8.82,
-          "website_url": null,
-          "signup_url": null,
-          "phone": "1-877-316-6344",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -5878,6 +5861,23 @@
           "signup_url": "https://www.verdeenergy.com/get-rates/",
           "phone": "1-833-488-3125",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "SFE Energy Pennsylvania, Inc.",
+          "rate": 0.1398,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
+          "early_termination_fee": "$7.50",
+          "introductory": "No",
+          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 15,000 kWh. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will plant 1 complimentary tree per customer. SFE Energy will purchase carbon emissions credits to offset 100% of the electricity carbon footprint from your household usage. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the electricity supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected. You may pay a monthly customer charge in the amount of $8.82 per commodity, which includes commodity related charges to provide you with your electricity supply service.",
+          "monthly_fee": 8.82,
+          "website_url": null,
+          "signup_url": null,
+          "phone": "1-877-316-6344",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -7583,7 +7583,7 @@
         }
       ],
       "count": 141,
-      "last_fetched": "2026-07-03T12:56:48.758905Z"
+      "last_fetched": "2026-07-03T15:14:13.168236Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -7708,23 +7708,6 @@
           "website_url": "https://shopping.publicpowercompany.com/cust/?PID=189665AA-46B6-4F20-8B63-032A77B063F0&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=6328E883-5E0D-4E5D-B40A-2ED99A91CF61&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=189665AA-46B6-4F20-8B63-032A77B063F0&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=6328E883-5E0D-4E5D-B40A-2ED99A91CF61&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "SFE Energy Pennsylvania, Inc.",
-          "rate": 0.1229,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "$7.50",
-          "introductory": "No",
-          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 15,000 kWh. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will plant 1 complimentary tree per customer. SFE Energy will purchase carbon emissions credits to offset 100% of the electricity carbon footprint from your household usage. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the electricity supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected. You may pay a daily customer charge in the amount of $0.89 per commodity, which includes commodity related charges to provide you with your electricity supply service.",
-          "monthly_fee": 27.07,
-          "website_url": "https://signup.sfeenergy.com/",
-          "signup_url": "https://signup.sfeenergy.com/",
-          "phone": "1-877-316-6344",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -8405,6 +8388,23 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=112634",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=112634",
           "phone": "1-800-225-3813",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "SFE Energy Pennsylvania, Inc.",
+          "rate": 0.1368,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
+          "early_termination_fee": "$7.50",
+          "introductory": "No",
+          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 15,000 kWh. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will plant 1 complimentary tree per customer. SFE Energy will purchase carbon emissions credits to offset 100% of the electricity carbon footprint from your household usage. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the electricity supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected. You may pay a daily customer charge in the amount of $0.49 per commodity, which includes commodity related charges to provide you with your electricity supply service.",
+          "monthly_fee": 14.9,
+          "website_url": "https://signup.sfeenergy.com/",
+          "signup_url": "https://signup.sfeenergy.com/",
+          "phone": "1-877-316-6344",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -9873,7 +9873,7 @@
         }
       ],
       "count": 134,
-      "last_fetched": "2026-07-03T12:56:49.247340Z"
+      "last_fetched": "2026-07-03T15:14:13.777370Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -10015,23 +10015,6 @@
           "website_url": "https://shopping.pagande.com/cust/?PID=088C1110-7BD0-41FE-ABCB-F1C912015C4B&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=E2989505-3127-48FC-AAD8-081553183A66&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=088C1110-7BD0-41FE-ABCB-F1C912015C4B&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=E2989505-3127-48FC-AAD8-081553183A66&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "SFE Energy Pennsylvania, Inc.",
-          "rate": 0.1169,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "$7.50",
-          "introductory": "No",
-          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 15,000 kWh. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will plant 1 complimentary tree per customer. SFE Energy will purchase carbon emissions credits to offset 100% of the electricity carbon footprint from your household usage. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the electricity supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected. You may pay a daily customer charge in the amount of $0.99 per commodity, which includes commodity related charges to provide you with your electricity supply service.",
-          "monthly_fee": 30.11,
-          "website_url": "https://signup.sfeenergy.com/",
-          "signup_url": "https://signup.sfeenergy.com/",
-          "phone": "1-877-316-6344",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -10508,6 +10491,23 @@
           "website_url": "https://shopping.dynegy.com/cust/?PID=18196CBA-166C-4BEA-B1B8-E67297E93FDB&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=4160DC27-046F-457D-95A7-43400346F9E9&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.dynegy.com/cust/?PID=18196CBA-166C-4BEA-B1B8-E67297E93FDB&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=4160DC27-046F-457D-95A7-43400346F9E9&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "SFE Energy Pennsylvania, Inc.",
+          "rate": 0.1298,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
+          "early_termination_fee": "$7.50",
+          "introductory": "No",
+          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 15,000 kWh. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will plant 1 complimentary tree per customer. SFE Energy will purchase carbon emissions credits to offset 100% of the electricity carbon footprint from your household usage. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the electricity supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected. You may pay a daily customer charge in the amount of $0.99 per commodity, which includes commodity related charges to provide you with your electricity supply service.",
+          "monthly_fee": 30.11,
+          "website_url": "https://signup.sfeenergy.com/",
+          "signup_url": "https://signup.sfeenergy.com/",
+          "phone": "1-877-316-6344",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -12146,7 +12146,7 @@
         }
       ],
       "count": 133,
-      "last_fetched": "2026-07-03T12:56:49.739946Z"
+      "last_fetched": "2026-07-03T15:14:14.383245Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -12271,23 +12271,6 @@
           "website_url": "https://shopping.publicpowercompany.com/cust/?PID=E1DFC492-6D0E-4FE1-B3F0-01743A03B537&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=0C44F469-0EE9-4B63-A426-D11CF5A4F8A7&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=E1DFC492-6D0E-4FE1-B3F0-01743A03B537&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=0C44F469-0EE9-4B63-A426-D11CF5A4F8A7&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "SFE Energy Pennsylvania, Inc.",
-          "rate": 0.1199,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "$7.50",
-          "introductory": "No",
-          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 15,000 kWh. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will plant 1 complimentary tree per customer. SFE Energy will purchase carbon emissions credits to offset 100% of the electricity carbon footprint from your household usage. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the electricity supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected. You may pay a daily customer charge in the amount of $0.89 per commodity, which includes commodity related charges to provide you with your electricity supply service.",
-          "monthly_fee": 27.07,
-          "website_url": "https://signup.sfeenergy.com/",
-          "signup_url": "https://signup.sfeenergy.com/",
-          "phone": "1-877-316-6344",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -12543,6 +12526,23 @@
           "website_url": null,
           "signup_url": null,
           "phone": "888-865-3402",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "SFE Energy Pennsylvania, Inc.",
+          "rate": 0.1298,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
+          "early_termination_fee": "$7.50",
+          "introductory": "No",
+          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 15,000 kWh. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will plant 1 complimentary tree per customer. SFE Energy will purchase carbon emissions credits to offset 100% of the electricity carbon footprint from your household usage. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the electricity supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected. You may pay a daily customer charge in the amount of $0.69 per commodity, which includes commodity related charges to provide you with your electricity supply service.",
+          "monthly_fee": 20.99,
+          "website_url": "https://signup.sfeenergy.com/",
+          "signup_url": "https://signup.sfeenergy.com/",
+          "phone": "1-877-316-6344",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -14062,7 +14062,7 @@
         }
       ],
       "count": 112,
-      "last_fetched": "2026-07-03T12:56:50.162753Z"
+      "last_fetched": "2026-07-03T15:14:14.900220Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -14153,23 +14153,6 @@
           "website_url": "https://shopping.publicpowercompany.com/cust/?PID=683F3B33-9DAF-49B1-BDED-1EB153020FEE&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=765F377D-9EA9-444C-90BC-FB451EA761D3&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=683F3B33-9DAF-49B1-BDED-1EB153020FEE&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=765F377D-9EA9-444C-90BC-FB451EA761D3&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "SFE Energy Pennsylvania, Inc.",
-          "rate": 0.1059,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "$7.50",
-          "introductory": "No",
-          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 15,000 kWh. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will plant 1 complimentary tree per customer. SFE Energy will purchase carbon emissions credits to offset 100% of the electricity carbon footprint from your household usage. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the electricity supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected. You may pay a daily customer charge in the amount of $0.99 per commodity, which includes commodity related charges to provide you with your electricity supply service.",
-          "monthly_fee": 30.11,
-          "website_url": "https://signup.sfeenergy.com/",
-          "signup_url": "https://signup.sfeenergy.com/",
-          "phone": "1-877-316-6344",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -14732,6 +14715,23 @@
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=WPP&channel_code=direct",
           "phone": "844-275-4022",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "SFE Energy Pennsylvania, Inc.",
+          "rate": 0.1198,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
+          "early_termination_fee": "$7.50",
+          "introductory": "No",
+          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 15,000 kWh. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will plant 1 complimentary tree per customer. SFE Energy will purchase carbon emissions credits to offset 100% of the electricity carbon footprint from your household usage. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the electricity supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected. You may pay a daily customer charge in the amount of $0.89 per commodity, which includes commodity related charges to provide you with your electricity supply service.",
+          "monthly_fee": 27.07,
+          "website_url": "https://signup.sfeenergy.com/",
+          "signup_url": "https://signup.sfeenergy.com/",
+          "phone": "1-877-316-6344",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -16233,7 +16233,7 @@
         }
       ],
       "count": 127,
-      "last_fetched": "2026-07-03T12:56:50.648280Z"
+      "last_fetched": "2026-07-03T15:14:15.554998Z"
     }
   }
 }

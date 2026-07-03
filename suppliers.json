@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T12:56:46.637363Z",
+  "last_updated": "2026-07-03T15:14:10.834615Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -325,6 +325,21 @@
           "service_area": null
         },
         {
+          "name": "SFE Energy Pennsylvania, Inc.",
+          "rate": 0.498,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 9,
+          "early_termination_fee": "$7.50 (plus applicable taxes) per month or partial month remaining on the Agreement Term",
+          "introductory": "No",
+          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 1,500 therms. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will also plant 1 complimentary tree on your behalf. SFE Energy will purchase carbon emissions credits to offset 1.5 tonnes per 1,000 Ccf of the natural gas carbon footprint from your household usage, which is equivalent to 25% carbon emissions reduction. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the natural gas supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected.",
+          "monthly_fee": null,
+          "website_url": "https://signup.sfeenergy.com/",
+          "signup_url": "https://signup.sfeenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "CleanSky Energy",
           "rate": 0.499,
           "rate_type": "Fixed",
@@ -426,21 +441,6 @@
           "monthly_fee": null,
           "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
           "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "SFE Energy Pennsylvania, Inc.",
-          "rate": 0.549,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 9,
-          "early_termination_fee": "$7.50 (plus applicable taxes) per month or partial month remaining on the Agreement Term",
-          "introductory": "No",
-          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 1,500 therms. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will also plant 1 complimentary tree on your behalf. SFE Energy will purchase carbon emissions credits to offset 1.5 tonnes per 1,000 Ccf of the natural gas carbon footprint from your household usage, which is equivalent to 25% carbon emissions reduction. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the natural gas supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected.",
-          "monthly_fee": null,
-          "website_url": "https://signup.sfeenergy.com/",
-          "signup_url": "https://signup.sfeenergy.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -686,7 +686,7 @@
         }
       ],
       "count": 45,
-      "last_fetched": "2026-07-03T12:56:45.503197Z"
+      "last_fetched": "2026-07-03T15:14:09.309036Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -833,7 +833,7 @@
         },
         {
           "name": "SFE Energy Pennsylvania, Inc.",
-          "rate": 0.599,
+          "rate": 0.598,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 9,
@@ -1013,7 +1013,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-07-03T12:56:45.678049Z"
+      "last_fetched": "2026-07-03T15:14:09.580416Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1160,13 +1160,13 @@
         },
         {
           "name": "SFE Energy Pennsylvania, Inc.",
-          "rate": 0.529,
+          "rate": 0.528,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 9,
           "early_termination_fee": "$7.50 (plus applicable taxes) per month or partial month remaining on the Agreement Term",
           "introductory": "No",
-          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 1,500 Ccf. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will also plant 1 complimentary tree on your behalf. SFE Energy will purchase carbon emissions credits to offset 1.5 tonnes per 1,000 Ccf of the natural gas carbon footprint from your household usage, which is equivalent to 25% carbon emissions reduction. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the natural gas supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected. You may pay a daily customer charge in the amount of $0.39, which includes commodity related charges to provide you with your natural gas supply service.",
+          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 1,500 Ccf. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will also plant 1 complimentary tree on your behalf. SFE Energy will purchase carbon emissions credits to offset 1.5 tonnes per 1,000 Ccf of the natural gas carbon footprint from your household usage, which is equivalent to 25% carbon emissions reduction. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the natural gas supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected. You may pay a daily customer charge in the amount of $0.49, which includes commodity related charges to provide you with your natural gas supply service.",
           "monthly_fee": null,
           "website_url": "https://signup.sfeenergy.com/",
           "signup_url": "https://signup.sfeenergy.com/",
@@ -1760,7 +1760,7 @@
         }
       ],
       "count": 49,
-      "last_fetched": "2026-07-03T12:56:45.944843Z"
+      "last_fetched": "2026-07-03T15:14:09.980831Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2056,6 +2056,21 @@
           "service_area": null
         },
         {
+          "name": "SFE Energy Pennsylvania, Inc.",
+          "rate": 4.98,
+          "rate_type": "Fixed",
+          "rate_unit": "Mcf",
+          "term_months": 9,
+          "early_termination_fee": "$7.50 (plus applicable taxes) per month or partial month remaining on the Agreement Term",
+          "introductory": "No",
+          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 150 Mcf. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will also plant 1 complimentary tree on your behalf. SFE Energy will purchase carbon emissions credits to offset 1.5 tonnes per 1,000 Ccf of the natural gas carbon footprint from your household usage, which is equivalent to 25% carbon emissions reduction. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the natural gas supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected.",
+          "monthly_fee": null,
+          "website_url": "https://signup.sfeenergy.com/",
+          "signup_url": "https://signup.sfeenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "IGS Energy",
           "rate": 4.99,
           "rate_type": "Fixed",
@@ -2127,21 +2142,6 @@
           "monthly_fee": null,
           "website_url": "https://www.wglenergy.com/",
           "signup_url": "https://www.wglenergy.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "SFE Energy Pennsylvania, Inc.",
-          "rate": 5.39,
-          "rate_type": "Fixed",
-          "rate_unit": "Mcf",
-          "term_months": 9,
-          "early_termination_fee": "$7.50 (plus applicable taxes) per month or partial month remaining on the Agreement Term",
-          "introductory": "No",
-          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 150 Mcf. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will also plant 1 complimentary tree on your behalf. SFE Energy will purchase carbon emissions credits to offset 1.5 tonnes per 1,000 Ccf of the natural gas carbon footprint from your household usage, which is equivalent to 25% carbon emissions reduction. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the natural gas supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected.",
-          "monthly_fee": null,
-          "website_url": "https://signup.sfeenergy.com/",
-          "signup_url": "https://signup.sfeenergy.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -2282,7 +2282,7 @@
         }
       ],
       "count": 34,
-      "last_fetched": "2026-07-03T12:56:46.171212Z"
+      "last_fetched": "2026-07-03T15:14:10.303216Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2399,7 +2399,7 @@
         },
         {
           "name": "SFE Energy Pennsylvania, Inc.",
-          "rate": 0.689,
+          "rate": 0.688,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 9,
@@ -2579,7 +2579,7 @@
         }
       ],
       "count": 19,
-      "last_fetched": "2026-07-03T12:56:46.397095Z"
+      "last_fetched": "2026-07-03T15:14:10.533323Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2695,6 +2695,21 @@
           "service_area": null
         },
         {
+          "name": "SFE Energy Pennsylvania, Inc.",
+          "rate": 0.678,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 9,
+          "early_termination_fee": "$7.50 (plus applicable taxes) per month or partial month remaining on the Agreement Term",
+          "introductory": "No",
+          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 1,500 Ccf. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will also plant 1 complimentary tree on your behalf. SFE Energy will purchase carbon emissions credits to offset 1.5 tonnes per 1,000 Ccf of the natural gas carbon footprint from your household usage, which is equivalent to 25% carbon emissions reduction. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the natural gas supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected. You may pay a monthly customer charge in the amount of $14.90, which includes commodity related charges to provide you with your natural gas supply service.",
+          "monthly_fee": null,
+          "website_url": "https://signup.sfeenergy.com/",
+          "signup_url": "https://signup.sfeenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Major Energy Services",
           "rate": 0.679,
           "rate_type": "Fixed",
@@ -2706,21 +2721,6 @@
           "monthly_fee": null,
           "website_url": "https://majorenergy.com/enroll/?UtilityId=134&ProductId=147263",
           "signup_url": "https://majorenergy.com/enroll/?UtilityId=134&ProductId=147263",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "SFE Energy Pennsylvania, Inc.",
-          "rate": 0.679,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 9,
-          "early_termination_fee": "$7.50 (plus applicable taxes) per month or partial month remaining on the Agreement Term",
-          "introductory": "No",
-          "promotional_details": "Online offer only and this offer is exclusively available to new residential customers enrolling with SFE Energy for the first time. You are eligible for the plan if your annual usage does not exceed 1,500 Ccf. To enroll, please visit our sign-up page at https://signup.sfeenergy.com/.  Experience peace of mind with our fixed-price plan, and unlock additional benefits by earning $50 in reward dollars every month. Enjoy exclusive access to a world of possibilities: local deals, restaurants, movies, online shopping, gift cards, and more. Plus, the best part? Your reward dollars never expire!  SFE Energy will also plant 1 complimentary tree on your behalf. SFE Energy will purchase carbon emissions credits to offset 1.5 tonnes per 1,000 Ccf of the natural gas carbon footprint from your household usage, which is equivalent to 25% carbon emissions reduction. An early cancellation fee of $7.50 plus applicable taxes for each month or partial month remaining on the natural gas supply service Agreement Term will apply if the Agreement is terminated prior to the end of the Term selected. You may pay a monthly customer charge in the amount of $14.89, which includes commodity related charges to provide you with your natural gas supply service.",
-          "monthly_fee": null,
-          "website_url": "https://signup.sfeenergy.com/",
-          "signup_url": "https://signup.sfeenergy.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -3236,7 +3236,7 @@
         }
       ],
       "count": 43,
-      "last_fetched": "2026-07-03T12:56:46.637191Z"
+      "last_fetched": "2026-07-03T15:14:10.834456Z"
     }
   }
 }
