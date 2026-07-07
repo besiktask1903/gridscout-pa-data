@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T17:44:38.125800Z",
+  "last_updated": "2026-07-07T13:21:35.821960Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -310,21 +310,6 @@
           "service_area": null
         },
         {
-          "name": "Direct Energy",
-          "rate": 0.479,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=720",
-          "signup_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=720",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "SFE Energy Pennsylvania, Inc.",
           "rate": 0.498,
           "rate_type": "Fixed",
@@ -366,6 +351,21 @@
           "monthly_fee": null,
           "website_url": "https://symmetryenergy.com/enroll/",
           "signup_url": "https://symmetryenergy.com/enroll/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Direct Energy",
+          "rate": 0.509,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 16,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=720",
           "bundle_required": false,
           "service_area": null
         },
@@ -475,21 +475,6 @@
           "service_area": null
         },
         {
-          "name": "Direct Energy",
-          "rate": 0.569,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 18,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=720",
-          "signup_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=720",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Symmetry Energy Solutions LLC",
           "rate": 0.579,
           "rate_type": "Fixed",
@@ -501,6 +486,21 @@
           "monthly_fee": null,
           "website_url": "https://symmetryenergy.com/enroll/",
           "signup_url": "https://symmetryenergy.com/enroll/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Direct Energy",
+          "rate": 0.589,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 18,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=720",
           "bundle_required": false,
           "service_area": null
         },
@@ -686,7 +686,7 @@
         }
       ],
       "count": 45,
-      "last_fetched": "2026-07-06T17:44:36.528765Z"
+      "last_fetched": "2026-07-07T13:21:34.374286Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1013,7 +1013,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-07-06T17:44:36.869139Z"
+      "last_fetched": "2026-07-07T13:21:34.631742Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1055,7 +1055,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.4699,
+          "rate": 0.4758,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -1175,10 +1175,10 @@
         },
         {
           "name": "Direct Energy",
-          "rate": 0.539,
+          "rate": 0.559,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
-          "term_months": 6,
+          "term_months": 9,
           "early_termination_fee": null,
           "introductory": "No",
           "promotional_details": "This plan is for new customers only who enroll via the Web.",
@@ -1200,21 +1200,6 @@
           "monthly_fee": null,
           "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=66&promocode=PAGASZERO",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=66&promocode=PAGASZERO",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Direct Energy",
-          "rate": 0.599,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.directenergy.com/usn/gas-live-brighter-12?msid=720",
-          "signup_url": "https://shop.directenergy.com/usn/gas-live-brighter-12?msid=720",
           "bundle_required": false,
           "service_area": null
         },
@@ -1250,16 +1235,16 @@
         },
         {
           "name": "Direct Energy",
-          "rate": 0.619,
+          "rate": 0.609,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
-          "term_months": 18,
+          "term_months": 12,
           "early_termination_fee": null,
           "introductory": "No",
           "promotional_details": "This plan is for new customers only who enroll via the Web.",
           "monthly_fee": null,
-          "website_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=720",
-          "signup_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=720",
+          "website_url": "https://shop.directenergy.com/usn/gas-live-brighter-12?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/gas-live-brighter-12?msid=720",
           "bundle_required": false,
           "service_area": null
         },
@@ -1275,6 +1260,21 @@
           "monthly_fee": null,
           "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=66&promocode=PAGASZERO",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=66&promocode=PAGASZERO",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Direct Energy",
+          "rate": 0.629,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 18,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=720",
           "bundle_required": false,
           "service_area": null
         },
@@ -1760,7 +1760,7 @@
         }
       ],
       "count": 49,
-      "last_fetched": "2026-07-06T17:44:37.225087Z"
+      "last_fetched": "2026-07-07T13:21:34.989321Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2282,7 +2282,7 @@
         }
       ],
       "count": 34,
-      "last_fetched": "2026-07-06T17:44:37.596352Z"
+      "last_fetched": "2026-07-07T13:21:35.274046Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2339,7 +2339,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.449,
+          "rate": 0.439,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -2579,7 +2579,7 @@
         }
       ],
       "count": 19,
-      "last_fetched": "2026-07-06T17:44:37.820210Z"
+      "last_fetched": "2026-07-07T13:21:35.504015Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2740,21 +2740,6 @@
           "service_area": null
         },
         {
-          "name": "Direct Energy",
-          "rate": 0.689,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=720",
-          "signup_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=720",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "nTherm LLC",
           "rate": 0.689,
           "rate_type": "Variable",
@@ -2890,6 +2875,21 @@
           "service_area": null
         },
         {
+          "name": "Direct Energy",
+          "rate": 0.729,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 9,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=720",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "1776 Energy",
           "rate": 0.739,
           "rate_type": "Fixed",
@@ -2946,21 +2946,6 @@
           "monthly_fee": null,
           "website_url": null,
           "signup_url": null,
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Direct Energy",
-          "rate": 0.759,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.directenergy.com/usn/gas-live-brighter-12?msid=720",
-          "signup_url": "https://shop.directenergy.com/usn/gas-live-brighter-12?msid=720",
           "bundle_required": false,
           "service_area": null
         },
@@ -3056,16 +3041,16 @@
         },
         {
           "name": "Direct Energy",
-          "rate": 0.779,
+          "rate": 0.789,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
-          "term_months": 18,
+          "term_months": 12,
           "early_termination_fee": null,
           "introductory": "No",
           "promotional_details": "This plan is for new customers only who enroll via the Web.",
           "monthly_fee": null,
-          "website_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=720",
-          "signup_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=720",
+          "website_url": "https://shop.directenergy.com/usn/gas-live-brighter-12?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/gas-live-brighter-12?msid=720",
           "bundle_required": false,
           "service_area": null
         },
@@ -3081,6 +3066,21 @@
           "monthly_fee": null,
           "website_url": "https://portal.frontierutilities.com/Enrollment/NE/Campaign?Zip_Code=17003&TDSP_CODE=UGI&target=A29LN1JXC2",
           "signup_url": "https://portal.frontierutilities.com/Enrollment/NE/Campaign?Zip_Code=17003&TDSP_CODE=UGI&target=A29LN1JXC2",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Direct Energy",
+          "rate": 0.809,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 18,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/gas-live-brighter-18?msid=720",
           "bundle_required": false,
           "service_area": null
         },
@@ -3236,7 +3236,7 @@
         }
       ],
       "count": 43,
-      "last_fetched": "2026-07-06T17:44:38.125600Z"
+      "last_fetched": "2026-07-07T13:21:35.821786Z"
     }
   }
 }
