@@ -191,6 +191,14 @@
       "entity_name": "Peoples Natural Gas",
       "old_rate": 4.1425,
       "new_rate": 3.7137
+    },
+    {
+      "date": "2026-07-07T19:03:26.290719Z",
+      "type": "utility_sco",
+      "entity_id": "columbia_gas_pa",
+      "entity_name": "Columbia Gas of Pennsylvania",
+      "old_rate": 0.41582,
+      "new_rate": 0.38311
     }
   ],
   "last_known_rates": {
@@ -201,7 +209,7 @@
     "electric_ptc_penelec": 0.13142,
     "electric_ptc_penn_power": 0.13477,
     "electric_ptc_west_penn_power": 0.12075,
-    "gas_sco_columbia_gas_pa": 0.41582,
+    "gas_sco_columbia_gas_pa": 0.38311,
     "gas_sco_national_fuel_gas": 0.58613,
     "gas_sco_peoples_gas": 3.7137,
     "gas_sco_pgw": 0.50139,

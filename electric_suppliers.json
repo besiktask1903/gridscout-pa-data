@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T16:32:38.992957Z",
+  "last_updated": "2026-07-07T19:03:32.015242Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -877,23 +877,6 @@
           "service_area": null
         },
         {
-          "name": "0 Commit Energy",
-          "rate": 0.1186,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=115864",
-          "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=115864",
-          "phone": "1-800-698-5853",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1188,
           "rate_type": "Fixed",
@@ -1391,13 +1374,13 @@
           "rate": 0.1258,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 12,
+          "term_months": 18,
           "early_termination_fee": null,
           "introductory": "No",
           "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
           "monthly_fee": null,
-          "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=95339",
-          "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=95339",
+          "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=94432",
+          "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=94432",
           "phone": "1-800-698-5853",
           "renewable": "No",
           "bundle_required": false,
@@ -1408,13 +1391,13 @@
           "rate": 0.1258,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 18,
+          "term_months": 12,
           "early_termination_fee": null,
           "introductory": "No",
           "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
           "monthly_fee": null,
-          "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=94432",
-          "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=94432",
+          "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=95339",
+          "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=95339",
           "phone": "1-800-698-5853",
           "renewable": "No",
           "bundle_required": false,
@@ -1603,6 +1586,23 @@
           "website_url": "https://shopping.energyharbor.com/cust/?PID=4E8DDC02-51FB-4246-8E7A-1DBBFCA19CD7&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=BE22EAAB-BCE9-4359-A64B-5BB18A76DBDA&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=4E8DDC02-51FB-4246-8E7A-1DBBFCA19CD7&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=BE22EAAB-BCE9-4359-A64B-5BB18A76DBDA&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1279,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 15,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=116131",
+          "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=116131",
+          "phone": "1-800-698-5853",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2544,7 +2544,7 @@
         }
       ],
       "count": 149,
-      "last_fetched": "2026-07-07T16:32:34.835826Z"
+      "last_fetched": "2026-07-07T19:03:27.839570Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -4323,23 +4323,6 @@
           "service_area": null
         },
         {
-          "name": "0 Commit Energy",
-          "rate": 0.1468,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=99766",
-          "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=99766",
-          "phone": "1-800-698-5853",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Direct Energy",
           "rate": 0.1469,
           "rate_type": "Fixed",
@@ -4438,23 +4421,6 @@
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-ppl&utm_source=papower&utm_medium=shopping&utm_campaign=ppl_36eco",
           "phone": "1-877-648-1923",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "0 Commit Energy",
-          "rate": 0.1498,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 36,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=112607",
-          "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=112607",
-          "phone": "1-800-698-5853",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -5088,8 +5054,8 @@
           "service_area": null
         }
       ],
-      "count": 149,
-      "last_fetched": "2026-07-07T16:32:35.571445Z"
+      "count": 147,
+      "last_fetched": "2026-07-07T19:03:28.680995Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7481,7 +7447,7 @@
         }
       ],
       "count": 140,
-      "last_fetched": "2026-07-07T16:32:36.284046Z"
+      "last_fetched": "2026-07-07T19:03:29.363886Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9754,7 +9720,7 @@
         }
       ],
       "count": 133,
-      "last_fetched": "2026-07-07T16:32:37.024949Z"
+      "last_fetched": "2026-07-07T19:03:30.035881Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -12027,7 +11993,7 @@
         }
       ],
       "count": 133,
-      "last_fetched": "2026-07-07T16:32:37.719497Z"
+      "last_fetched": "2026-07-07T19:03:30.735216Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13960,7 +13926,7 @@
         }
       ],
       "count": 113,
-      "last_fetched": "2026-07-07T16:32:38.298004Z"
+      "last_fetched": "2026-07-07T19:03:31.358235Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16148,7 +16114,7 @@
         }
       ],
       "count": 128,
-      "last_fetched": "2026-07-07T16:32:38.992778Z"
+      "last_fetched": "2026-07-07T19:03:32.015071Z"
     }
   }
 }
