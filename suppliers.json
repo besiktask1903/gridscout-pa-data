@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T19:03:26.287141Z",
+  "last_updated": "2026-07-08T12:21:23.925800Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -686,7 +686,7 @@
         }
       ],
       "count": 45,
-      "last_fetched": "2026-07-07T19:03:24.501535Z"
+      "last_fetched": "2026-07-08T12:21:22.566479Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1013,7 +1013,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-07-07T19:03:24.855023Z"
+      "last_fetched": "2026-07-08T12:21:22.797259Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1055,7 +1055,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.4758,
+          "rate": 0.4681,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -1459,6 +1459,21 @@
           "service_area": null
         },
         {
+          "name": "Green Mountain Energy",
+          "rate": 0.73,
+          "rate_type": "Variable",
+          "rate_unit": "Ccf",
+          "term_months": 3,
+          "early_termination_fee": null,
+          "introductory": "Yes",
+          "promotional_details": "Includes 100% carbon-offset natural gas supply. Visit the site to learn more; call 844-460-0314 for details and to enroll. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?gasSlug=peco_gas&state=pa",
+          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?gasSlug=peco_gas&state=pa",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Frontier Utilities",
           "rate": 0.759,
           "rate_type": "Fixed",
@@ -1575,21 +1590,6 @@
           "monthly_fee": null,
           "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
           "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Green Mountain Energy",
-          "rate": 0.86,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "Yes",
-          "promotional_details": "Includes 100% carbon-offset natural gas supply. Visit the site to learn more; call 844-460-0314 for details and to enroll. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?gasSlug=peco_gas&state=pa",
-          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?gasSlug=peco_gas&state=pa",
           "bundle_required": false,
           "service_area": null
         },
@@ -1760,7 +1760,7 @@
         }
       ],
       "count": 49,
-      "last_fetched": "2026-07-07T19:03:25.303582Z"
+      "last_fetched": "2026-07-08T12:21:23.149776Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2282,7 +2282,7 @@
         }
       ],
       "count": 34,
-      "last_fetched": "2026-07-07T19:03:25.635697Z"
+      "last_fetched": "2026-07-08T12:21:23.414616Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2339,7 +2339,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.439,
+          "rate": 0.429,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -2450,7 +2450,7 @@
           "term_months": 12,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Enjoy the confidence of a 12-month fixed natural gas supply rate of $6.95 per Mcf, providing price stability for an entire year. With no early termination fee, you have the flexibility to make changes if your needs change. This plan offers the security of a fixed supply rate while giving you the freedom to manage your energy choices on your terms.",
+          "promotional_details": "Enjoy the confidence of a 12-month fixed natural gas supply rate of $0.695 per Mcf, providing price stability for an entire year. With no early termination fee, you have the flexibility to make changes if your needs change. This plan offers the security of a fixed supply rate while giving you the freedom to manage your energy choices on your terms.",
           "monthly_fee": null,
           "website_url": "https://www.getprovision.com/",
           "signup_url": "https://www.getprovision.com/",
@@ -2533,6 +2533,21 @@
           "service_area": null
         },
         {
+          "name": "Green Mountain Energy",
+          "rate": 1.09,
+          "rate_type": "Variable",
+          "rate_unit": "Ccf",
+          "term_months": 3,
+          "early_termination_fee": null,
+          "introductory": "Yes",
+          "promotional_details": "Includes 100% carbon-offset natural gas supply. Visit the site to learn more; call 844-460-0314 for details and to enroll. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?gasSlug=pgw&state=pa",
+          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?gasSlug=pgw&state=pa",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Alpha Gas and Electric LLC",
           "rate": 1.2,
           "rate_type": "Fixed",
@@ -2544,21 +2559,6 @@
           "monthly_fee": null,
           "website_url": null,
           "signup_url": null,
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Green Mountain Energy",
-          "rate": 1.25,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "Yes",
-          "promotional_details": "Includes 100% carbon-offset natural gas supply. Visit the site to learn more; call 844-460-0314 for details and to enroll. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?gasSlug=pgw&state=pa",
-          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?gasSlug=pgw&state=pa",
           "bundle_required": false,
           "service_area": null
         },
@@ -2594,7 +2594,7 @@
         }
       ],
       "count": 20,
-      "last_fetched": "2026-07-07T19:03:25.926999Z"
+      "last_fetched": "2026-07-08T12:21:23.633193Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3160,6 +3160,21 @@
           "service_area": null
         },
         {
+          "name": "Green Mountain Energy",
+          "rate": 0.91,
+          "rate_type": "Variable",
+          "rate_unit": "Ccf",
+          "term_months": 3,
+          "early_termination_fee": null,
+          "introductory": "Yes",
+          "promotional_details": "Includes 100% carbon-offset natural gas supply. Visit the site to learn more; call 844-460-0314 for details and to enroll. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?gasSlug=ugig&state=pa",
+          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?gasSlug=ugig&state=pa",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "City Power & Gas PA",
           "rate": 0.9559,
           "rate_type": "Fixed",
@@ -3205,21 +3220,6 @@
           "service_area": null
         },
         {
-          "name": "Green Mountain Energy",
-          "rate": 1.11,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "Yes",
-          "promotional_details": "Includes 100% carbon-offset natural gas supply. Visit the site to learn more; call 844-460-0314 for details and to enroll. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?gasSlug=ugig&state=pa",
-          "signup_url": "https://shop.greenmountainenergy.com/northeast/home-energy-solutions/products/?gasSlug=ugig&state=pa",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Alpha Gas and Electric LLC",
           "rate": 1.15,
           "rate_type": "Fixed",
@@ -3251,7 +3251,7 @@
         }
       ],
       "count": 43,
-      "last_fetched": "2026-07-07T19:03:26.286981Z"
+      "last_fetched": "2026-07-08T12:21:23.925614Z"
     }
   }
 }
