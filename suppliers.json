@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T15:22:41.635669Z",
+  "last_updated": "2026-07-08T17:38:03.316182Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -686,7 +686,7 @@
         }
       ],
       "count": 45,
-      "last_fetched": "2026-07-08T15:22:39.753585Z"
+      "last_fetched": "2026-07-08T17:38:01.575029Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1013,7 +1013,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-07-08T15:22:40.166647Z"
+      "last_fetched": "2026-07-08T17:38:01.931472Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1760,7 +1760,7 @@
         }
       ],
       "count": 49,
-      "last_fetched": "2026-07-08T15:22:40.585940Z"
+      "last_fetched": "2026-07-08T17:38:02.325590Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2282,7 +2282,7 @@
         }
       ],
       "count": 34,
-      "last_fetched": "2026-07-08T15:22:40.955994Z"
+      "last_fetched": "2026-07-08T17:38:02.682373Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2443,21 +2443,6 @@
           "service_area": null
         },
         {
-          "name": "Provision Power and Gas LLC",
-          "rate": 0.695,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Enjoy the confidence of a 12-month fixed natural gas supply rate of $0.695 per Mcf, providing price stability for an entire year. With no early termination fee, you have the flexibility to make changes if your needs change. This plan offers the security of a fixed supply rate while giving you the freedom to manage your energy choices on your terms.",
-          "monthly_fee": null,
-          "website_url": "https://www.getprovision.com/",
-          "signup_url": "https://www.getprovision.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Shipley Energy",
           "rate": 0.699,
           "rate_type": "Fixed",
@@ -2593,8 +2578,8 @@
           "service_area": null
         }
       ],
-      "count": 20,
-      "last_fetched": "2026-07-08T15:22:41.259058Z"
+      "count": 19,
+      "last_fetched": "2026-07-08T17:38:02.949067Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3251,7 +3236,7 @@
         }
       ],
       "count": 43,
-      "last_fetched": "2026-07-08T15:22:41.635515Z"
+      "last_fetched": "2026-07-08T17:38:03.316018Z"
     }
   }
 }
