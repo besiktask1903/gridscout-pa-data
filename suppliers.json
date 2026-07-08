@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T12:21:23.925800Z",
+  "last_updated": "2026-07-08T15:22:41.635669Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -610,21 +610,6 @@
           "service_area": null
         },
         {
-          "name": "Agway Energy Services",
-          "rate": 0.649,
-          "rate_type": "Variable",
-          "rate_unit": "therm",
-          "term_months": 0,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "To help you make the most informed decision, this rate reflects our current variable rate for newly enrolled customers and includes Agway\u2019s EnergyGuard\u00ae repair program. This valuable coverage comes with your commodity supply and provides around-the-clock peace-of-mind repair protection for your primary furnace or boiler in your home, 24 hours a day, 7 days a week.",
-          "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null,
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "NOVEC Energy Solutions",
           "rate": 0.65,
           "rate_type": "Fixed",
@@ -636,6 +621,21 @@
           "monthly_fee": null,
           "website_url": "https://www.novecenergysolutions.com",
           "signup_url": "https://www.novecenergysolutions.com",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Agway Energy Services",
+          "rate": 0.659,
+          "rate_type": "Variable",
+          "rate_unit": "therm",
+          "term_months": 0,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "To help you make the most informed decision, this rate reflects our current variable rate for newly enrolled customers and includes Agway\u2019s EnergyGuard\u00ae repair program. This valuable coverage comes with your commodity supply and provides around-the-clock peace-of-mind repair protection for your primary furnace or boiler in your home, 24 hours a day, 7 days a week.",
+          "monthly_fee": null,
+          "website_url": null,
+          "signup_url": null,
           "bundle_required": false,
           "service_area": null
         },
@@ -686,7 +686,7 @@
         }
       ],
       "count": 45,
-      "last_fetched": "2026-07-08T12:21:22.566479Z"
+      "last_fetched": "2026-07-08T15:22:39.753585Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -953,7 +953,7 @@
         },
         {
           "name": "Agway Energy Services",
-          "rate": 0.829,
+          "rate": 0.859,
           "rate_type": "Variable",
           "rate_unit": "Ccf",
           "term_months": 0,
@@ -1013,7 +1013,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-07-08T12:21:22.797259Z"
+      "last_fetched": "2026-07-08T15:22:40.166647Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1489,21 +1489,6 @@
           "service_area": null
         },
         {
-          "name": "Agway Energy Services",
-          "rate": 0.779,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 0,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "To help you make the most informed decision, this rate reflects our current variable rate for newly enrolled customers and includes Agway\u2019s EnergyGuard\u00ae repair program. This valuable coverage comes with your commodity supply and provides around-the-clock peace-of-mind repair protection for your primary furnace or boiler in your home, 24 hours a day, 7 days a week.",
-          "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null,
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Just Energy Solutions",
           "rate": 0.789,
           "rate_type": "Fixed",
@@ -1560,6 +1545,21 @@
           "monthly_fee": null,
           "website_url": "https://justenergy.com/paswitch/",
           "signup_url": "https://justenergy.com/paswitch/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Agway Energy Services",
+          "rate": 0.809,
+          "rate_type": "Variable",
+          "rate_unit": "Ccf",
+          "term_months": 0,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "To help you make the most informed decision, this rate reflects our current variable rate for newly enrolled customers and includes Agway\u2019s EnergyGuard\u00ae repair program. This valuable coverage comes with your commodity supply and provides around-the-clock peace-of-mind repair protection for your primary furnace or boiler in your home, 24 hours a day, 7 days a week.",
+          "monthly_fee": null,
+          "website_url": null,
+          "signup_url": null,
           "bundle_required": false,
           "service_area": null
         },
@@ -1760,7 +1760,7 @@
         }
       ],
       "count": 49,
-      "last_fetched": "2026-07-08T12:21:23.149776Z"
+      "last_fetched": "2026-07-08T15:22:40.585940Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2282,7 +2282,7 @@
         }
       ],
       "count": 34,
-      "last_fetched": "2026-07-08T12:21:23.414616Z"
+      "last_fetched": "2026-07-08T15:22:40.955994Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2594,7 +2594,7 @@
         }
       ],
       "count": 20,
-      "last_fetched": "2026-07-08T12:21:23.633193Z"
+      "last_fetched": "2026-07-08T15:22:41.259058Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3251,7 +3251,7 @@
         }
       ],
       "count": 43,
-      "last_fetched": "2026-07-08T12:21:23.925614Z"
+      "last_fetched": "2026-07-08T15:22:41.635515Z"
     }
   }
 }
