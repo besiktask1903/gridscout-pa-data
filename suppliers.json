@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T13:49:56.758064Z",
+  "last_updated": "2026-07-09T16:28:04.401166Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -686,7 +686,7 @@
         }
       ],
       "count": 45,
-      "last_fetched": "2026-07-09T13:49:55.261533Z"
+      "last_fetched": "2026-07-09T16:28:02.901069Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1013,7 +1013,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-07-09T13:49:55.496040Z"
+      "last_fetched": "2026-07-09T16:28:03.146496Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1700,7 +1700,7 @@
         },
         {
           "name": "Frontier Utilities",
-          "rate": 1.069,
+          "rate": 0.949,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 6,
@@ -1760,7 +1760,7 @@
         }
       ],
       "count": 49,
-      "last_fetched": "2026-07-09T13:49:55.853258Z"
+      "last_fetched": "2026-07-09T16:28:03.521757Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2282,7 +2282,7 @@
         }
       ],
       "count": 34,
-      "last_fetched": "2026-07-09T13:49:56.127583Z"
+      "last_fetched": "2026-07-09T16:28:03.820305Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2579,7 +2579,7 @@
         }
       ],
       "count": 19,
-      "last_fetched": "2026-07-09T13:49:56.354298Z"
+      "last_fetched": "2026-07-09T16:28:04.057965Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3055,21 +3055,6 @@
           "service_area": null
         },
         {
-          "name": "Frontier Utilities",
-          "rate": 0.799,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Lock in your rate for 6 months! New Customers Only.",
-          "monthly_fee": null,
-          "website_url": "https://portal.frontierutilities.com/Enrollment/NE/Campaign?Zip_Code=17003&TDSP_CODE=UGI&target=A29LN1JXC2",
-          "signup_url": "https://portal.frontierutilities.com/Enrollment/NE/Campaign?Zip_Code=17003&TDSP_CODE=UGI&target=A29LN1JXC2",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Direct Energy",
           "rate": 0.809,
           "rate_type": "Fixed",
@@ -3126,6 +3111,21 @@
           "monthly_fee": null,
           "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=93&promocode=PAGASZERO",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=93&promocode=PAGASZERO",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Frontier Utilities",
+          "rate": 0.899,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Lock in your rate for 6 months! New Customers Only.",
+          "monthly_fee": null,
+          "website_url": "https://portal.frontierutilities.com/Enrollment/NE/Campaign?Zip_Code=17003&TDSP_CODE=UGI&target=A29LN1JXC2",
+          "signup_url": "https://portal.frontierutilities.com/Enrollment/NE/Campaign?Zip_Code=17003&TDSP_CODE=UGI&target=A29LN1JXC2",
           "bundle_required": false,
           "service_area": null
         },
@@ -3236,7 +3236,7 @@
         }
       ],
       "count": 43,
-      "last_fetched": "2026-07-09T13:49:56.757844Z"
+      "last_fetched": "2026-07-09T16:28:04.400980Z"
     }
   }
 }
