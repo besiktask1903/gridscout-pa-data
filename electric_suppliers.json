@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T13:24:36.124936Z",
+  "last_updated": "2026-07-13T16:35:09.616381Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -108,23 +108,6 @@
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18770",
           "phone": null,
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "1776 Energy",
-          "rate": 0.101,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 2,
-          "early_termination_fee": null,
-          "introductory": "Yes",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=44489&market_id=178",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=44489&market_id=178",
-          "phone": null,
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -838,23 +821,6 @@
           "website_url": "https://mycleanchoice.com/pashopperbl1",
           "signup_url": "https://mycleanchoice.com/pashopperbl1",
           "phone": "1-800-460-4900",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "SmartEnergy",
-          "rate": 0.12,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Fixed Rate for 100% renewable electricity with no hidden charges and no cancellation fee.",
-          "monthly_fee": null,
-          "website_url": "https://account.smartenergy.com/peco-web-only-6months?&utm_source=PUC_Site_PECO_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
-          "signup_url": "https://account.smartenergy.com/peco-web-only-6months?&utm_source=PUC_Site_PECO_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
-          "phone": "(800) 702-7371",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -1914,6 +1880,23 @@
           "service_area": null
         },
         {
+          "name": "SmartEnergy",
+          "rate": 0.133,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Fixed Rate for 100% renewable electricity with no hidden charges and no cancellation fee.",
+          "monthly_fee": null,
+          "website_url": "https://account.smartenergy.com/peco-web-only-6months?&utm_source=PUC_Site_PECO_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
+          "signup_url": "https://account.smartenergy.com/peco-web-only-6months?&utm_source=PUC_Site_PECO_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
+          "phone": "(800) 702-7371",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "AAA Energy by Santanna",
           "rate": 0.1335,
           "rate_type": "Fixed",
@@ -2543,8 +2526,8 @@
           "service_area": null
         }
       ],
-      "count": 149,
-      "last_fetched": "2026-07-13T13:24:32.693591Z"
+      "count": 148,
+      "last_fetched": "2026-07-13T16:35:05.605532Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2721,23 +2704,6 @@
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18772",
           "phone": null,
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "1776 Energy",
-          "rate": 0.119,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 2,
-          "early_termination_fee": null,
-          "introductory": "Yes",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=44489&market_id=181",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=44489&market_id=181",
-          "phone": null,
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -3575,23 +3541,6 @@
           "service_area": null
         },
         {
-          "name": "CleanChoice Energy",
-          "rate": 0.139,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbl1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pashopperbl1",
-          "signup_url": "https://mycleanchoice.com/pashopperbl1",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Shipley Energy",
           "rate": 0.139,
           "rate_type": "Fixed",
@@ -4374,23 +4323,6 @@
           "service_area": null
         },
         {
-          "name": "SmartEnergy",
-          "rate": 0.149,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Fixed Rate for 100% renewable electricity with no hidden charges and no cancellation fee.",
-          "monthly_fee": null,
-          "website_url": "https://account.smartenergy.com/ppl-web-only-6months?&utm_source=PUC_Site_PPL_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
-          "signup_url": "https://account.smartenergy.com/ppl-web-only-6months?&utm_source=PUC_Site_PPL_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
-          "phone": "(800) 702-7371",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "APG&E",
           "rate": 0.1497,
           "rate_type": "Fixed",
@@ -4556,6 +4488,23 @@
           "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
           "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
           "phone": "1-800-280-4474",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "SmartEnergy",
+          "rate": 0.155,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Fixed Rate for 100% renewable electricity with no hidden charges and no cancellation fee.",
+          "monthly_fee": null,
+          "website_url": "https://account.smartenergy.com/ppl-web-only-6months?&utm_source=PUC_Site_PPL_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
+          "signup_url": "https://account.smartenergy.com/ppl-web-only-6months?&utm_source=PUC_Site_PPL_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
+          "phone": "(800) 702-7371",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -5139,8 +5088,8 @@
           "service_area": null
         }
       ],
-      "count": 152,
-      "last_fetched": "2026-07-13T13:24:33.346759Z"
+      "count": 150,
+      "last_fetched": "2026-07-13T16:35:06.431461Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5491,23 +5440,6 @@
           "service_area": null
         },
         {
-          "name": "1776 Energy",
-          "rate": 0.129,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 2,
-          "early_termination_fee": null,
-          "introductory": "Yes",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=44489&market_id=176",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=44489&market_id=176",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "AAA Energy by Santanna",
           "rate": 0.1297,
           "rate_type": "Fixed",
@@ -5593,23 +5525,6 @@
           "service_area": null
         },
         {
-          "name": "1776 Energy",
-          "rate": 0.1309,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "50",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": 14.95,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=176",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=176",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Clearview Energy",
           "rate": 0.1319,
           "rate_type": "Fixed",
@@ -5661,19 +5576,19 @@
           "service_area": null
         },
         {
-          "name": "SmartEnergy",
-          "rate": 0.134,
+          "name": "1776 Energy",
+          "rate": 0.1329,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
+          "term_months": 12,
+          "early_termination_fee": "50",
           "introductory": "No",
-          "promotional_details": "Fixed Rate for 100% renewable electricity with no hidden charges and no cancellation fee.",
-          "monthly_fee": null,
-          "website_url": "https://account.smartenergy.com/duquesne-web-only-6months?&utm_source=PUC_Site_DQE_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
-          "signup_url": "https://account.smartenergy.com/duquesne-web-only-6months?&utm_source=PUC_Site_DQE_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
-          "phone": "(800) 702-7371",
-          "renewable": "Yes",
+          "promotional_details": null,
+          "monthly_fee": 14.95,
+          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=176",
+          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=176",
+          "phone": null,
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -6252,6 +6167,23 @@
           "signup_url": "https://shopping.dynegy.com/cust/?PID=8A11D4BA-C950-4837-A251-A72AF7AE494D&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=703BC3A6-1B84-4C28-86F3-5B584D4389F6&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "SmartEnergy",
+          "rate": 0.149,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Fixed Rate for 100% renewable electricity with no hidden charges and no cancellation fee.",
+          "monthly_fee": null,
+          "website_url": "https://account.smartenergy.com/duquesne-web-only-6months?&utm_source=PUC_Site_DQE_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
+          "signup_url": "https://account.smartenergy.com/duquesne-web-only-6months?&utm_source=PUC_Site_DQE_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
+          "phone": "(800) 702-7371",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -7531,8 +7463,8 @@
           "service_area": null
         }
       ],
-      "count": 140,
-      "last_fetched": "2026-07-13T13:24:33.909525Z"
+      "count": 139,
+      "last_fetched": "2026-07-13T16:35:07.095390Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -7930,23 +7862,6 @@
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18774",
           "phone": null,
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "1776 Energy",
-          "rate": 0.129,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 2,
-          "early_termination_fee": null,
-          "introductory": "Yes",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=44489&market_id=177",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=44489&market_id=177",
-          "phone": null,
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -8763,23 +8678,6 @@
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=D0938A04-2609-4438-A605-FEBD6575944E&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=DFA59914-97EB-4E05-A188-5CB6FEB6E5C1&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanChoice Energy",
-          "rate": 0.143,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbl1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pashopperbl1",
-          "signup_url": "https://mycleanchoice.com/pashopperbl1",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -9804,8 +9702,8 @@
           "service_area": null
         }
       ],
-      "count": 133,
-      "last_fetched": "2026-07-13T13:24:34.509945Z"
+      "count": 131,
+      "last_fetched": "2026-07-13T16:35:07.763508Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -9965,23 +9863,6 @@
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18775",
           "phone": null,
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "1776 Energy",
-          "rate": 0.119,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 2,
-          "early_termination_fee": null,
-          "introductory": "Yes",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=44489&market_id=180",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=44489&market_id=180",
-          "phone": null,
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -11397,23 +11278,6 @@
           "service_area": null
         },
         {
-          "name": "CleanChoice Energy",
-          "rate": 0.147,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbl1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pashopperbl1",
-          "signup_url": "https://mycleanchoice.com/pashopperbl1",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Clearview Energy",
           "rate": 0.1489,
           "rate_type": "Fixed",
@@ -12060,8 +11924,8 @@
           "service_area": null
         }
       ],
-      "count": 132,
-      "last_fetched": "2026-07-13T13:24:35.091184Z"
+      "count": 130,
+      "last_fetched": "2026-07-13T16:35:08.409174Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13568,23 +13432,6 @@
           "service_area": null
         },
         {
-          "name": "CleanChoice Energy",
-          "rate": 0.15,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbl1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pashopperbl1",
-          "signup_url": "https://mycleanchoice.com/pashopperbl1",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "NRG Home",
           "rate": 0.15,
           "rate_type": "Fixed",
@@ -13959,8 +13806,8 @@
           "service_area": null
         }
       ],
-      "count": 111,
-      "last_fetched": "2026-07-13T13:24:35.576531Z"
+      "count": 110,
+      "last_fetched": "2026-07-13T16:35:08.973163Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -14118,23 +13965,6 @@
           "monthly_fee": null,
           "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18773",
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18773",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "1776 Energy",
-          "rate": 0.109,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 2,
-          "early_termination_fee": null,
-          "introductory": "Yes",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=44489&market_id=186",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=44489&market_id=186",
           "phone": null,
           "renewable": "No",
           "bundle_required": false,
@@ -15008,23 +14838,6 @@
           "service_area": null
         },
         {
-          "name": "CleanChoice Energy",
-          "rate": 0.128,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbl1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pashopperbl1",
-          "signup_url": "https://mycleanchoice.com/pashopperbl1",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "WGL Energy Services",
           "rate": 0.1287,
           "rate_type": "Fixed",
@@ -15293,23 +15106,6 @@
           "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=117514",
           "phone": "1-800-698-5853",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "SmartEnergy",
-          "rate": 0.131,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Fixed Rate for 100% renewable electricity with no hidden charges and no cancellation fee.",
-          "monthly_fee": null,
-          "website_url": "https://account.smartenergy.com/wpp-6months?&utm_source=PUC_Site_WPP_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
-          "signup_url": "https://account.smartenergy.com/wpp-6months?&utm_source=PUC_Site_WPP_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
-          "phone": "(800) 702-7371",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -15722,6 +15518,23 @@
           "service_area": null
         },
         {
+          "name": "SmartEnergy",
+          "rate": 0.141,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Fixed Rate for 100% renewable electricity with no hidden charges and no cancellation fee.",
+          "monthly_fee": null,
+          "website_url": "https://account.smartenergy.com/wpp-6months?&utm_source=PUC_Site_WPP_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
+          "signup_url": "https://account.smartenergy.com/wpp-6months?&utm_source=PUC_Site_WPP_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
+          "phone": "(800) 702-7371",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "AEP Energy",
           "rate": 0.1415,
           "rate_type": "Fixed",
@@ -16113,8 +15926,8 @@
           "service_area": null
         }
       ],
-      "count": 126,
-      "last_fetched": "2026-07-13T13:24:36.124763Z"
+      "count": 124,
+      "last_fetched": "2026-07-13T16:35:09.616203Z"
     }
   }
 }
