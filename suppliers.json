@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T16:35:04.117818Z",
+  "last_updated": "2026-07-13T18:44:00.366207Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -686,7 +686,7 @@
         }
       ],
       "count": 45,
-      "last_fetched": "2026-07-13T16:35:02.367494Z"
+      "last_fetched": "2026-07-13T18:43:58.410646Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1013,7 +1013,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-07-13T16:35:02.659324Z"
+      "last_fetched": "2026-07-13T18:43:58.830439Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1474,6 +1474,21 @@
           "service_area": null
         },
         {
+          "name": "1776 Energy",
+          "rate": 0.757,
+          "rate_type": "Variable",
+          "rate_unit": "Ccf",
+          "term_months": 3,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=42644&market_id=179",
+          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=42644&market_id=179",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Frontier Utilities",
           "rate": 0.759,
           "rate_type": "Fixed",
@@ -1742,25 +1757,10 @@
           "signup_url": null,
           "bundle_required": false,
           "service_area": null
-        },
-        {
-          "name": "1776 Energy",
-          "rate": 892.0,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null,
-          "bundle_required": false,
-          "service_area": null
         }
       ],
       "count": 49,
-      "last_fetched": "2026-07-13T16:35:03.092771Z"
+      "last_fetched": "2026-07-13T18:43:59.281763Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2282,7 +2282,7 @@
         }
       ],
       "count": 34,
-      "last_fetched": "2026-07-13T16:35:03.459359Z"
+      "last_fetched": "2026-07-13T18:43:59.662398Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2533,6 +2533,21 @@
           "service_area": null
         },
         {
+          "name": "1776 Energy",
+          "rate": 1.13,
+          "rate_type": "Variable",
+          "rate_unit": "Ccf",
+          "term_months": 3,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=42644&market_id=489",
+          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=42644&market_id=489",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Alpha Gas and Electric LLC",
           "rate": 1.2,
           "rate_type": "Fixed",
@@ -2544,21 +2559,6 @@
           "monthly_fee": null,
           "website_url": null,
           "signup_url": null,
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "1776 Energy",
-          "rate": 1.296,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=42644&market_id=489",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=42644&market_id=489",
           "bundle_required": false,
           "service_area": null
         },
@@ -2579,7 +2579,7 @@
         }
       ],
       "count": 19,
-      "last_fetched": "2026-07-13T16:35:03.744636Z"
+      "last_fetched": "2026-07-13T18:43:59.965926Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3160,6 +3160,21 @@
           "service_area": null
         },
         {
+          "name": "1776 Energy",
+          "rate": 0.944,
+          "rate_type": "Variable",
+          "rate_unit": "Ccf",
+          "term_months": 3,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=42644&market_id=185",
+          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=42644&market_id=185",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "City Power & Gas PA",
           "rate": 0.9559,
           "rate_type": "Fixed",
@@ -3218,25 +3233,10 @@
           "signup_url": null,
           "bundle_required": false,
           "service_area": null
-        },
-        {
-          "name": "1776 Energy",
-          "rate": 1.151,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=42644&market_id=185",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=42644&market_id=185",
-          "bundle_required": false,
-          "service_area": null
         }
       ],
       "count": 43,
-      "last_fetched": "2026-07-13T16:35:04.117630Z"
+      "last_fetched": "2026-07-13T18:44:00.366012Z"
     }
   }
 }
