@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T12:13:53.378783Z",
+  "last_updated": "2026-07-14T14:52:38.639007Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -686,7 +686,7 @@
         }
       ],
       "count": 45,
-      "last_fetched": "2026-07-14T12:13:51.901937Z"
+      "last_fetched": "2026-07-14T14:52:37.284664Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1013,7 +1013,7 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-07-14T12:13:52.158657Z"
+      "last_fetched": "2026-07-14T14:52:37.516176Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1249,6 +1249,21 @@
           "service_area": null
         },
         {
+          "name": "Major Energy Services",
+          "rate": 0.625,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "A great time for new customers to lock in a fixed rate. With this energy plan, your supply rate stays put for 12 months, guaranteed. There is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service.  For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://majorenergy.com/enroll/?UtilityId=133&ProductId=147238",
+          "signup_url": "https://majorenergy.com/enroll/?UtilityId=133&ProductId=147238",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "CleanSky Energy",
           "rate": 0.625,
           "rate_type": "Fixed",
@@ -1339,21 +1354,6 @@
           "service_area": null
         },
         {
-          "name": "Major Energy Services",
-          "rate": 0.649,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "A great time for new customers to lock in a fixed rate. With this energy plan, your supply rate stays put for 12 months, guaranteed. There is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service.  For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://majorenergy.com/enroll/?UtilityId=133&ProductId=147238",
-          "signup_url": "https://majorenergy.com/enroll/?UtilityId=133&ProductId=147238",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Nordic Energy Services",
           "rate": 0.649,
           "rate_type": "Variable",
@@ -1399,6 +1399,21 @@
           "service_area": null
         },
         {
+          "name": "Verde Energy USA Pennsylvania LLC",
+          "rate": 0.659,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 12 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!  You can receive up to a $50 rebate when you sign up for this 12-month plan. Don't wait - take advantage and sign up today! Receive the first $25 after one month of service and the second $25 after 6 months of service.",
+          "monthly_fee": null,
+          "website_url": "https://www.verdeenergy.com/",
+          "signup_url": "https://www.verdeenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "WGL Energy Services",
           "rate": 0.659,
           "rate_type": "Fixed",
@@ -1410,21 +1425,6 @@
           "monthly_fee": null,
           "website_url": "https://www.wglenergy.com/",
           "signup_url": "https://www.wglenergy.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Verde Energy USA Pennsylvania LLC",
-          "rate": 0.669,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 12 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!  You can receive up to a $50 rebate when you sign up for this 12-month plan. Don't wait - take advantage and sign up today! Receive the first $25 after one month of service and the second $25 after 6 months of service.",
-          "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/",
-          "signup_url": "https://www.verdeenergy.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -1760,7 +1760,7 @@
         }
       ],
       "count": 49,
-      "last_fetched": "2026-07-14T12:13:52.521292Z"
+      "last_fetched": "2026-07-14T14:52:37.827840Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2282,7 +2282,7 @@
         }
       ],
       "count": 34,
-      "last_fetched": "2026-07-14T12:13:52.815074Z"
+      "last_fetched": "2026-07-14T14:52:38.144340Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2579,7 +2579,7 @@
         }
       ],
       "count": 19,
-      "last_fetched": "2026-07-14T12:13:53.067841Z"
+      "last_fetched": "2026-07-14T14:52:38.361247Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3236,7 +3236,7 @@
         }
       ],
       "count": 43,
-      "last_fetched": "2026-07-14T12:13:53.378627Z"
+      "last_fetched": "2026-07-14T14:52:38.638857Z"
     }
   }
 }
