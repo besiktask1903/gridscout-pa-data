@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-07-15T18:08:42.326179Z",
+  "last_updated": "2026-07-16T12:20:07.548318Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
       "rate_unit": "therm",
       "sco_rate": 0.38311,
-      "sco_effective_date": "2026-07-01",
+      "sco_effective_date": null,
       "sco_previous_rate": 0.41582,
       "sco_previous_date": "2026-04-01",
       "suppliers": [
@@ -310,6 +310,21 @@
           "service_area": null
         },
         {
+          "name": "Shipley Energy",
+          "rate": 0.489,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 15,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Shopping for Natural Gas Supply just got EASY! No monthly fee, no cancellation fee, and best of all a LOW fixed price to take control of your energy costs. Lock in this low fixed rate today! Plus earn 3% REWARDS with Shipley Energy's Rewards Program. For New Customers Only.",
+          "monthly_fee": null,
+          "website_url": "https://www.shipleyenergy.com/enrollment?product=ng",
+          "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "SFE Energy Pennsylvania, Inc.",
           "rate": 0.498,
           "rate_type": "Fixed",
@@ -321,6 +336,21 @@
           "monthly_fee": null,
           "website_url": "https://signup.sfeenergy.com/",
           "signup_url": "https://signup.sfeenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Shipley Energy",
+          "rate": 0.499,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Shopping for Natural Gas Supply just got EASY! No monthly fee, no cancellation fee, and best of all a LOW fixed price to take control of your energy costs. Lock in this low fixed rate today! Plus earn 3% REWARDS with Shipley Energy's Rewards Program. For New Customers Only.",
+          "monthly_fee": null,
+          "website_url": "https://www.shipleyenergy.com/enrollment?product=ng",
+          "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng",
           "bundle_required": false,
           "service_area": null
         },
@@ -366,21 +396,6 @@
           "monthly_fee": null,
           "website_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=720",
           "signup_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=720",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Shipley Energy",
-          "rate": 0.509,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Shopping for Natural Gas Supply just got EASY! No monthly fee, no cancellation fee, and best of all a LOW fixed price to take control of your energy costs. Lock in this low fixed rate today! Plus earn 3% REWARDS with Shipley Energy's Rewards Program. For New Customers Only.",
-          "monthly_fee": null,
-          "website_url": "https://www.shipleyenergy.com/enrollment?product=ng",
-          "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng",
           "bundle_required": false,
           "service_area": null
         },
@@ -685,16 +700,16 @@
           "service_area": null
         }
       ],
-      "count": 45,
-      "last_fetched": "2026-07-15T18:08:40.744033Z"
+      "count": 46,
+      "last_fetched": "2026-07-16T12:20:05.926051Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
       "rate_unit": "Ccf",
       "sco_rate": 0.58613,
       "sco_effective_date": null,
-      "sco_previous_rate": 0.54463,
-      "sco_previous_date": "2026-01-31",
+      "sco_previous_rate": 0.60493,
+      "sco_previous_date": "2026-04-30",
       "suppliers": [
         {
           "name": "IDT Energy Inc.",
@@ -1013,13 +1028,13 @@
         }
       ],
       "count": 21,
-      "last_fetched": "2026-07-15T18:08:41.007348Z"
+      "last_fetched": "2026-07-16T12:20:06.202482Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
       "rate_unit": "Ccf",
       "sco_rate": 0.67301,
-      "sco_effective_date": "2026-05-31",
+      "sco_effective_date": null,
       "sco_previous_rate": 0.53143,
       "sco_previous_date": "2026-02-28",
       "suppliers": [
@@ -1055,7 +1070,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.4803,
+          "rate": 0.4789,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -1205,7 +1220,7 @@
         },
         {
           "name": "Shipley Energy",
-          "rate": 0.599,
+          "rate": 0.589,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -1760,15 +1775,15 @@
         }
       ],
       "count": 49,
-      "last_fetched": "2026-07-15T18:08:41.383105Z"
+      "last_fetched": "2026-07-16T12:20:06.638563Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
       "rate_unit": "Mcf",
       "sco_rate": 3.7137,
       "sco_effective_date": null,
-      "sco_previous_rate": 4.1425,
-      "sco_previous_date": "2026-04-01",
+      "sco_previous_rate": 3.1737,
+      "sco_previous_date": "2026-07-01",
       "suppliers": [
         {
           "name": "American Power and Gas of Pennsylvania LLC",
@@ -2282,13 +2297,13 @@
         }
       ],
       "count": 34,
-      "last_fetched": "2026-07-15T18:08:41.692995Z"
+      "last_fetched": "2026-07-16T12:20:06.960579Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
       "rate_unit": "Ccf",
       "sco_rate": 0.50139,
-      "sco_effective_date": "2026-06-01",
+      "sco_effective_date": null,
       "sco_previous_rate": 0.50021,
       "sco_previous_date": "2026-03-01",
       "suppliers": [
@@ -2383,6 +2398,21 @@
           "service_area": null
         },
         {
+          "name": "Shipley Energy",
+          "rate": 0.679,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Shopping for Natural Gas Supply just got EASY! No monthly fee, no cancellation fee, and best of all a LOW fixed price to take control of your energy costs. Lock in this low fixed rate today! Plus earn 3% REWARDS with Shipley Energy's Rewards Program. For New Customers Only.",
+          "monthly_fee": null,
+          "website_url": "https://www.shipleyenergy.com/enrollment?product=ng",
+          "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "CleanSky Energy",
           "rate": 0.68,
           "rate_type": "Fixed",
@@ -2439,21 +2469,6 @@
           "monthly_fee": null,
           "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=122&promocode=PAGASZERO",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=122&promocode=PAGASZERO",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Shipley Energy",
-          "rate": 0.699,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Shopping for Natural Gas Supply just got EASY! No monthly fee, no cancellation fee, and best of all a LOW fixed price to take control of your energy costs. Lock in this low fixed rate today! Plus earn 3% REWARDS with Shipley Energy's Rewards Program. For New Customers Only.",
-          "monthly_fee": null,
-          "website_url": "https://www.shipleyenergy.com/enrollment?product=ng",
-          "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng",
           "bundle_required": false,
           "service_area": null
         },
@@ -2579,15 +2594,15 @@
         }
       ],
       "count": 19,
-      "last_fetched": "2026-07-15T18:08:41.981304Z"
+      "last_fetched": "2026-07-16T12:20:07.200215Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
       "rate_unit": "Ccf",
       "sco_rate": 0.76795,
       "sco_effective_date": null,
-      "sco_previous_rate": 0.68412,
-      "sco_previous_date": "2025-11-30",
+      "sco_previous_rate": 0.69874,
+      "sco_previous_date": "2026-02-28",
       "suppliers": [
         {
           "name": "American Power and Gas of Pennsylvania LLC",
@@ -2601,21 +2616,6 @@
           "monthly_fee": null,
           "website_url": null,
           "signup_url": null,
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Shipley Energy",
-          "rate": 0.639,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Shopping for Natural Gas Supply just got EASY! No monthly fee, no cancellation fee, and best of all a LOW fixed price to take control of your energy costs. Lock in this low fixed rate today! Plus earn 3% REWARDS with Shipley Energy's Rewards Program. For New Customers Only.",
-          "monthly_fee": null,
-          "website_url": "https://www.shipleyenergy.com/enrollment?product=ng",
-          "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng",
           "bundle_required": false,
           "service_area": null
         },
@@ -2639,7 +2639,7 @@
           "rate": 0.649,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
-          "term_months": 18,
+          "term_months": 12,
           "early_termination_fee": null,
           "introductory": "No",
           "promotional_details": "Shopping for Natural Gas Supply just got EASY! No monthly fee, no cancellation fee, and best of all a LOW fixed price to take control of your energy costs. Lock in this low fixed rate today! Plus earn 3% REWARDS with Shipley Energy's Rewards Program. For New Customers Only.",
@@ -3235,8 +3235,8 @@
           "service_area": null
         }
       ],
-      "count": 43,
-      "last_fetched": "2026-07-15T18:08:42.326031Z"
+      "count": 42,
+      "last_fetched": "2026-07-16T12:20:07.548062Z"
     }
   }
 }
