@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T19:23:30.428216Z",
+  "last_updated": "2026-07-16T21:10:36.338841Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -2548,7 +2548,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 149,
-      "last_fetched": "2026-07-16T19:23:26.386251Z"
+      "last_fetched": "2026-07-16T21:10:32.830067Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -5097,7 +5097,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 149,
-      "last_fetched": "2026-07-16T19:23:27.140606Z"
+      "last_fetched": "2026-07-16T21:10:33.467075Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7493,7 +7493,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 140,
-      "last_fetched": "2026-07-16T19:23:27.831324Z"
+      "last_fetched": "2026-07-16T21:10:34.048093Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -7895,6 +7895,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1298,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 5,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Lock in price security today with our competitive 5-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 5-month term. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "American Power & Gas of Pennsylvania LLC",
           "rate": 0.1299,
           "rate_type": "Variable",
@@ -7992,23 +8009,6 @@
           "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=177",
           "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=43030&market_id=177",
           "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1318,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 5,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Lock in price security today with our competitive 5-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 5-month term. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -8201,6 +8201,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1358,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 12-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Brighten Energy",
           "rate": 0.1359,
           "rate_type": "Fixed",
@@ -8264,23 +8281,6 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=112634",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=112634",
           "phone": "1-800-225-3813",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1368,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 12-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -9718,7 +9718,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 130,
-      "last_fetched": "2026-07-16T19:23:28.505500Z"
+      "last_fetched": "2026-07-16T21:10:34.631204Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -10205,6 +10205,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1278,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 5,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees! Lock in price security today with our competitive 5-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 5-month term, plus there's no enrollment, cancellation or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1279,
           "rate_type": "Fixed",
@@ -10375,6 +10392,40 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1307,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 17,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 17-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 17-month term, plus there's no enrollment, cancellation or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T17_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T17_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1308,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 12-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 12-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Dynegy",
           "rate": 0.1309,
           "rate_type": "Fixed",
@@ -10387,23 +10438,6 @@
           "website_url": "https://shopping.dynegy.com/cust/?PID=18196CBA-166C-4BEA-B1B8-E67297E93FDB&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=2A717AFA-1522-41A1-86FD-A53F930514F2&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.dynegy.com/cust/?PID=18196CBA-166C-4BEA-B1B8-E67297E93FDB&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=2A717AFA-1522-41A1-86FD-A53F930514F2&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1318,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 5,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees! Lock in price security today with our competitive 5-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 5-month term, plus there's no enrollment, cancellation or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T5_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -10460,23 +10494,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1327,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 17,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 17-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 17-month term, plus there's no enrollment, cancellation or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T17_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T17_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1328,
           "rate_type": "Fixed",
@@ -10498,13 +10515,13 @@
           "rate": 0.1328,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 12,
+          "term_months": 18,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 12-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 12-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 18-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 18-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
           "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
@@ -10647,23 +10664,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1348,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 18-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 18-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Brighten Energy",
           "rate": 0.1349,
           "rate_type": "Fixed",
@@ -10682,16 +10682,16 @@
         },
         {
           "name": "APG&E",
-          "rate": 0.1363,
+          "rate": 0.1364,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 24,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 24-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 24-month term, plus there's no enrollment, cancellation, or monthly fees! Flexible. Affordable. Energy. That's APG&E.",
+          "promotional_details": "Lock in a stable, 100% fixed energy rate for 24 months to shield your home budget from rising utility prices with zero hidden fees and a $0 cancellation fee. Plus, after 60 days of active service, you can choose your own premium sign-up bonus: a $75 Prepaid Reward Card, a $75 Major Retailer e-Gift Card, or a brand-new Smart Home Thermostat. Flexible. Affordable. Energy. That's APG&E.",
           "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_PEL_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_PEL_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
@@ -11943,7 +11943,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 130,
-      "last_fetched": "2026-07-16T19:23:29.159437Z"
+      "last_fetched": "2026-07-16T21:10:35.228126Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13828,7 +13828,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 110,
-      "last_fetched": "2026-07-16T19:23:29.754238Z"
+      "last_fetched": "2026-07-16T21:10:35.766122Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -15985,7 +15985,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 126,
-      "last_fetched": "2026-07-16T19:23:30.428021Z"
+      "last_fetched": "2026-07-16T21:10:36.338666Z"
     }
   }
 }
