@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T20:58:44.734335Z",
+  "last_updated": "2026-07-24T22:58:16.559438Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -702,7 +702,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 46,
-      "last_fetched": "2026-07-24T20:58:43.153187Z"
+      "last_fetched": "2026-07-24T22:58:15.296054Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -923,21 +923,6 @@
           "service_area": null
         },
         {
-          "name": "Ambit Energy",
-          "rate": 0.69,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Manage your budget and secure your rate for 12 months.",
-          "monthly_fee": null,
-          "website_url": "https://www.ambitenergy.com/",
-          "signup_url": "https://www.ambitenergy.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "IGS Energy",
           "rate": 0.699,
           "rate_type": "Fixed",
@@ -1029,8 +1014,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 21,
-      "last_fetched": "2026-07-24T20:58:43.421165Z"
+      "count": 20,
+      "last_fetched": "2026-07-24T22:58:15.531857Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1780,7 +1765,7 @@
         "AAA Energy by Santanna"
       ],
       "count": 49,
-      "last_fetched": "2026-07-24T20:58:43.876427Z"
+      "last_fetched": "2026-07-24T22:58:15.845155Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2303,7 +2288,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 34,
-      "last_fetched": "2026-07-24T20:58:44.183251Z"
+      "last_fetched": "2026-07-24T22:58:16.097589Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2601,7 +2586,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 19,
-      "last_fetched": "2026-07-24T20:58:44.420402Z"
+      "last_fetched": "2026-07-24T22:58:16.283670Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3244,7 +3229,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 42,
-      "last_fetched": "2026-07-24T20:58:44.734147Z"
+      "last_fetched": "2026-07-24T22:58:16.559233Z"
     }
   }
 }
