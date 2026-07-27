@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T02:35:26.625327Z",
+  "last_updated": "2026-07-27T14:25:10.684959Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -702,7 +702,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 46,
-      "last_fetched": "2026-07-27T02:35:25.375429Z"
+      "last_fetched": "2026-07-27T14:25:09.152052Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -923,6 +923,21 @@
           "service_area": null
         },
         {
+          "name": "Ambit Energy",
+          "rate": 0.69,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Manage your budget and secure your rate for 12 months.",
+          "monthly_fee": null,
+          "website_url": "https://shopping.ambitenergy.com/cust/?PID=B41588A7-3E06-4BA6-B9A0-2FCB75357AF0&UID=88011281-722F-4AEE-99E8-6BD27F44DB8D&OID=C858B679-44A4-4D35-952D-A6BA4EB8132D&RFID=PAPS&PUC=1&STATE=PA&SN=AMB&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.ambitenergy.com/cust/?PID=B41588A7-3E06-4BA6-B9A0-2FCB75357AF0&UID=88011281-722F-4AEE-99E8-6BD27F44DB8D&OID=C858B679-44A4-4D35-952D-A6BA4EB8132D&RFID=PAPS&PUC=1&STATE=PA&SN=AMB&CT=G&PromoCode=RATEBOARD",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "IGS Energy",
           "rate": 0.699,
           "rate_type": "Fixed",
@@ -1014,8 +1029,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 20,
-      "last_fetched": "2026-07-27T02:35:25.574009Z"
+      "count": 21,
+      "last_fetched": "2026-07-27T14:25:09.430752Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1765,7 +1780,7 @@
         "AAA Energy by Santanna"
       ],
       "count": 49,
-      "last_fetched": "2026-07-27T02:35:25.895550Z"
+      "last_fetched": "2026-07-27T14:25:09.803685Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2288,7 +2303,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 34,
-      "last_fetched": "2026-07-27T02:35:26.152007Z"
+      "last_fetched": "2026-07-27T14:25:10.117435Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2586,7 +2601,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 19,
-      "last_fetched": "2026-07-27T02:35:26.345583Z"
+      "last_fetched": "2026-07-27T14:25:10.359711Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3229,7 +3244,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 42,
-      "last_fetched": "2026-07-27T02:35:26.625120Z"
+      "last_fetched": "2026-07-27T14:25:10.684760Z"
     }
   }
 }
