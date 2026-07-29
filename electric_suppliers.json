@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T20:52:12.100446Z",
+  "last_updated": "2026-07-29T22:57:41.104313Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -2497,7 +2497,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 146,
-      "last_fetched": "2026-07-29T20:52:08.170793Z"
+      "last_fetched": "2026-07-29T22:57:36.922189Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2537,6 +2537,23 @@
           "website_url": "https://secure.cirroenergy.com/landing/shop/",
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Town Square Energy",
+          "rate": 0.1147,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "4 monthly bill cycles fixed at 11.47 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 14.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48801&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1247",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48801&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1247",
+          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2894,23 +2911,6 @@
           "website_url": "https://enrollment.citypowerandgas.com/home",
           "signup_url": "https://enrollment.citypowerandgas.com/home",
           "phone": "1-877-518-9339",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Town Square Energy",
-          "rate": 0.1277,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "4 monthly bill cycles fixed at 12.77 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48235&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1247",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48235&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1247",
-          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -5080,7 +5080,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 151,
-      "last_fetched": "2026-07-29T20:52:08.919052Z"
+      "last_fetched": "2026-07-29T22:57:37.654578Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5108,6 +5108,23 @@
           "service_area": null
         },
         {
+          "name": "Town Square Energy",
+          "rate": 0.1047,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "4 monthly bill cycles fixed at 10.47 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 14.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48800&utm_source=PAPOWER&utm_medium=Site&utm_campaign=DUQ&utm_content=907",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48800&utm_source=PAPOWER&utm_medium=Site&utm_campaign=DUQ&utm_content=907",
+          "phone": "8774300093",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Powervine Energy",
           "rate": 0.1079,
           "rate_type": "Fixed",
@@ -5120,23 +5137,6 @@
           "website_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
           "signup_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
           "phone": "1-888-263-2806",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Town Square Energy",
-          "rate": 0.1097,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "4 monthly bill cycles fixed at 10.97 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48234&utm_source=PAPOWER&utm_medium=Site&utm_campaign=DUQ&utm_content=907",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48234&utm_source=PAPOWER&utm_medium=Site&utm_campaign=DUQ&utm_content=907",
-          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7442,7 +7442,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 138,
-      "last_fetched": "2026-07-29T20:52:09.560050Z"
+      "last_fetched": "2026-07-29T22:57:38.620409Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -7466,6 +7466,23 @@
           "signup_url": "https://americanpowerandgas.com/?page=2",
           "phone": "800-380-9261",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Town Square Energy",
+          "rate": 0.1097,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "4 monthly bill cycles fixed at 10.97 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 14.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48802&utm_source=PAPOWER&utm_medium=Site&utm_campaign=MetEd&utm_content=1253",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48802&utm_source=PAPOWER&utm_medium=Site&utm_campaign=MetEd&utm_content=1253",
+          "phone": "8774300093",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -7499,23 +7516,6 @@
           "website_url": "https://secure.cirroenergy.com/landing/shop/",
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Town Square Energy",
-          "rate": 0.1197,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "4 monthly bill cycles fixed at 11.97 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48239&utm_source=PAPOWER&utm_medium=Site&utm_campaign=MetEd&utm_content=1253",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48239&utm_source=PAPOWER&utm_medium=Site&utm_campaign=MetEd&utm_content=1253",
-          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -9650,7 +9650,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 129,
-      "last_fetched": "2026-07-29T20:52:10.227263Z"
+      "last_fetched": "2026-07-29T22:57:39.254677Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -9707,6 +9707,23 @@
           "website_url": "https://www.clearviewenergy.com/enrollment/?utilityid=83&utilityidG=&utilityname=PENELEC&utilitynameG=&ctype=Resi&utility-state=pa&productNum=414010",
           "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=83&utilityidG=&utilityname=PENELEC&utilitynameG=&ctype=Resi&utility-state=pa&productNum=414010",
           "phone": "888-512-8994",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Town Square Energy",
+          "rate": 0.1097,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "4 monthly bill cycles fixed at 10.97 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 14.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48803&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PNLC&utm_content=893",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48803&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PNLC&utm_content=893",
+          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -9894,23 +9911,6 @@
           "website_url": "https://shopping.publicpowercompany.com/cust/?PID=3EAF4749-3ECF-47BB-BC53-0579AFDDF565&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=8FF638D0-DF0D-4A6B-AC80-10E19068AAE1&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=3EAF4749-3ECF-47BB-BC53-0579AFDDF565&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=8FF638D0-DF0D-4A6B-AC80-10E19068AAE1&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Town Square Energy",
-          "rate": 0.1217,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "4 monthly bill cycles fixed at 12.17 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48241&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PNLC&utm_content=893",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48241&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PNLC&utm_content=893",
-          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -11858,7 +11858,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 129,
-      "last_fetched": "2026-07-29T20:52:10.828339Z"
+      "last_fetched": "2026-07-29T22:57:39.849367Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -11887,16 +11887,16 @@
         },
         {
           "name": "Town Square Energy",
-          "rate": 0.1157,
+          "rate": 0.1127,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 4,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "4 monthly bill cycles fixed at 11.57 cents/kWh. See full terms in terms of service.",
+          "promotional_details": "4 monthly bill cycles fixed at 11.27 cents/kWh. See full terms in terms of service.",
           "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48243&utm_source=PAPOWER&utm_medium=Site&utm_campaign=Penn&utm_content=1357",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48243&utm_source=PAPOWER&utm_medium=Site&utm_campaign=Penn&utm_content=1357",
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48804&utm_source=PAPOWER&utm_medium=Site&utm_campaign=Penn&utm_content=1357",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48804&utm_source=PAPOWER&utm_medium=Site&utm_campaign=Penn&utm_content=1357",
           "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
@@ -13777,7 +13777,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 112,
-      "last_fetched": "2026-07-29T20:52:11.482183Z"
+      "last_fetched": "2026-07-29T22:57:40.483630Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -13801,6 +13801,23 @@
           "signup_url": "https://americanpowerandgas.com/?page=2",
           "phone": "800-380-9261",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Town Square Energy",
+          "rate": 0.1027,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "4 monthly bill cycles fixed at 10.27 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 14.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48805&utm_source=PAPOWER&utm_medium=Site&utm_campaign=WPP&utm_content=967",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48805&utm_source=PAPOWER&utm_medium=Site&utm_campaign=WPP&utm_content=967",
+          "phone": "8774300093",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -14157,23 +14174,6 @@
           "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18746",
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18746",
           "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Town Square Energy",
-          "rate": 0.1147,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "4 monthly bill cycles fixed at 11.47 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48245&utm_source=PAPOWER&utm_medium=Site&utm_campaign=WPP&utm_content=967",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48245&utm_source=PAPOWER&utm_medium=Site&utm_campaign=WPP&utm_content=967",
-          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -15985,7 +15985,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 129,
-      "last_fetched": "2026-07-29T20:52:12.100242Z"
+      "last_fetched": "2026-07-29T22:57:41.104113Z"
     }
   }
 }
