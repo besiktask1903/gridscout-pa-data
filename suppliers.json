@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T13:56:39.756445Z",
+  "last_updated": "2026-07-31T16:01:42.413565Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -702,7 +702,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 46,
-      "last_fetched": "2026-07-31T13:56:37.790141Z"
+      "last_fetched": "2026-07-31T16:01:40.795961Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1030,7 +1030,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 21,
-      "last_fetched": "2026-07-31T13:56:38.137888Z"
+      "last_fetched": "2026-07-31T16:01:41.091484Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1476,21 +1476,6 @@
           "service_area": null
         },
         {
-          "name": "1776 Energy",
-          "rate": 0.757,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=42644&market_id=179",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=42644&market_id=179",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Frontier Utilities",
           "rate": 0.759,
           "rate_type": "Fixed",
@@ -1764,8 +1749,8 @@
       "unlimited_suppliers": [
         "AAA Energy by Santanna"
       ],
-      "count": 48,
-      "last_fetched": "2026-07-31T13:56:38.652997Z"
+      "count": 47,
+      "last_fetched": "2026-07-31T16:01:41.481311Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2288,7 +2273,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 34,
-      "last_fetched": "2026-07-31T13:56:39.037670Z"
+      "last_fetched": "2026-07-31T16:01:41.803888Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2539,21 +2524,6 @@
           "service_area": null
         },
         {
-          "name": "1776 Energy",
-          "rate": 1.13,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=42644&market_id=489",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=42644&market_id=489",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Alpha Gas and Electric LLC",
           "rate": 1.2,
           "rate_type": "Fixed",
@@ -2585,8 +2555,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 19,
-      "last_fetched": "2026-07-31T13:56:39.347144Z"
+      "count": 18,
+      "last_fetched": "2026-07-31T16:01:42.062728Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2897,21 +2867,6 @@
           "service_area": null
         },
         {
-          "name": "1776 Energy",
-          "rate": 0.739,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=22123&market_id=185",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=22123&market_id=185",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Nordic Energy Services",
           "rate": 0.749,
           "rate_type": "Variable",
@@ -3167,21 +3122,6 @@
           "service_area": null
         },
         {
-          "name": "1776 Energy",
-          "rate": 0.944,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 3,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=42644&market_id=185",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=42644&market_id=185",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "IGS Energy",
           "rate": 0.999,
           "rate_type": "Fixed",
@@ -3228,8 +3168,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 42,
-      "last_fetched": "2026-07-31T13:56:39.756274Z"
+      "count": 40,
+      "last_fetched": "2026-07-31T16:01:42.413361Z"
     }
   }
 }

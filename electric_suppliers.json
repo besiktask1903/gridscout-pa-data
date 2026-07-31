@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T13:56:36.512069Z",
+  "last_updated": "2026-07-31T16:01:39.919652Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -1581,7 +1581,7 @@
           "term_months": 36,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Lock in a stable, 100% fixed energy rate for 36 months to shield your home budget from rising utility prices with zero hidden fees and a $0 cancellation fee. Plus, after 60 days of active service, you can choose your own premium sign-up bonus: a $75 Prepaid Reward Card, a $75 Major Retailer e-Gift Card, or a brand-new Smart Home Thermostat. Flexible. Affordable. Energy. That's APG&E. Offer available to new customers only.",
+          "promotional_details": "Lock in a stable, 100% fixed energy rate for 36 months and shield your home budget from rising utility prices. Zero hidden fees. Zero cancellation fee. After 60 days of active service, choose your own sign-up bonus: a $75 reward card, a $75 major retailer e-gift card, or a smart home thermostat. Flexible. Affordable. Energy. Offer available to new customers only.",
           "monthly_fee": 0.0,
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_PEC_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_PEC_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board",
@@ -2480,7 +2480,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 145,
-      "last_fetched": "2026-07-31T13:56:31.515705Z"
+      "last_fetched": "2026-07-31T16:01:35.379428Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -4028,7 +4028,7 @@
           "term_months": 36,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Lock in a stable, 100% fixed energy rate for 36 months to shield your home budget from rising utility prices with zero hidden fees and a $0 cancellation fee. Plus, after 60 days of active service, you can choose your own premium sign-up bonus: a $75 Prepaid Reward Card, a $75 Major Retailer e-Gift Card, or a brand-new Smart Home Thermostat. Flexible. Affordable. Energy. That's APG&E. Offer available to new customers only.",
+          "promotional_details": "Lock in a stable, 100% fixed energy rate for 36 months and shield your home budget from rising utility prices. Zero hidden fees. Zero cancellation fee. After 60 days of active service, choose your own sign-up bonus: a $75 reward card, a $75 major retailer e-gift card, or a smart home thermostat. Flexible. Affordable. Energy. Offer available to new customers only.",
           "monthly_fee": null,
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_PPL_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board%20Reward",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_PPL_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board%20Reward",
@@ -4995,7 +4995,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 147,
-      "last_fetched": "2026-07-31T13:56:32.377381Z"
+      "last_fetched": "2026-07-31T16:01:36.154035Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -6407,7 +6407,7 @@
           "term_months": 36,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Lock in a stable, 100% fixed energy rate for 36 full months to shield your home budget from rising utility prices with zero hidden fees and a $0 cancellation fee. Plus, after 60 days of active service, you can choose your own premium sign-up bonus: a $75 Prepaid Reward Card, a $75 Major Retailer e-Gift Card, or a brand-new Smart Home Thermostat. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E. Offer available to new customers only.",
+          "promotional_details": "Lock in a stable, 100% fixed energy rate for 36 months and shield your home budget from rising utility prices. Zero hidden fees. Zero cancellation fee. After 60 days of active service, choose your own sign-up bonus: a $75 reward card, a $75 major retailer e-gift card, or a smart home thermostat. Flexible. Affordable. Energy. Offer available to new customers only.",
           "monthly_fee": null,
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_DUQ_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_DUQ_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board",
@@ -7306,7 +7306,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 135,
-      "last_fetched": "2026-07-31T13:56:33.189308Z"
+      "last_fetched": "2026-07-31T16:01:36.876463Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -8116,6 +8116,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1367,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 17,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Lock in price security today with our competitive 17-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 17-month term. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T17_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T17_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1368,
           "rate_type": "Fixed",
@@ -8128,23 +8145,6 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=118544",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=118544",
           "phone": "1-800-225-3813",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1368,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 17,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Lock in price security today with our competitive 17-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 17-month term. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T17_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T17_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -8599,7 +8599,7 @@
           "term_months": 24,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Lock in a stable, 100% fixed energy rate for 24 months to shield your home budget from rising utility prices with zero hidden fees and a $0 cancellation fee. Plus, after 60 days of active service, you can choose your own premium sign-up bonus: a $75 Prepaid Reward Card, a $75 Major Retailer e-Gift Card, or a brand-new Smart Home Thermostat. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E. Offer available to new customers only.",
+          "promotional_details": "Lock in a stable, 100% fixed energy rate for 24 months and shield your home budget from rising utility prices. Zero hidden fees. Zero cancellation fee. After 60 days of active service, choose your own sign-up bonus: a $75 reward card, a $75 major retailer e-gift card, or a smart home thermostat. Flexible. Affordable. Energy. Offer available to new customers only.",
           "monthly_fee": null,
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_MED_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board%20Reward",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_MED_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board%20Reward",
@@ -8973,7 +8973,7 @@
           "term_months": 36,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Lock in a stable, 100% fixed energy rate for 36 full months to shield your home budget from rising utility prices with zero hidden fees and a $0 cancellation fee. Plus, after 60 days of active service, you can choose your own premium sign-up bonus: a $75 Prepaid Reward Card, a $75 Major Retailer e-Gift Card, or a brand-new Smart Home Thermostat. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E. Offer available to new customers only.",
+          "promotional_details": "Lock in a stable, 100% fixed energy rate for 36 months and shield your home budget from rising utility prices. Zero hidden fees. Zero cancellation fee. After 60 days of active service, choose your own sign-up bonus: a $75 reward card, a $75 major retailer e-gift card, or a smart home thermostat. Flexible. Affordable. Energy. Offer available to new customers only.",
           "monthly_fee": null,
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_MED_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board%20Reward",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_MED_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board%20Reward",
@@ -9480,7 +9480,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 127,
-      "last_fetched": "2026-07-31T13:56:34.047553Z"
+      "last_fetched": "2026-07-31T16:01:37.772658Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -10892,7 +10892,7 @@
           "term_months": 36,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Lock in a stable, 100% fixed energy rate for 36 months to shield your home budget from rising utility prices with zero hidden fees and a $0 cancellation fee. Plus, after 60 days of active service, you can choose your own premium sign-up bonus: a $75 Prepaid Reward Card, a $75 Major Retailer e-Gift Card, or a brand-new Smart Home Thermostat. Flexible. Affordable. Energy. That's APG&E. Offer available to new customers only.",
+          "promotional_details": "Lock in a stable, 100% fixed energy rate for 36 months and shield your home budget from rising utility prices. Zero hidden fees. Zero cancellation fee. After 60 days of active service, choose your own sign-up bonus: a $75 reward card, a $75 major retailer e-gift card, or a smart home thermostat. Flexible. Affordable. Energy. Offer available to new customers only.",
           "monthly_fee": null,
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_PEL_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_PEL_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board",
@@ -11671,7 +11671,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 128,
-      "last_fetched": "2026-07-31T13:56:34.854852Z"
+      "last_fetched": "2026-07-31T16:01:38.474046Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13539,7 +13539,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 109,
-      "last_fetched": "2026-07-31T13:56:35.658480Z"
+      "last_fetched": "2026-07-31T16:01:39.128630Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -15233,23 +15233,6 @@
           "service_area": null
         },
         {
-          "name": "0 Adversity Energy",
-          "rate": 0.1369,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.energy1776.com/cart/enroll?plan_id=7563&market_id=186",
-          "signup_url": "https://secure.energy1776.com/cart/enroll?plan_id=7563&market_id=186",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Cirro Energy",
           "rate": 0.137,
           "rate_type": "Fixed",
@@ -15729,8 +15712,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 128,
-      "last_fetched": "2026-07-31T13:56:36.511865Z"
+      "count": 127,
+      "last_fetched": "2026-07-31T16:01:39.919472Z"
     }
   }
 }
