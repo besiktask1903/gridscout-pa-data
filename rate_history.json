@@ -199,6 +199,14 @@
       "entity_name": "Columbia Gas of Pennsylvania",
       "old_rate": 0.41582,
       "new_rate": 0.38311
+    },
+    {
+      "date": "2026-07-31T13:56:30.005729Z",
+      "type": "utility_sco",
+      "entity_id": "national_fuel_gas",
+      "entity_name": "National Fuel Gas",
+      "old_rate": 0.58613,
+      "new_rate": 0.54916
     }
   ],
   "last_known_rates": {
@@ -210,7 +218,7 @@
     "electric_ptc_penn_power": 0.13477,
     "electric_ptc_west_penn_power": 0.12075,
     "gas_sco_columbia_gas_pa": 0.38311,
-    "gas_sco_national_fuel_gas": 0.58613,
+    "gas_sco_national_fuel_gas": 0.54916,
     "gas_sco_peoples_gas": 3.7137,
     "gas_sco_pgw": 0.50139,
     "gas_sco_ugi_gas": 0.76795,
