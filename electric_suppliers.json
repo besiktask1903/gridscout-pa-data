@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T02:28:54.986281Z",
+  "last_updated": "2026-08-01T13:11:30.424627Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -1132,6 +1132,23 @@
           "service_area": null
         },
         {
+          "name": "Spark Energy, LLC",
+          "rate": 0.1219,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": "0",
+          "introductory": "No",
+          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://signup.sparkenergy.com/",
+          "signup_url": "https://signup.sparkenergy.com/",
+          "phone": "(877) 346-0861",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Inspire Clean Energy",
           "rate": 0.1223,
           "rate_type": "Fixed",
@@ -1331,6 +1348,23 @@
           "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001097&Promo=PAPOWER&Term=24",
           "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001097&Promo=PAPOWER&Term=24",
           "phone": "1-888-355-6205",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Verde Energy USA, Inc.",
+          "rate": 0.1239,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 4 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://www.verdeenergy.com/get-rates/",
+          "signup_url": "https://www.verdeenergy.com/get-rates/",
+          "phone": "1-833-488-3125",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -1540,23 +1574,6 @@
           "service_area": null
         },
         {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1269,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "0 Commit Energy",
           "rate": 0.1269,
           "rate_type": "Fixed",
@@ -1710,6 +1727,23 @@
           "service_area": null
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1296,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No",
+          "bundle_required": true,
+          "service_area": null
+        },
+        {
           "name": "AEP Energy",
           "rate": 0.1299,
           "rate_type": "Fixed",
@@ -1739,23 +1773,6 @@
           "website_url": "https://shopping.brightenenergy.com/cust/?PID=BD1B7A1C-3097-42FC-935B-BAF432539929&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=BBD0B0BA-29D6-48E4-B35D-C72806C712A4&RFID=PAPS&PUC=1&STATE=PA&SN=BRI&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.brightenenergy.com/cust/?PID=BD1B7A1C-3097-42FC-935B-BAF432539929&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=BBD0B0BA-29D6-48E4-B35D-C72806C712A4&RFID=PAPS&PUC=1&STATE=PA&SN=BRI&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0917",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Verde Energy USA, Inc.",
-          "rate": 0.1299,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 4 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/get-rates/",
-          "signup_url": "https://www.verdeenergy.com/get-rates/",
-          "phone": "1-833-488-3125",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -1812,23 +1829,6 @@
           "service_area": null
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1302,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No",
-          "bundle_required": true,
-          "service_area": null
-        },
-        {
           "name": "American Electric Rates LLC",
           "rate": 0.1307,
           "rate_type": "Fixed",
@@ -1880,6 +1880,23 @@
           "service_area": null
         },
         {
+          "name": "Verde Energy USA, Inc.",
+          "rate": 0.1319,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "100",
+          "introductory": "No",
+          "promotional_details": "Enjoy $100 in digital Home Depot Gift Cards*, by enrolling in a 100% renewable energy credits supply plan with a fixed supply rate for 12 months. There is a $100 cancellation fee, no monthly service fee. Don't wait - take advantage and sign up today! This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!  *To view terms and conditions for digital Home Depot Gift Cards, please copy and paste the link in a browser. https://www.verdeenergy.com/get-it-fixed-home-depot-terms-and-conditions/",
+          "monthly_fee": null,
+          "website_url": "https://www.verdeenergy.com/get-rates/",
+          "signup_url": "https://www.verdeenergy.com/get-rates/",
+          "phone": "1-833-488-3125",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Alpha Gas and Electric LLC",
           "rate": 0.132,
           "rate_type": "Fixed",
@@ -1897,19 +1914,19 @@
           "service_area": null
         },
         {
-          "name": "Verde Energy USA, Inc.",
+          "name": "Spark Energy, LLC",
           "rate": 0.1329,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "100",
+          "term_months": 6,
+          "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Enjoy $100 in digital Home Depot Gift Cards*, by enrolling in a 100% renewable energy credits supply plan with a fixed supply rate for 12 months. There is a $100 cancellation fee, no monthly service fee. Don't wait - take advantage and sign up today! This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!  *To view terms and conditions for digital Home Depot Gift Cards, please copy and paste the link in a browser. https://www.verdeenergy.com/get-it-fixed-home-depot-terms-and-conditions/",
+          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 6 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
           "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/get-rates/",
-          "signup_url": "https://www.verdeenergy.com/get-rates/",
-          "phone": "1-833-488-3125",
-          "renewable": "Yes",
+          "website_url": "https://signup.sparkenergy.com/",
+          "signup_url": "https://signup.sparkenergy.com/",
+          "phone": "(877) 346-0861",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -1961,23 +1978,6 @@
           "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
           "phone": "1-800-280-4474",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1359,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 6 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -2548,7 +2548,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 149,
-      "last_fetched": "2026-08-01T02:28:51.000799Z"
+      "last_fetched": "2026-08-01T13:11:26.455265Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -3392,6 +3392,23 @@
           "service_area": null
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1336,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No",
+          "bundle_required": true,
+          "service_area": null
+        },
+        {
           "name": "0 Commit Energy",
           "rate": 0.1338,
           "rate_type": "Fixed",
@@ -3440,23 +3457,6 @@
           "phone": null,
           "renewable": "No",
           "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1341,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No",
-          "bundle_required": true,
           "service_area": null
         },
         {
@@ -3885,6 +3885,23 @@
           "service_area": null
         },
         {
+          "name": "Spark Energy, LLC",
+          "rate": 0.1399,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": "0",
+          "introductory": "No",
+          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://signup.sparkenergy.com/",
+          "signup_url": "https://signup.sparkenergy.com/",
+          "phone": "(877) 346-0861",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "CleanSky Energy",
           "rate": 0.1399,
           "rate_type": "Fixed",
@@ -4123,6 +4140,23 @@
           "service_area": null
         },
         {
+          "name": "Verde Energy USA, Inc.",
+          "rate": 0.1419,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 4 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://www.verdeenergy.com/get-rates",
+          "signup_url": "https://www.verdeenergy.com/get-rates",
+          "phone": "1-833-488-3125",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "0 Commit Energy",
           "rate": 0.1419,
           "rate_type": "Fixed",
@@ -4255,23 +4289,6 @@
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_12&utm_content=PPL&channel_code=direct",
           "phone": "844-275-4022",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1439,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -4446,23 +4463,6 @@
           "service_area": null
         },
         {
-          "name": "Verde Energy USA, Inc.",
-          "rate": 0.1459,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 4 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/get-rates",
-          "signup_url": "https://www.verdeenergy.com/get-rates",
-          "phone": "1-833-488-3125",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Direct Energy",
           "rate": 0.1469,
           "rate_type": "Fixed",
@@ -4476,6 +4476,40 @@
           "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=24&msid=720",
           "phone": "855-331-0024",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Spark Energy, LLC",
+          "rate": 0.1469,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "0",
+          "introductory": "No",
+          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 6 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://signup.sparkenergy.com/",
+          "signup_url": "https://signup.sparkenergy.com/",
+          "phone": "(877) 346-0861",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Verde Energy USA, Inc.",
+          "rate": 0.1469,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "100",
+          "introductory": "No",
+          "promotional_details": "Enjoy $100 in digital Home Depot Gift Cards*, by enrolling in a 100% renewable energy credits supply plan with a fixed supply rate for 12 months. There is a $100 cancellation fee, no monthly service fee. Don't wait - take advantage and sign up today! This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!  *To view terms and conditions for digital Home Depot Gift Cards, please copy and paste the link in a browser. https://www.verdeenergy.com/get-it-fixed-home-depot-terms-and-conditions/",
+          "monthly_fee": null,
+          "website_url": "https://www.verdeenergy.com/get-rates/",
+          "signup_url": "https://www.verdeenergy.com/get-rates/",
+          "phone": "1-833-488-3125",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -4510,23 +4544,6 @@
           "signup_url": "https://www.napower.com/#gref",
           "phone": "877-572-9965",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Verde Energy USA, Inc.",
-          "rate": 0.1479,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "100",
-          "introductory": "No",
-          "promotional_details": "Enjoy $100 in digital Home Depot Gift Cards*, by enrolling in a 100% renewable energy credits supply plan with a fixed supply rate for 12 months. There is a $100 cancellation fee, no monthly service fee. Don't wait - take advantage and sign up today! This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!  *To view terms and conditions for digital Home Depot Gift Cards, please copy and paste the link in a browser. https://www.verdeenergy.com/get-it-fixed-home-depot-terms-and-conditions/",
-          "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/get-rates/",
-          "signup_url": "https://www.verdeenergy.com/get-rates/",
-          "phone": "1-833-488-3125",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -4577,23 +4594,6 @@
           "website_url": "https://www.clearviewenergy.com/enrollment/?utilityid=32&utilityidG=&utilityname=PPL&utilitynameG=&ctype=Resi&utility-state=pa&productNum=413813",
           "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=32&utilityidG=&utilityname=PPL&utilitynameG=&ctype=Resi&utility-state=pa&productNum=413813",
           "phone": "888-512-8994",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1499,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 6 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -4841,10 +4841,10 @@
           "rate": 0.163,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 15,
+          "term_months": 14,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "15 Months Fixed rate at $0.163. Quick, easy sign up. Just call 888-811-0877 or go to www.renaissancepowerandgas.com",
+          "promotional_details": "14 Months Fixed rate at $0.163. Quick, easy sign up. Just call 888-811-0877 or go to www.renaissancepowerandgas.com",
           "monthly_fee": null,
           "website_url": "https://www.renaissancepowerandgas.com/",
           "signup_url": "https://www.renaissancepowerandgas.com/",
@@ -4909,10 +4909,10 @@
           "rate": 0.167,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 10,
+          "term_months": 9,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "10 months fixed rate of $0.167. Fast, easy signup at www.renaissancepowerandgas.com or call 888-811-0877.",
+          "promotional_details": "9 months fixed rate of $0.167. Fast, easy signup at www.renaissancepowerandgas.com or call 888-811-0877.",
           "monthly_fee": null,
           "website_url": "https://renaissancepowerandgas.com",
           "signup_url": "https://renaissancepowerandgas.com",
@@ -5199,7 +5199,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 155,
-      "last_fetched": "2026-08-01T02:28:51.776335Z"
+      "last_fetched": "2026-08-01T13:11:27.289992Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5449,7 +5449,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1276,
+          "rate": 0.1271,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -6264,6 +6264,23 @@
           "service_area": null
         },
         {
+          "name": "Spark Energy, LLC",
+          "rate": 0.1469,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://signup.sparkenergy.com/",
+          "signup_url": "https://signup.sparkenergy.com/",
+          "phone": "(877) 346-0861",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "American Electric Rates LLC",
           "rate": 0.1473,
           "rate_type": "Fixed",
@@ -6570,23 +6587,6 @@
           "service_area": null
         },
         {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1499,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "0 Commit Energy",
           "rate": 0.1509,
           "rate_type": "Fixed",
@@ -6600,6 +6600,23 @@
           "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=117471",
           "phone": "1-800-698-5853",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Verde Energy USA, Inc.",
+          "rate": 0.1519,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 4 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://www.verdeenergy.com/get-rates/",
+          "signup_url": "https://www.verdeenergy.com/get-rates/",
+          "phone": "1-833-488-3125",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -6672,6 +6689,23 @@
           "service_area": null
         },
         {
+          "name": "Spark Energy, LLC",
+          "rate": 0.1529,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 6 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://signup.sparkenergy.com/",
+          "signup_url": "https://signup.sparkenergy.com/",
+          "phone": "(877) 346-0861",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "AEP Energy",
           "rate": 0.1539,
           "rate_type": "Fixed",
@@ -6714,23 +6748,6 @@
           "early_termination_fee": null,
           "introductory": "No",
           "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 12 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1539,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 6 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
           "monthly_fee": null,
           "website_url": "https://signup.sparkenergy.com/",
           "signup_url": "https://signup.sparkenergy.com/",
@@ -6808,23 +6825,6 @@
           "service_area": null
         },
         {
-          "name": "Verde Energy USA, Inc.",
-          "rate": 0.1559,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 4 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/get-rates/",
-          "signup_url": "https://www.verdeenergy.com/get-rates/",
-          "phone": "1-833-488-3125",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "WGL Energy Services",
           "rate": 0.1568,
           "rate_type": "Fixed",
@@ -6893,6 +6893,23 @@
           "service_area": null
         },
         {
+          "name": "Verde Energy USA, Inc.",
+          "rate": 0.1579,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 6 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://www.verdeenergy.com/get-rates/",
+          "signup_url": "https://www.verdeenergy.com/get-rates/",
+          "phone": "1-833-488-3125",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "American Electric Rates LLC",
           "rate": 0.1579,
           "rate_type": "Fixed",
@@ -6940,23 +6957,6 @@
           "signup_url": "https://enrollment.citypowerandgas.com/home",
           "phone": "1-877-518-9339",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Verde Energy USA, Inc.",
-          "rate": 0.1589,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 6 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/get-rates/",
-          "signup_url": "https://www.verdeenergy.com/get-rates/",
-          "phone": "1-833-488-3125",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -7152,10 +7152,10 @@
           "rate": 0.163,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 15,
+          "term_months": 14,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "15 Months fixed rate at $0.163.  Fast, easy sign up. Call 888-811-0877 or go to www.renaissancepowerandgas.com",
+          "promotional_details": "14 Months fixed rate at $0.163.  Fast, easy sign up. Call 888-811-0877 or go to www.renaissancepowerandgas.com",
           "monthly_fee": null,
           "website_url": "https://www.renaissancepowerandgas.com",
           "signup_url": "https://www.renaissancepowerandgas.com",
@@ -7390,10 +7390,10 @@
           "rate": 0.167,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 10,
+          "term_months": 9,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "10 months fixed rate at $0.167. Fast and easy sign up. Just call 888-811-0877 or go to www.renaissancepowerandgas.com",
+          "promotional_details": "9 months fixed rate at $0.167. Fast and easy sign up. Just call 888-811-0877 or go to www.renaissancepowerandgas.com",
           "monthly_fee": null,
           "website_url": "https://www.renaissancepowerandgas.com",
           "signup_url": "https://www.renaissancepowerandgas.com",
@@ -7561,7 +7561,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 138,
-      "last_fetched": "2026-08-01T02:28:52.426765Z"
+      "last_fetched": "2026-08-01T13:11:27.895123Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -8388,6 +8388,23 @@
           "service_area": null
         },
         {
+          "name": "Spark Energy, LLC",
+          "rate": 0.1349,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://signup.sparkenergy.com/",
+          "signup_url": "https://signup.sparkenergy.com/",
+          "phone": "(877) 346-0861",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "APG&E",
           "rate": 0.1358,
           "rate_type": "Fixed",
@@ -8524,6 +8541,23 @@
           "service_area": null
         },
         {
+          "name": "Verde Energy USA, Inc.",
+          "rate": 0.1369,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 4 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://www.verdeenergy.com/get-rates/",
+          "signup_url": "https://www.verdeenergy.com/get-rates/",
+          "phone": "1-833-488-3125",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Dynegy",
           "rate": 0.1379,
           "rate_type": "Fixed",
@@ -8622,23 +8656,6 @@
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_6&utm_content=Meted&channel_code=direct",
           "phone": "844-275-4022",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1389,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -8847,23 +8864,6 @@
           "service_area": null
         },
         {
-          "name": "Verde Energy USA, Inc.",
-          "rate": 0.1419,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 4 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/get-rates/",
-          "signup_url": "https://www.verdeenergy.com/get-rates/",
-          "phone": "1-833-488-3125",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Shipley Energy",
           "rate": 0.1421,
           "rate_type": "Fixed",
@@ -9034,6 +9034,23 @@
           "service_area": null
         },
         {
+          "name": "Spark Energy, LLC",
+          "rate": 0.1439,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 6 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://signup.sparkenergy.com/",
+          "signup_url": "https://signup.sparkenergy.com/",
+          "phone": "(877) 346-0861",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "0 Commit Energy",
           "rate": 0.1439,
           "rate_type": "Fixed",
@@ -9170,19 +9187,19 @@
           "service_area": null
         },
         {
-          "name": "Spark Energy, LLC",
+          "name": "Verde Energy USA, Inc.",
           "rate": 0.1459,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 6,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 6 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
+          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 6 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
           "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
-          "renewable": "No",
+          "website_url": "https://www.verdeenergy.com/get-rates/",
+          "signup_url": "https://www.verdeenergy.com/get-rates/",
+          "phone": "1-833-488-3125",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -9225,11 +9242,11 @@
           "rate": 0.1479,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
+          "term_months": 12,
+          "early_termination_fee": "100",
           "introductory": "No",
-          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 6 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
-          "monthly_fee": null,
+          "promotional_details": "Enjoy $100 in digital Home Depot Gift Cards*, by enrolling in a 100% renewable energy credits supply plan with a fixed supply rate for 12 months. There is a $100 cancellation fee, no monthly service fee. Don't wait - take advantage and sign up today! This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!  *To view terms and conditions for digital Home Depot Gift Cards, please copy and paste the link in a browser. https://www.verdeenergy.com/get-it-fixed-home-depot-terms-and-conditions/",
+          "monthly_fee": 0.0,
           "website_url": "https://www.verdeenergy.com/get-rates/",
           "signup_url": "https://www.verdeenergy.com/get-rates/",
           "phone": "1-833-488-3125",
@@ -9302,23 +9319,6 @@
           "signup_url": "https://www.napower.com/#gref",
           "phone": "877-572-9965",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Verde Energy USA, Inc.",
-          "rate": 0.1499,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "100",
-          "introductory": "No",
-          "promotional_details": "Enjoy $100 in digital Home Depot Gift Cards*, by enrolling in a 100% renewable energy credits supply plan with a fixed supply rate for 12 months. There is a $100 cancellation fee, no monthly service fee. Don't wait - take advantage and sign up today! This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!  *To view terms and conditions for digital Home Depot Gift Cards, please copy and paste the link in a browser. https://www.verdeenergy.com/get-it-fixed-home-depot-terms-and-conditions/",
-          "monthly_fee": 0.0,
-          "website_url": "https://www.verdeenergy.com/get-rates/",
-          "signup_url": "https://www.verdeenergy.com/get-rates/",
-          "phone": "1-833-488-3125",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -9786,7 +9786,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 130,
-      "last_fetched": "2026-08-01T02:28:53.150998Z"
+      "last_fetched": "2026-08-01T13:11:28.528084Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -11157,6 +11157,23 @@
           "service_area": null
         },
         {
+          "name": "Spark Energy, LLC",
+          "rate": 0.1389,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://signup.sparkenergy.com/",
+          "signup_url": "https://signup.sparkenergy.com/",
+          "phone": "(877) 346-0861",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "0 Adversity Energy",
           "rate": 0.1389,
           "rate_type": "Fixed",
@@ -11238,6 +11255,23 @@
           "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=18&msid=720",
           "phone": "855-331-0024",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Verde Energy USA, Inc.",
+          "rate": 0.1409,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 4 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://www.verdeenergy.com/get-rates/",
+          "signup_url": "https://www.verdeenergy.com/get-rates/",
+          "phone": "1-833-488-3125",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -11378,23 +11412,6 @@
           "service_area": null
         },
         {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1439,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "CleanChoice Energy",
           "rate": 0.144,
           "rate_type": "Fixed",
@@ -11497,23 +11514,6 @@
           "service_area": null
         },
         {
-          "name": "Verde Energy USA, Inc.",
-          "rate": 0.1459,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 4 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/get-rates/",
-          "signup_url": "https://www.verdeenergy.com/get-rates/",
-          "phone": "1-833-488-3125",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Shipley Energy",
           "rate": 0.146,
           "rate_type": "Fixed",
@@ -11561,6 +11561,40 @@
           "signup_url": "https://majorenergy.com/areas/pa/",
           "phone": "1-833-488-3124",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Spark Energy, LLC",
+          "rate": 0.1469,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 6 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://signup.sparkenergy.com/",
+          "signup_url": "https://signup.sparkenergy.com/",
+          "phone": "(877) 346-0861",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Verde Energy USA, Inc.",
+          "rate": 0.1489,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 6 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://www.verdeenergy.com/get-rates/",
+          "signup_url": "https://www.verdeenergy.com/get-rates/",
+          "phone": "1-833-488-3125",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -11628,23 +11662,6 @@
           "website_url": "https://www.napower.com/#gref",
           "signup_url": "https://www.napower.com/#gref",
           "phone": "877-572-9965",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1499,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 6 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -11854,23 +11871,6 @@
           "service_area": null
         },
         {
-          "name": "Verde Energy USA, Inc.",
-          "rate": 0.1549,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 6 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/get-rates/",
-          "signup_url": "https://www.verdeenergy.com/get-rates/",
-          "phone": "1-833-488-3125",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Green Mountain Energy Company",
           "rate": 0.159,
           "rate_type": "Fixed",
@@ -12045,7 +12045,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 132,
-      "last_fetched": "2026-08-01T02:28:53.796525Z"
+      "last_fetched": "2026-08-01T13:11:29.143265Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -12481,6 +12481,23 @@
           "service_area": null
         },
         {
+          "name": "Spark Energy, LLC",
+          "rate": 0.1299,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://signup.sparkenergy.com/",
+          "signup_url": "https://signup.sparkenergy.com/",
+          "phone": "(877) 346-0861",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Nordic Energy Services LLC",
           "rate": 0.12999,
           "rate_type": "Variable",
@@ -12612,23 +12629,6 @@
           "website_url": "https://shopping.energyharbor.com/cust/?PID=C1E5384B-D37B-4CB9-908D-576F76BA0E55&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=67B83CE3-60A1-4F03-A28B-0F6F90F79934&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=C1E5384B-D37B-4CB9-908D-576F76BA0E55&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=67B83CE3-60A1-4F03-A28B-0F6F90F79934&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1329,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -13059,6 +13059,23 @@
           "service_area": null
         },
         {
+          "name": "Verde Energy USA, Inc.",
+          "rate": 0.1409,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 4 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://www.verdeenergy.com/get-rates/",
+          "signup_url": "https://www.verdeenergy.com/get-rates/",
+          "phone": "1-833-488-3125",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Alpha Gas and Electric LLC",
           "rate": 0.141,
           "rate_type": "Fixed",
@@ -13276,23 +13293,6 @@
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=117443",
           "phone": "1-800-225-3813",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Verde Energy USA, Inc.",
-          "rate": 0.1439,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 4 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/get-rates/",
-          "signup_url": "https://www.verdeenergy.com/get-rates/",
-          "phone": "1-833-488-3125",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -13981,7 +13981,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 113,
-      "last_fetched": "2026-08-01T02:28:54.346598Z"
+      "last_fetched": "2026-08-01T13:11:29.718403Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -15403,6 +15403,23 @@
           "service_area": null
         },
         {
+          "name": "Spark Energy, LLC",
+          "rate": 0.1309,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://signup.sparkenergy.com/",
+          "signup_url": "https://signup.sparkenergy.com/",
+          "phone": "(877) 346-0861",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "0 Commit Energy",
           "rate": 0.1309,
           "rate_type": "Fixed",
@@ -15501,6 +15518,23 @@
           "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=24&msid=720",
           "phone": "855-331-0024",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Verde Energy USA, Inc.",
+          "rate": 0.1329,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 4 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://www.verdeenergy.com/get-rates/",
+          "signup_url": "https://www.verdeenergy.com/get-rates/",
+          "phone": "1-833-488-3125",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -15658,23 +15692,6 @@
           "service_area": null
         },
         {
-          "name": "Spark Energy, LLC",
-          "rate": 0.1359,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 4 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Cirro Energy",
           "rate": 0.136,
           "rate_type": "Fixed",
@@ -15760,23 +15777,6 @@
           "service_area": null
         },
         {
-          "name": "Verde Energy USA, Inc.",
-          "rate": 0.1379,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 4 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/get-rates/",
-          "signup_url": "https://www.verdeenergy.com/get-rates/",
-          "phone": "1-833-488-3125",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "NRG Home",
           "rate": 0.138,
           "rate_type": "Fixed",
@@ -15840,6 +15840,23 @@
           "website_url": "https://majorenergy.com/enroll/",
           "signup_url": "https://majorenergy.com/enroll/",
           "phone": "1-833-488-3124",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Spark Energy, LLC",
+          "rate": 0.1399,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": null,
+          "introductory": "No",
+          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 6 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://signup.sparkenergy.com/",
+          "signup_url": "https://signup.sparkenergy.com/",
+          "phone": "(877) 346-0861",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -15981,19 +15998,19 @@
           "service_area": null
         },
         {
-          "name": "Spark Energy, LLC",
+          "name": "Verde Energy USA, Inc.",
           "rate": 0.1429,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 6,
           "early_termination_fee": null,
           "introductory": "No",
-          "promotional_details": "Market rates can go up and down, but with this plan, you can lock in your supply rate for 6 months, so you don't have to worry! With this offer, there is no monthly service fee and no early cancellation fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Spark Energy, please call 1-877-547-7275 or visit https://myaccount.sparkenergy.com/ to renew!",
+          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 6 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
           "monthly_fee": null,
-          "website_url": "https://signup.sparkenergy.com/",
-          "signup_url": "https://signup.sparkenergy.com/",
-          "phone": "(877) 346-0861",
-          "renewable": "No",
+          "website_url": "https://www.verdeenergy.com/get-rates",
+          "signup_url": "https://www.verdeenergy.com/get-rates",
+          "phone": "1-833-488-3125",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -16028,23 +16045,6 @@
           "signup_url": "https://enrollment.citypowerandgas.com/home",
           "phone": "1-877-518-9339",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Verde Energy USA, Inc.",
-          "rate": 0.1449,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": null,
-          "introductory": "No",
-          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 6 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/get-rates",
-          "signup_url": "https://www.verdeenergy.com/get-rates",
-          "phone": "1-833-488-3125",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -16084,7 +16084,7 @@
         },
         {
           "name": "Verde Energy USA, Inc.",
-          "rate": 0.1479,
+          "rate": 0.1459,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -16206,7 +16206,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 130,
-      "last_fetched": "2026-08-01T02:28:54.986101Z"
+      "last_fetched": "2026-08-01T13:11:30.424455Z"
     }
   }
 }
