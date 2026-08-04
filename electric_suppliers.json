@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T17:44:40.951782Z",
+  "last_updated": "2026-08-04T19:26:30.094270Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -707,6 +707,23 @@
           "service_area": null
         },
         {
+          "name": "CleanSky Energy",
+          "rate": 0.1149,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$150.00",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
+          "monthly_fee": null,
+          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005249&Promo=PAPOWER&Term=12",
+          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005249&Promo=PAPOWER&Term=12",
+          "phone": "1-888-355-6205",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "0 Adversity Energy",
           "rate": 0.1149,
           "rate_type": "Fixed",
@@ -1268,23 +1285,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.1239,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001097&Promo=PAPOWER&Term=24",
-          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001097&Promo=PAPOWER&Term=24",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Verde Energy USA, Inc.",
           "rate": 0.1239,
           "rate_type": "Fixed",
@@ -1425,13 +1425,13 @@
           "rate": 0.1249,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 12,
+          "term_months": 6,
           "early_termination_fee": "$0",
           "introductory": "No",
           "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
           "monthly_fee": null,
-          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001096&Promo=PAPOWER&Term=12",
-          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001096&Promo=PAPOWER&Term=12",
+          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001098&Promo=PAPOWER&Term=6",
+          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001098&Promo=PAPOWER&Term=6",
           "phone": "1-888-355-6205",
           "renewable": "Yes",
           "bundle_required": false,
@@ -1442,13 +1442,13 @@
           "rate": 0.1249,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$0",
+          "term_months": 24,
+          "early_termination_fee": "$150.00",
           "introductory": "No",
           "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
           "monthly_fee": null,
-          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001098&Promo=PAPOWER&Term=6",
-          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001098&Promo=PAPOWER&Term=6",
+          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005236&Promo=PAPOWER&Term=24",
+          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005236&Promo=PAPOWER&Term=24",
           "phone": "1-888-355-6205",
           "renewable": "Yes",
           "bundle_required": false,
@@ -2548,7 +2548,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 149,
-      "last_fetched": "2026-08-04T17:44:28.436944Z"
+      "last_fetched": "2026-08-04T19:26:26.501825Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -4281,12 +4281,12 @@
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 24,
-          "early_termination_fee": "$0",
+          "early_termination_fee": "$150.00",
           "introductory": "No",
           "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
           "monthly_fee": null,
-          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001094&Promo=PAPOWER&Term=24",
-          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001094&Promo=PAPOWER&Term=24",
+          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005242&Promo=PAPOWER&Term=24",
+          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005242&Promo=PAPOWER&Term=24",
           "phone": "1-888-355-6205",
           "renewable": "Yes",
           "bundle_required": false,
@@ -4340,23 +4340,6 @@
           "signup_url": "https://signup.sparkenergy.com/",
           "phone": "(877) 346-0861",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.1449,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001093&Promo=PAPOWER&Term=12",
-          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001093&Promo=PAPOWER&Term=12",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -4493,6 +4476,23 @@
           "signup_url": "https://www.napower.com/#gref",
           "phone": "877-572-9965",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "CleanSky Energy",
+          "rate": 0.1469,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$150.00",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
+          "monthly_fee": null,
+          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005241&Promo=PAPOWER&Term=12",
+          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005241&Promo=PAPOWER&Term=12",
+          "phone": "1-888-355-6205",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -5199,7 +5199,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 155,
-      "last_fetched": "2026-08-04T17:44:32.857195Z"
+      "last_fetched": "2026-08-04T19:26:27.172349Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5873,23 +5873,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.1399,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001100&Promo=PAPOWER&Term=24",
-          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001100&Promo=PAPOWER&Term=24",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Vista Energy Marketing L.P.",
           "rate": 0.1399,
           "rate_type": "Fixed",
@@ -5959,16 +5942,16 @@
         },
         {
           "name": "CleanSky Energy",
-          "rate": 0.1419,
+          "rate": 0.1429,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$0",
+          "term_months": 24,
+          "early_termination_fee": "$150.00",
           "introductory": "No",
           "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
           "monthly_fee": null,
-          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001099&Promo=PAPOWER&Term=12",
-          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001099&Promo=PAPOWER&Term=12",
+          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005232&Promo=PAPOWER&Term=24",
+          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005232&Promo=PAPOWER&Term=24",
           "phone": "1-888-355-6205",
           "renewable": "Yes",
           "bundle_required": false,
@@ -6260,6 +6243,23 @@
           "signup_url": "https://shopping.dynegy.com/cust/?PID=A7D34656-6F5D-44AE-989C-54588FC26067&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=921D2082-7E28-417C-925B-7E0E43D5D1F4&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "CleanSky Energy",
+          "rate": 0.1469,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$150.00",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
+          "monthly_fee": null,
+          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005231&Promo=PAPOWER&Term=12",
+          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005231&Promo=PAPOWER&Term=12",
+          "phone": "1-888-355-6205",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -7561,7 +7561,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 138,
-      "last_fetched": "2026-08-04T17:44:37.171005Z"
+      "last_fetched": "2026-08-04T19:26:27.754314Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9344,23 +9344,6 @@
           "rate": 0.1519,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001102&Promo=PAPOWER&Term=12",
-          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001102&Promo=PAPOWER&Term=12",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.1519,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
           "term_months": 6,
           "early_termination_fee": "$0",
           "introductory": "No",
@@ -9368,23 +9351,6 @@
           "monthly_fee": null,
           "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001104&Promo=PAPOWER&Term=6",
           "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001104&Promo=PAPOWER&Term=6",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.1519,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001103&Promo=PAPOWER&Term=24",
-          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001103&Promo=PAPOWER&Term=24",
           "phone": "1-888-355-6205",
           "renewable": "Yes",
           "bundle_required": false,
@@ -9505,6 +9471,23 @@
           "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
           "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
           "phone": "1-800-280-4474",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "CleanSky Energy",
+          "rate": 0.1559,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": "$150.00",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
+          "monthly_fee": null,
+          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005235&Promo=PAPOWER&Term=24",
+          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005235&Promo=PAPOWER&Term=24",
+          "phone": "1-888-355-6205",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -9785,8 +9768,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 130,
-      "last_fetched": "2026-08-04T17:44:38.228962Z"
+      "count": 129,
+      "last_fetched": "2026-08-04T19:26:28.364483Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -11582,6 +11565,23 @@
           "service_area": null
         },
         {
+          "name": "CleanSky Energy",
+          "rate": 0.1489,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": "$150.00",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
+          "monthly_fee": null,
+          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005239&Promo=PAPOWER&Term=24",
+          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005239&Promo=PAPOWER&Term=24",
+          "phone": "1-888-355-6205",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "WGL Energy Services",
           "rate": 0.1492,
           "rate_type": "Fixed",
@@ -11735,23 +11735,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.1519,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001106&Promo=PAPOWER&Term=24",
-          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001106&Promo=PAPOWER&Term=24",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "American Electric Rates LLC",
           "rate": 0.1519,
           "rate_type": "Fixed",
@@ -11815,23 +11798,6 @@
           "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
           "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
           "phone": "855-692-8330",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.1549,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001105&Promo=PAPOWER&Term=12",
-          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001105&Promo=PAPOWER&Term=12",
-          "phone": "1-888-355-6205",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -12027,8 +11993,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 131,
-      "last_fetched": "2026-08-04T17:44:39.198182Z"
+      "count": 130,
+      "last_fetched": "2026-08-04T19:26:28.966416Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13335,23 +13301,6 @@
           "rate": 0.1449,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001108&Promo=PAPOWER&Term=12",
-          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001108&Promo=PAPOWER&Term=12",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.1449,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
           "term_months": 6,
           "early_termination_fee": "$0",
           "introductory": "No",
@@ -13370,12 +13319,12 @@
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 24,
-          "early_termination_fee": "No",
+          "early_termination_fee": "$150.00",
           "introductory": "No",
           "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
           "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=45&promocode=PAPOWERZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=45&promocode=PAPOWERZERO",
+          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005250&Promo=PAPOWER&Term=24",
+          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005250&Promo=PAPOWER&Term=24",
           "phone": "1-888-355-6205",
           "renewable": "Yes",
           "bundle_required": false,
@@ -13633,6 +13582,23 @@
           "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=7563&market_id=184",
           "phone": null,
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "CleanSky Energy",
+          "rate": 0.1499,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$150.00",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
+          "monthly_fee": null,
+          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005244&Promo=PAPOWER&Term=12",
+          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005244&Promo=PAPOWER&Term=12",
+          "phone": "1-888-355-6205",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -13964,7 +13930,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 113,
-      "last_fetched": "2026-08-04T17:44:40.021227Z"
+      "last_fetched": "2026-08-04T19:26:29.499832Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -15216,23 +15182,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.1299,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001112&Promo=PAPOWER&Term=24",
-          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001112&Promo=PAPOWER&Term=24",
-          "phone": "1-888-355-6205",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Vista Energy Marketing L.P.",
           "rate": 0.1299,
           "rate_type": "Fixed",
@@ -15543,13 +15492,13 @@
           "rate": 0.1349,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 12,
+          "term_months": 6,
           "early_termination_fee": "$0",
           "introductory": "No",
           "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
           "monthly_fee": null,
-          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001111&Promo=PAPOWER&Term=12",
-          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001111&Promo=PAPOWER&Term=12",
+          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001113&Promo=PAPOWER&Term=6",
+          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001113&Promo=PAPOWER&Term=6",
           "phone": "1-888-355-6205",
           "renewable": "Yes",
           "bundle_required": false,
@@ -15560,13 +15509,13 @@
           "rate": 0.1349,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$0",
+          "term_months": 24,
+          "early_termination_fee": "$150.00",
           "introductory": "No",
           "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
           "monthly_fee": null,
-          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001113&Promo=PAPOWER&Term=6",
-          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00001113&Promo=PAPOWER&Term=6",
+          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005229&Promo=PAPOWER&Term=24",
+          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005229&Promo=PAPOWER&Term=24",
           "phone": "1-888-355-6205",
           "renewable": "Yes",
           "bundle_required": false,
@@ -15879,6 +15828,23 @@
           "service_area": null
         },
         {
+          "name": "CleanSky Energy",
+          "rate": 0.1399,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$150.00",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
+          "monthly_fee": null,
+          "website_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005228&Promo=PAPOWER&Term=12",
+          "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005228&Promo=PAPOWER&Term=12",
+          "phone": "1-888-355-6205",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Verde Energy USA, Inc.",
           "rate": 0.1399,
           "rate_type": "Fixed",
@@ -16172,7 +16138,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 129,
-      "last_fetched": "2026-08-04T17:44:40.951556Z"
+      "last_fetched": "2026-08-04T19:26:30.094072Z"
     }
   }
 }
