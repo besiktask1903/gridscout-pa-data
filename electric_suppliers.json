@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T02:11:49.256268Z",
+  "last_updated": "2026-08-06T13:58:03.115782Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -1745,7 +1745,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1306,
+          "rate": 0.1301,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -2102,7 +2102,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1411,
+          "rate": 0.1418,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 9,
@@ -2306,7 +2306,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1605,
+          "rate": 0.1611,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -2497,7 +2497,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 146,
-      "last_fetched": "2026-08-06T02:11:44.744227Z"
+      "last_fetched": "2026-08-06T13:57:59.981783Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -3341,6 +3341,23 @@
           "service_area": null
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1339,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No",
+          "bundle_required": true,
+          "service_area": null
+        },
+        {
           "name": "0 Adversity Energy",
           "rate": 0.134,
           "rate_type": "Fixed",
@@ -3355,23 +3372,6 @@
           "phone": null,
           "renewable": "No",
           "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1342,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No",
-          "bundle_required": true,
           "service_area": null
         },
         {
@@ -4140,23 +4140,6 @@
           "service_area": null
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1429,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 9 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_9M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_9M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No",
-          "bundle_required": true,
-          "service_area": null
-        },
-        {
           "name": "0 Commit Energy",
           "rate": 0.1429,
           "rate_type": "Fixed",
@@ -4171,6 +4154,23 @@
           "phone": "1-800-698-5853",
           "renewable": "No",
           "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1436,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 9 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_9M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_9M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No",
+          "bundle_required": true,
           "service_area": null
         },
         {
@@ -4735,23 +4735,6 @@
           "service_area": null
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1649,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_M7_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_M7_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
-          "phone": "866-752-1907",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Green Mountain Energy Company",
           "rate": 0.165,
           "rate_type": "Fixed",
@@ -4816,6 +4799,23 @@
           "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
           "phone": "855-692-8330",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1656,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_M7_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_M7_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "phone": "866-752-1907",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -5131,7 +5131,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 154,
-      "last_fetched": "2026-08-06T02:11:45.609116Z"
+      "last_fetched": "2026-08-06T13:58:00.527459Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5364,7 +5364,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1278,
+          "rate": 0.1275,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -5687,7 +5687,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1387,
+          "rate": 0.1391,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 9,
@@ -6843,7 +6843,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1585,
+          "rate": 0.1589,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -7476,7 +7476,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 137,
-      "last_fetched": "2026-08-06T02:11:46.427193Z"
+      "last_fetched": "2026-08-06T13:58:01.013655Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -8579,6 +8579,23 @@
           "rate": 0.1389,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "A great time for new customers to lock in a fixed rate. With this energy plan, your supply rate stays put for 12 months, guaranteed. There is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!  You can receive up to a $100 rebate when you sign up for this offer. Receive the first $50 after one month of service and the second $50 after 6 months of service.",
+          "monthly_fee": null,
+          "website_url": "https://majorenergy.com/areas/pa/",
+          "signup_url": "https://majorenergy.com/areas/pa/",
+          "phone": "1-833-488-3124",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Major Energy",
+          "rate": 0.1389,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
           "term_months": 6,
           "early_termination_fee": "No",
           "introductory": "No",
@@ -8622,6 +8639,23 @@
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=el",
           "phone": "866-477-9180",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Verde Energy USA, Inc.",
+          "rate": 0.1395,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$100",
+          "introductory": "No",
+          "promotional_details": "Enjoy $100 in digital Home Depot Gift Cards*, by enrolling in a 100% renewable energy credits supply plan with a fixed supply rate for 12 months. There is a $100 cancellation fee, no monthly service fee. Don't wait - take advantage and sign up today! This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!  *To view terms and conditions for digital Home Depot Gift Cards, please copy and paste the link in a browser. https://www.verdeenergy.com/get-it-fixed-home-depot-terms-and-conditions/",
+          "monthly_fee": null,
+          "website_url": "https://www.verdeenergy.com/get-rates/",
+          "signup_url": "https://www.verdeenergy.com/get-rates/",
+          "phone": "1-833-488-3125",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -8689,23 +8723,6 @@
           "website_url": "https://shopping.dynegy.com/cust/?PID=4E53CCE9-8753-4ECC-B673-C6D8CB43101C&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=B5E59742-4CEA-49B9-96DC-C435AA4FA1C5&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.dynegy.com/cust/?PID=4E53CCE9-8753-4ECC-B673-C6D8CB43101C&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=B5E59742-4CEA-49B9-96DC-C435AA4FA1C5&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Major Energy",
-          "rate": 0.1399,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "A great time for new customers to lock in a fixed rate. With this energy plan, your supply rate stays put for 12 months, guaranteed. There is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!  You can receive up to a $100 rebate when you sign up for this offer. Receive the first $50 after one month of service and the second $50 after 6 months of service.",
-          "monthly_fee": null,
-          "website_url": "https://majorenergy.com/areas/pa/",
-          "signup_url": "https://majorenergy.com/areas/pa/",
-          "phone": "1-833-488-3124",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -8792,6 +8809,23 @@
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=D0938A04-2609-4438-A605-FEBD6575944E&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=3248EDA1-6EF7-4594-9DE3-1C7AE45E8F8C&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Verde Energy USA, Inc.",
+          "rate": 0.1419,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 6 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://www.verdeenergy.com/get-rates/",
+          "signup_url": "https://www.verdeenergy.com/get-rates/",
+          "phone": "1-833-488-3125",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -8911,40 +8945,6 @@
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=9F89F22E-12D5-4F66-A4F2-544801F2C821&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=3248EDA1-6EF7-4594-9DE3-1C7AE45E8F8C&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Verde Energy USA, Inc.",
-          "rate": 0.1429,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$100",
-          "introductory": "No",
-          "promotional_details": "Enjoy $100 in digital Home Depot Gift Cards*, by enrolling in a 100% renewable energy credits supply plan with a fixed supply rate for 12 months. There is a $100 cancellation fee, no monthly service fee. Don't wait - take advantage and sign up today! This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!  *To view terms and conditions for digital Home Depot Gift Cards, please copy and paste the link in a browser. https://www.verdeenergy.com/get-it-fixed-home-depot-terms-and-conditions/",
-          "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/get-rates/",
-          "signup_url": "https://www.verdeenergy.com/get-rates/",
-          "phone": "1-833-488-3125",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Verde Energy USA, Inc.",
-          "rate": 0.1429,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 6 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/get-rates/",
-          "signup_url": "https://www.verdeenergy.com/get-rates/",
-          "phone": "1-833-488-3125",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -9684,7 +9684,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 129,
-      "last_fetched": "2026-08-06T02:11:47.149540Z"
+      "last_fetched": "2026-08-06T13:58:01.545320Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -11909,7 +11909,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 130,
-      "last_fetched": "2026-08-06T02:11:47.841067Z"
+      "last_fetched": "2026-08-06T13:58:02.059129Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13845,7 +13845,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 113,
-      "last_fetched": "2026-08-06T02:11:48.485167Z"
+      "last_fetched": "2026-08-06T13:58:02.566344Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16053,7 +16053,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 129,
-      "last_fetched": "2026-08-06T02:11:49.256103Z"
+      "last_fetched": "2026-08-06T13:58:03.115576Z"
     }
   }
 }
