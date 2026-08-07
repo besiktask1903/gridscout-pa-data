@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T12:54:49.265143Z",
+  "last_updated": "2026-08-07T14:49:58.666165Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -2463,7 +2463,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 144,
-      "last_fetched": "2026-08-07T12:54:46.389298Z"
+      "last_fetched": "2026-08-07T14:49:54.949005Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -5063,7 +5063,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 152,
-      "last_fetched": "2026-08-07T12:54:46.933602Z"
+      "last_fetched": "2026-08-07T14:49:55.625164Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7357,7 +7357,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 134,
-      "last_fetched": "2026-08-07T12:54:47.392503Z"
+      "last_fetched": "2026-08-07T14:49:56.189453Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -7963,23 +7963,6 @@
           "service_area": null
         },
         {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1313,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 5,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=120652",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=120652",
-          "phone": "1-800-225-3813",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Clearview Energy",
           "rate": 0.1319,
           "rate_type": "Fixed",
@@ -8162,6 +8145,23 @@
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-meted&utm_source=papower&utm_medium=shopping&utm_campaign=meted_12",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-meted&utm_source=papower&utm_medium=shopping&utm_campaign=meted_12",
           "phone": "1-877-648-1923",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1359,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 5,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=121483",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=121483",
+          "phone": "1-800-225-3813",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -9531,7 +9531,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 127,
-      "last_fetched": "2026-08-07T12:54:47.893510Z"
+      "last_fetched": "2026-08-07T14:49:56.772766Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -11705,7 +11705,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 127,
-      "last_fetched": "2026-08-07T12:54:48.350281Z"
+      "last_fetched": "2026-08-07T14:49:57.501363Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13590,7 +13590,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 110,
-      "last_fetched": "2026-08-07T12:54:48.804283Z"
+      "last_fetched": "2026-08-07T14:49:58.087997Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -15764,7 +15764,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 127,
-      "last_fetched": "2026-08-07T12:54:49.264957Z"
+      "last_fetched": "2026-08-07T14:49:58.665985Z"
     }
   }
 }
