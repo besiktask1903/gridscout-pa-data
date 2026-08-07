@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T20:36:42.931431Z",
+  "last_updated": "2026-08-07T22:31:05.613148Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -1880,23 +1880,6 @@
           "service_area": null
         },
         {
-          "name": "SmartEnergy",
-          "rate": 0.133,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Fixed Rate for 100% renewable electricity with no hidden charges and no cancellation fee.",
-          "monthly_fee": null,
-          "website_url": "https://account.smartenergy.com/peco-web-only-6months?&utm_source=PUC_Site_PECO_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
-          "signup_url": "https://account.smartenergy.com/peco-web-only-6months?&utm_source=PUC_Site_PECO_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
-          "phone": "(800) 702-7371",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "IGS Energy",
           "rate": 0.1349,
           "rate_type": "Fixed",
@@ -2186,6 +2169,23 @@
           "service_area": null
         },
         {
+          "name": "SmartEnergy",
+          "rate": 0.144,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Fixed Rate for 100% renewable electricity with no hidden charges and no cancellation fee.",
+          "monthly_fee": null,
+          "website_url": "https://account.smartenergy.com/peco-web-only-6months?&utm_source=PUC_Site_PECO_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
+          "signup_url": "https://account.smartenergy.com/peco-web-only-6months?&utm_source=PUC_Site_PECO_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
+          "phone": "(800) 702-7371",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "NRG Home",
           "rate": 0.147,
           "rate_type": "Fixed",
@@ -2463,7 +2463,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 144,
-      "last_fetched": "2026-08-07T20:36:38.056629Z"
+      "last_fetched": "2026-08-07T22:31:02.073658Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -4616,23 +4616,6 @@
           "service_area": null
         },
         {
-          "name": "SmartEnergy",
-          "rate": 0.155,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Fixed Rate for 100% renewable electricity with no hidden charges and no cancellation fee.",
-          "monthly_fee": null,
-          "website_url": "https://account.smartenergy.com/ppl-web-only-6months?&utm_source=PUC_Site_PPL_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
-          "signup_url": "https://account.smartenergy.com/ppl-web-only-6months?&utm_source=PUC_Site_PPL_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
-          "phone": "(800) 702-7371",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Constellation Energy",
           "rate": 0.1569,
           "rate_type": "Fixed",
@@ -4730,6 +4713,23 @@
           "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
           "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
           "phone": "855-692-8330",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "SmartEnergy",
+          "rate": 0.165,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Fixed Rate for 100% renewable electricity with no hidden charges and no cancellation fee.",
+          "monthly_fee": null,
+          "website_url": "https://account.smartenergy.com/ppl-web-only-6months?&utm_source=PUC_Site_PPL_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
+          "signup_url": "https://account.smartenergy.com/ppl-web-only-6months?&utm_source=PUC_Site_PPL_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
+          "phone": "(800) 702-7371",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -5063,7 +5063,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 152,
-      "last_fetched": "2026-08-07T20:36:39.533461Z"
+      "last_fetched": "2026-08-07T22:31:02.764846Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -6315,23 +6315,6 @@
           "service_area": null
         },
         {
-          "name": "SmartEnergy",
-          "rate": 0.149,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Fixed Rate for 100% renewable electricity with no hidden charges and no cancellation fee.",
-          "monthly_fee": null,
-          "website_url": "https://account.smartenergy.com/duquesne-web-only-6months?&utm_source=PUC_Site_DQE_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
-          "signup_url": "https://account.smartenergy.com/duquesne-web-only-6months?&utm_source=PUC_Site_DQE_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
-          "phone": "(800) 702-7371",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "APG&E",
           "rate": 0.1498,
           "rate_type": "Fixed",
@@ -6583,6 +6566,23 @@
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-duq&utm_source=papower&utm_medium=shopping&utm_campaign=duq_24",
           "phone": "1-877-648-1923",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "SmartEnergy",
+          "rate": 0.154,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Fixed Rate for 100% renewable electricity with no hidden charges and no cancellation fee.",
+          "monthly_fee": null,
+          "website_url": "https://account.smartenergy.com/duquesne-web-only-6months?&utm_source=PUC_Site_DQE_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
+          "signup_url": "https://account.smartenergy.com/duquesne-web-only-6months?&utm_source=PUC_Site_DQE_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
+          "phone": "(800) 702-7371",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -7357,7 +7357,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 134,
-      "last_fetched": "2026-08-07T20:36:40.246188Z"
+      "last_fetched": "2026-08-07T22:31:03.336829Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9340,6 +9340,23 @@
           "service_area": null
         },
         {
+          "name": "SmartEnergy",
+          "rate": 0.161,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Fixed Rate for 100% renewable electricity with no hidden charges and no cancellation fee.",
+          "monthly_fee": null,
+          "website_url": "https://account.smartenergy.com/meted-web-only-6months?&utm_source=PUC_Site_METED_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
+          "signup_url": "https://account.smartenergy.com/meted-web-only-6months?&utm_source=PUC_Site_METED_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
+          "phone": "(800) 702-7371",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "CleanSky Energy",
           "rate": 0.1619,
           "rate_type": "Fixed",
@@ -9403,23 +9420,6 @@
           "website_url": "https://americanpowerandgas.com/?page=10",
           "signup_url": "https://americanpowerandgas.com/?page=10",
           "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "SmartEnergy",
-          "rate": 0.167,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Fixed Rate for 100% renewable electricity with no hidden charges and no cancellation fee.",
-          "monthly_fee": null,
-          "website_url": "https://account.smartenergy.com/meted-web-only-6months?&utm_source=PUC_Site_METED_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
-          "signup_url": "https://account.smartenergy.com/meted-web-only-6months?&utm_source=PUC_Site_METED_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
-          "phone": "(800) 702-7371",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -9531,7 +9531,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 127,
-      "last_fetched": "2026-08-07T20:36:40.936911Z"
+      "last_fetched": "2026-08-07T22:31:03.927182Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -11582,6 +11582,23 @@
           "service_area": null
         },
         {
+          "name": "SmartEnergy",
+          "rate": 0.163,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Fixed Rate for 100% renewable electricity with no hidden charges and no cancellation fee.",
+          "monthly_fee": null,
+          "website_url": "https://account.smartenergy.com/penelec-web-only-6months?&utm_source=PUC_Site_PENELEC_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
+          "signup_url": "https://account.smartenergy.com/penelec-web-only-6months?&utm_source=PUC_Site_PENELEC_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
+          "phone": "(800) 702-7371",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "American Power & Gas of Pennsylvania LLC",
           "rate": 0.1639,
           "rate_type": "Fixed",
@@ -11650,23 +11667,6 @@
           "service_area": null
         },
         {
-          "name": "SmartEnergy",
-          "rate": 0.171,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Fixed Rate for 100% renewable electricity with no hidden charges and no cancellation fee.",
-          "monthly_fee": null,
-          "website_url": "https://account.smartenergy.com/penelec-web-only-6months?&utm_source=PUC_Site_PENELEC_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
-          "signup_url": "https://account.smartenergy.com/penelec-web-only-6months?&utm_source=PUC_Site_PENELEC_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
-          "phone": "(800) 702-7371",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "IGS Energy",
           "rate": 0.1779,
           "rate_type": "Fixed",
@@ -11705,7 +11705,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 127,
-      "last_fetched": "2026-08-07T20:36:41.628439Z"
+      "last_fetched": "2026-08-07T22:31:04.481666Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13590,7 +13590,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 110,
-      "last_fetched": "2026-08-07T20:36:42.257743Z"
+      "last_fetched": "2026-08-07T22:31:05.015189Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -15505,23 +15505,6 @@
           "service_area": null
         },
         {
-          "name": "SmartEnergy",
-          "rate": 0.141,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Fixed Rate for 100% renewable electricity with no hidden charges and no cancellation fee.",
-          "monthly_fee": null,
-          "website_url": "https://account.smartenergy.com/wpp-6months?&utm_source=PUC_Site_WPP_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
-          "signup_url": "https://account.smartenergy.com/wpp-6months?&utm_source=PUC_Site_WPP_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
-          "phone": "(800) 702-7371",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "AEP Energy",
           "rate": 0.1415,
           "rate_type": "Fixed",
@@ -15586,6 +15569,23 @@
           "signup_url": "https://enrollment.citypowerandgas.com/home",
           "phone": "1-877-518-9339",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "SmartEnergy",
+          "rate": 0.145,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Fixed Rate for 100% renewable electricity with no hidden charges and no cancellation fee.",
+          "monthly_fee": null,
+          "website_url": "https://account.smartenergy.com/wpp-6months?&utm_source=PUC_Site_WPP_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
+          "signup_url": "https://account.smartenergy.com/wpp-6months?&utm_source=PUC_Site_WPP_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
+          "phone": "(800) 702-7371",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -15764,7 +15764,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 127,
-      "last_fetched": "2026-08-07T20:36:42.931244Z"
+      "last_fetched": "2026-08-07T22:31:05.612943Z"
     }
   }
 }
