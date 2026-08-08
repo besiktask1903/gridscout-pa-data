@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T01:17:02.613313Z",
+  "last_updated": "2026-08-08T12:39:34.543802Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -1779,7 +1779,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1308,
+          "rate": 0.1306,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
@@ -2463,7 +2463,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 144,
-      "last_fetched": "2026-08-08T01:16:59.592146Z"
+      "last_fetched": "2026-08-08T12:39:31.630835Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -5063,7 +5063,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 152,
-      "last_fetched": "2026-08-08T01:17:00.149017Z"
+      "last_fetched": "2026-08-08T12:39:32.171648Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7357,7 +7357,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 134,
-      "last_fetched": "2026-08-08T01:17:00.643062Z"
+      "last_fetched": "2026-08-08T12:39:32.635988Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -7776,23 +7776,6 @@
           "service_area": null
         },
         {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1279,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "A great time for new customers to secure an 3 month fixed rate, then variable. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19061",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19061",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1288,
           "rate_type": "Fixed",
@@ -7823,23 +7806,6 @@
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=8E55ABB8-9A95-440A-BF00-12EA811B5A68&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=5D04BE77-F370-489C-A787-09F91B69BEF5&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1297,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "A great time for new customers to secure a fixed rate. Enjoy peace of mind with a fixed rate for 4 months. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18355",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18355",
-          "phone": null,
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -8031,6 +7997,23 @@
           "service_area": null
         },
         {
+          "name": "American Electric Rates LLC",
+          "rate": 0.132,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "Yes",
+          "promotional_details": "A great time for new customers to secure an 3 month fixed rate, then variable. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18750",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18750",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.1329,
           "rate_type": "Fixed",
@@ -8044,6 +8027,23 @@
           "signup_url": "https://shopping.pagande.com/cust/?PID=95AFD1D9-60FB-405A-B1F3-7298B252FD3B&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=DCAE04F4-D7D6-4623-B5A7-FA8169A7EFB9&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1337,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "A great time for new customers to secure a fixed rate. Enjoy peace of mind with a fixed rate for 4 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18355",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18355",
+          "phone": null,
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -8660,23 +8660,6 @@
           "service_area": null
         },
         {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1417,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "A great time for new customers to secure a fixed rate. Enjoy peace of mind with a fixed rate for 12 months. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18020",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18020",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "APG&E",
           "rate": 0.1418,
           "rate_type": "Fixed",
@@ -8783,13 +8766,13 @@
           "rate": 0.1427,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 18,
+          "term_months": 17,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "A great time for new customers to secure a fixed rate. Enjoy peace of mind with a consistent rate for 18 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "promotional_details": "A great time for new customers to secure a fixed rate. Enjoy peace of mind with a consistent rate for 17 months. With this energy plan, there is no monthly service fee and no early termination fee.",
           "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18023",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18023",
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18956",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18956",
           "phone": null,
           "renewable": "No",
           "bundle_required": false,
@@ -8876,6 +8859,23 @@
           "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=121304",
           "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=121304",
           "phone": "1-800-698-5853",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1437,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "A great time for new customers to secure a fixed rate. Enjoy peace of mind with a fixed rate for 12 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18020",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18020",
+          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -9085,6 +9085,23 @@
           "service_area": null
         },
         {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1499,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Lock in your rate for 12 months. 100% clean energy from renewable energy credits. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16047",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16047",
+          "phone": null,
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Direct Energy",
           "rate": 0.1509,
           "rate_type": "Fixed",
@@ -9132,23 +9149,6 @@
           "signup_url": "https://www.napower.com/#gref",
           "phone": "877-572-9965",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1519,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Lock in your rate for 12 months. 100% clean energy from renewable energy credits. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16047",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16047",
-          "phone": null,
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -9531,7 +9531,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 127,
-      "last_fetched": "2026-08-08T01:17:01.179178Z"
+      "last_fetched": "2026-08-08T12:39:33.177125Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -11705,7 +11705,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 127,
-      "last_fetched": "2026-08-08T01:17:01.641306Z"
+      "last_fetched": "2026-08-08T12:39:33.624104Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13590,7 +13590,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 110,
-      "last_fetched": "2026-08-08T01:17:02.118872Z"
+      "last_fetched": "2026-08-08T12:39:34.065903Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -14145,23 +14145,6 @@
           "service_area": null
         },
         {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1189,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 5,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "A  great time for new customers to secure a fixed rate. Enjoy peace of mind with a consistent rate for 5 months. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19121",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19121",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "APG&E",
           "rate": 0.1198,
           "rate_type": "Fixed",
@@ -14502,6 +14485,23 @@
           "service_area": null
         },
         {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1246,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 5,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "A  great time for new customers to secure a fixed rate. Enjoy peace of mind with a consistent rate for 5 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19255",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19255",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "0 Commit Energy",
           "rate": 0.1246,
           "rate_type": "Fixed",
@@ -14565,23 +14565,6 @@
           "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=WPP&channel_code=direct",
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=WPP&channel_code=direct",
           "phone": "844-275-4022",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1259,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "A  great time for new customers to secure a fixed rate. Enjoy peace of mind with a fixed rate for 12 months. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19106",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19106",
-          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -14927,6 +14910,23 @@
           "service_area": null
         },
         {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1299,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "A  great time for new customers to secure a fixed rate. Enjoy peace of mind with a fixed rate for 12 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19257",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19257",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "0 Commit Energy",
           "rate": 0.1299,
           "rate_type": "Fixed",
@@ -14973,23 +14973,6 @@
           "website_url": "https://www.verdeenergy.com/get-rates/",
           "signup_url": "https://www.verdeenergy.com/get-rates/",
           "phone": "1-833-488-3125",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Electric Rates LLC",
-          "rate": 0.131,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "100% Renewable Energy. A  great time for new customers to secure a fixed rate. Enjoy peace of mind with a consistent rate for 12 months. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18923",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18923",
-          "phone": null,
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -15250,6 +15233,23 @@
           "service_area": null
         },
         {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1377,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Lock in your rate for 24 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18012",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18012",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "0 Commit Energy",
           "rate": 0.1378,
           "rate_type": "Fixed",
@@ -15296,23 +15296,6 @@
           "website_url": "https://signup.sparkenergy.com/",
           "signup_url": "https://signup.sparkenergy.com/",
           "phone": "(877) 346-0861",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1387,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Lock in your rate for 18 months. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18011",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18011",
-          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -15501,6 +15484,23 @@
           "signup_url": "https://enrollment.citypowerandgas.com/home",
           "phone": "1-877-518-9339",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Electric Rates LLC",
+          "rate": 0.141,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "100% Renewable Energy. A  great time for new customers to secure a fixed rate. Enjoy peace of mind with a consistent rate for 12 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19198",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19198",
+          "phone": null,
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -15764,7 +15764,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 127,
-      "last_fetched": "2026-08-08T01:17:02.613105Z"
+      "last_fetched": "2026-08-08T12:39:34.543629Z"
     }
   }
 }
