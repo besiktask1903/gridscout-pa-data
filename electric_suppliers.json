@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T14:54:50.946179Z",
+  "last_updated": "2026-08-10T16:51:22.756746Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -163,6 +163,23 @@
           "service_area": null
         },
         {
+          "name": "0 Adversity Energy",
+          "rate": 0.106,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": 16.99,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=44635&market_id=178",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=44635&market_id=178",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Public Power, LLC",
           "rate": 0.1069,
           "rate_type": "Fixed",
@@ -197,6 +214,23 @@
           "service_area": null
         },
         {
+          "name": "0 Adversity Energy",
+          "rate": 0.1069,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$50",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": 14.95,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=43030&market_id=178",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=43030&market_id=178",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "American Power & Gas of Pennsylvania LLC",
           "rate": 0.1079,
           "rate_type": "Fixed",
@@ -226,23 +260,6 @@
           "website_url": "https://shopping.pagande.com/cust/?PID=5C6D8CAA-421A-4B28-915A-764E080BB4E8&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=51340510-9962-4ED1-B3F4-F481A3DC9137&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=5C6D8CAA-421A-4B28-915A-764E080BB4E8&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=51340510-9962-4ED1-B3F4-F481A3DC9137&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "0 Adversity Energy",
-          "rate": 0.1079,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$50",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": 14.95,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=43030&market_id=178",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=43030&market_id=178",
-          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -634,23 +651,6 @@
           "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=48238&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PECO&utm_content=997",
           "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=48238&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PECO&utm_content=997",
           "phone": "8774300093",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "0 Adversity Energy",
-          "rate": 0.1148,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=43294&market_id=178",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=43294&market_id=178",
-          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -1642,6 +1642,23 @@
           "service_area": null
         },
         {
+          "name": "0 Adversity Energy",
+          "rate": 0.1289,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=4518&market_id=178",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=4518&market_id=178",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "WGL Energy Services",
           "rate": 0.1293,
           "rate_type": "Variable",
@@ -2033,6 +2050,23 @@
           "service_area": null
         },
         {
+          "name": "0 Adversity Energy",
+          "rate": 0.1379,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 15,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=44919&market_id=178",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=44919&market_id=178",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "WGL Energy Services",
           "rate": 0.1389,
           "rate_type": "Fixed",
@@ -2096,23 +2130,6 @@
           "website_url": "https://enrollment.citypowerandgas.com/home",
           "signup_url": "https://enrollment.citypowerandgas.com/home",
           "phone": "1-877-518-9339",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "0 Adversity Energy",
-          "rate": 0.1399,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=7563&market_id=178",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=7563&market_id=178",
-          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2479,8 +2496,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 145,
-      "last_fetched": "2026-08-10T14:54:46.950997Z"
+      "count": 146,
+      "last_fetched": "2026-08-10T16:51:19.397003Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2690,6 +2707,23 @@
           "website_url": "https://secure.cirroenergy.com/landing/shop/",
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Adversity Energy",
+          "rate": 0.124,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": 16.99,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=44635&market_id=181",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=44635&market_id=181",
+          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -3285,23 +3319,6 @@
           "website_url": "https://shopping.dynegy.com/cust/?PID=ED5B1A2F-94DF-4C3B-A28C-A8C1C7AFE2E1&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=9C3EF62F-6F25-4904-BCD9-2E526D6BE85B&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.dynegy.com/cust/?PID=ED5B1A2F-94DF-4C3B-A28C-A8C1C7AFE2E1&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=9C3EF62F-6F25-4904-BCD9-2E526D6BE85B&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "0 Adversity Energy",
-          "rate": 0.134,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=43294&market_id=181",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=43294&market_id=181",
-          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -4106,6 +4123,23 @@
           "service_area": null
         },
         {
+          "name": "0 Adversity Energy",
+          "rate": 0.1419,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=4518&market_id=181",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=4518&market_id=181",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Brighten Energy",
           "rate": 0.1429,
           "rate_type": "Fixed",
@@ -4651,16 +4685,16 @@
         },
         {
           "name": "0 Adversity Energy",
-          "rate": 0.1569,
+          "rate": 0.1559,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 6,
+          "term_months": 15,
           "early_termination_fee": "No",
           "introductory": "No",
           "promotional_details": null,
           "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=7563&market_id=181",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=7563&market_id=181",
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=44919&market_id=181",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=44919&market_id=181",
           "phone": null,
           "renewable": "No",
           "bundle_required": false,
@@ -5079,8 +5113,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 152,
-      "last_fetched": "2026-08-10T14:54:47.699520Z"
+      "count": 153,
+      "last_fetched": "2026-08-10T16:51:20.016332Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -6825,23 +6859,6 @@
           "service_area": null
         },
         {
-          "name": "0 Adversity Energy",
-          "rate": 0.1599,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=7563&market_id=176",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=7563&market_id=176",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Shipley Energy",
           "rate": 0.1601,
           "rate_type": "Fixed",
@@ -7012,6 +7029,23 @@
           "service_area": null
         },
         {
+          "name": "0 Adversity Energy",
+          "rate": 0.1629,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 15,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=44919&market_id=176",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=44919&market_id=176",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Renaissance Power & Gas Inc.",
           "rate": 0.163,
           "rate_type": "Fixed",
@@ -7126,6 +7160,23 @@
           "website_url": "https://www.napower.com/#gref",
           "signup_url": "https://www.napower.com/#gref",
           "phone": "877-572-9965",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Adversity Energy",
+          "rate": 0.1649,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=4518&market_id=176",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=4518&market_id=176",
+          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7373,8 +7424,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 134,
-      "last_fetched": "2026-08-10T14:54:48.341683Z"
+      "count": 135,
+      "last_fetched": "2026-08-10T16:51:20.576465Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9085,6 +9136,23 @@
           "service_area": null
         },
         {
+          "name": "0 Adversity Energy",
+          "rate": 0.1459,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=4518&market_id=177",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=4518&market_id=177",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "North American Power",
           "rate": 0.1499,
           "rate_type": "Fixed",
@@ -9306,6 +9374,23 @@
           "service_area": null
         },
         {
+          "name": "0 Adversity Energy",
+          "rate": 0.1599,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 15,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=44919&market_id=177",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=44919&market_id=177",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Cirro Energy",
           "rate": 0.16,
           "rate_type": "Fixed",
@@ -9404,23 +9489,6 @@
           "signup_url": "https://enroll.cleanskyenergy.com/Home/index?ProductCode=RN00005230&Promo=PAPOWER&Term=6",
           "phone": "1-888-355-6205",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "0 Adversity Energy",
-          "rate": 0.1629,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=7563&market_id=177",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=7563&market_id=177",
-          "phone": null,
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -9547,8 +9615,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 127,
-      "last_fetched": "2026-08-10T14:54:48.992103Z"
+      "count": 128,
+      "last_fetched": "2026-08-10T16:51:21.169134Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -9690,6 +9758,23 @@
           "website_url": "https://shopping.publicpowercompany.com/cust/?PID=2E41B1CC-039C-4C61-988F-15F906BDB348&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=065D8095-42F7-4F79-B6F8-B10ADF8ABD8E&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=2E41B1CC-039C-4C61-988F-15F906BDB348&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=065D8095-42F7-4F79-B6F8-B10ADF8ABD8E&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Adversity Energy",
+          "rate": 0.1189,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": 16.99,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=44635&market_id=180",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=44635&market_id=180",
+          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -10205,23 +10290,6 @@
           "service_area": null
         },
         {
-          "name": "0 Adversity Energy",
-          "rate": 0.13,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=43294&market_id=180",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=43294&market_id=180",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "APG&E",
           "rate": 0.1307,
           "rate_type": "Fixed",
@@ -10353,23 +10421,6 @@
           "website_url": "https://shopping.energyharbor.com/cust/?PID=45CBEF5D-763C-40F7-9A99-02FE2B25B980&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=86F965D3-9935-450B-A1D8-BE136663279B&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=45CBEF5D-763C-40F7-9A99-02FE2B25B980&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=86F965D3-9935-450B-A1D8-BE136663279B&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "0 Adversity Energy",
-          "rate": 0.1309,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=43167&market_id=180",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=43167&market_id=180",
-          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -10923,13 +10974,13 @@
           "rate": 0.1389,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 6,
+          "term_months": 15,
           "early_termination_fee": "No",
           "introductory": "No",
           "promotional_details": null,
           "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=7563&market_id=180",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=7563&market_id=180",
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=44919&market_id=180",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=44919&market_id=180",
           "phone": null,
           "renewable": "No",
           "bundle_required": false,
@@ -10983,6 +11034,23 @@
           "signup_url": "https://www.verdeenergy.com/get-rates/",
           "phone": "1-833-488-3125",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Adversity Energy",
+          "rate": 0.1399,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=4518&market_id=180",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=4518&market_id=180",
+          "phone": null,
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -11722,7 +11790,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 127,
-      "last_fetched": "2026-08-10T14:54:49.637088Z"
+      "last_fetched": "2026-08-10T16:51:21.686691Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -12005,23 +12073,6 @@
           "service_area": null
         },
         {
-          "name": "0 Adversity Energy",
-          "rate": 0.1279,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$50",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": 14.95,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=43030&market_id=184",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=43030&market_id=184",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "NRG Home",
           "rate": 0.128,
           "rate_type": "Variable",
@@ -12153,6 +12204,23 @@
           "website_url": "https://signup.sparkenergy.com/",
           "signup_url": "https://signup.sparkenergy.com/",
           "phone": "(877) 346-0861",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Adversity Energy",
+          "rate": 0.1299,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$50",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": 14.95,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=43030&market_id=184",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=43030&market_id=184",
+          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -12753,23 +12821,6 @@
           "service_area": null
         },
         {
-          "name": "0 Adversity Energy",
-          "rate": 0.1419,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 7,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=43167&market_id=184",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=43167&market_id=184",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1428,
           "rate_type": "Fixed",
@@ -13212,23 +13263,6 @@
           "service_area": null
         },
         {
-          "name": "0 Adversity Energy",
-          "rate": 0.1489,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=7563&market_id=184",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=7563&market_id=184",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Constellation Energy",
           "rate": 0.1499,
           "rate_type": "Fixed",
@@ -13263,6 +13297,23 @@
           "service_area": null
         },
         {
+          "name": "0 Adversity Energy",
+          "rate": 0.1499,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 15,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=44919&market_id=184",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=44919&market_id=184",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Direct Energy",
           "rate": 0.1509,
           "rate_type": "Fixed",
@@ -13275,6 +13326,23 @@
           "website_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=12&msid=720",
           "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=12&msid=720",
           "phone": "855-331-0024",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Adversity Energy",
+          "rate": 0.1509,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=4518&market_id=184",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=4518&market_id=184",
+          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -13607,7 +13675,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 110,
-      "last_fetched": "2026-08-10T14:54:50.321684Z"
+      "last_fetched": "2026-08-10T16:51:22.219708Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -14344,23 +14412,6 @@
           "website_url": "https://shopping.dynegy.com/cust/?PID=8804236F-4E88-4DB8-99FE-EF58E0D15A83&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=F26F2DDC-99BC-4F85-B74D-D32BB29183F6&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.dynegy.com/cust/?PID=8804236F-4E88-4DB8-99FE-EF58E0D15A83&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=F26F2DDC-99BC-4F85-B74D-D32BB29183F6&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "0 Adversity Energy",
-          "rate": 0.1219,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=43167&market_id=186",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=43167&market_id=186",
-          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -15131,6 +15182,23 @@
           "service_area": null
         },
         {
+          "name": "0 Adversity Energy",
+          "rate": 0.1349,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=4518&market_id=186",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=4518&market_id=186",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "AEP Energy",
           "rate": 0.135,
           "rate_type": "Fixed",
@@ -15203,13 +15271,13 @@
           "rate": 0.1369,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 6,
+          "term_months": 15,
           "early_termination_fee": "No",
           "introductory": "No",
           "promotional_details": null,
           "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=7563&market_id=186",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=7563&market_id=186",
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=44919&market_id=186",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=44919&market_id=186",
           "phone": null,
           "renewable": "No",
           "bundle_required": false,
@@ -15781,7 +15849,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 127,
-      "last_fetched": "2026-08-10T14:54:50.945983Z"
+      "last_fetched": "2026-08-10T16:51:22.756554Z"
     }
   }
 }
