@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T12:59:11.254199Z",
+  "last_updated": "2026-08-10T14:54:53.402847Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -355,6 +355,21 @@
           "service_area": null
         },
         {
+          "name": "Constellation Energy",
+          "rate": 0.499,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 12,
+          "early_termination_fee": "$150",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "http://www.constellation.com/rateboard",
+          "signup_url": "http://www.constellation.com/rateboard",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Shipley Energy",
           "rate": 0.499,
           "rate_type": "Fixed",
@@ -381,21 +396,6 @@
           "monthly_fee": null,
           "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=64&promocode=PAGASZERO",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=64&promocode=PAGASZERO",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Constellation Energy",
-          "rate": 0.519,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 12,
-          "early_termination_fee": "$150",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "http://www.constellation.com/rateboard",
-          "signup_url": "http://www.constellation.com/rateboard",
           "bundle_required": false,
           "service_area": null
         },
@@ -672,7 +672,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 44,
-      "last_fetched": "2026-08-10T12:59:09.829807Z"
+      "last_fetched": "2026-08-10T14:54:51.779337Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1000,7 +1000,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 21,
-      "last_fetched": "2026-08-10T12:59:10.064958Z"
+      "last_fetched": "2026-08-10T14:54:52.063329Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1720,7 +1720,7 @@
         "AAA Energy by Santanna"
       ],
       "count": 47,
-      "last_fetched": "2026-08-10T12:59:10.449995Z"
+      "last_fetched": "2026-08-10T14:54:52.453892Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2228,7 +2228,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-08-10T12:59:10.718077Z"
+      "last_fetched": "2026-08-10T14:54:52.777433Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2511,7 +2511,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 18,
-      "last_fetched": "2026-08-10T12:59:10.933504Z"
+      "last_fetched": "2026-08-10T14:54:53.070770Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -3094,7 +3094,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 38,
-      "last_fetched": "2026-08-10T12:59:11.254020Z"
+      "last_fetched": "2026-08-10T14:54:53.402633Z"
     }
   }
 }
