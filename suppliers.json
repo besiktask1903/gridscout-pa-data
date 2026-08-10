@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T16:51:26.071263Z",
+  "last_updated": "2026-08-10T18:52:12.922671Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -672,7 +672,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 44,
-      "last_fetched": "2026-08-10T16:51:24.134630Z"
+      "last_fetched": "2026-08-10T18:52:11.569772Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -682,36 +682,6 @@
       "sco_previous_rate": 0.58613,
       "sco_previous_date": "2026-07-31",
       "suppliers": [
-        {
-          "name": "IDT Energy Inc.",
-          "rate": 0.2896,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 1,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Flexibility. Rebates. Rewards. Get started with a first month introductory rate per therm. Earn rebates on your supply and register for IDT Energy Online Rewards to earn points for every Therm used. Redeem points for gift cards and more.",
-          "monthly_fee": null,
-          "website_url": "https://idtenergy.com/get-started/account-information/?filter_offerid=107121&filter_utility=NFG&filter_rate=38.220&filter_offerenddate=02/28/2018&filter_commodity=G&filter_etf=No&filter_ratetype=Variable&filter_energytype=Brown&filter_campaign=default",
-          "signup_url": "https://idtenergy.com/get-started/account-information/?filter_offerid=107121&filter_utility=NFG&filter_rate=38.220&filter_offerenddate=02/28/2018&filter_commodity=G&filter_etf=No&filter_ratetype=Variable&filter_energytype=Brown&filter_campaign=default",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Residents Energy",
-          "rate": 0.2896,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 1,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Get started with a first month introductory rate per therm. Go to residentsenergy.com.",
-          "monthly_fee": null,
-          "website_url": "https://residentsenergy.com/get-started/account-information/?filter_offerid=106919&filter_utility=NFG&filter_rate=38.220&filter_commodity=G&filter_etf=No&filter_ratetype=Variable&filter_energytype=Brown&filter_offerenddate=02/28/2018&filter_campaign=default&filter_zip=&filter_state=PA",
-          "signup_url": "https://residentsenergy.com/get-started/account-information/?filter_offerid=106919&filter_utility=NFG&filter_rate=38.220&filter_commodity=G&filter_etf=No&filter_ratetype=Variable&filter_energytype=Brown&filter_offerenddate=02/28/2018&filter_campaign=default&filter_zip=&filter_state=PA",
-          "bundle_required": false,
-          "service_area": null
-        },
         {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.47,
@@ -923,21 +893,6 @@
           "service_area": null
         },
         {
-          "name": "IDT Energy Inc.",
-          "rate": 0.8257,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 8,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Our 8-month fixed supply rate. NO termination fees, rate spikes, or enrollment fee. Gain budget certainty with a fixed rate. Earn REWARD points for every Therm used, and redeem them for gift cards and more.",
-          "monthly_fee": null,
-          "website_url": "https://idtenergy.com/get-started/account-information/?filter_offerid=106967&filter_utility=NFG&filter_rate=60.750&filter_offerenddate=02/28/2018&filter_commodity=G&filter_etf=No&filter_ratetype=Fixed&filter_energytype=Brown&filter_campaign=default",
-          "signup_url": "https://idtenergy.com/get-started/account-information/?filter_offerid=106967&filter_utility=NFG&filter_rate=60.750&filter_offerenddate=02/28/2018&filter_commodity=G&filter_etf=No&filter_ratetype=Fixed&filter_energytype=Brown&filter_campaign=default",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Agway Energy Services",
           "rate": 0.859,
           "rate_type": "Variable",
@@ -999,8 +954,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 21,
-      "last_fetched": "2026-08-10T16:51:24.563558Z"
+      "count": 18,
+      "last_fetched": "2026-08-10T18:52:11.801914Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1326,36 +1281,6 @@
           "service_area": null
         },
         {
-          "name": "IDT Energy Inc.",
-          "rate": 0.6431,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 1,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Flexibility. Rebates. Rewards. Get started with a first month introductory rate per therm. Earn rebates on your supply and register for IDT Energy Online Rewards to earn points for every Therm used. Redeem points for gift cards and more.",
-          "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null,
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Residents Energy",
-          "rate": 0.6431,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 1,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Get started with a first month introductory rate per therm. Go to residentsenergy.com.",
-          "monthly_fee": null,
-          "website_url": "https://residentsenergy.com/get-started/account-information/?filter_offerid=106925&filter_utility=PECO&filter_rate=37.910&filter_commodity=G&filter_etf=No&filter_ratetype=Variable&filter_energytype=Brown&filter_offerenddate=02/28/2018&filter_campaign=default&filter_zip=&filter_state=PA",
-          "signup_url": "https://residentsenergy.com/get-started/account-information/?filter_offerid=106925&filter_utility=PECO&filter_rate=37.910&filter_commodity=G&filter_etf=No&filter_ratetype=Variable&filter_energytype=Brown&filter_offerenddate=02/28/2018&filter_campaign=default&filter_zip=&filter_state=PA",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Nordic Energy Services",
           "rate": 0.649,
           "rate_type": "Variable",
@@ -1641,36 +1566,6 @@
           "service_area": null
         },
         {
-          "name": "IDT Energy Inc.",
-          "rate": 0.9147,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 8,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Our 8-month fixed supply rate. NO termination fees, rate spikes, or enrollment fee. Gain budget certainty with a fixed rate. Earn REWARD points for every Therm used, and redeem them for gift cards and more.",
-          "monthly_fee": null,
-          "website_url": "https://idtenergy.com/get-started/account-information/?filter_offerid=106995&filter_utility=PECO&filter_rate=63.230&filter_offerenddate=02/28/2018&filter_commodity=G&filter_etf=No&filter_ratetype=Fixed&filter_energytype=Brown&filter_campaign=default",
-          "signup_url": "https://idtenergy.com/get-started/account-information/?filter_offerid=106995&filter_utility=PECO&filter_rate=63.230&filter_offerenddate=02/28/2018&filter_commodity=G&filter_etf=No&filter_ratetype=Fixed&filter_energytype=Brown&filter_campaign=default",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Residents Energy",
-          "rate": 0.9147,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 8,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Lock in a per Therm rate for 8-months. No termination fees, other fees, or deposits. Protect yourself from future Natural Gas supply market volatility. All the price certainty of a fixed rate program with the flexibility you need.",
-          "monthly_fee": null,
-          "website_url": "https://residentsenergy.com/get-started/account-information/?filter_offerid=112186&filter_utility=PECO&filter_rate=63.23&filter_commodity=G&filter_etf=No&filter_ratetype=Fixed&filter_energytype=Brown&filter_offerenddate=02/28/2018&filter_campaign=default&filter_zip=&filter_state=PA",
-          "signup_url": "https://residentsenergy.com/get-started/account-information/?filter_offerid=112186&filter_utility=PECO&filter_rate=63.23&filter_commodity=G&filter_etf=No&filter_ratetype=Fixed&filter_energytype=Brown&filter_offerenddate=02/28/2018&filter_campaign=default&filter_zip=&filter_state=PA",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Frontier Utilities",
           "rate": 0.949,
           "rate_type": "Fixed",
@@ -1719,8 +1614,8 @@
       "unlimited_suppliers": [
         "AAA Energy by Santanna"
       ],
-      "count": 47,
-      "last_fetched": "2026-08-10T16:51:25.002883Z"
+      "count": 43,
+      "last_fetched": "2026-08-10T18:52:12.131672Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2228,7 +2123,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-08-10T16:51:25.364193Z"
+      "last_fetched": "2026-08-10T18:52:12.406334Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2250,21 +2145,6 @@
           "monthly_fee": null,
           "website_url": "https://www.americanpowerandgas.com/",
           "signup_url": "https://www.americanpowerandgas.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Residents Energy",
-          "rate": 0.4,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 1,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Get started with a first month introductory rate per therm. Go to residentsenergy.com.",
-          "monthly_fee": null,
-          "website_url": "https://residentsenergy.com/get-started/your-offers/?filter_commodity=G&filter_state=PA&filter_utility=PGW&coupon_code=&filter_campaign=default#loaded",
-          "signup_url": "https://residentsenergy.com/get-started/your-offers/?filter_commodity=G&filter_state=PA&filter_utility=PGW&coupon_code=&filter_campaign=default#loaded",
           "bundle_required": false,
           "service_area": null
         },
@@ -2510,8 +2390,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 18,
-      "last_fetched": "2026-08-10T16:51:25.655848Z"
+      "count": 17,
+      "last_fetched": "2026-08-10T18:52:12.631665Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2578,36 +2458,6 @@
           "monthly_fee": null,
           "website_url": "https://www.shipleyenergy.com/enrollment?product=ng",
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "IDT Energy Inc.",
-          "rate": 0.6622,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 1,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Flexibility. Rebates. Rewards. Get started with a first month introductory rate per therm. Earn rebates on your supply and register for IDT Energy Online Rewards to earn points for every Therm used. Redeem points for gift cards and more.",
-          "monthly_fee": null,
-          "website_url": "https://idtenergy.com/get-started/account-information/?filter_offerid=107159&filter_utility=UGI&filter_rate=62.420&filter_offerenddate=02/28/2018&filter_commodity=G&filter_etf=No&filter_ratetype=Variable&filter_energytype=Brown&filter_campaign=default",
-          "signup_url": "https://idtenergy.com/get-started/account-information/?filter_offerid=107159&filter_utility=UGI&filter_rate=62.420&filter_offerenddate=02/28/2018&filter_commodity=G&filter_etf=No&filter_ratetype=Variable&filter_energytype=Brown&filter_campaign=default",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Residents Energy",
-          "rate": 0.6622,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 1,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Get started with a first month introductory rate per therm. Go to residentsenergy.com.",
-          "monthly_fee": null,
-          "website_url": "https://residentsenergy.com/get-started/account-information/?filter_offerid=106929&filter_utility=UGI&filter_rate=62.420&filter_commodity=G&filter_etf=No&filter_ratetype=Variable&filter_energytype=Brown&filter_offerenddate=02/28/2018&filter_campaign=default&filter_zip=&filter_state=PA",
-          "signup_url": "https://residentsenergy.com/get-started/account-information/?filter_offerid=106929&filter_utility=UGI&filter_rate=62.420&filter_commodity=G&filter_etf=No&filter_ratetype=Variable&filter_energytype=Brown&filter_offerenddate=02/28/2018&filter_campaign=default&filter_zip=&filter_state=PA",
           "bundle_required": false,
           "service_area": null
         },
@@ -3017,21 +2867,6 @@
           "service_area": null
         },
         {
-          "name": "IDT Energy Inc.",
-          "rate": 0.9069,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 8,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Our 8-month fixed supply rate. NO termination fees, rate spikes, or enrollment fee. Gain budget certainty with a fixed rate. Earn REWARD points for every Therm used, and redeem them for gift cards and more.",
-          "monthly_fee": null,
-          "website_url": "https://idtenergy.com/get-started/account-information/?filter_offerid=107009&filter_utility=UGI&filter_rate=72.350&filter_offerenddate=02/28/2018&filter_commodity=G&filter_etf=No&filter_ratetype=Fixed&filter_energytype=Brown&filter_campaign=default",
-          "signup_url": "https://idtenergy.com/get-started/account-information/?filter_offerid=107009&filter_utility=UGI&filter_rate=72.350&filter_offerenddate=02/28/2018&filter_commodity=G&filter_etf=No&filter_ratetype=Fixed&filter_energytype=Brown&filter_campaign=default",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "City Power & Gas PA",
           "rate": 0.9359,
           "rate_type": "Fixed",
@@ -3093,8 +2928,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 38,
-      "last_fetched": "2026-08-10T16:51:26.071095Z"
+      "count": 35,
+      "last_fetched": "2026-08-10T18:52:12.922474Z"
     }
   }
 }
