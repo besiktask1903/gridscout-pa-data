@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T18:57:22.119913Z",
+  "last_updated": "2026-08-12T20:39:06.708284Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -78,6 +78,23 @@
           "service_area": null
         },
         {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1039,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=PECO&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=PECO&channel_code=direct",
+          "phone": "844-275-4022",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Public Power, LLC",
           "rate": 0.1039,
           "rate_type": "Fixed",
@@ -116,13 +133,13 @@
           "rate": 0.1043,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 3,
+          "term_months": 4,
           "early_termination_fee": "No",
           "introductory": "No",
           "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
           "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=PECO&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=PECO&channel_code=direct",
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=PECO&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=PECO&channel_code=direct",
           "phone": "844-275-4022",
           "renewable": "Yes",
           "bundle_required": false,
@@ -2513,8 +2530,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 147,
-      "last_fetched": "2026-08-12T18:57:18.564707Z"
+      "count": 148,
+      "last_fetched": "2026-08-12T20:39:02.384223Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -5199,7 +5216,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 157,
-      "last_fetched": "2026-08-12T18:57:19.241442Z"
+      "last_fetched": "2026-08-12T20:39:03.183876Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7561,7 +7578,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 138,
-      "last_fetched": "2026-08-12T18:57:19.812581Z"
+      "last_fetched": "2026-08-12T20:39:03.950545Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9803,7 +9820,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 131,
-      "last_fetched": "2026-08-12T18:57:20.409440Z"
+      "last_fetched": "2026-08-12T20:39:04.706610Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -12045,7 +12062,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 131,
-      "last_fetched": "2026-08-12T18:57:20.999638Z"
+      "last_fetched": "2026-08-12T20:39:05.375847Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13998,7 +14015,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 114,
-      "last_fetched": "2026-08-12T18:57:21.538908Z"
+      "last_fetched": "2026-08-12T20:39:06.001956Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16240,7 +16257,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 131,
-      "last_fetched": "2026-08-12T18:57:22.119694Z"
+      "last_fetched": "2026-08-12T20:39:06.708074Z"
     }
   }
 }
