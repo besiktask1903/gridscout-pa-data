@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T14:53:01.331598Z",
+  "last_updated": "2026-08-12T16:53:39.275719Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -1914,6 +1914,23 @@
           "service_area": null
         },
         {
+          "name": "Think Energy",
+          "rate": 0.134,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Sign up and receive a $100 gift card. New Customers only. Eligibility rules apply. See www.thinkenergy.com/gift-card-promotion for more information.",
+          "monthly_fee": null,
+          "website_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
+          "signup_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
+          "phone": "(833) 669 3080",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "IGS Energy",
           "rate": 0.1349,
           "rate_type": "Fixed",
@@ -2496,8 +2513,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 146,
-      "last_fetched": "2026-08-12T14:52:57.819709Z"
+      "count": 147,
+      "last_fetched": "2026-08-12T16:53:35.256953Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -3426,6 +3443,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1348,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 16,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees! Lock in price security today with our competitive 16-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 16-month term, plus there's no enrollment or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T16_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T16_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Brighten Energy",
           "rate": 0.1349,
           "rate_type": "Fixed",
@@ -3693,23 +3727,6 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=122304",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=122304",
           "phone": "1-800-225-3813",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1378,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 17,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees! Lock in price security today with our competitive 17-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 17-month term, plus there's no enrollment or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T17_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T17_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -4548,6 +4565,23 @@
           "service_area": null
         },
         {
+          "name": "Think Energy",
+          "rate": 0.148,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Sign up and receive a $100 gift card. New Customers only. Eligibility rules apply. See www.thinkenergy.com/gift-card-promotion for more information.",
+          "monthly_fee": null,
+          "website_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
+          "signup_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
+          "phone": "(833) 669 3080",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "City Power & Gas PA",
           "rate": 0.1489,
           "rate_type": "Fixed",
@@ -5164,8 +5198,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 156,
-      "last_fetched": "2026-08-12T14:52:58.508278Z"
+      "count": 157,
+      "last_fetched": "2026-08-12T16:53:36.029927Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7352,6 +7386,23 @@
           "service_area": null
         },
         {
+          "name": "Think Energy",
+          "rate": 0.176,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Sign up and receive a $100 gift card. New Customers only. Eligibility rules apply. See www.thinkenergy.com/gift-card-promotion for more information.",
+          "monthly_fee": null,
+          "website_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
+          "signup_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
+          "phone": "(833) 669 3080",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "NRG Home",
           "rate": 0.1769,
           "rate_type": "Fixed",
@@ -7509,8 +7560,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 137,
-      "last_fetched": "2026-08-12T14:52:59.070869Z"
+      "count": 138,
+      "last_fetched": "2026-08-12T16:53:36.696704Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9476,6 +9527,23 @@
           "service_area": null
         },
         {
+          "name": "Think Energy",
+          "rate": 0.159,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Sign up and receive a $100 gift card. New Customers only. Eligibility rules apply. See www.thinkenergy.com/gift-card-promotion for more information.",
+          "monthly_fee": null,
+          "website_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
+          "signup_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
+          "phone": "(833) 669 3080",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Constellation Energy",
           "rate": 0.1599,
           "rate_type": "Fixed",
@@ -9734,8 +9802,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 130,
-      "last_fetched": "2026-08-12T14:52:59.653081Z"
+      "count": 131,
+      "last_fetched": "2026-08-12T16:53:37.367623Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -11803,6 +11871,23 @@
           "service_area": null
         },
         {
+          "name": "Think Energy",
+          "rate": 0.156,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Sign up and receive a $100 gift card. New Customers only. Eligibility rules apply. See www.thinkenergy.com/gift-card-promotion for more information.",
+          "monthly_fee": null,
+          "website_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
+          "signup_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
+          "phone": "(833) 669 3080",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "NRG Home",
           "rate": 0.158,
           "rate_type": "Fixed",
@@ -11959,8 +12044,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 130,
-      "last_fetched": "2026-08-12T14:53:00.230191Z"
+      "count": 131,
+      "last_fetched": "2026-08-12T16:53:38.027936Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13586,6 +13671,23 @@
           "service_area": null
         },
         {
+          "name": "Think Energy",
+          "rate": 0.154,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Sign up and receive a $100 gift card. New Customers only. Eligibility rules apply. See www.thinkenergy.com/gift-card-promotion for more information.",
+          "monthly_fee": null,
+          "website_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
+          "signup_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
+          "phone": "(833) 669 3080",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Direct Energy",
           "rate": 0.1549,
           "rate_type": "Fixed",
@@ -13895,8 +13997,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 113,
-      "last_fetched": "2026-08-12T14:53:00.742203Z"
+      "count": 114,
+      "last_fetched": "2026-08-12T16:53:38.608131Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -15981,6 +16083,23 @@
           "service_area": null
         },
         {
+          "name": "Think Energy",
+          "rate": 0.146,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Sign up and receive a $100 gift card. New Customers only. Eligibility rules apply. See www.thinkenergy.com/gift-card-promotion for more information.",
+          "monthly_fee": null,
+          "website_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
+          "signup_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
+          "phone": "(833) 669 3080",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "NRG Home",
           "rate": 0.149,
           "rate_type": "Fixed",
@@ -16120,8 +16239,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 130,
-      "last_fetched": "2026-08-12T14:53:01.331410Z"
+      "count": 131,
+      "last_fetched": "2026-08-12T16:53:39.275513Z"
     }
   }
 }
