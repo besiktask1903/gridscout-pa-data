@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T16:53:39.275719Z",
+  "last_updated": "2026-08-12T18:57:22.119913Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -90,6 +90,23 @@
           "website_url": "https://shopping.publicpowercompany.com/cust/?PID=6398AF1E-6F7B-4D5E-92AA-AC1D41520EB5&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=E22E7ECE-3868-4D1D-8619-0AAF4595D462&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=6398AF1E-6F7B-4D5E-92AA-AC1D41520EB5&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=E22E7ECE-3868-4D1D-8619-0AAF4595D462&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1042,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 3-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 3-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -486,23 +503,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1108,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 3-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 3-month term, plus there's no enrollment, cancellation, or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "0 Commit Energy",
           "rate": 0.1108,
           "rate_type": "Fixed",
@@ -894,6 +894,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1198,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 12-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Dynegy",
           "rate": 0.1199,
           "rate_type": "Variable",
@@ -991,23 +1008,6 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=122300",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=122300",
           "phone": "1-800-225-3813",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1208,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 12-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2514,7 +2514,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 147,
-      "last_fetched": "2026-08-12T16:53:35.256953Z"
+      "last_fetched": "2026-08-12T18:57:18.564707Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -5199,7 +5199,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 157,
-      "last_fetched": "2026-08-12T16:53:36.029927Z"
+      "last_fetched": "2026-08-12T18:57:19.241442Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7561,7 +7561,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 138,
-      "last_fetched": "2026-08-12T16:53:36.696704Z"
+      "last_fetched": "2026-08-12T18:57:19.812581Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9749,7 +9749,7 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 0.1799,
+          "rate": 0.1819,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 36,
@@ -9803,7 +9803,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 131,
-      "last_fetched": "2026-08-12T16:53:37.367623Z"
+      "last_fetched": "2026-08-12T18:57:20.409440Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -11974,7 +11974,7 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 0.1699,
+          "rate": 0.1749,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 24,
@@ -12045,7 +12045,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 131,
-      "last_fetched": "2026-08-12T16:53:38.027936Z"
+      "last_fetched": "2026-08-12T18:57:20.999638Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13998,7 +13998,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 114,
-      "last_fetched": "2026-08-12T16:53:38.608131Z"
+      "last_fetched": "2026-08-12T18:57:21.538908Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16240,7 +16240,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 131,
-      "last_fetched": "2026-08-12T16:53:39.275513Z"
+      "last_fetched": "2026-08-12T18:57:22.119694Z"
     }
   }
 }
