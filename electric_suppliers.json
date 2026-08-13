@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T16:53:38.441530Z",
+  "last_updated": "2026-08-13T18:58:40.376287Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -544,7 +544,7 @@
           "term_months": 12,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "With this energy plan, you may be able to lock in a fixed rate as low as $0.1119 for 12 months if you qualify. Provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 35% Load Factor or higher. Sign up today to see if you qualify. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors.  With this energy plan, there is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!",
+          "promotional_details": "With this energy plan, you may be able to lock in a fixed rate as low as $0.1119 for 12 months if you qualify. Provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 35% Load Factor or higher. Sign up today to see if you qualify. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors.  With this energy plan, there is no monthly service fee and no early termination fee. See linked Plan Documents for full terms of service. For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!",
           "monthly_fee": null,
           "website_url": "https://majorenergy.com/areas/pa/",
           "signup_url": "https://majorenergy.com/areas/pa/",
@@ -822,23 +822,6 @@
           "signup_url": "https://mycleanchoice.com/pashoppera24",
           "phone": "1-800-460-4900",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1189,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 5,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=121828",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=121828",
-          "phone": "1-800-225-3813",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -1212,6 +1195,23 @@
           "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=PECO&channel_code=direct",
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=PECO&channel_code=direct",
           "phone": "844-275-4022",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1238,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=55508",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=55508",
+          "phone": "1-800-225-3813",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2514,7 +2514,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 147,
-      "last_fetched": "2026-08-13T16:53:35.207001Z"
+      "last_fetched": "2026-08-13T18:58:36.189300Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2644,6 +2644,23 @@
           "service_area": null
         },
         {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1239,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=PPL&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=PPL&channel_code=direct",
+          "phone": "844-275-4022",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.1239,
           "rate_type": "Fixed",
@@ -2724,23 +2741,6 @@
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1243,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=PPL&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=PPL&channel_code=direct",
-          "phone": "844-275-4022",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -3518,7 +3518,7 @@
           "term_months": 12,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "With this energy plan, you may be able to lock in a fixed rate as low as $0.1349 for 12 months if you qualify. Provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 55% Load Factor or higher. Sign up today to see if you qualify. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors.  With this energy plan, there is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!",
+          "promotional_details": "With this energy plan, you may be able to lock in a fixed rate as low as $0.1349 for 12 months if you qualify. Provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 55% Load Factor or higher. Sign up today to see if you qualify. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors.  With this energy plan, there is no monthly service fee and no early termination fee. See linked Plan Documents for full terms of service. For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!",
           "monthly_fee": null,
           "website_url": "https://majorenergy.com/areas/pa/",
           "signup_url": "https://majorenergy.com/areas/pa/",
@@ -3552,7 +3552,7 @@
           "term_months": 12,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "You may be able to lock in your fixed supply rate as low as $0.1349 for 12 months: provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 50% Load Factor energy consumption or better. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors. With this energy plan, there is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
+          "promotional_details": "You may be able to lock in your fixed supply rate as low as $0.1349 for 12 months: provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 50% Load Factor energy consumption or better. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors. With this energy plan, there is no monthly service fee and no early termination fee. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
           "monthly_fee": null,
           "website_url": "https://www.verdeenergy.com/get-rates/",
           "signup_url": "https://www.verdeenergy.com/get-rates/",
@@ -3677,23 +3677,6 @@
           "signup_url": "https://www.verdeenergy.com/get-rates",
           "phone": "1-833-488-3125",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1373,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 5,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=122410",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=122410",
-          "phone": "1-800-225-3813",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -3982,6 +3965,23 @@
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1408,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=113334",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=113334",
+          "phone": "1-800-225-3813",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -5182,7 +5182,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 156,
-      "last_fetched": "2026-08-13T16:53:35.822192Z"
+      "last_fetched": "2026-08-13T18:58:37.047429Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5829,7 +5829,7 @@
           "term_months": 12,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "With this energy plan, you may be able to lock in a fixed rate as low as $0.1399 for 12 months if you qualify. Provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 40% Load Factor or higher. Sign up today to see if you qualify. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors.  With this energy plan, there is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!",
+          "promotional_details": "With this energy plan, you may be able to lock in a fixed rate as low as $0.1399 for 12 months if you qualify. Provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 40% Load Factor or higher. Sign up today to see if you qualify. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors.  With this energy plan, there is no monthly service fee and no early termination fee. See linked Plan Documents for full terms of service. For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!",
           "monthly_fee": null,
           "website_url": "https://majorenergy.com/areas/pa/",
           "signup_url": "https://majorenergy.com/areas/pa/",
@@ -5931,7 +5931,7 @@
           "term_months": 12,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "You may be able to lock in your fixed supply rate as low as $0.1409 for 12 months: provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 40% Load Factor energy consumption or better. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors. With this energy plan, there is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
+          "promotional_details": "You may be able to lock in your fixed supply rate as low as $0.1409 for 12 months: provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 40% Load Factor energy consumption or better. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors. With this energy plan, there is no monthly service fee and no early termination fee. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
           "monthly_fee": null,
           "website_url": "https://www.verdeenergy.com/get-rates/",
           "signup_url": "https://www.verdeenergy.com/get-rates/",
@@ -6060,6 +6060,23 @@
           "service_area": null
         },
         {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1449,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 5,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=121482",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=121482",
+          "phone": "1-800-225-3813",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Better Buy Energy",
           "rate": 0.1449,
           "rate_type": "Fixed",
@@ -6174,23 +6191,6 @@
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1459,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 5,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers.  Prices listed are subject to change without notice.   Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=122409",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=122409",
-          "phone": "1-800-225-3813",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7182,23 +7182,6 @@
           "service_area": null
         },
         {
-          "name": "Renaissance Power & Gas Inc.",
-          "rate": 0.163,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 14,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "14 Months fixed rate at $0.163.  Fast, easy sign up. Call 888-811-0877 or go to www.renaissancepowerandgas.com",
-          "monthly_fee": null,
-          "website_url": "https://www.renaissancepowerandgas.com",
-          "signup_url": "https://www.renaissancepowerandgas.com",
-          "phone": "888-811-0877",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Shipley Energy",
           "rate": 0.1631,
           "rate_type": "Fixed",
@@ -7279,23 +7262,6 @@
           "website_url": "https://secure.cirroenergy.com/landing/shop/",
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Renaissance Power & Gas Inc.",
-          "rate": 0.167,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "9 months fixed rate at $0.167. Fast and easy sign up. Just call 888-811-0877 or go to www.renaissancepowerandgas.com",
-          "monthly_fee": null,
-          "website_url": "https://www.renaissancepowerandgas.com",
-          "signup_url": "https://www.renaissancepowerandgas.com",
-          "phone": "888-811-0877",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7543,8 +7509,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 138,
-      "last_fetched": "2026-08-13T16:53:36.378005Z"
+      "count": 136,
+      "last_fetched": "2026-08-13T18:58:37.693219Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -7623,6 +7589,23 @@
           "service_area": null
         },
         {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1223,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Meted&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Meted&channel_code=direct",
+          "phone": "844-275-4022",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "APG&E",
           "rate": 0.1225,
           "rate_type": "Fixed",
@@ -7636,23 +7619,6 @@
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1226,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Meted&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Meted&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -7902,7 +7868,7 @@
           "term_months": 12,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "With this energy plan, you may be able to lock in a fixed rate as low as $0.1269 for 12 months if you qualify. Provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 50% Load Factor or higher. Sign up today to see if you qualify. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors.  With this energy plan, there is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!",
+          "promotional_details": "With this energy plan, you may be able to lock in a fixed rate as low as $0.1269 for 12 months if you qualify. Provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 50% Load Factor or higher. Sign up today to see if you qualify. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors.  With this energy plan, there is no monthly service fee and no early termination fee. See linked Plan Documents for full terms of service. For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!",
           "monthly_fee": null,
           "website_url": "https://majorenergy.com/areas/pa/",
           "signup_url": "https://majorenergy.com/areas/pa/",
@@ -8072,7 +8038,7 @@
           "term_months": 12,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "You may be able to lock in your fixed supply rate as low as $0.1299 for 12 months: provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 50% Load Factor energy consumption or better. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors. With this energy plan, there is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
+          "promotional_details": "You may be able to lock in your fixed supply rate as low as $0.1299 for 12 months: provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 50% Load Factor energy consumption or better. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors. With this energy plan, there is no monthly service fee and no early termination fee. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
           "monthly_fee": null,
           "website_url": "https://www.verdeenergy.com/get-rates/",
           "signup_url": "https://www.verdeenergy.com/get-rates/",
@@ -8558,6 +8524,23 @@
           "service_area": null
         },
         {
+          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
+          "rate": 0.1368,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 17,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://energypricing.com/enrollmentrequest/?plan=118544",
+          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=118544",
+          "phone": "1-800-225-3813",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "SFE Energy Pennsylvania, Inc.",
           "rate": 0.1368,
           "rate_type": "Fixed",
@@ -8621,23 +8604,6 @@
           "website_url": "https://shopping.energyharbor.com/cust/?PID=3784BEEB-4E52-4848-84FC-36FA969BD22E&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=3248EDA1-6EF7-4594-9DE3-1C7AE45E8F8C&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=3784BEEB-4E52-4848-84FC-36FA969BD22E&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=3248EDA1-6EF7-4594-9DE3-1C7AE45E8F8C&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
-          "rate": 0.1379,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 5,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Achieve Energy Solutions, LLC d/b/a EnergyPricing.com is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://energypricing.com/enrollmentrequest/?plan=122580",
-          "signup_url": "https://energypricing.com/enrollmentrequest/?plan=122580",
-          "phone": "1-800-225-3813",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -9786,7 +9752,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 131,
-      "last_fetched": "2026-08-13T16:53:36.909120Z"
+      "last_fetched": "2026-08-13T18:58:38.361120Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -10052,6 +10018,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1218,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees! Lock in price security today with our competitive 4-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 4-month term, plus there's no enrollment, cancellation or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Cirro Energy",
           "rate": 0.122,
           "rate_type": "Variable",
@@ -10064,23 +10047,6 @@
           "website_url": "https://secure.cirroenergy.com/landing/shop/",
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1227,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees! Lock in price security today with our competitive 4-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 4-month term, plus there's no enrollment, cancellation or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEL_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -11215,7 +11181,7 @@
           "term_months": 12,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "With this energy plan, you may be able to lock in a fixed rate as low as $0.1389 for 12 months if you qualify. Provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 60% Load Factor or higher. Sign up today to see if you qualify. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors.  With this energy plan, there is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!",
+          "promotional_details": "With this energy plan, you may be able to lock in a fixed rate as low as $0.1389 for 12 months if you qualify. Provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 60% Load Factor or higher. Sign up today to see if you qualify. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors.  With this energy plan, there is no monthly service fee and no early termination fee. See linked Plan Documents for full terms of service. For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!",
           "monthly_fee": null,
           "website_url": "https://majorenergy.com/areas/pa/",
           "signup_url": "https://majorenergy.com/areas/pa/",
@@ -11300,7 +11266,7 @@
           "term_months": 12,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "You may be able to lock in your fixed supply rate as low as $0.1399 for 12 months: provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 60% Load Factor energy consumption or better. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors. With this energy plan, there is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
+          "promotional_details": "You may be able to lock in your fixed supply rate as low as $0.1399 for 12 months: provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 60% Load Factor energy consumption or better. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors. With this energy plan, there is no monthly service fee and no early termination fee. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
           "monthly_fee": null,
           "website_url": "https://www.verdeenergy.com/get-rates/",
           "signup_url": "https://www.verdeenergy.com/get-rates/",
@@ -12028,7 +11994,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 131,
-      "last_fetched": "2026-08-13T16:53:37.445401Z"
+      "last_fetched": "2026-08-13T18:58:38.996491Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -12080,7 +12046,7 @@
           "term_months": 12,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "With this energy plan, you may be able to lock in a fixed rate as low as $0.1189 for 12 months if you qualify. Provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 55% Load Factor or higher. Sign up today to see if you qualify. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors.  With this energy plan, there is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!",
+          "promotional_details": "With this energy plan, you may be able to lock in a fixed rate as low as $0.1189 for 12 months if you qualify. Provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 55% Load Factor or higher. Sign up today to see if you qualify. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors.  With this energy plan, there is no monthly service fee and no early termination fee. See linked Plan Documents for full terms of service. For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!",
           "monthly_fee": null,
           "website_url": "https://majorenergy.com/areas/pa/",
           "signup_url": "https://majorenergy.com/areas/pa/",
@@ -12233,7 +12199,7 @@
           "term_months": 12,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "You may be able to lock in your fixed supply rate as low as $0.1249 for 12 months: provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 45% Load Factor energy consumption or better. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors. With this energy plan, there is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
+          "promotional_details": "You may be able to lock in your fixed supply rate as low as $0.1249 for 12 months: provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 45% Load Factor energy consumption or better. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors. With this energy plan, there is no monthly service fee and no early termination fee. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
           "monthly_fee": null,
           "website_url": "https://www.verdeenergy.com/get-rates/",
           "signup_url": "https://www.verdeenergy.com/get-rates/",
@@ -13981,7 +13947,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 114,
-      "last_fetched": "2026-08-13T16:53:37.917203Z"
+      "last_fetched": "2026-08-13T18:58:39.672038Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -14315,6 +14281,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1138,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment, early termination or monthly fees!  Lock in price security today with our competitive 4-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 4-month term, plus there's no enrollment, no early termination and no monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "NRG Home",
           "rate": 0.114,
           "rate_type": "Variable",
@@ -14446,23 +14429,6 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=122313",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=122313",
           "phone": "1-800-225-3813",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1168,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment, early termination or monthly fees!  Lock in price security today with our competitive 4-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 4-month term, plus there's no enrollment, no early termination and no monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -14978,6 +14944,40 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1257,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 16,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 16-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 16-month term, plus there's no cancellation, enrollment or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T16_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T16_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1258,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 12-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 12-month term, plus there's no cancellation, enrollment or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Brighten Energy",
           "rate": 0.1259,
           "rate_type": "Fixed",
@@ -15092,40 +15092,6 @@
           "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=121332",
           "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=121332",
           "phone": "1-800-698-5853",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1287,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 16,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 16-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 16-month term, plus there's no cancellation, enrollment or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T16_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T16_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1288,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 12-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 12-month term, plus there's no cancellation, enrollment or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -15250,6 +15216,40 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1298,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 18-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 18-month term, plus there's no cancellation, enrollment or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1298,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment, early termination or monthly fees!  Lock in price security today with our competitive 24-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 10-month term, plus there's no enrollment, no early termination and no monthly fees! Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1299,
           "rate_type": "Fixed",
@@ -15308,7 +15308,7 @@
           "term_months": 12,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "With this energy plan, you may be able to lock in a fixed rate as low as $0.1299 for 12 months if you qualify. Provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 60% Load Factor or higher. Sign up today to see if you qualify. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors.  With this energy plan, there is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!",
+          "promotional_details": "With this energy plan, you may be able to lock in a fixed rate as low as $0.1299 for 12 months if you qualify. Provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 60% Load Factor or higher. Sign up today to see if you qualify. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors.  With this energy plan, there is no monthly service fee and no early termination fee. See linked Plan Documents for full terms of service. For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!",
           "monthly_fee": null,
           "website_url": "https://majorenergy.com/areas/pa/",
           "signup_url": "https://majorenergy.com/areas/pa/",
@@ -15420,23 +15420,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1318,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 18-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 18-month term, plus there's no cancellation, enrollment or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "WGL Energy Services",
           "rate": 0.132,
           "rate_type": "Variable",
@@ -15458,13 +15441,13 @@
           "rate": 0.1328,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 24,
+          "term_months": 36,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment, early termination or monthly fees!  Lock in price security today with our competitive 24-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 10-month term, plus there's no enrollment, no early termination and no monthly fees! Flexible. Affordable. Energy. That's APG&E.",
+          "promotional_details": "Lock in a stable, 100% fixed energy rate for 36 months to shield your home budget from rising utility prices with zero hidden fees and a $0 cancellation fee. Plus, after 60 days of active service, you can choose your own premium sign-up bonus: a $75 Prepaid Reward Card, a $75 Major Retailer e-Gift Card, or a brand-new Smart Home Thermostat. Flexible. Affordable. Energy. That's APG&E. Offer available to new customers only.",
           "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_WPP_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_WPP_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
@@ -15529,29 +15512,12 @@
           "term_months": 12,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "You may be able to lock in your fixed supply rate as low as $0.1339 for 12 months: provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 50% Load Factor energy consumption or better. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors. With this energy plan, there is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
+          "promotional_details": "You may be able to lock in your fixed supply rate as low as $0.1339 for 12 months: provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 50% Load Factor energy consumption or better. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors. With this energy plan, there is no monthly service fee and no early termination fee. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
           "monthly_fee": null,
           "website_url": "https://www.verdeenergy.com/get-rates/",
           "signup_url": "https://www.verdeenergy.com/get-rates/",
           "phone": "1-833-488-3125",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1348,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 36,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees!  Lock in price security today with our competitive 36-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 36-month term, plus there's no cancellation, enrollment or monthly fees! Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_WPP_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -16223,7 +16189,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 131,
-      "last_fetched": "2026-08-13T16:53:38.441354Z"
+      "last_fetched": "2026-08-13T18:58:40.376082Z"
     }
   }
 }
