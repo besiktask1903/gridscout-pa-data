@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T14:46:54.356237Z",
+  "last_updated": "2026-08-14T16:50:30.732767Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -2514,7 +2514,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 147,
-      "last_fetched": "2026-08-14T14:46:49.818290Z"
+      "last_fetched": "2026-08-14T16:50:26.569076Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -3698,6 +3698,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1379,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Don't get caught paying high enrollment, early termination, or monthly fees!  Lock in price security today with our competitive 24-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 24-month term, plus there's no enrollment, no early termination, and no monthly fees! Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Dynegy",
           "rate": 0.1379,
           "rate_type": "Fixed",
@@ -3982,23 +3999,6 @@
           "website_url": "https://www.wglenergy.com/",
           "signup_url": "https://www.wglenergy.com/",
           "phone": "1-844-427-5945",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1407,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment, early termination, or monthly fees!  Lock in price security today with our competitive 24-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 24-month term, plus there's no enrollment, no early termination, and no monthly fees! Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -5182,7 +5182,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 156,
-      "last_fetched": "2026-08-14T14:46:50.617658Z"
+      "last_fetched": "2026-08-14T16:50:27.344997Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7510,7 +7510,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 136,
-      "last_fetched": "2026-08-14T14:46:51.308886Z"
+      "last_fetched": "2026-08-14T16:50:28.116912Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9769,7 +9769,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 132,
-      "last_fetched": "2026-08-14T14:46:52.106879Z"
+      "last_fetched": "2026-08-14T16:50:28.800688Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -12011,7 +12011,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 131,
-      "last_fetched": "2026-08-14T14:46:52.984526Z"
+      "last_fetched": "2026-08-14T16:50:29.452200Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13964,7 +13964,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 114,
-      "last_fetched": "2026-08-14T14:46:53.627902Z"
+      "last_fetched": "2026-08-14T16:50:30.024965Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16206,7 +16206,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 131,
-      "last_fetched": "2026-08-14T14:46:54.356056Z"
+      "last_fetched": "2026-08-14T16:50:30.732503Z"
     }
   }
 }
