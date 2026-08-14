@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T20:27:10.255314Z",
+  "last_updated": "2026-08-14T22:18:35.468318Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -9,6 +9,23 @@
       "ptc_previous_rate": 0.11024,
       "ptc_previous_date": "2026-05-31",
       "suppliers": [
+        {
+          "name": "EcoPlus Power LLC",
+          "rate": 0.0745,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 0,
+          "early_termination_fee": "No",
+          "introductory": "Yes",
+          "promotional_details": "This offer is for NEW CUSTOMERS ONLY Introductory promotional pricing is available to eligible new EcoPlus Power customers only and is limited to one introductory promotional enrollment per customer, service address, and/or utility account. Customers who are currently enrolled with EcoPlus Power, or who have received service from EcoPlus Power within the preceding 90 days, are not eligible for introductory promotional pricing. Eligibility for promotional offers is determined by EcoPlus Power based on account history, service address history, and utility account information. Experience the future of energy with our 100% Renewable Energy product. This is an Introductory rate product. The price for all electricity sold under this Agreement may vary from month to month based on the following factors: the cost to EcoPlus Power, LLC to obtain electricity from all sources (including energy, capacity, settlement, ancillaries, line losses and prior period adjustments), Renewable Energy Certificates (\u201cRECs\u201d), related transmission and distribution charges and other related factors, plus all applicable taxes, fees, charges or other assessments and EcoPlus Power, LLC's costs, expenses and profit margins. A monthly administration fee is an additional charge to cover the cost of managing a customer's account with PECO. It is separate from the electric generation charge which is the cost of producing and supplying the electricity. The monthly fee covers administrative expenses such as billing, customer service, and record keeping. Your electricity supply price may be higher or lower than the utility's price in any particular month and there is no guarantee of savings. There is no limit on how much the price may change from one billing cycle to the next. Plus, enjoy added peace of mind with a complimentary Norton LifeLock Personal Identity Theft Protection Subscription (Valued over $300 annually). We value your loyalty, which is why we're thrilled to reward you with an Amazon Gift Card every six months of uninterrupted service. It's more than just a service; it's a commitment to your security, savings, and satisfaction.",
+          "monthly_fee": 19.0,
+          "website_url": "http://www.ecopluspower.com",
+          "signup_url": "http://www.ecopluspower.com",
+          "phone": "866-302-0559",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
           "rate": 0.0799,
@@ -2530,8 +2547,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 148,
-      "last_fetched": "2026-08-14T20:27:06.445780Z"
+      "count": 149,
+      "last_fetched": "2026-08-14T22:18:31.616623Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2541,6 +2558,23 @@
       "ptc_previous_rate": 0.13147,
       "ptc_previous_date": "2026-06-30",
       "suppliers": [
+        {
+          "name": "EcoPlus Power LLC",
+          "rate": 0.0945,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": "No",
+          "introductory": "Yes",
+          "promotional_details": "This offer is for NEW CUSTOMERS ONLY Introductory promotional pricing is available to eligible new EcoPlus Power customers only and is limited to one introductory promotional enrollment per customer, service address, and/or utility account. Customers who are currently enrolled with EcoPlus Power, or who have received service from EcoPlus Power within the preceding 90 days, are not eligible for introductory promotional pricing. Eligibility for promotional offers is determined by EcoPlus Power based on account history, service address history, and utility account information. Experience the future of energy with our 100% Renewable Energy product. This is an Introductory rate product. The price for all electricity sold under this Agreement may vary from month to month based on the following factors: the cost to EcoPlus Power, LLC to obtain electricity from all sources (including energy, capacity, settlement, ancillaries, line losses and prior period adjustments), Renewable Energy Certificates (\u201cRECs\u201d), related transmission and distribution charges and other related factors, plus all applicable taxes, fees, charges or other assessments and EcoPlus Power, LLC's costs, expenses and profit margins. A monthly administration fee is an additional charge to cover the cost of managing a customer's account with PPL. It is separate from the electric generation charge which is the cost of producing and supplying the electricity. The monthly fee covers administrative expenses such as billing, customer service, and record keeping. Your electricity supply price may be higher or lower than the utility's price in any particular month and there is no guarantee of savings. There is no limit on how much the price may change from one billing cycle to the next. Plus, enjoy added peace of mind with a complimentary Norton LifeLock Personal Identity Theft Protection Subscription (Valued over $300 annually). We value your loyalty, which is why we're thrilled to reward you with an Amazon Gift Card every six months of uninterrupted service. It's more than just a service; it's a commitment to your security, savings, and satisfaction.",
+          "monthly_fee": 19.0,
+          "website_url": "http://www.ecopluspower.com",
+          "signup_url": "http://www.ecopluspower.com",
+          "phone": "866-302-0559",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
           "rate": 0.0999,
@@ -5198,8 +5232,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 156,
-      "last_fetched": "2026-08-14T20:27:07.174252Z"
+      "count": 157,
+      "last_fetched": "2026-08-14T22:18:32.342960Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7527,7 +7561,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 136,
-      "last_fetched": "2026-08-14T20:27:07.806561Z"
+      "last_fetched": "2026-08-14T22:18:32.971906Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9786,7 +9820,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 132,
-      "last_fetched": "2026-08-14T20:27:08.439398Z"
+      "last_fetched": "2026-08-14T22:18:33.625554Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -12028,7 +12062,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 131,
-      "last_fetched": "2026-08-14T20:27:09.061660Z"
+      "last_fetched": "2026-08-14T22:18:34.263973Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13981,7 +14015,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 114,
-      "last_fetched": "2026-08-14T20:27:09.596995Z"
+      "last_fetched": "2026-08-14T22:18:34.818529Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16223,7 +16257,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 131,
-      "last_fetched": "2026-08-14T20:27:10.255103Z"
+      "last_fetched": "2026-08-14T22:18:35.468070Z"
     }
   }
 }
