@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T12:36:17.397406Z",
+  "last_updated": "2026-08-17T14:23:11.687493Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -1629,23 +1629,6 @@
           "rate": 0.1269,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=117532",
-          "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=117532",
-          "phone": "1-800-698-5853",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "0 Commit Energy",
-          "rate": 0.1269,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
           "term_months": 15,
           "early_termination_fee": "No",
           "introductory": "No",
@@ -1688,6 +1671,23 @@
           "website_url": "https://enrollment.citypowerandgas.com/home",
           "signup_url": "https://enrollment.citypowerandgas.com/home",
           "phone": "1-877-518-9339",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1278,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=111204",
+          "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=111204",
+          "phone": "1-800-698-5853",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2531,7 +2531,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 148,
-      "last_fetched": "2026-08-17T12:36:14.402189Z"
+      "last_fetched": "2026-08-17T14:23:07.541158Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -5199,7 +5199,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 156,
-      "last_fetched": "2026-08-17T12:36:14.954979Z"
+      "last_fetched": "2026-08-17T14:23:08.261722Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -6162,23 +6162,6 @@
           "service_area": null
         },
         {
-          "name": "0 Commit Energy",
-          "rate": 0.1449,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 5,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
-          "monthly_fee": null,
-          "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=121486",
-          "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=121486",
-          "phone": "1-800-698-5853",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1458,
           "rate_type": "Fixed",
@@ -6565,6 +6548,23 @@
           "website_url": "https://shopping.energyharbor.com/cust/?PID=74E00307-B2B0-4577-AFDB-E16A2CD9DD5D&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=602ED554-9F06-41C1-A9BA-231E4A259E67&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=74E00307-B2B0-4577-AFDB-E16A2CD9DD5D&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=602ED554-9F06-41C1-A9BA-231E4A259E67&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Commit Energy",
+          "rate": 0.1489,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 5,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "0 Commit Energy, LLC is a licensed electricity broker representing other suppliers. Prices listed are subject to change without notice. Final prices, terms and conditions will be reflected in supplier agreements.",
+          "monthly_fee": null,
+          "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=122843",
+          "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=122843",
+          "phone": "1-800-698-5853",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7527,7 +7527,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 136,
-      "last_fetched": "2026-08-17T12:36:15.439011Z"
+      "last_fetched": "2026-08-17T14:23:08.905030Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9786,7 +9786,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 132,
-      "last_fetched": "2026-08-17T12:36:15.955397Z"
+      "last_fetched": "2026-08-17T14:23:09.817182Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -12045,7 +12045,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 132,
-      "last_fetched": "2026-08-17T12:36:16.430189Z"
+      "last_fetched": "2026-08-17T14:23:10.468803Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -14015,7 +14015,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 115,
-      "last_fetched": "2026-08-17T12:36:16.903545Z"
+      "last_fetched": "2026-08-17T14:23:11.055533Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16257,7 +16257,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 131,
-      "last_fetched": "2026-08-17T12:36:17.397258Z"
+      "last_fetched": "2026-08-17T14:23:11.687296Z"
     }
   }
 }
