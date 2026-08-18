@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T12:37:11.155656Z",
+  "last_updated": "2026-08-18T14:29:17.166596Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -47,10 +47,10 @@
           "term_months": 12,
           "early_termination_fee": "$10 per remaining month",
           "introductory": "No",
-          "promotional_details": "Promo Code GASCPA50.  This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 12 months of your contract. If you choose our 12-Month Fixed Plan, you will be billed at a fixed price per therm for the length of your contract.",
+          "promotional_details": "Promo Code GASCPA30.  This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 12 months of your contract. If you choose our 12-Month Fixed Plan, you will be billed at a fixed price per therm for the length of your contract.",
           "monthly_fee": null,
-          "website_url": "https://www.pennsylvaniaenergy.com/gascpa50/",
-          "signup_url": "https://www.pennsylvaniaenergy.com/gascpa50/",
+          "website_url": "https://www.pennsylvaniaenergy.com/gascpa30/",
+          "signup_url": "https://www.pennsylvaniaenergy.com/gascpa30/",
           "bundle_required": false,
           "service_area": null
         },
@@ -657,7 +657,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 43,
-      "last_fetched": "2026-08-18T12:37:09.865278Z"
+      "last_fetched": "2026-08-18T14:29:15.688040Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -940,7 +940,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 18,
-      "last_fetched": "2026-08-18T12:37:10.071229Z"
+      "last_fetched": "2026-08-18T14:29:15.959043Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1600,7 +1600,7 @@
         "AAA Energy by Santanna"
       ],
       "count": 43,
-      "last_fetched": "2026-08-18T12:37:10.370103Z"
+      "last_fetched": "2026-08-18T14:29:16.310695Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2108,7 +2108,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-08-18T12:37:10.672876Z"
+      "last_fetched": "2026-08-18T14:29:16.608837Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2336,10 +2336,10 @@
           "term_months": 12,
           "early_termination_fee": "$10 per remaining month",
           "introductory": "No",
-          "promotional_details": "Promo Code GASPGW50.  This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 12 months of your contract. If you choose our 12-Month Fixed Plan, you will be billed at a fixed price per Ccf for the length of your contract.",
+          "promotional_details": "Promo Code GASPGW30.  This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 12 months of your contract. If you choose our 12-Month Fixed Plan, you will be billed at a fixed price per Ccf for the length of your contract.",
           "monthly_fee": null,
-          "website_url": "https://www.pennsylvaniaenergy.com/gaspgw50/",
-          "signup_url": "https://www.pennsylvaniaenergy.com/gaspgw50/",
+          "website_url": "https://www.pennsylvaniaenergy.com/gaspgw30/",
+          "signup_url": "https://www.pennsylvaniaenergy.com/gaspgw30/",
           "bundle_required": false,
           "service_area": null
         },
@@ -2376,7 +2376,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 17,
-      "last_fetched": "2026-08-18T12:37:10.884941Z"
+      "last_fetched": "2026-08-18T14:29:16.853592Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2507,6 +2507,21 @@
           "service_area": null
         },
         {
+          "name": "Verde Energy USA Pennsylvania LLC",
+          "rate": 0.689,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 12 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!  You can receive up to a $50 rebate when you sign up for this 12-month plan. Don't wait - take advantage and sign up today! Receive the first $25 after one month of service and the second $25 after 6 months of service.",
+          "monthly_fee": null,
+          "website_url": "https://www.verdeenergy.com/",
+          "signup_url": "https://www.verdeenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "nTherm LLC",
           "rate": 0.689,
           "rate_type": "Variable",
@@ -2593,21 +2608,6 @@
           "monthly_fee": null,
           "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=93&promocode=PAGASZERO",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=93&promocode=PAGASZERO",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Verde Energy USA Pennsylvania LLC",
-          "rate": 0.699,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 12 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!  You can receive up to a $50 rebate when you sign up for this 12-month plan. Don't wait - take advantage and sign up today! Receive the first $25 after one month of service and the second $25 after 6 months of service.",
-          "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/",
-          "signup_url": "https://www.verdeenergy.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -2929,7 +2929,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-08-18T12:37:11.155456Z"
+      "last_fetched": "2026-08-18T14:29:17.166424Z"
     }
   }
 }
