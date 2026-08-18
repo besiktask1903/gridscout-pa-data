@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T14:29:14.711272Z",
+  "last_updated": "2026-08-18T16:26:40.541553Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -2582,7 +2582,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 151,
-      "last_fetched": "2026-08-18T14:29:10.957836Z"
+      "last_fetched": "2026-08-18T16:26:36.470075Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2679,7 +2679,7 @@
         },
         {
           "name": "Inspire Clean Energy",
-          "rate": 0.1229,
+          "rate": 0.1223,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
@@ -2691,6 +2691,23 @@
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=PPL&channel_code=direct",
           "phone": "844-275-4022",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1225,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Rated 4.5 stars on Google with 3,000+ five-star reviews. Lock in APG&E's most competitive 3-month fixed-rate plan \u2014 your rate stays secure for the full term, with zero enrollment, termination, or monthly fees. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -2713,16 +2730,16 @@
         },
         {
           "name": "APG&E",
-          "rate": 0.1232,
+          "rate": 0.1233,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 3,
+          "term_months": 4,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment, early termination or monthly fees!  Lock in price security today with our most competitive 3-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 3-month term, plus there's no enrollment, no early termination and no monthly fees!! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "promotional_details": "Rated 4.5 stars on Google with 3,000+ five-star reviews. Lock in APG&E's most competitive 4-month fixed-rate plan \u2014 your rate stays secure for the full term, with zero enrollment, termination, or monthly fees. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
           "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
@@ -2730,7 +2747,7 @@
         },
         {
           "name": "Inspire Clean Energy",
-          "rate": 0.1236,
+          "rate": 0.1233,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 4,
@@ -2741,23 +2758,6 @@
           "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=PPL&channel_code=direct",
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=PPL&channel_code=direct",
           "phone": "844-275-4022",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1238,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment, early termination or monthly fees!  Lock in price security today with our competitive 4-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 4-month term, plus there's no enrollment, no early termination and no monthly fees!! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -3494,23 +3494,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1338,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Don't get caught paying high enrollment or monthly fees! Lock in price security today with our competitive 12-month fixed-rate plan.  Enjoy the peace of mind that comes with choosing APG&E knowing that your price is secure for the entire 12-month term, plus there's no enrollment or monthly fees! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Brighten Energy",
           "rate": 0.1339,
           "rate_type": "Fixed",
@@ -3574,6 +3557,23 @@
           "website_url": "https://secure.cirroenergy.com/landing/shop/",
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1344,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Rated 4.5 stars on Google with 3,000+ five-star reviews. Lock in APG&E's most competitive 12-month fixed-rate plan \u2014 your rate stays secure for the full term, with zero enrollment, termination, or monthly fees. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -5267,7 +5267,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 157,
-      "last_fetched": "2026-08-18T14:29:11.654289Z"
+      "last_fetched": "2026-08-18T16:26:37.446011Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -6825,6 +6825,40 @@
           "service_area": null
         },
         {
+          "name": "Clearview Energy",
+          "rate": 0.1509,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$150",
+          "introductory": "No",
+          "promotional_details": "ClearGuarantee12:  12 Month fixed rate term. For more details on this product, please call us at 1-888-512-8994 or visit us at www.clearviewenergy.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.clearviewenergy.com/enrollment/?utilityid=54&utilityidG=&utilityname=Duquesne&utilitynameG=&ctype=Resi&utility-state=pa&productNum=414992",
+          "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=54&utilityidG=&utilityname=Duquesne&utilitynameG=&ctype=Resi&utility-state=pa&productNum=414992",
+          "phone": "888-512-8994",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Clearview Energy",
+          "rate": 0.1509,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$150",
+          "introductory": "No",
+          "promotional_details": "ClearCharge12: 12 Month fixed rate term. For more details on this product, please call us at 1-888-512-8994 or visit us at www.clearviewenergy.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.clearviewenergy.com/enrollment/?utilityid=54&utilityidG=&utilityname=Duquesne&utilitynameG=&ctype=Resi&utility-state=pa&productNum=414996",
+          "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=54&utilityidG=&utilityname=Duquesne&utilitynameG=&ctype=Resi&utility-state=pa&productNum=414996",
+          "phone": "888-512-8994",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "WGL Energy Services",
           "rate": 0.1529,
           "rate_type": "Variable",
@@ -6854,6 +6888,23 @@
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-duq&utm_source=papower&utm_medium=shopping&utm_campaign=duq_24",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-duq&utm_source=papower&utm_medium=shopping&utm_campaign=duq_24",
           "phone": "1-877-648-1923",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Clearview Energy",
+          "rate": 0.1539,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "$150",
+          "introductory": "No",
+          "promotional_details": "ClearGuarantee18: 18 Month fixed rate term. For more details on this product, please call us at 1-888-512-8994 or visit us at www.clearviewenergy.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.clearviewenergy.com/enrollment/?utilityid=54&utilityidG=&utilityname=Duquesne&utilitynameG=&ctype=Resi&utility-state=pa&productNum=414994",
+          "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=54&utilityidG=&utilityname=Duquesne&utilitynameG=&ctype=Resi&utility-state=pa&productNum=414994",
+          "phone": "888-512-8994",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7611,8 +7662,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 137,
-      "last_fetched": "2026-08-18T14:29:12.313013Z"
+      "count": 140,
+      "last_fetched": "2026-08-18T16:26:38.055002Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -7658,16 +7709,33 @@
         },
         {
           "name": "Clearview Energy",
-          "rate": 0.1119,
+          "rate": 0.1129,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 12,
+          "early_termination_fee": "$150",
+          "introductory": "No",
+          "promotional_details": "ClearGuarantee12Plus: 12 Month fixed rate term with a base fee of $19.99. For more details on this product, please call us at 1-888-512-8994 or visit us at www.clearviewenergy.com.",
+          "monthly_fee": 19.99,
+          "website_url": "https://www.clearviewenergy.com/enrollment/?utilityid=81&utilityidG=&utilityname=Meted&utilitynameG=&ctype=Resi&utility-state=pa&productNum=415082",
+          "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=81&utilityidG=&utilityname=Meted&utilitynameG=&ctype=Resi&utility-state=pa&productNum=415082",
+          "phone": "888-512-8994",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Clearview Energy",
+          "rate": 0.1139,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
           "early_termination_fee": "$150.00",
           "introductory": "No",
-          "promotional_details": "ClearGuarantee12Plus: 12 Month fixed rate term with a $19.99 base fee. For more information on this product, please call us at 1-888-512-8994 or visit us at www.clearviewenergy.com.",
+          "promotional_details": "ClearGuarantee9Plus: 9 Month fixed rate term with a $19.99 base fee. For more information on this product, please call us at 1-888-512-8994 or visit us at www.clearviewenergy.com.",
           "monthly_fee": 19.99,
-          "website_url": "https://www.clearviewenergy.com/enrollment/?utilityid=81&utilityidG=&utilityname=Meted&utilitynameG=&ctype=Resi&utility-state=pa&productNum=413996",
-          "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=81&utilityidG=&utilityname=Meted&utilitynameG=&ctype=Resi&utility-state=pa&productNum=413996",
+          "website_url": "https://www.clearviewenergy.com/enrollment/?utilityid=81&utilityidG=&utilityname=Meted&utilitynameG=&ctype=Resi&utility-state=pa&productNum=415084",
+          "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=81&utilityidG=&utilityname=Meted&utilitynameG=&ctype=Resi&utility-state=pa&productNum=415084",
           "phone": "888-512-8994",
           "renewable": "No",
           "bundle_required": false,
@@ -8303,23 +8371,6 @@
           "service_area": null
         },
         {
-          "name": "Clearview Energy",
-          "rate": 0.1319,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "$150",
-          "introductory": "No",
-          "promotional_details": "ClearGuarantee18: 18 Month fixed rate term. For more details on this product, please call us at 1-888-512-8994 or visit us at www.clearviewenergy.com.",
-          "monthly_fee": null,
-          "website_url": "https://www.clearviewenergy.com/enrollment/?utilityid=81&utilityidG=&utilityname=Meted&utilitynameG=&ctype=Resi&utility-state=pa&productNum=413994",
-          "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=81&utilityidG=&utilityname=Meted&utilitynameG=&ctype=Resi&utility-state=pa&productNum=413994",
-          "phone": "888-512-8994",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Major Energy",
           "rate": 0.1319,
           "rate_type": "Fixed",
@@ -8383,6 +8434,23 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=119208",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=119208",
           "phone": "1-800-225-3813",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Clearview Energy",
+          "rate": 0.1329,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$150",
+          "introductory": "No",
+          "promotional_details": "ClearCharge12: 12 Month fixed rate term. For more details on this product, please call us at 1-888-512-8994 or visit us at www.clearviewenergy.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.clearviewenergy.com/enrollment/?utilityid=81&utilityidG=&utilityname=Meted&utilitynameG=&ctype=Resi&utility-state=pa&productNum=415080",
+          "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=81&utilityidG=&utilityname=Meted&utilitynameG=&ctype=Resi&utility-state=pa&productNum=415080",
+          "phone": "888-512-8994",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -8571,6 +8639,23 @@
           "signup_url": "https://americanpowerandgas.com/?page=2",
           "phone": "800-380-9261",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Clearview Energy",
+          "rate": 0.1349,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
+          "early_termination_fee": "$150",
+          "introductory": "No",
+          "promotional_details": "ClearGuarantee9: 9 Month fixed rate term. For more details on this product, please call us at 1-888-512-8994 or visit us at www.clearviewenergy.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.clearviewenergy.com/enrollment/?utilityid=81&utilityidG=&utilityname=Meted&utilitynameG=&ctype=Resi&utility-state=pa&productNum=415078",
+          "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=81&utilityidG=&utilityname=Meted&utilitynameG=&ctype=Resi&utility-state=pa&productNum=415078",
+          "phone": "888-512-8994",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -9870,8 +9955,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 132,
-      "last_fetched": "2026-08-18T14:29:12.927539Z"
+      "count": 134,
+      "last_fetched": "2026-08-18T16:26:38.680444Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -12130,7 +12215,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 132,
-      "last_fetched": "2026-08-18T14:29:13.516515Z"
+      "last_fetched": "2026-08-18T16:26:39.302488Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -14100,7 +14185,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 115,
-      "last_fetched": "2026-08-18T14:29:14.096848Z"
+      "last_fetched": "2026-08-18T16:26:39.845267Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16359,7 +16444,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 132,
-      "last_fetched": "2026-08-18T14:29:14.711091Z"
+      "last_fetched": "2026-08-18T16:26:40.541357Z"
     }
   }
 }
