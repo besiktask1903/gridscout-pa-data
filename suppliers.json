@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T01:00:16.947383Z",
+  "last_updated": "2026-08-18T12:37:11.155656Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -657,7 +657,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 43,
-      "last_fetched": "2026-08-18T01:00:15.166044Z"
+      "last_fetched": "2026-08-18T12:37:09.865278Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -940,7 +940,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 18,
-      "last_fetched": "2026-08-18T01:00:15.481962Z"
+      "last_fetched": "2026-08-18T12:37:10.071229Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -982,7 +982,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.4421,
+          "rate": 0.4477,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -1221,6 +1221,21 @@
           "service_area": null
         },
         {
+          "name": "Verde Energy USA Pennsylvania LLC",
+          "rate": 0.619,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 12 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!  You can receive up to a $50 rebate when you sign up for this 12-month plan. Don't wait - take advantage and sign up today! Receive the first $25 after one month of service and the second $25 after 6 months of service.",
+          "monthly_fee": null,
+          "website_url": "https://www.verdeenergy.com/",
+          "signup_url": "https://www.verdeenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "CleanSky Energy",
           "rate": 0.625,
           "rate_type": "Fixed",
@@ -1232,21 +1247,6 @@
           "monthly_fee": null,
           "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=66&promocode=PAGASZERO",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=66&promocode=PAGASZERO",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Verde Energy USA Pennsylvania LLC",
-          "rate": 0.629,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 12 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!  You can receive up to a $50 rebate when you sign up for this 12-month plan. Don't wait - take advantage and sign up today! Receive the first $25 after one month of service and the second $25 after 6 months of service.",
-          "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/",
-          "signup_url": "https://www.verdeenergy.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -1600,7 +1600,7 @@
         "AAA Energy by Santanna"
       ],
       "count": 43,
-      "last_fetched": "2026-08-18T01:00:15.896930Z"
+      "last_fetched": "2026-08-18T12:37:10.370103Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2108,7 +2108,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-08-18T01:00:16.285062Z"
+      "last_fetched": "2026-08-18T12:37:10.672876Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2164,6 +2164,21 @@
           "service_area": null
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.659,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna\u2019s Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PGWPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
+          "signup_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PGWPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
+          "bundle_required": true,
+          "service_area": null
+        },
+        {
           "name": "Shipley Energy",
           "rate": 0.679,
           "rate_type": "Fixed",
@@ -2176,21 +2191,6 @@
           "website_url": "https://www.shipleyenergy.com/enrollment?product=ng",
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng",
           "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.679,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna\u2019s Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PGWPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
-          "signup_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PGWPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
-          "bundle_required": true,
           "service_area": null
         },
         {
@@ -2376,7 +2376,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 17,
-      "last_fetched": "2026-08-18T01:00:16.586272Z"
+      "last_fetched": "2026-08-18T12:37:10.884941Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2398,6 +2398,21 @@
           "monthly_fee": null,
           "website_url": "https://www.americanpowerandgas.com/",
           "signup_url": "https://www.americanpowerandgas.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Major Energy Services",
+          "rate": 0.599,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "A great time for new customers to lock in a fixed rate. With this energy plan, your supply rate stays put for 12 months, guaranteed. There is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service.  For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://majorenergy.com/enroll/?UtilityId=134&ProductId=147263",
+          "signup_url": "https://majorenergy.com/enroll/?UtilityId=134&ProductId=147263",
           "bundle_required": false,
           "service_area": null
         },
@@ -2488,21 +2503,6 @@
           "monthly_fee": 14.9,
           "website_url": "https://signup.sfeenergy.com/",
           "signup_url": "https://signup.sfeenergy.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Major Energy Services",
-          "rate": 0.679,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "A great time for new customers to lock in a fixed rate. With this energy plan, your supply rate stays put for 12 months, guaranteed. There is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service.  For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://majorenergy.com/enroll/?UtilityId=134&ProductId=147263",
-          "signup_url": "https://majorenergy.com/enroll/?UtilityId=134&ProductId=147263",
           "bundle_required": false,
           "service_area": null
         },
@@ -2929,7 +2929,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-08-18T01:00:16.947183Z"
+      "last_fetched": "2026-08-18T12:37:11.155456Z"
     }
   }
 }
