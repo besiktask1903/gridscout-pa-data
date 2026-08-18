@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T18:32:49.937561Z",
+  "last_updated": "2026-08-18T20:19:06.956199Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -385,6 +385,21 @@
           "service_area": null
         },
         {
+          "name": "Symmetry Energy Solutions LLC",
+          "rate": 0.499,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "With this product, you get exclusive access to Symmetry Rewards, where you earn $50 in Reward Dollars every month. Use your rewards in over 500,000 ways including local deals, restaurants, movies, online shopping, gift cards and more. That adds up to $600 in Reward Dollars each year! Plus, great bonuses like gift card giveaways, product giveaways, cash giveaways, daily deals, and more. An active account and valid email address are required. Reward eligibility is at the sole discretion of Symmetry Energy Solutions. Access to Rewards account is through symmetryrewards.com.",
+          "monthly_fee": null,
+          "website_url": "https://symmetryenergy.com/pennsylvania/",
+          "signup_url": "https://symmetryenergy.com/pennsylvania/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Constellation Energy",
           "rate": 0.519,
           "rate_type": "Fixed",
@@ -401,10 +416,10 @@
         },
         {
           "name": "Symmetry Energy Solutions LLC",
-          "rate": 0.525,
+          "rate": 0.535,
           "rate_type": "Fixed",
           "rate_unit": "therm",
-          "term_months": 12,
+          "term_months": 24,
           "early_termination_fee": "No",
           "introductory": "No",
           "promotional_details": "With this product, you get exclusive access to Symmetry Rewards, where you earn $50 in Reward Dollars every month. Use your rewards in over 500,000 ways including local deals, restaurants, movies, online shopping, gift cards and more. That adds up to $600 in Reward Dollars each year! Plus, great bonuses like gift card giveaways, product giveaways, cash giveaways, daily deals, and more. An active account and valid email address are required. Reward eligibility is at the sole discretion of Symmetry Energy Solutions. Access to Rewards account is through symmetryrewards.com.",
@@ -441,21 +456,6 @@
           "monthly_fee": null,
           "website_url": "https://www.verdeenergy.com/",
           "signup_url": "https://www.verdeenergy.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Symmetry Energy Solutions LLC",
-          "rate": 0.555,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 24,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "With this product, you get exclusive access to Symmetry Rewards, where you earn $50 in Reward Dollars every month. Use your rewards in over 500,000 ways including local deals, restaurants, movies, online shopping, gift cards and more. That adds up to $600 in Reward Dollars each year! Plus, great bonuses like gift card giveaways, product giveaways, cash giveaways, daily deals, and more. An active account and valid email address are required. Reward eligibility is at the sole discretion of Symmetry Energy Solutions. Access to Rewards account is through symmetryrewards.com.",
-          "monthly_fee": null,
-          "website_url": "https://symmetryenergy.com/pennsylvania/",
-          "signup_url": "https://symmetryenergy.com/pennsylvania/",
           "bundle_required": false,
           "service_area": null
         },
@@ -657,7 +657,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 43,
-      "last_fetched": "2026-08-18T18:32:48.252705Z"
+      "last_fetched": "2026-08-18T20:19:05.470150Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -940,7 +940,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 18,
-      "last_fetched": "2026-08-18T18:32:48.611578Z"
+      "last_fetched": "2026-08-18T20:19:05.777345Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1600,7 +1600,7 @@
         "AAA Energy by Santanna"
       ],
       "count": 43,
-      "last_fetched": "2026-08-18T18:32:48.985990Z"
+      "last_fetched": "2026-08-18T20:19:06.096661Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2108,7 +2108,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-08-18T18:32:49.311923Z"
+      "last_fetched": "2026-08-18T20:19:06.406107Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2376,7 +2376,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 17,
-      "last_fetched": "2026-08-18T18:32:49.582819Z"
+      "last_fetched": "2026-08-18T20:19:06.663527Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2929,7 +2929,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-08-18T18:32:49.937366Z"
+      "last_fetched": "2026-08-18T20:19:06.955963Z"
     }
   }
 }
