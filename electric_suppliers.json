@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T18:33:16.950465Z",
+  "last_updated": "2026-08-20T20:23:13.461801Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -44,6 +44,23 @@
           "service_area": null
         },
         {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1019,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=PECO&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=PECO&channel_code=direct",
+          "phone": "844-275-4022",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "APG&E",
           "rate": 0.1025,
           "rate_type": "Fixed",
@@ -57,23 +74,6 @@
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PEC_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1026,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=PECO&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=PECO&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -2548,7 +2548,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 149,
-      "last_fetched": "2026-08-20T18:33:13.548342Z"
+      "last_fetched": "2026-08-20T20:23:09.797507Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2644,8 +2644,25 @@
           "service_area": null
         },
         {
+          "name": "nTherm LLC",
+          "rate": 0.1229,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 0,
+          "early_termination_fee": "$0",
+          "introductory": "Yes",
+          "promotional_details": "20% rebate on the average months energy supply cost after 12 consecutive months with nTherm, LLC as the Electric Generation Supplier(EGS).",
+          "monthly_fee": null,
+          "website_url": null,
+          "signup_url": null,
+          "phone": "888-865-3402",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "APG&E",
-          "rate": 0.1212,
+          "rate": 0.1232,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
@@ -2662,7 +2679,7 @@
         },
         {
           "name": "Inspire Clean Energy",
-          "rate": 0.1213,
+          "rate": 0.1233,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
@@ -2679,7 +2696,7 @@
         },
         {
           "name": "APG&E",
-          "rate": 0.1222,
+          "rate": 0.1238,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 4,
@@ -2690,40 +2707,6 @@
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1223,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=PPL&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=PPL&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "nTherm LLC",
-          "rate": 0.1229,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 0,
-          "early_termination_fee": "$0",
-          "introductory": "Yes",
-          "promotional_details": "20% rebate on the average months energy supply cost after 12 consecutive months with nTherm, LLC as the Electric Generation Supplier(EGS).",
-          "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null,
-          "phone": "888-865-3402",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2826,6 +2809,23 @@
           "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=44635&market_id=181",
           "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=44635&market_id=181",
           "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1243,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=PPL&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=PPL&channel_code=direct",
+          "phone": "844-275-4022",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -5233,7 +5233,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 157,
-      "last_fetched": "2026-08-20T18:33:14.189854Z"
+      "last_fetched": "2026-08-20T20:23:10.433850Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7612,7 +7612,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 139,
-      "last_fetched": "2026-08-20T18:33:14.758533Z"
+      "last_fetched": "2026-08-20T20:23:11.206534Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9905,7 +9905,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 134,
-      "last_fetched": "2026-08-20T18:33:15.318887Z"
+      "last_fetched": "2026-08-20T20:23:11.805089Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -12164,7 +12164,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 132,
-      "last_fetched": "2026-08-20T18:33:15.869769Z"
+      "last_fetched": "2026-08-20T20:23:12.373503Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -14117,7 +14117,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 114,
-      "last_fetched": "2026-08-20T18:33:16.394952Z"
+      "last_fetched": "2026-08-20T20:23:12.881671Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16359,7 +16359,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 131,
-      "last_fetched": "2026-08-20T18:33:16.950323Z"
+      "last_fetched": "2026-08-20T20:23:13.461481Z"
     }
   }
 }
