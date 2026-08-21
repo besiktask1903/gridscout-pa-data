@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T01:04:30.231211Z",
+  "last_updated": "2026-08-21T12:39:00.616184Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -9,21 +9,6 @@
       "sco_previous_rate": 0.41582,
       "sco_previous_date": "2026-04-01",
       "suppliers": [
-        {
-          "name": "American Power and Gas of Pennsylvania LLC",
-          "rate": 0.245,
-          "rate_type": "Variable",
-          "rate_unit": "therm",
-          "term_months": null,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://www.americanpowerandgas.com/",
-          "signup_url": "https://www.americanpowerandgas.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
         {
           "name": "AAA Energy by Santanna",
           "rate": 0.379,
@@ -306,6 +291,21 @@
           "monthly_fee": null,
           "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=64&promocode=PAGASZERO",
           "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=64&promocode=PAGASZERO",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Power and Gas of Pennsylvania LLC",
+          "rate": 0.469,
+          "rate_type": "Variable",
+          "rate_unit": "therm",
+          "term_months": null,
+          "early_termination_fee": "No",
+          "introductory": "Yes",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://www.americanpowerandgas.com/",
+          "signup_url": "https://www.americanpowerandgas.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -657,7 +657,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 43,
-      "last_fetched": "2026-08-21T01:04:28.245988Z"
+      "last_fetched": "2026-08-21T12:38:59.303009Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -940,7 +940,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 18,
-      "last_fetched": "2026-08-21T01:04:28.690755Z"
+      "last_fetched": "2026-08-21T12:38:59.523300Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -950,21 +950,6 @@
       "sco_previous_rate": 0.53143,
       "sco_previous_date": "2026-02-28",
       "suppliers": [
-        {
-          "name": "American Power and Gas of Pennsylvania LLC",
-          "rate": 0.299,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": null,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://www.americanpowerandgas.com/",
-          "signup_url": "https://www.americanpowerandgas.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
         {
           "name": "NorthStar Gas Co dba YEP Energy",
           "rate": 0.417,
@@ -981,8 +966,23 @@
           "service_area": null
         },
         {
+          "name": "American Power and Gas of Pennsylvania LLC",
+          "rate": 0.439,
+          "rate_type": "Variable",
+          "rate_unit": "Ccf",
+          "term_months": null,
+          "early_termination_fee": "No",
+          "introductory": "Yes",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://www.americanpowerandgas.com/",
+          "signup_url": "https://www.americanpowerandgas.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "AAA Energy by Santanna",
-          "rate": 0.454,
+          "rate": 0.4504,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -1600,7 +1600,7 @@
         "AAA Energy by Santanna"
       ],
       "count": 43,
-      "last_fetched": "2026-08-21T01:04:29.127253Z"
+      "last_fetched": "2026-08-21T12:38:59.840515Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -1610,21 +1610,6 @@
       "sco_previous_rate": 3.1737,
       "sco_previous_date": "2026-07-01",
       "suppliers": [
-        {
-          "name": "American Power and Gas of Pennsylvania LLC",
-          "rate": 2.99,
-          "rate_type": "Variable",
-          "rate_unit": "Mcf",
-          "term_months": null,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://www.americanpowerandgas.com/",
-          "signup_url": "https://www.americanpowerandgas.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
         {
           "name": "Pennsylvania Energy",
           "rate": 3.19,
@@ -1787,6 +1772,21 @@
           "monthly_fee": null,
           "website_url": "https://www.pennsylvaniaenergy.com/",
           "signup_url": "https://www.pennsylvaniaenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Power and Gas of Pennsylvania LLC",
+          "rate": 4.25,
+          "rate_type": "Variable",
+          "rate_unit": "Mcf",
+          "term_months": null,
+          "early_termination_fee": "No",
+          "introductory": "Yes",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://www.americanpowerandgas.com/",
+          "signup_url": "https://www.americanpowerandgas.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -2108,7 +2108,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-08-21T01:04:29.548641Z"
+      "last_fetched": "2026-08-21T12:39:00.105530Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2120,7 +2120,7 @@
       "suppliers": [
         {
           "name": "American Power and Gas of Pennsylvania LLC",
-          "rate": 0.349,
+          "rate": 0.425,
           "rate_type": "Variable",
           "rate_unit": "Ccf",
           "term_months": null,
@@ -2376,7 +2376,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 17,
-      "last_fetched": "2026-08-21T01:04:29.860986Z"
+      "last_fetched": "2026-08-21T12:39:00.325899Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2388,7 +2388,7 @@
       "suppliers": [
         {
           "name": "American Power and Gas of Pennsylvania LLC",
-          "rate": 0.299,
+          "rate": 0.445,
           "rate_type": "Variable",
           "rate_unit": "Ccf",
           "term_months": null,
@@ -2929,7 +2929,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-08-21T01:04:30.231031Z"
+      "last_fetched": "2026-08-21T12:39:00.615999Z"
     }
   }
 }
