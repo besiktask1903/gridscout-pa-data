@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T20:25:24.332167Z",
+  "last_updated": "2026-08-24T22:21:29.196425Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -2548,7 +2548,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 149,
-      "last_fetched": "2026-08-24T20:25:20.343973Z"
+      "last_fetched": "2026-08-24T22:21:26.081832Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2967,6 +2967,23 @@
           "service_area": null
         },
         {
+          "name": "0 Adversity Energy",
+          "rate": 0.1259,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$50",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": 14.95,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=43030&market_id=181",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=43030&market_id=181",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Nordic Energy Services LLC",
           "rate": 0.126,
           "rate_type": "Variable",
@@ -3131,23 +3148,6 @@
           "monthly_fee": null,
           "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19178",
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19178",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "0 Adversity Energy",
-          "rate": 0.1289,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$50",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": 14.95,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=43030&market_id=181",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=43030&market_id=181",
           "phone": null,
           "renewable": "No",
           "bundle_required": false,
@@ -5233,7 +5233,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 157,
-      "last_fetched": "2026-08-24T20:25:21.118252Z"
+      "last_fetched": "2026-08-24T22:21:26.656927Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7612,7 +7612,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 139,
-      "last_fetched": "2026-08-24T20:25:21.772659Z"
+      "last_fetched": "2026-08-24T22:21:27.156164Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9905,7 +9905,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 134,
-      "last_fetched": "2026-08-24T20:25:22.448456Z"
+      "last_fetched": "2026-08-24T22:21:27.690631Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -12164,7 +12164,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 132,
-      "last_fetched": "2026-08-24T20:25:23.085712Z"
+      "last_fetched": "2026-08-24T22:21:28.222328Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -14117,7 +14117,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 114,
-      "last_fetched": "2026-08-24T20:25:23.669543Z"
+      "last_fetched": "2026-08-24T22:21:28.669749Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16342,7 +16342,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 130,
-      "last_fetched": "2026-08-24T20:25:24.331942Z"
+      "last_fetched": "2026-08-24T22:21:29.196208Z"
     }
   }
 }
