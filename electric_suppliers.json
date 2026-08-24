@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T14:37:35.233435Z",
+  "last_updated": "2026-08-24T16:32:34.212492Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -367,23 +367,6 @@
           "service_area": null
         },
         {
-          "name": "Atlantic Energy MD LLC",
-          "rate": 0.1079,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$75.00",
-          "introductory": "No",
-          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
-          "monthly_fee": null,
-          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
-          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
-          "phone": "800-917-9133",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "American Electric Rates LLC",
           "rate": 0.1087,
           "rate_type": "Fixed",
@@ -447,6 +430,23 @@
           "website_url": "https://shopping.publicpowercompany.com/cust/?PID=344B6781-1DA1-4D6F-A2A9-FA8B959EF2F5&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=E22E7ECE-3868-4D1D-8619-0AAF4595D462&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=344B6781-1DA1-4D6F-A2A9-FA8B959EF2F5&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=E22E7ECE-3868-4D1D-8619-0AAF4595D462&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Atlantic Energy MD LLC",
+          "rate": 0.1089,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$75.00",
+          "introductory": "No",
+          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
+          "monthly_fee": null,
+          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
+          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
+          "phone": "800-917-9133",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -520,23 +520,6 @@
           "service_area": null
         },
         {
-          "name": "Atlantic Energy MD LLC",
-          "rate": 0.1099,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "$75.00",
-          "introductory": "No",
-          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
-          "monthly_fee": null,
-          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
-          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
-          "phone": "800-917-9133",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "American Electric Rates LLC",
           "rate": 0.1099,
           "rate_type": "Fixed",
@@ -583,6 +566,23 @@
           "website_url": "https://enrollment.citypowerandgas.com/home",
           "signup_url": "https://enrollment.citypowerandgas.com/home",
           "phone": "1-877-518-9339",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Atlantic Energy MD LLC",
+          "rate": 0.1109,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "$75.00",
+          "introductory": "No",
+          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
+          "monthly_fee": null,
+          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
+          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
+          "phone": "800-917-9133",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -724,23 +724,6 @@
           "service_area": null
         },
         {
-          "name": "Atlantic Energy MD LLC",
-          "rate": 0.1129,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$75.00",
-          "introductory": "No",
-          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
-          "monthly_fee": null,
-          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
-          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
-          "phone": "800-917-9133",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.1139,
           "rate_type": "Fixed",
@@ -771,6 +754,23 @@
           "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
           "phone": "855-692-8330",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Atlantic Energy MD LLC",
+          "rate": 0.1148,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "$75.00",
+          "introductory": "No",
+          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
+          "monthly_fee": null,
+          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
+          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
+          "phone": "800-917-9133",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -2548,7 +2548,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 149,
-      "last_fetched": "2026-08-24T14:37:31.036490Z"
+      "last_fetched": "2026-08-24T16:32:30.935266Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -3562,23 +3562,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1328,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Rated 4.5 stars on Google with 3,000+ five-star reviews. Lock in APG&E's most competitive 12-month fixed-rate plan \u2014 your rate stays secure for the full term, with zero enrollment, termination, or monthly fees. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Brighten Energy",
           "rate": 0.1329,
           "rate_type": "Fixed",
@@ -3613,18 +3596,18 @@
           "service_area": null
         },
         {
-          "name": "Atlantic Energy MD LLC",
-          "rate": 0.1339,
+          "name": "APG&E",
+          "rate": 0.1338,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$75.00",
+          "term_months": 12,
+          "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
+          "promotional_details": "Rated 4.5 stars on Google with 3,000+ five-star reviews. Lock in APG&E's most competitive 12-month fixed-rate plan \u2014 your rate stays secure for the full term, with zero enrollment, termination, or monthly fees. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
           "monthly_fee": null,
-          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
-          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
-          "phone": "800-917-9133",
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -3728,6 +3711,23 @@
           "signup_url": "https://www.verdeenergy.com/get-rates/",
           "phone": "1-833-488-3125",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Atlantic Energy MD LLC",
+          "rate": 0.1349,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "$75.00",
+          "introductory": "No",
+          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
+          "monthly_fee": null,
+          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
+          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
+          "phone": "800-917-9133",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -5233,7 +5233,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 157,
-      "last_fetched": "2026-08-24T14:37:31.778904Z"
+      "last_fetched": "2026-08-24T16:32:31.534216Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5346,23 +5346,6 @@
           "service_area": null
         },
         {
-          "name": "Atlantic Energy MD LLC",
-          "rate": 0.1229,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$75.00",
-          "introductory": "No",
-          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
-          "monthly_fee": null,
-          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
-          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
-          "phone": "800-917-9133",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "American Power & Gas of Pennsylvania LLC",
           "rate": 0.1239,
           "rate_type": "Fixed",
@@ -5410,6 +5393,23 @@
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=Duq&channel_code=direct",
           "phone": "844-275-4022",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Atlantic Energy MD LLC",
+          "rate": 0.1249,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "$75.00",
+          "introductory": "No",
+          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
+          "monthly_fee": null,
+          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
+          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
+          "phone": "800-917-9133",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -7612,7 +7612,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 139,
-      "last_fetched": "2026-08-24T14:37:32.411592Z"
+      "last_fetched": "2026-08-24T16:32:32.065772Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -7776,23 +7776,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1224,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Rated 4.5 stars on Google with 3,000+ five-star reviews. Lock in APG&E's most competitive 3-month fixed-rate plan \u2014 your rate stays secure for the full term, with zero enrollment, termination, or monthly fees. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Powervine Energy",
           "rate": 0.1225,
           "rate_type": "Fixed",
@@ -7865,13 +7848,13 @@
           "rate": 0.1248,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 4,
+          "term_months": 3,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "Rated 4.5 stars on Google with 3,000+ five-star reviews. Lock in APG&E's most competitive 4-month fixed-rate plan \u2014 your rate stays secure for the full term, with zero enrollment, termination, or monthly fees. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "promotional_details": "Rated 4.5 stars on Google with 3,000+ five-star reviews. Lock in APG&E's most competitive 3-month fixed-rate plan \u2014 your rate stays secure for the full term, with zero enrollment, termination, or monthly fees. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
           "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
@@ -7941,6 +7924,23 @@
           "website_url": "https://shopping.publicpowercompany.com/cust/?PID=5815575C-062B-4E42-965C-4A04FADA5365&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=5D04BE77-F370-489C-A787-09F91B69BEF5&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=5815575C-062B-4E42-965C-4A04FADA5365&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=5D04BE77-F370-489C-A787-09F91B69BEF5&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1258,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Rated 4.5 stars on Google with 3,000+ five-star reviews. Lock in APG&E's most competitive 4-month fixed-rate plan \u2014 your rate stays secure for the full term, with zero enrollment, termination, or monthly fees. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -9905,7 +9905,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 134,
-      "last_fetched": "2026-08-24T14:37:33.138130Z"
+      "last_fetched": "2026-08-24T16:32:32.628769Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -12164,7 +12164,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 132,
-      "last_fetched": "2026-08-24T14:37:33.816656Z"
+      "last_fetched": "2026-08-24T16:32:33.152996Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -14117,7 +14117,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 114,
-      "last_fetched": "2026-08-24T14:37:34.475418Z"
+      "last_fetched": "2026-08-24T16:32:33.645012Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16342,7 +16342,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 130,
-      "last_fetched": "2026-08-24T14:37:35.233207Z"
+      "last_fetched": "2026-08-24T16:32:34.212296Z"
     }
   }
 }

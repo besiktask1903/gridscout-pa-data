@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T14:37:37.614948Z",
+  "last_updated": "2026-08-24T16:32:36.258222Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -657,7 +657,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 43,
-      "last_fetched": "2026-08-24T14:37:36.162366Z"
+      "last_fetched": "2026-08-24T16:32:34.906244Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -940,7 +940,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 18,
-      "last_fetched": "2026-08-24T14:37:36.404146Z"
+      "last_fetched": "2026-08-24T16:32:35.130856Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1097,6 +1097,21 @@
           "monthly_fee": null,
           "website_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=720",
           "signup_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=720",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Atlantic Energy MD LLC",
+          "rate": 0.5679,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "$75.00",
+          "introductory": "No",
+          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
+          "monthly_fee": null,
+          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=paswitchgas",
+          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=paswitchgas",
           "bundle_required": false,
           "service_area": null
         },
@@ -1599,8 +1614,8 @@
       "unlimited_suppliers": [
         "AAA Energy by Santanna"
       ],
-      "count": 43,
-      "last_fetched": "2026-08-24T14:37:36.768595Z"
+      "count": 44,
+      "last_fetched": "2026-08-24T16:32:35.446476Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2108,7 +2123,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-08-24T14:37:37.051730Z"
+      "last_fetched": "2026-08-24T16:32:35.741086Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2376,7 +2391,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 17,
-      "last_fetched": "2026-08-24T14:37:37.303225Z"
+      "last_fetched": "2026-08-24T16:32:35.969558Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2929,7 +2944,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 36,
-      "last_fetched": "2026-08-24T14:37:37.614748Z"
+      "last_fetched": "2026-08-24T16:32:36.258056Z"
     }
   }
 }
