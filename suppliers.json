@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T16:45:40.200392Z",
+  "last_updated": "2026-08-26T19:44:02.128208Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -66,21 +66,6 @@
           "monthly_fee": null,
           "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18232",
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18232",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.399,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 6,
-          "early_termination_fee": "50",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=64&promocode=PAGASZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=64&promocode=PAGASZERO",
           "bundle_required": false,
           "service_area": null
         },
@@ -280,21 +265,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.459,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 12,
-          "early_termination_fee": "75",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=64&promocode=PAGASZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=64&promocode=PAGASZERO",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "American Power and Gas of Pennsylvania LLC",
           "rate": 0.469,
           "rate_type": "Variable",
@@ -366,21 +336,6 @@
           "monthly_fee": null,
           "website_url": "https://www.shipleyenergy.com/enrollment?product=ng",
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.499,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 24,
-          "early_termination_fee": "150",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=64&promocode=PAGASZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=64&promocode=PAGASZERO",
           "bundle_required": false,
           "service_area": null
         },
@@ -656,8 +611,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 43,
-      "last_fetched": "2026-08-26T16:45:38.399435Z"
+      "count": 40,
+      "last_fetched": "2026-08-26T19:44:00.693167Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -940,7 +895,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 18,
-      "last_fetched": "2026-08-26T16:45:38.720491Z"
+      "last_fetched": "2026-08-26T19:44:01.011881Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1131,21 +1086,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.586,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 6,
-          "early_termination_fee": "50",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=66&promocode=PAGASZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=66&promocode=PAGASZERO",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Direct Energy",
           "rate": 0.589,
           "rate_type": "Fixed",
@@ -1251,21 +1191,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.625,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "$75",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=66&promocode=PAGASZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=66&promocode=PAGASZERO",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "American Electric Rates",
           "rate": 0.63,
           "rate_type": "Fixed",
@@ -1322,21 +1247,6 @@
           "monthly_fee": 1.0,
           "website_url": "https://www.rhoadsenergy.com/fuels/natural-gas/natural-gas-landing-page-compare-rates/compare-peco/",
           "signup_url": "https://www.rhoadsenergy.com/fuels/natural-gas/natural-gas-landing-page-compare-rates/compare-peco/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.655,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 24,
-          "early_termination_fee": "$150",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=66&promocode=PAGASZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=66&promocode=PAGASZERO",
           "bundle_required": false,
           "service_area": null
         },
@@ -1629,8 +1539,8 @@
       "unlimited_suppliers": [
         "AAA Energy by Santanna"
       ],
-      "count": 45,
-      "last_fetched": "2026-08-26T16:45:39.134954Z"
+      "count": 42,
+      "last_fetched": "2026-08-26T19:44:01.342146Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -1652,21 +1562,6 @@
           "monthly_fee": null,
           "website_url": "https://www.pennsylvaniaenergy.com/list-plans/?rateClassCode=01&ldcCode=PEQ",
           "signup_url": "https://www.pennsylvaniaenergy.com/list-plans/?rateClassCode=01&ldcCode=PEQ",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 3.37,
-          "rate_type": "Fixed",
-          "rate_unit": "Mcf",
-          "term_months": 6,
-          "early_termination_fee": "$50",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=110&promocode=PAGASZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=110&promocode=PAGASZERO",
           "bundle_required": false,
           "service_area": null
         },
@@ -2137,8 +2032,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 33,
-      "last_fetched": "2026-08-26T16:45:39.540194Z"
+      "count": 32,
+      "last_fetched": "2026-08-26T19:44:01.637237Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2224,21 +2119,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.68,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "75",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=122&promocode=PAGASZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=122&promocode=PAGASZERO",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "SFE Energy Pennsylvania, Inc.",
           "rate": 0.688,
           "rate_type": "Fixed",
@@ -2250,36 +2130,6 @@
           "monthly_fee": null,
           "website_url": "https://signup.sfeenergy.com/",
           "signup_url": "https://signup.sfeenergy.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.695,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 6,
-          "early_termination_fee": "50",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=122&promocode=PAGASZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=122&promocode=PAGASZERO",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.695,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 24,
-          "early_termination_fee": "150",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=122&promocode=PAGASZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=122&promocode=PAGASZERO",
           "bundle_required": false,
           "service_area": null
         },
@@ -2405,8 +2255,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 17,
-      "last_fetched": "2026-08-26T16:45:39.822232Z"
+      "count": 14,
+      "last_fetched": "2026-08-26T19:44:01.856188Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2627,21 +2477,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.699,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "$75",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=93&promocode=PAGASZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=93&promocode=PAGASZERO",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Pennsylvania Energy",
           "rate": 0.699,
           "rate_type": "Variable",
@@ -2668,21 +2503,6 @@
           "monthly_fee": null,
           "website_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=720",
           "signup_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=720",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanSky Energy",
-          "rate": 0.72,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 24,
-          "early_termination_fee": "$150",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=93&promocode=PAGASZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=93&promocode=PAGASZERO",
           "bundle_required": false,
           "service_area": null
         },
@@ -2867,21 +2687,6 @@
           "service_area": null
         },
         {
-          "name": "CleanSky Energy",
-          "rate": 0.899,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 6,
-          "early_termination_fee": "$50",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only. Have a question about a plan or need help placing an order? Call us: 1-888-355-6205 |  Email us: CustomerCare@CleanSkyEnergy.com",
-          "monthly_fee": null,
-          "website_url": "https://signup.cleanskyenergy.com/rates?utility_id=93&promocode=PAGASZERO",
-          "signup_url": "https://signup.cleanskyenergy.com/rates?utility_id=93&promocode=PAGASZERO",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Frontier Utilities",
           "rate": 0.899,
           "rate_type": "Fixed",
@@ -2958,8 +2763,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 36,
-      "last_fetched": "2026-08-26T16:45:40.200228Z"
+      "count": 33,
+      "last_fetched": "2026-08-26T19:44:02.128027Z"
     }
   }
 }
