@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T07:04:24.479072Z",
+  "last_updated": "2026-08-27T21:41:05.999659Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -612,7 +612,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 40,
-      "last_fetched": "2026-08-27T07:04:23.249729Z"
+      "last_fetched": "2026-08-27T21:41:04.233620Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -895,15 +895,15 @@
       ],
       "unlimited_suppliers": [],
       "count": 18,
-      "last_fetched": "2026-08-27T07:04:23.471416Z"
+      "last_fetched": "2026-08-27T21:41:04.578554Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
       "rate_unit": "Ccf",
-      "sco_rate": 0.67301,
+      "sco_rate": 0.65045,
       "sco_effective_date": null,
-      "sco_previous_rate": 0.53143,
-      "sco_previous_date": "2026-02-28",
+      "sco_previous_rate": 0.68614,
+      "sco_previous_date": "2026-08-31",
       "suppliers": [
         {
           "name": "NorthStar Gas Co dba YEP Energy",
@@ -1540,7 +1540,7 @@
         "AAA Energy by Santanna"
       ],
       "count": 42,
-      "last_fetched": "2026-08-27T07:04:23.780355Z"
+      "last_fetched": "2026-08-27T21:41:05.018862Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2033,7 +2033,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-08-27T07:04:24.031498Z"
+      "last_fetched": "2026-08-27T21:41:05.353794Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2256,7 +2256,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 14,
-      "last_fetched": "2026-08-27T07:04:24.214417Z"
+      "last_fetched": "2026-08-27T21:41:05.643728Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2764,7 +2764,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-08-27T07:04:24.478871Z"
+      "last_fetched": "2026-08-27T21:41:05.999461Z"
     }
   }
 }
