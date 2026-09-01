@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T16:00:25.376425Z",
+  "last_updated": "2026-09-01T19:20:53.594575Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -741,23 +741,6 @@
           "service_area": null
         },
         {
-          "name": "CleanChoice Energy",
-          "rate": 0.115,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashoppera24. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pashoppera24",
-          "signup_url": "https://mycleanchoice.com/pashoppera24",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Direct Energy",
           "rate": 0.1159,
           "rate_type": "Fixed",
@@ -890,6 +873,23 @@
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-peco&utm_source=papower&utm_medium=shopping&utm_campaign=peco_24",
           "phone": "1-877-648-1923",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "CleanChoice Energy",
+          "rate": 0.118,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashoppera24. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashoppera24",
+          "signup_url": "https://mycleanchoice.com/pashoppera24",
+          "phone": "1-800-460-4900",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -2565,7 +2565,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 150,
-      "last_fetched": "2026-09-01T16:00:22.211121Z"
+      "last_fetched": "2026-09-01T19:20:50.578716Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -3188,23 +3188,6 @@
           "service_area": null
         },
         {
-          "name": "CleanChoice Energy",
-          "rate": 0.13,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbh1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pashopperbh1",
-          "signup_url": "https://mycleanchoice.com/pashopperbh1",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "City Power & Gas PA",
           "rate": 0.1307,
           "rate_type": "Fixed",
@@ -3405,6 +3388,23 @@
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=1C765326-576A-4146-ACA7-E4C3EB5D60BE&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=2BFB8EBE-D3D0-4C7E-8011-AFFF4C71F21F&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "CleanChoice Energy",
+          "rate": 0.132,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbh1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashopperbh1",
+          "signup_url": "https://mycleanchoice.com/pashopperbh1",
+          "phone": "1-800-460-4900",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -3817,23 +3817,6 @@
           "service_area": null
         },
         {
-          "name": "CleanChoice Energy",
-          "rate": 0.137,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashoppera24. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pashoppera24",
-          "signup_url": "https://mycleanchoice.com/pashoppera24",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1378,
           "rate_type": "Fixed",
@@ -3898,6 +3881,23 @@
           "signup_url": "https://shopping.dynegy.com/cust/?PID=478C6047-9712-41E3-BDDB-A2F5D57477B2&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=3EF7B9AD-E99A-4D71-9979-B19BA68F13F0&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "CleanChoice Energy",
+          "rate": 0.138,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashoppera24. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashoppera24",
+          "signup_url": "https://mycleanchoice.com/pashoppera24",
+          "phone": "1-800-460-4900",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -5165,7 +5165,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 152,
-      "last_fetched": "2026-09-01T16:00:22.821384Z"
+      "last_fetched": "2026-09-01T19:20:51.115647Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5601,23 +5601,6 @@
           "service_area": null
         },
         {
-          "name": "CleanChoice Energy",
-          "rate": 0.132,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashoppera24. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pashoppera24",
-          "signup_url": "https://mycleanchoice.com/pashoppera24",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "0 Adversity Energy",
           "rate": 0.1329,
           "rate_type": "Fixed",
@@ -5631,6 +5614,23 @@
           "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=43030&market_id=176",
           "phone": null,
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "CleanChoice Energy",
+          "rate": 0.133,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashoppera24. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashoppera24",
+          "signup_url": "https://mycleanchoice.com/pashoppera24",
+          "phone": "1-800-460-4900",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -5652,6 +5652,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1348,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Lock in price security today with our competitive 4-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "American Electric Rates LLC",
           "rate": 0.1349,
           "rate_type": "Fixed",
@@ -5665,23 +5682,6 @@
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19063",
           "phone": null,
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1358,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Lock in price security today with our competitive 4-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -5800,6 +5800,40 @@
           "website_url": "https://shopping.pagande.com/cust/?PID=1FFA8D41-1A94-4CC1-BF32-E55E5623329B&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=C1CFB568-F764-42A9-A8B0-8FE225D8073E&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=1FFA8D41-1A94-4CC1-BF32-E55E5623329B&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=C1CFB568-F764-42A9-A8B0-8FE225D8073E&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1397,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 16,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Lock in price security today with our competitive 16-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T16_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T16_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1398,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Lock in price security today with our competitive 12-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -5924,23 +5958,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1417,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 16,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Lock in price security today with our competitive 16-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T16_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T16_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1418,
           "rate_type": "Fixed",
@@ -5975,23 +5992,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1418,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Lock in price security today with our competitive 12-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "0 Commit Energy",
           "rate": 0.1418,
           "rate_type": "Fixed",
@@ -6009,6 +6009,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1427,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Lock in price security today with our competitive 18-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1428,
           "rate_type": "Fixed",
@@ -6021,23 +6038,6 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=71217",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=71217",
           "phone": "1-800-225-3813",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1428,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Lock in price security today with our competitive 18-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T18_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -6366,6 +6366,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1468,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Lock in price security today with our competitive 24-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "0 Commit Energy",
           "rate": 0.1468,
           "rate_type": "Fixed",
@@ -6451,23 +6468,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1478,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Lock in price security today with our competitive 24-month fixed-rate plan. Enjoy the peace of mind that comes with choosing APG&E. There's No Enrollment, Cancellation, or Monthly Fees on this offer! Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "0 Commit Energy",
           "rate": 0.1478,
           "rate_type": "Fixed",
@@ -6548,6 +6548,23 @@
           "website_url": "https://shopping.energyharbor.com/cust/?PID=74E00307-B2B0-4577-AFDB-E16A2CD9DD5D&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=4C529853-77A3-463F-8E03-D430A167E9E0&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=74E00307-B2B0-4577-AFDB-E16A2CD9DD5D&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=4C529853-77A3-463F-8E03-D430A167E9E0&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "APG&E",
+          "rate": 0.1498,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 36,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Rated 4.5 stars on Google with 3,000+ five-star reviews. Lock in a stable, 100% fixed energy rate for 36 months and shield your home budget from rising utility prices. Zero hidden fees. Zero cancellation fee. After 60 days of active service, choose your own sign-up bonus: a $75 reward card, a $75 major retailer e-gift card, or a smart home thermostat. Flexible. Affordable. Energy. Offer available to new customers only.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_DUQ_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_DUQ_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -6804,23 +6821,6 @@
           "signup_url": "https://account.smartenergy.com/duquesne-web-only-6months?&utm_source=PUC_Site_DQE_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
           "phone": "(800) 702-7371",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1548,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 36,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Rated 4.5 stars on Google with 3,000+ five-star reviews. Lock in a stable, 100% fixed energy rate for 36 months and shield your home budget from rising utility prices. Zero hidden fees. Zero cancellation fee. After 60 days of active service, choose your own sign-up bonus: a $75 reward card, a $75 major retailer e-gift card, or a smart home thermostat. Flexible. Affordable. Energy. Offer available to new customers only.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_DUQ_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_DUQ_NA_NA_RES_FPR_SD0_T36_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -7544,7 +7544,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 139,
-      "last_fetched": "2026-09-01T16:00:23.311282Z"
+      "last_fetched": "2026-09-01T19:20:51.625549Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -7861,6 +7861,23 @@
           "service_area": null
         },
         {
+          "name": "APG&E",
+          "rate": 0.1278,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Rated 4.5 stars on Google with 3,000+ five-star reviews. Lock in APG&E's most competitive 4-month fixed-rate plan \u2014 your rate stays secure for the full term, with zero enrollment, termination, or monthly fees. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "monthly_fee": null,
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.1279,
           "rate_type": "Fixed",
@@ -7891,23 +7908,6 @@
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=Meted&channel_code=direct",
           "phone": "844-275-4022",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "APG&E",
-          "rate": 0.1288,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Rated 4.5 stars on Google with 3,000+ five-star reviews. Lock in APG&E's most competitive 4-month fixed-rate plan \u2014 your rate stays secure for the full term, with zero enrollment, termination, or monthly fees. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_MED_NA_NA_RES_FPR_SD0_T4_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "phone": "713-715-1583",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -9837,7 +9837,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 134,
-      "last_fetched": "2026-09-01T16:00:23.826236Z"
+      "last_fetched": "2026-09-01T19:20:52.118927Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -10235,23 +10235,6 @@
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penelec&utm_source=papower&utm_medium=shopping&utm_campaign=penelec_12",
           "phone": "1-877-648-1923",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "CleanChoice Energy",
-          "rate": 0.125,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashoppera24. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pashoppera24",
-          "signup_url": "https://mycleanchoice.com/pashoppera24",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -11718,6 +11701,23 @@
           "service_area": null
         },
         {
+          "name": "CleanChoice Energy",
+          "rate": 0.146,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashoppera24. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashoppera24",
+          "signup_url": "https://mycleanchoice.com/pashoppera24",
+          "phone": "1-800-460-4900",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Shipley Energy",
           "rate": 0.146,
           "rate_type": "Fixed",
@@ -12113,7 +12113,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 133,
-      "last_fetched": "2026-09-01T16:00:24.332495Z"
+      "last_fetched": "2026-09-01T19:20:52.595095Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13637,23 +13637,6 @@
           "service_area": null
         },
         {
-          "name": "CleanChoice Energy",
-          "rate": 0.146,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashoppera24. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pashoppera24",
-          "signup_url": "https://mycleanchoice.com/pashoppera24",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "0 Commit Energy",
           "rate": 0.1469,
           "rate_type": "Fixed",
@@ -13667,6 +13650,23 @@
           "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=119912",
           "phone": "1-800-698-5853",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "CleanChoice Energy",
+          "rate": 0.147,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashoppera24. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashoppera24",
+          "signup_url": "https://mycleanchoice.com/pashoppera24",
+          "phone": "1-800-460-4900",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -14083,7 +14083,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 115,
-      "last_fetched": "2026-09-01T16:00:24.831257Z"
+      "last_fetched": "2026-09-01T19:20:53.073321Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -14587,23 +14587,6 @@
           "service_area": null
         },
         {
-          "name": "CleanChoice Energy",
-          "rate": 0.117,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbh1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pashopperbh1",
-          "signup_url": "https://mycleanchoice.com/pashopperbh1",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Town Square Energy",
           "rate": 0.1177,
           "rate_type": "Fixed",
@@ -14825,6 +14808,23 @@
           "service_area": null
         },
         {
+          "name": "CleanChoice Energy",
+          "rate": 0.12,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashopperbh1. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashopperbh1",
+          "signup_url": "https://mycleanchoice.com/pashopperbh1",
+          "phone": "1-800-460-4900",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1208,
           "rate_type": "Fixed",
@@ -14944,23 +14944,6 @@
           "service_area": null
         },
         {
-          "name": "CleanChoice Energy",
-          "rate": 0.123,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashoppera24. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
-          "monthly_fee": null,
-          "website_url": "https://mycleanchoice.com/pashoppera24",
-          "signup_url": "https://mycleanchoice.com/pashoppera24",
-          "phone": "1-800-460-4900",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "AEP Energy",
           "rate": 0.1239,
           "rate_type": "Fixed",
@@ -15042,6 +15025,23 @@
           "signup_url": "https://shopping.dynegy.com/cust/?PID=F4FC85C2-F3AC-49F7-AFA2-144C670936E7&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=2CCD9CF0-7BFE-4DEA-9F61-AB5ABA432193&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "CleanChoice Energy",
+          "rate": 0.125,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This web-exclusive pricing is available for new customers only for a limited time at https://mycleanchoice.com/pashoppera24. Get 100% clean, pollution-free wind & solar with CleanChoice Energy. Sign up today!",
+          "monthly_fee": null,
+          "website_url": "https://mycleanchoice.com/pashoppera24",
+          "signup_url": "https://mycleanchoice.com/pashoppera24",
+          "phone": "1-800-460-4900",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -16308,7 +16308,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 130,
-      "last_fetched": "2026-09-01T16:00:25.376250Z"
+      "last_fetched": "2026-09-01T19:20:53.594357Z"
     }
   }
 }
