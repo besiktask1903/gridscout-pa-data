@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T19:20:53.594575Z",
+  "last_updated": "2026-09-01T22:20:55.793587Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -2565,7 +2565,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 150,
-      "last_fetched": "2026-09-01T19:20:50.578716Z"
+      "last_fetched": "2026-09-01T22:20:52.386001Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2827,6 +2827,23 @@
           "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=44635&market_id=181",
           "phone": null,
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1253,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=PPL&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=PPL&channel_code=direct",
+          "phone": "844-275-4022",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -3116,23 +3133,6 @@
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19251",
           "phone": null,
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1296,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=PPL&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=PPL&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -4480,23 +4480,6 @@
           "service_area": null
         },
         {
-          "name": "North American Power",
-          "rate": 0.1459,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 14,
-          "early_termination_fee": "$10",
-          "introductory": "No",
-          "promotional_details": "25% renewable energy locked in with a 14 month fixed plan.  No enrollment or monthly fees. $10.00 cancellation fee for each month remaining in your contract.",
-          "monthly_fee": null,
-          "website_url": "https://www.napower.com/#gref",
-          "signup_url": "https://www.napower.com/#gref",
-          "phone": "877-572-9965",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "0 Adversity Energy",
           "rate": 0.1469,
           "rate_type": "Fixed",
@@ -4543,23 +4526,6 @@
           "website_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=18&msid=720",
           "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=18&msid=720",
           "phone": "855-331-0024",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "North American Power",
-          "rate": 0.1479,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$10",
-          "introductory": "No",
-          "promotional_details": "25% renewable energy locked in with a 12 month fixed plan.  No enrollment or monthly fees. $10.00 cancellation fee for each month remaining in your contract.",
-          "monthly_fee": null,
-          "website_url": "https://www.napower.com/#gref",
-          "signup_url": "https://www.napower.com/#gref",
-          "phone": "877-572-9965",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -5164,8 +5130,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 152,
-      "last_fetched": "2026-09-01T19:20:51.115647Z"
+      "count": 150,
+      "last_fetched": "2026-09-01T22:20:52.989324Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7114,23 +7080,6 @@
           "service_area": null
         },
         {
-          "name": "North American Power",
-          "rate": 0.1619,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$10",
-          "introductory": "No",
-          "promotional_details": "25% renewable energy locked in with a 12 month fixed plan.  No enrollment or monthly fees. $10.00 cancellation fee for each month remaining in your contract.",
-          "monthly_fee": null,
-          "website_url": "https://www.napower.com/#gref",
-          "signup_url": "https://www.napower.com/#gref",
-          "phone": "877-572-9965",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "City Power & Gas PA",
           "rate": 0.1619,
           "rate_type": "Fixed",
@@ -7211,23 +7160,6 @@
           "website_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=12&msid=720",
           "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=12&msid=720",
           "phone": "855-331-0024",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "North American Power",
-          "rate": 0.1639,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 14,
-          "early_termination_fee": "$10",
-          "introductory": "No",
-          "promotional_details": "25% renewable energy locked in with a 14 month fixed plan.  No enrollment or monthly fees. $10.00 cancellation fee for each month remaining in your contract.",
-          "monthly_fee": null,
-          "website_url": "https://www.napower.com/#gref",
-          "signup_url": "https://www.napower.com/#gref",
-          "phone": "877-572-9965",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7543,8 +7475,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 139,
-      "last_fetched": "2026-09-01T19:20:51.625549Z"
+      "count": 137,
+      "last_fetched": "2026-09-01T22:20:53.553285Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9425,40 +9357,6 @@
           "service_area": null
         },
         {
-          "name": "North American Power",
-          "rate": 0.1499,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 14,
-          "early_termination_fee": "$10",
-          "introductory": "No",
-          "promotional_details": "25% renewable energy locked in with a 14 month fixed plan.  No enrollment or monthly fees. $10.00 cancellation fee for each month remaining in your contract.",
-          "monthly_fee": null,
-          "website_url": "https://www.napower.com/#gref",
-          "signup_url": "https://www.napower.com/#gref",
-          "phone": "877-572-9965",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "North American Power",
-          "rate": 0.1519,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$10",
-          "introductory": "No",
-          "promotional_details": "25% renewable energy locked in with a 12 month fixed plan.  No enrollment or monthly fees. $10.00 cancellation fee for each month remaining in your contract.",
-          "monthly_fee": null,
-          "website_url": "https://www.napower.com/#gref",
-          "signup_url": "https://www.napower.com/#gref",
-          "phone": "877-572-9965",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "AEP Energy",
           "rate": 0.1529,
           "rate_type": "Fixed",
@@ -9836,8 +9734,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 134,
-      "last_fetched": "2026-09-01T19:20:52.118927Z"
+      "count": 132,
+      "last_fetched": "2026-09-01T22:20:54.119695Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -11786,23 +11684,6 @@
           "service_area": null
         },
         {
-          "name": "North American Power",
-          "rate": 0.1499,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 14,
-          "early_termination_fee": "$10",
-          "introductory": "No",
-          "promotional_details": "25% renewable energy locked in with a 14 month fixed plan.  No enrollment or monthly fees. $10.00 cancellation fee for each month remaining in your contract.",
-          "monthly_fee": null,
-          "website_url": "https://www.napower.com/#gref",
-          "signup_url": "https://www.napower.com/#gref",
-          "phone": "877-572-9965",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "WGL Energy Services",
           "rate": 0.1507,
           "rate_type": "Fixed",
@@ -11816,23 +11697,6 @@
           "signup_url": "https://www.wglenergy.com/",
           "phone": "1-844-427-5945",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "North American Power",
-          "rate": 0.1519,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 16,
-          "early_termination_fee": "$10",
-          "introductory": "No",
-          "promotional_details": "25% renewable energy locked in with a 16 month fixed plan.  No enrollment or monthly fees. $10.00 cancellation fee for each month remaining in your contract.",
-          "monthly_fee": null,
-          "website_url": "https://www.napower.com/#gref",
-          "signup_url": "https://www.napower.com/#gref",
-          "phone": "877-572-9965",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -12112,8 +11976,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 133,
-      "last_fetched": "2026-09-01T19:20:52.595095Z"
+      "count": 131,
+      "last_fetched": "2026-09-01T22:20:54.687944Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13892,23 +13756,6 @@
           "service_area": null
         },
         {
-          "name": "North American Power",
-          "rate": 0.1579,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$10",
-          "introductory": "No",
-          "promotional_details": "25% renewable energy locked in with a 12 month fixed plan.  No enrollment or monthly fees. $10.00 cancellation fee for each month remaining in your contract.",
-          "monthly_fee": null,
-          "website_url": "https://www.napower.com/#gref",
-          "signup_url": "https://www.napower.com/#gref",
-          "phone": "877-572-9965",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "NRG Home",
           "rate": 0.158,
           "rate_type": "Fixed",
@@ -13922,23 +13769,6 @@
           "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
           "phone": "855-692-8330",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "North American Power",
-          "rate": 0.1599,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 14,
-          "early_termination_fee": "$10",
-          "introductory": "No",
-          "promotional_details": "25% renewable energy locked in with a 14 month fixed plan.  No enrollment or monthly fees. $10.00 cancellation fee for each month remaining in your contract.",
-          "monthly_fee": null,
-          "website_url": "https://www.napower.com/#gref",
-          "signup_url": "https://www.napower.com/#gref",
-          "phone": "877-572-9965",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -14082,8 +13912,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 115,
-      "last_fetched": "2026-09-01T19:20:53.073321Z"
+      "count": 113,
+      "last_fetched": "2026-09-01T22:20:55.232408Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16083,23 +15913,6 @@
           "service_area": null
         },
         {
-          "name": "North American Power",
-          "rate": 0.1439,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 14,
-          "early_termination_fee": "$10",
-          "introductory": "No",
-          "promotional_details": "25% renewable energy locked in with a 14 month fixed plan.  No enrollment or monthly fees. $10.00 cancellation fee for each month remaining in your contract.",
-          "monthly_fee": null,
-          "website_url": "https://www.napower.com/#gref",
-          "signup_url": "https://www.napower.com/#gref",
-          "phone": "877-572-9965",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "SmartEnergy",
           "rate": 0.145,
           "rate_type": "Fixed",
@@ -16130,23 +15943,6 @@
           "signup_url": "https://americanpowerandgas.com/?page=8",
           "phone": "800-380-9261",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "North American Power",
-          "rate": 0.1459,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$10",
-          "introductory": "No",
-          "promotional_details": "25% renewable energy locked in with a 12 month fixed plan.  No enrollment or monthly fees. $10.00 cancellation fee for each month remaining in your contract.",
-          "monthly_fee": null,
-          "website_url": "https://www.napower.com/#gref",
-          "signup_url": "https://www.napower.com/#gref",
-          "phone": "877-572-9965",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -16307,8 +16103,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 130,
-      "last_fetched": "2026-09-01T19:20:53.594357Z"
+      "count": 128,
+      "last_fetched": "2026-09-01T22:20:55.793426Z"
     }
   }
 }
