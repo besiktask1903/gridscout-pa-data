@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T02:42:07.000468Z",
+  "last_updated": "2026-09-07T17:09:34.819188Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -2582,7 +2582,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 151,
-      "last_fetched": "2026-09-07T02:42:03.127739Z"
+      "last_fetched": "2026-09-07T17:09:31.309066Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -4752,6 +4752,23 @@
           "service_area": null
         },
         {
+          "name": "Constellation Energy",
+          "rate": 0.1539,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "$150",
+          "introductory": "No",
+          "promotional_details": "What you get:  A 90-day customer satisfaction guarantee that gives you the ability to cancel your contract during the 90-day period without an early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://www.constellation.com",
+          "signup_url": "https://www.constellation.com",
+          "phone": "1-855-799-7022",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "NRG Home",
           "rate": 0.154,
           "rate_type": "Fixed",
@@ -4799,23 +4816,6 @@
           "signup_url": "https://enroll.cleanskyenergy.com//NE_Home/index?ProductCode=RN00005240&Promo=PAPOWER&Term=6",
           "phone": "1-888-355-6205",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Constellation Energy",
-          "rate": 0.1559,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$150",
-          "introductory": "No",
-          "promotional_details": "What you get:  A 90-day customer satisfaction guarantee that gives you the ability to cancel your contract during the 90-day period without an early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://www.constellation.com",
-          "signup_url": "https://www.constellation.com",
-          "phone": "1-855-799-7022",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -5182,7 +5182,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 152,
-      "last_fetched": "2026-09-07T02:42:03.800461Z"
+      "last_fetched": "2026-09-07T17:09:31.957840Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7097,6 +7097,23 @@
           "service_area": null
         },
         {
+          "name": "Constellation Energy",
+          "rate": 0.1609,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 15,
+          "early_termination_fee": "$150",
+          "introductory": "No",
+          "promotional_details": "What you get: A 90-day customer satisfaction guarantee that gives you the ability to cancel your contract during the 90-day period without an early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://www.constellation.com/rateboard",
+          "signup_url": "https://www.constellation.com/rateboard",
+          "phone": "1-855-799-7022",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "American Electric Rates LLC",
           "rate": 0.1609,
           "rate_type": "Fixed",
@@ -7160,23 +7177,6 @@
           "website_url": "https://enrollment.citypowerandgas.com/home",
           "signup_url": "https://enrollment.citypowerandgas.com/home",
           "phone": "1-877-518-9339",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Constellation Energy",
-          "rate": 0.1629,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 15,
-          "early_termination_fee": "$150",
-          "introductory": "No",
-          "promotional_details": "What you get: A 90-day customer satisfaction guarantee that gives you the ability to cancel your contract during the 90-day period without an early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://www.constellation.com/rateboard",
-          "signup_url": "https://www.constellation.com/rateboard",
-          "phone": "1-855-799-7022",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7544,7 +7544,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 138,
-      "last_fetched": "2026-09-07T02:42:04.470582Z"
+      "last_fetched": "2026-09-07T17:09:32.568064Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9595,23 +9595,6 @@
           "service_area": null
         },
         {
-          "name": "Constellation Energy",
-          "rate": 0.1599,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 15,
-          "early_termination_fee": "$150",
-          "introductory": "No",
-          "promotional_details": "What you get:  A 90-day customer satisfaction guarantee that gives you the ability to cancel your contract during the 90-day period without an early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://www.constellation.com/rateboard",
-          "signup_url": "https://www.constellation.com/rateboard",
-          "phone": "1-855-799-7022",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "0 Adversity Energy",
           "rate": 0.1599,
           "rate_type": "Fixed",
@@ -9642,6 +9625,23 @@
           "signup_url": "https://americanpowerandgas.com/?page=8",
           "phone": "800-380-9261",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Constellation Energy",
+          "rate": 0.1609,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 15,
+          "early_termination_fee": "$150",
+          "introductory": "No",
+          "promotional_details": "What you get:  A 90-day customer satisfaction guarantee that gives you the ability to cancel your contract during the 90-day period without an early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://www.constellation.com/rateboard",
+          "signup_url": "https://www.constellation.com/rateboard",
+          "phone": "1-855-799-7022",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -9803,7 +9803,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 132,
-      "last_fetched": "2026-09-07T02:42:05.119557Z"
+      "last_fetched": "2026-09-07T17:09:33.169386Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -11191,23 +11191,6 @@
           "service_area": null
         },
         {
-          "name": "Constellation Energy",
-          "rate": 0.1389,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$150",
-          "introductory": "No",
-          "promotional_details": "What you get:  A 90-day customer satisfaction guarantee that gives you the ability to cancel your contract during the 90-day period without an early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://www.constellation.com/rateboard",
-          "signup_url": "https://www.constellation.com/rateboard",
-          "phone": "1-855-799-7022",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Dynegy",
           "rate": 0.1389,
           "rate_type": "Fixed",
@@ -11391,6 +11374,23 @@
           "signup_url": "https://www.wglenergy.com/",
           "phone": "1-844-427-5945",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Constellation Energy",
+          "rate": 0.1409,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "$150",
+          "introductory": "No",
+          "promotional_details": "What you get:  A 90-day customer satisfaction guarantee that gives you the ability to cancel your contract during the 90-day period without an early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://www.constellation.com/rateboard",
+          "signup_url": "https://www.constellation.com/rateboard",
+          "phone": "1-855-799-7022",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -12062,7 +12062,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 132,
-      "last_fetched": "2026-09-07T02:42:05.752105Z"
+      "last_fetched": "2026-09-07T17:09:33.705979Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13620,6 +13620,23 @@
           "service_area": null
         },
         {
+          "name": "Constellation Energy",
+          "rate": 0.1479,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 8,
+          "early_termination_fee": "$150",
+          "introductory": "No",
+          "promotional_details": "What you get:  A 90-day customer satisfaction guarantee that gives you the ability to cancel your contract during the 90-day period without an early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://www.constellation.com/Rateboard",
+          "signup_url": "https://www.constellation.com/Rateboard",
+          "phone": "1-855-799-7022",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Direct Energy",
           "rate": 0.1479,
           "rate_type": "Fixed",
@@ -13683,23 +13700,6 @@
           "website_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=18&msid=720",
           "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=18&msid=720",
           "phone": "855-331-0024",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Constellation Energy",
-          "rate": 0.1499,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 8,
-          "early_termination_fee": "$150",
-          "introductory": "No",
-          "promotional_details": "What you get:  A 90-day customer satisfaction guarantee that gives you the ability to cancel your contract during the 90-day period without an early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://www.constellation.com/Rateboard",
-          "signup_url": "https://www.constellation.com/Rateboard",
-          "phone": "1-855-799-7022",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -13998,7 +13998,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 113,
-      "last_fetched": "2026-09-07T02:42:06.356978Z"
+      "last_fetched": "2026-09-07T17:09:34.231573Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16206,7 +16206,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 129,
-      "last_fetched": "2026-09-07T02:42:07.000250Z"
+      "last_fetched": "2026-09-07T17:09:34.818938Z"
     }
   }
 }
