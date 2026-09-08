@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T15:55:36.268201Z",
+  "last_updated": "2026-09-08T19:14:39.521079Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -356,7 +356,7 @@
         },
         {
           "name": "Symmetry Energy Solutions LLC",
-          "rate": 0.525,
+          "rate": 0.499,
           "rate_type": "Fixed",
           "rate_unit": "therm",
           "term_months": 12,
@@ -627,7 +627,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 41,
-      "last_fetched": "2026-09-08T15:55:34.735731Z"
+      "last_fetched": "2026-09-08T19:14:36.671449Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -683,6 +683,21 @@
           "service_area": null
         },
         {
+          "name": "Nordic Energy Services",
+          "rate": 0.499,
+          "rate_type": "Variable",
+          "rate_unit": "Ccf",
+          "term_months": 2,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "No early termination fees!",
+          "monthly_fee": null,
+          "website_url": "https://www.nordicenergy-us.com/",
+          "signup_url": "https://www.nordicenergy-us.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Major Energy Services",
           "rate": 0.5,
           "rate_type": "Fixed",
@@ -709,21 +724,6 @@
           "monthly_fee": null,
           "website_url": "https://majorenergy.com/enroll/?UtilityID=131&ProductID=147568",
           "signup_url": "https://majorenergy.com/enroll/?UtilityID=131&ProductID=147568",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Nordic Energy Services",
-          "rate": 0.549,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 2,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "No early termination fees!",
-          "monthly_fee": null,
-          "website_url": "https://www.nordicenergy-us.com/",
-          "signup_url": "https://www.nordicenergy-us.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -797,8 +797,8 @@
           "introductory": "No",
           "promotional_details": "Manage your budget and secure your rate for 12 months. Special offer for new, online customers.",
           "monthly_fee": null,
-          "website_url": "https://shopping.ambitenergy.com/cust/?PID=B41588A7-3E06-4BA6-B9A0-2FCB75357AF0&UID=88011281-722F-4AEE-99E8-6BD27F44DB8D&OID=E2F781AC-61E1-47E5-BB88-327C9E51410C&RFID=PAPS&PUC=1&STATE=PA&SN=AMB&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.ambitenergy.com/cust/?PID=B41588A7-3E06-4BA6-B9A0-2FCB75357AF0&UID=88011281-722F-4AEE-99E8-6BD27F44DB8D&OID=E2F781AC-61E1-47E5-BB88-327C9E51410C&RFID=PAPS&PUC=1&STATE=PA&SN=AMB&CT=G&PromoCode=RATEBOARD",
+          "website_url": "https://www.ambitenergy.com/",
+          "signup_url": "https://www.ambitenergy.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -910,7 +910,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 18,
-      "last_fetched": "2026-09-08T15:55:35.046115Z"
+      "last_fetched": "2026-09-08T19:14:37.138858Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1191,6 +1191,21 @@
           "service_area": null
         },
         {
+          "name": "Nordic Energy Services",
+          "rate": 0.599,
+          "rate_type": "Variable",
+          "rate_unit": "Ccf",
+          "term_months": 2,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "No early termination fees!",
+          "monthly_fee": null,
+          "website_url": "https://www.nordicenergy-us.com/",
+          "signup_url": "https://www.nordicenergy-us.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "WGL Energy Services",
           "rate": 0.605,
           "rate_type": "Variable",
@@ -1247,21 +1262,6 @@
           "monthly_fee": null,
           "website_url": "https://www.wglenergy.com/",
           "signup_url": "https://www.wglenergy.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Nordic Energy Services",
-          "rate": 0.649,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 2,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "No early termination fees!",
-          "monthly_fee": null,
-          "website_url": "https://www.nordicenergy-us.com/",
-          "signup_url": "https://www.nordicenergy-us.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -1555,7 +1555,7 @@
         "AAA Energy by Santanna"
       ],
       "count": 42,
-      "last_fetched": "2026-09-08T15:55:35.425039Z"
+      "last_fetched": "2026-09-08T19:14:37.761209Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2048,7 +2048,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-08T15:55:35.739320Z"
+      "last_fetched": "2026-09-08T19:14:38.302958Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2271,7 +2271,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 14,
-      "last_fetched": "2026-09-08T15:55:35.979081Z"
+      "last_fetched": "2026-09-08T19:14:38.783495Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2779,7 +2779,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-09-08T15:55:36.268034Z"
+      "last_fetched": "2026-09-08T19:14:39.520921Z"
     }
   }
 }
