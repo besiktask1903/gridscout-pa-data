@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T20:49:28.957542Z",
+  "last_updated": "2026-09-15T23:56:18.605033Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -370,6 +370,21 @@
           "service_area": null
         },
         {
+          "name": "Symmetry Energy Solutions LLC",
+          "rate": 0.525,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 8,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "With this product, you get exclusive access to Symmetry Rewards, where you earn $50 in Reward Dollars every month. Use your rewards in over 500,000 ways including local deals, restaurants, movies, online shopping, gift cards and more. That adds up to $600 in Reward Dollars each year! Plus, great bonuses like gift card giveaways, product giveaways, cash giveaways, daily deals, and more. An active account and valid email address are required. Reward eligibility is at the sole discretion of Symmetry Energy Solutions. Access to Rewards account is through symmetryrewards.com.",
+          "monthly_fee": null,
+          "website_url": "https://symmetryenergy.com/pennsylvania/",
+          "signup_url": "https://symmetryenergy.com/pennsylvania/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Verde Energy USA Pennsylvania LLC",
           "rate": 0.531,
           "rate_type": "Fixed",
@@ -626,8 +641,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 41,
-      "last_fetched": "2026-09-15T20:49:27.545237Z"
+      "count": 42,
+      "last_fetched": "2026-09-15T23:56:17.079262Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -910,7 +925,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 18,
-      "last_fetched": "2026-09-15T20:49:27.783339Z"
+      "last_fetched": "2026-09-15T23:56:17.378738Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1555,7 +1570,7 @@
         "AAA Energy by Santanna"
       ],
       "count": 42,
-      "last_fetched": "2026-09-15T20:49:28.132333Z"
+      "last_fetched": "2026-09-15T23:56:17.750984Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2048,7 +2063,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-15T20:49:28.420661Z"
+      "last_fetched": "2026-09-15T23:56:18.088257Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2271,7 +2286,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 14,
-      "last_fetched": "2026-09-15T20:49:28.672320Z"
+      "last_fetched": "2026-09-15T23:56:18.327665Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2779,7 +2794,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-09-15T20:49:28.957351Z"
+      "last_fetched": "2026-09-15T23:56:18.604858Z"
     }
   }
 }
