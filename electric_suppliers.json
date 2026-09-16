@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T03:27:49.505851Z",
+  "last_updated": "2026-09-16T16:02:50.760181Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -11,7 +11,7 @@
       "suppliers": [
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0599,
+          "rate": 0.0809,
           "rate_type": "Variable",
           "rate_unit": "kWh",
           "term_months": 1,
@@ -28,7 +28,7 @@
         },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0699,
+          "rate": 0.0909,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
@@ -45,7 +45,7 @@
         },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0749,
+          "rate": 0.0959,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
@@ -55,23 +55,6 @@
           "monthly_fee": null,
           "website_url": "https://americanpowerandgas.com/?page=9",
           "signup_url": "https://americanpowerandgas.com/?page=9",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0899,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=2",
-          "signup_url": "https://americanpowerandgas.com/?page=2",
           "phone": "800-380-9261",
           "renewable": "Yes",
           "bundle_required": false,
@@ -197,23 +180,6 @@
           "service_area": null
         },
         {
-          "name": "Atlantic Energy MD LLC",
-          "rate": 0.1049,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$75.00",
-          "introductory": "No",
-          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
-          "monthly_fee": null,
-          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
-          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
-          "phone": "800-917-9133",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Better Buy Energy",
           "rate": 0.1059,
           "rate_type": "Fixed",
@@ -244,23 +210,6 @@
           "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=44635&market_id=178",
           "phone": null,
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1066,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=PECO&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=PECO&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -367,6 +316,23 @@
           "service_area": null
         },
         {
+          "name": "Atlantic Energy MD LLC",
+          "rate": 0.1079,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$75.00",
+          "introductory": "No",
+          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
+          "monthly_fee": null,
+          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
+          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
+          "phone": "800-917-9133",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "APG&E",
           "rate": 0.1087,
           "rate_type": "Fixed",
@@ -452,23 +418,6 @@
           "service_area": null
         },
         {
-          "name": "Atlantic Energy MD LLC",
-          "rate": 0.1089,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "$75.00",
-          "introductory": "No",
-          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
-          "monthly_fee": null,
-          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
-          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
-          "phone": "800-917-9133",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "CleanChoice Energy",
           "rate": 0.109,
           "rate_type": "Fixed",
@@ -520,23 +469,6 @@
           "service_area": null
         },
         {
-          "name": "Atlantic Energy MD LLC",
-          "rate": 0.1099,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$75.00",
-          "introductory": "No",
-          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
-          "monthly_fee": null,
-          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
-          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
-          "phone": "800-917-9133",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Nordic Energy Services LLC",
           "rate": 0.11,
           "rate_type": "Variable",
@@ -550,6 +482,23 @@
           "signup_url": "https://www.nordicenergy-us.com/",
           "phone": "630-321-0888",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1109,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": "No",
+          "introductory": "Yes",
+          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=2",
+          "signup_url": "https://americanpowerandgas.com/?page=2",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -605,6 +554,23 @@
           "service_area": null
         },
         {
+          "name": "Atlantic Energy MD LLC",
+          "rate": 0.1119,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "$75.00",
+          "introductory": "No",
+          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
+          "monthly_fee": null,
+          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
+          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
+          "phone": "800-917-9133",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "SFE Energy Pennsylvania, Inc.",
           "rate": 0.1128,
           "rate_type": "Fixed",
@@ -634,6 +600,23 @@
           "website_url": "https://shopping.pagande.com/cust/?PID=040EEEFC-5766-4FDE-BBE7-D61D402C4675&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=2539A7C7-0A7D-4B98-A65A-BA84DBA3B402&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=040EEEFC-5766-4FDE-BBE7-D61D402C4675&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=2539A7C7-0A7D-4B98-A65A-BA84DBA3B402&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Atlantic Energy MD LLC",
+          "rate": 0.1129,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "$75.00",
+          "introductory": "No",
+          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
+          "monthly_fee": null,
+          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
+          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
+          "phone": "800-917-9133",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -1047,23 +1030,6 @@
           "service_area": null
         },
         {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1206,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 9 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_9&utm_content=PECO&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_9&utm_content=PECO&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Shipley Energy",
           "rate": 0.1208,
           "rate_type": "Fixed",
@@ -1268,6 +1234,23 @@
           "service_area": null
         },
         {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1229,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 9 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_9&utm_content=PECO&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_9&utm_content=PECO&channel_code=direct",
+          "phone": "844-275-4022",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Shipley Energy",
           "rate": 0.1238,
           "rate_type": "Fixed",
@@ -1438,23 +1421,6 @@
           "service_area": null
         },
         {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1249,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=PECO&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=PECO&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Spark Energy, LLC",
           "rate": 0.1249,
           "rate_type": "Fixed",
@@ -1540,6 +1506,23 @@
           "service_area": null
         },
         {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1259,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "$0",
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=PECO&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=PECO&channel_code=direct",
+          "phone": "844-275-4022",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Verde Energy USA, Inc.",
           "rate": 0.1259,
           "rate_type": "Fixed",
@@ -1554,23 +1537,6 @@
           "phone": "1-833-488-3125",
           "renewable": "Yes",
           "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1265,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No",
-          "bundle_required": true,
           "service_area": null
         },
         {
@@ -1897,6 +1863,23 @@
           "service_area": null
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1304,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No",
+          "bundle_required": true,
+          "service_area": null
+        },
+        {
           "name": "Cirro Energy",
           "rate": 0.1309,
           "rate_type": "Fixed",
@@ -2204,7 +2187,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1385,
+          "rate": 0.1383,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 9,
@@ -2581,8 +2564,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 151,
-      "last_fetched": "2026-09-16T03:27:45.922961Z"
+      "count": 150,
+      "last_fetched": "2026-09-16T16:02:46.262699Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2594,7 +2577,7 @@
       "suppliers": [
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.074,
+          "rate": 0.0989,
           "rate_type": "Variable",
           "rate_unit": "kWh",
           "term_months": 1,
@@ -2611,7 +2594,7 @@
         },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.084,
+          "rate": 0.1089,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
@@ -2628,7 +2611,7 @@
         },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.089,
+          "rate": 0.1139,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
@@ -2638,23 +2621,6 @@
           "monthly_fee": null,
           "website_url": "https://americanpowerandgas.com/?page=9",
           "signup_url": "https://americanpowerandgas.com/?page=9",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.104,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=2",
-          "signup_url": "https://americanpowerandgas.com/?page=2",
           "phone": "800-380-9261",
           "renewable": "Yes",
           "bundle_required": false,
@@ -3171,23 +3137,6 @@
           "service_area": null
         },
         {
-          "name": "Atlantic Energy MD LLC",
-          "rate": 0.1279,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$75.00",
-          "introductory": "No",
-          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
-          "monthly_fee": null,
-          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
-          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
-          "phone": "800-917-9133",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "American Electric Rates LLC",
           "rate": 0.1279,
           "rate_type": "Fixed",
@@ -3218,6 +3167,23 @@
           "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=44870&market_id=181",
           "phone": null,
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1289,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": "No",
+          "introductory": "Yes",
+          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=2",
+          "signup_url": "https://americanpowerandgas.com/?page=2",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -3392,20 +3358,20 @@
           "service_area": null
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1308,
+          "name": "Atlantic Energy MD LLC",
+          "rate": 0.1299,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
+          "term_months": 6,
+          "early_termination_fee": "$75.00",
           "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
           "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
+          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
+          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
+          "phone": "800-917-9133",
           "renewable": "No",
-          "bundle_required": true,
+          "bundle_required": false,
           "service_area": null
         },
         {
@@ -3648,19 +3614,19 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1333,
+          "rate": 0.1335,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 3,
+          "term_months": 12,
           "early_termination_fee": "$120.00",
           "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 3 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": 25.0,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_3M_M3_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_3M_M3_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PPLPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
           "phone": "866-752-1907",
           "renewable": "No",
-          "bundle_required": false,
+          "bundle_required": true,
           "service_area": null
         },
         {
@@ -3693,6 +3659,23 @@
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T12_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1338,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 3 months. Available for New Customers only. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": 25.0,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_3M_M3_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_3M_M3_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
+          "phone": "866-752-1907",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -4174,23 +4157,6 @@
           "service_area": null
         },
         {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1389,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 9 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_9&utm_content=PPL&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_9&utm_content=PPL&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Verde Energy USA, Inc.",
           "rate": 0.1389,
           "rate_type": "Fixed",
@@ -4294,7 +4260,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1404,
+          "rate": 0.1405,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 9,
@@ -4492,6 +4458,23 @@
           "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18007",
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18007",
           "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1439,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 9 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_9&utm_content=PPL&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_9&utm_content=PPL&channel_code=direct",
+          "phone": "844-275-4022",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -5199,7 +5182,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 153,
-      "last_fetched": "2026-09-16T03:27:46.573311Z"
+      "last_fetched": "2026-09-16T16:02:47.051199Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5211,7 +5194,7 @@
       "suppliers": [
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0779,
+          "rate": 0.0949,
           "rate_type": "Variable",
           "rate_unit": "kWh",
           "term_months": 1,
@@ -5228,7 +5211,7 @@
         },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0879,
+          "rate": 0.1049,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
@@ -5245,7 +5228,7 @@
         },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0929,
+          "rate": 0.1099,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
@@ -5255,23 +5238,6 @@
           "monthly_fee": null,
           "website_url": "https://americanpowerandgas.com/?page=9",
           "signup_url": "https://americanpowerandgas.com/?page=9",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.1079,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=2",
-          "signup_url": "https://americanpowerandgas.com/?page=2",
           "phone": "800-380-9261",
           "renewable": "Yes",
           "bundle_required": false,
@@ -5312,23 +5278,6 @@
           "service_area": null
         },
         {
-          "name": "Atlantic Energy MD LLC",
-          "rate": 0.1199,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "$75.00",
-          "introductory": "No",
-          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
-          "monthly_fee": null,
-          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
-          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
-          "phone": "800-917-9133",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Town Square Energy",
           "rate": 0.1217,
           "rate_type": "Fixed",
@@ -5363,8 +5312,42 @@
           "service_area": null
         },
         {
+          "name": "Atlantic Energy MD LLC",
+          "rate": 0.1239,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "$75.00",
+          "introductory": "No",
+          "promotional_details": "Experience peace of mind with our Secure Choice plan. Lock in a fixed rate. No monthly base fee!",
+          "monthly_fee": null,
+          "website_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
+          "signup_url": "https://enroll.atlanticenergyco.com/?promoCode=PASWITCH",
+          "phone": "800-917-9133",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1249,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": "No",
+          "introductory": "Yes",
+          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=2",
+          "signup_url": "https://americanpowerandgas.com/?page=2",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1242,
+          "rate": 0.125,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
@@ -5376,23 +5359,6 @@
           "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_3M_M3_DUQPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea&commodity_type=electricity",
           "phone": "866-752-1907",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1249,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=Duq&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=Duq&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -5411,23 +5377,6 @@
           "phone": null,
           "renewable": "No",
           "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1265,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No",
-          "bundle_required": true,
           "service_area": null
         },
         {
@@ -5499,6 +5448,23 @@
           "service_area": null
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1277,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_DUQPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No",
+          "bundle_required": true,
+          "service_area": null
+        },
+        {
           "name": "Better Buy Energy",
           "rate": 0.1279,
           "rate_type": "Fixed",
@@ -5563,23 +5529,6 @@
           "signup_url": "http://www.nordicenergy-us.com",
           "phone": "630-321-0888",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1319,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 9 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_9&utm_content=DUQ&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_9&utm_content=DUQ&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -5686,6 +5635,23 @@
           "service_area": null
         },
         {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1339,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 9 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_9&utm_content=DUQ&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_9&utm_content=DUQ&channel_code=direct",
+          "phone": "844-275-4022",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.1339,
           "rate_type": "Fixed",
@@ -5772,7 +5738,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1362,
+          "rate": 0.1367,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 9,
@@ -5785,23 +5751,6 @@
           "phone": "866-752-1907",
           "renewable": "No",
           "bundle_required": true,
-          "service_area": null
-        },
-        {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1369,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 888.574.1529",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=Duq&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=Duq&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "No",
-          "bundle_required": false,
           "service_area": null
         },
         {
@@ -5851,6 +5800,23 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=127006",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=127006",
           "phone": "1-800-225-3813",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1389,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "$0",
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 888.574.1529",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=Duq&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=Duq&channel_code=direct",
+          "phone": "844-275-4022",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7560,8 +7526,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 138,
-      "last_fetched": "2026-09-16T03:27:47.171747Z"
+      "count": 137,
+      "last_fetched": "2026-09-16T16:02:47.857470Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -7573,64 +7539,13 @@
       "suppliers": [
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0689,
+          "rate": 0.0979,
           "rate_type": "Variable",
           "rate_unit": "kWh",
           "term_months": 1,
           "early_termination_fee": "No",
           "introductory": "Yes",
           "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Interested in upgrading to 100% green energy for an additional 3 cents? Call us to learn more!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=2",
-          "signup_url": "https://americanpowerandgas.com/?page=2",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0789,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer.",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=5",
-          "signup_url": "https://americanpowerandgas.com/?page=5",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0839,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer.",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=9",
-          "signup_url": "https://americanpowerandgas.com/?page=9",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0989,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?",
           "monthly_fee": null,
           "website_url": "https://americanpowerandgas.com/?page=2",
           "signup_url": "https://americanpowerandgas.com/?page=2",
@@ -7653,6 +7568,23 @@
           "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=49758&utm_source=PAPOWER&utm_medium=Site&utm_campaign=MetEd&utm_content=1253",
           "phone": "8774300093",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1079,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer.",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=5",
+          "signup_url": "https://americanpowerandgas.com/?page=5",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -7687,6 +7619,23 @@
           "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=49339&utm_source=PAPOWER&utm_medium=Site&utm_campaign=MetEd&utm_content=1317",
           "phone": "8774300093",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1129,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer.",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=9",
+          "signup_url": "https://americanpowerandgas.com/?page=9",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -7963,6 +7912,23 @@
           "service_area": null
         },
         {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1279,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": "No",
+          "introductory": "Yes",
+          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=2",
+          "signup_url": "https://americanpowerandgas.com/?page=2",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.1279,
           "rate_type": "Fixed",
@@ -8009,23 +7975,6 @@
           "website_url": "https://www.verdeenergy.com/get-rates/",
           "signup_url": "https://www.verdeenergy.com/get-rates/",
           "phone": "1-833-488-3125",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1286,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022.",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=Meted&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=Meted&channel_code=direct",
-          "phone": "844-275-4022",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -8078,23 +8027,6 @@
           "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=44433&market_id=177&site_id=113",
           "phone": null,
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1299,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Meted&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Meted&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -8367,6 +8299,23 @@
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-meted&utm_source=papower&utm_medium=shopping&utm_campaign=meted_12",
           "phone": "1-877-648-1923",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1339,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Meted&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Meted&channel_code=direct",
+          "phone": "844-275-4022",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -9238,23 +9187,6 @@
           "service_area": null
         },
         {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1439,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 9 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service. Set it and forget it with this stable plan \u2013 which is how utility bills should work.   Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_9&utm_content=METED&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_9&utm_content=METED&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Brighten Energy",
           "rate": 0.1449,
           "rate_type": "Fixed",
@@ -9408,6 +9340,23 @@
           "service_area": null
         },
         {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1469,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 9 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service. Set it and forget it with this stable plan \u2013 which is how utility bills should work.   Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_9&utm_content=METED&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_9&utm_content=METED&channel_code=direct",
+          "phone": "844-275-4022",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "0 Commit Energy",
           "rate": 0.1469,
           "rate_type": "Fixed",
@@ -9443,7 +9392,7 @@
         },
         {
           "name": "Inspire Clean Energy",
-          "rate": 0.1479,
+          "rate": 0.1499,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 18,
@@ -9819,8 +9768,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 132,
-      "last_fetched": "2026-09-16T03:27:47.778239Z"
+      "count": 131,
+      "last_fetched": "2026-09-16T16:02:48.598347Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -9832,64 +9781,13 @@
       "suppliers": [
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0629,
+          "rate": 0.1019,
           "rate_type": "Variable",
           "rate_unit": "kWh",
           "term_months": 1,
           "early_termination_fee": "No",
           "introductory": "Yes",
           "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Interested in upgrading to 100% green energy for an additional 3 cents? Call us to learn more!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=2",
-          "signup_url": "https://americanpowerandgas.com/?page=2",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0729,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=5",
-          "signup_url": "https://americanpowerandgas.com/?page=5",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0779,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=9",
-          "signup_url": "https://americanpowerandgas.com/?page=9",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0929,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?",
           "monthly_fee": null,
           "website_url": "https://americanpowerandgas.com/?page=2",
           "signup_url": "https://americanpowerandgas.com/?page=2",
@@ -9967,6 +9865,23 @@
           "service_area": null
         },
         {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1119,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=5",
+          "signup_url": "https://americanpowerandgas.com/?page=5",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Public Power, LLC",
           "rate": 0.1129,
           "rate_type": "Fixed",
@@ -9997,6 +9912,23 @@
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=8AD8416B-63E4-44B5-981C-31D5CB3899EE&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=0F2D1BC5-2287-419F-BE90-8B8EECE7F0A7&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1169,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=9",
+          "signup_url": "https://americanpowerandgas.com/?page=9",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -10698,6 +10630,23 @@
           "service_area": null
         },
         {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1319,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": "No",
+          "introductory": "Yes",
+          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=2",
+          "signup_url": "https://americanpowerandgas.com/?page=2",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Better Buy Energy",
           "rate": 0.1319,
           "rate_type": "Fixed",
@@ -10885,23 +10834,6 @@
           "service_area": null
         },
         {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1349,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Penelec&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Penelec&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "0 Adversity Energy",
           "rate": 0.1349,
           "rate_type": "Fixed",
@@ -11004,6 +10936,23 @@
           "service_area": null
         },
         {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1369,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Penelec&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Penelec&channel_code=direct",
+          "phone": "844-275-4022",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Powervine Energy",
           "rate": 0.1369,
           "rate_type": "Fixed",
@@ -11085,23 +11034,6 @@
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=44128836-CCFC-4371-8AFB-AC1E8C4232EE&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=A453F617-8C3E-4C02-8ED5-422AAE48A9DB&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=E&PromoCode=RATEBOARD",
           "phone": "800-915-0706",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1379,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022.",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=Penelec&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=Penelec&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -11701,23 +11633,6 @@
           "service_area": null
         },
         {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1459,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 9 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_9&utm_content=PENELEC&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_9&utm_content=PENELEC&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Cirro Energy",
           "rate": 0.146,
           "rate_type": "Fixed",
@@ -11855,18 +11770,18 @@
         },
         {
           "name": "Inspire Clean Energy",
-          "rate": 0.1549,
+          "rate": 0.1529,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 18,
+          "term_months": 9,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate for 9 months, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
           "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=Penelec&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=Penelec&channel_code=direct",
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_9&utm_content=PENELEC&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_9&utm_content=PENELEC&channel_code=direct",
           "phone": "844-275-4022",
-          "renewable": "No",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -11884,6 +11799,23 @@
           "signup_url": "https://www.wglenergy.com/",
           "phone": "1-844-427-5945",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1559,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=Penelec&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=Penelec&channel_code=direct",
+          "phone": "844-275-4022",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -12078,8 +12010,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 132,
-      "last_fetched": "2026-09-16T03:27:48.333542Z"
+      "count": 131,
+      "last_fetched": "2026-09-16T16:02:49.309872Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -12091,64 +12023,13 @@
       "suppliers": [
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0759,
+          "rate": 0.1119,
           "rate_type": "Variable",
           "rate_unit": "kWh",
           "term_months": 1,
           "early_termination_fee": "No",
           "introductory": "Yes",
           "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?  Interested in upgrading to 100% green energy for an additional 3 cents? Call us to learn more!",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=2",
-          "signup_url": "https://americanpowerandgas.com/?page=2",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0859,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=5",
-          "signup_url": "https://americanpowerandgas.com/?page=5",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0909,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=9",
-          "signup_url": "https://americanpowerandgas.com/?page=9",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.1059,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?",
           "monthly_fee": null,
           "website_url": "https://americanpowerandgas.com/?page=2",
           "signup_url": "https://americanpowerandgas.com/?page=2",
@@ -12226,6 +12107,23 @@
           "service_area": null
         },
         {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1219,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=5",
+          "signup_url": "https://americanpowerandgas.com/?page=5",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Direct Energy",
           "rate": 0.1219,
           "rate_type": "Fixed",
@@ -12294,23 +12192,6 @@
           "service_area": null
         },
         {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1256,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022.",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=PPower&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=PPower&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Better Buy Energy",
           "rate": 0.1259,
           "rate_type": "Fixed",
@@ -12358,6 +12239,23 @@
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1269,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This offer is exclusively for new customers only*. Switch to our electric plan today and enjoy the freedom of a 3-month fixed rate that gives you short-term flexibility! This plan has no cancellation or monthly service fees, and zero enrollment fees. Experience reliable service without the worry\u2014switch today! *Eligibility criteria for returning customers: an account may be eligible for this offer one year from the sign-up date of the previous enrollment of this offer",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=9",
+          "signup_url": "https://americanpowerandgas.com/?page=9",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -13280,6 +13178,23 @@
           "service_area": null
         },
         {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1419,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": "No",
+          "introductory": "Yes",
+          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=2",
+          "signup_url": "https://americanpowerandgas.com/?page=2",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Energy Harbor LLC",
           "rate": 0.1419,
           "rate_type": "Fixed",
@@ -13569,23 +13484,6 @@
           "service_area": null
         },
         {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1459,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=PPower&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=PPower&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "0 Commit Energy",
           "rate": 0.1459,
           "rate_type": "Fixed",
@@ -13615,6 +13513,23 @@
           "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=94446",
           "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=94446",
           "phone": "1-800-698-5853",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1469,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=PPower&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=PPower&channel_code=direct",
+          "phone": "844-275-4022",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -14014,8 +13929,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 113,
-      "last_fetched": "2026-09-16T03:27:48.902306Z"
+      "count": 112,
+      "last_fetched": "2026-09-16T16:02:50.036435Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -14027,7 +13942,7 @@
       "suppliers": [
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0599,
+          "rate": 0.0819,
           "rate_type": "Variable",
           "rate_unit": "kWh",
           "term_months": 1,
@@ -14044,7 +13959,7 @@
         },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0699,
+          "rate": 0.0919,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
@@ -14061,7 +13976,7 @@
         },
         {
           "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0749,
+          "rate": 0.0969,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
@@ -14071,23 +13986,6 @@
           "monthly_fee": null,
           "website_url": "https://americanpowerandgas.com/?page=9",
           "signup_url": "https://americanpowerandgas.com/?page=9",
-          "phone": "800-380-9261",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Power & Gas of Pennsylvania LLC",
-          "rate": 0.0899,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 1,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?",
-          "monthly_fee": null,
-          "website_url": "https://americanpowerandgas.com/?page=2",
-          "signup_url": "https://americanpowerandgas.com/?page=2",
           "phone": "800-380-9261",
           "renewable": "Yes",
           "bundle_required": false,
@@ -14196,23 +14094,6 @@
           "service_area": null
         },
         {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1086,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022.",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=WPP&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_4&utm_content=WPP&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Just Energy",
           "rate": 0.1099,
           "rate_type": "Fixed",
@@ -14311,6 +14192,23 @@
           "signup_url": "https://products.powervineenergy.com/?source=POW002",
           "phone": "1-888-263-2806",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Power & Gas of Pennsylvania LLC",
+          "rate": 0.1119,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 1,
+          "early_termination_fee": "No",
+          "introductory": "Yes",
+          "promotional_details": "Our famous 25% rebate is available to all of our customers.   We have sent out over $2,400,000 in rebates this year! Are you getting one?",
+          "monthly_fee": null,
+          "website_url": "https://americanpowerandgas.com/?page=2",
+          "signup_url": "https://americanpowerandgas.com/?page=2",
+          "phone": "800-380-9261",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -15267,23 +15165,6 @@
           "service_area": null
         },
         {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1299,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=WPP&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=WPP&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Major Energy",
           "rate": 0.1299,
           "rate_type": "Fixed",
@@ -15415,6 +15296,23 @@
           "website_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=125621",
           "signup_url": "https://shop.0commitenergy.com/enrollmentrequest/?plan=125621",
           "phone": "1-800-698-5853",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1309,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=WPP&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_18&utm_content=WPP&channel_code=direct",
+          "phone": "844-275-4022",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -16222,8 +16120,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 129,
-      "last_fetched": "2026-09-16T03:27:49.505672Z"
+      "count": 128,
+      "last_fetched": "2026-09-16T16:02:50.759982Z"
     }
   }
 }
