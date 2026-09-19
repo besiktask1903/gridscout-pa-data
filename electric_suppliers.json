@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T15:17:05.945574Z",
+  "last_updated": "2026-09-19T18:22:55.663962Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -2667,7 +2667,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 156,
-      "last_fetched": "2026-09-19T15:17:02.263401Z"
+      "last_fetched": "2026-09-19T18:22:51.357067Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -5301,7 +5301,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 154,
-      "last_fetched": "2026-09-19T15:17:02.960782Z"
+      "last_fetched": "2026-09-19T18:22:52.260245Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7714,7 +7714,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 141,
-      "last_fetched": "2026-09-19T15:17:03.561677Z"
+      "last_fetched": "2026-09-19T18:22:52.955783Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -8354,6 +8354,23 @@
           "service_area": null
         },
         {
+          "name": "Clearview Energy",
+          "rate": 0.1319,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$150.00",
+          "introductory": "No",
+          "promotional_details": "ClearCharge12Plus: 12 Month fixed rate term with a $9.99 base fee. For more information on this product, please call us at 1-888-512-8994 or visit us at www.clearviewenergy.com.",
+          "monthly_fee": 9.99,
+          "website_url": "https://www.clearviewenergy.com/enrollment/?utilityid=81&utilityidG=&utilityname=Meted&utilitynameG=&ctype=Resi&utility-state=pa&productNum=416146",
+          "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=81&utilityidG=&utilityname=Meted&utilitynameG=&ctype=Resi&utility-state=pa&productNum=416146",
+          "phone": "888-512-8994",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Verde Energy USA, Inc.",
           "rate": 0.1319,
           "rate_type": "Fixed",
@@ -8604,6 +8621,23 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=126306",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=126306",
           "phone": "1-800-225-3813",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Clearview Energy",
+          "rate": 0.1359,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "$150",
+          "introductory": "No",
+          "promotional_details": "ClearGuarantee18: 18 Month fixed rate term. For more details on this product, please call us at 1-888-512-8994 or visit us at www.clearviewenergy.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.clearviewenergy.com/enrollment/?utilityid=81&utilityidG=&utilityname=Meted&utilitynameG=&ctype=Resi&utility-state=pa&productNum=416142",
+          "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=81&utilityidG=&utilityname=Meted&utilitynameG=&ctype=Resi&utility-state=pa&productNum=416142",
+          "phone": "888-512-8994",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -10023,8 +10057,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 135,
-      "last_fetched": "2026-09-19T15:17:04.178534Z"
+      "count": 137,
+      "last_fetched": "2026-09-19T18:22:53.714159Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -12317,7 +12351,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 134,
-      "last_fetched": "2026-09-19T15:17:04.796368Z"
+      "last_fetched": "2026-09-19T18:22:54.551236Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -14165,6 +14199,23 @@
         },
         {
           "name": "Clearview Energy",
+          "rate": 0.1729,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "$150",
+          "introductory": "No",
+          "promotional_details": "ClearGuarantee18: 18 Month fixed rate term. For more information on this product, please call us at 1-888-512-8994 or visit us at www.clearviewenergy.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.clearviewenergy.com/enrollment/?utilityid=95&utilityidG=&utilityname=PennPower&utilitynameG=&ctype=Resi&utility-state=pa&productNum=416246",
+          "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=95&utilityidG=&utilityname=PennPower&utilitynameG=&ctype=Resi&utility-state=pa&productNum=416246",
+          "phone": "888-512-8994",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Clearview Energy",
           "rate": 0.1749,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
@@ -14175,6 +14226,23 @@
           "monthly_fee": null,
           "website_url": "https://www.clearviewenergy.com/enrollment/?utilityid=95&utilityidG=&utilityname=PennPower&utilitynameG=&ctype=Resi&utility-state=pa&productNum=416244",
           "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=95&utilityidG=&utilityname=PennPower&utilitynameG=&ctype=Resi&utility-state=pa&productNum=416244",
+          "phone": "888-512-8994",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Clearview Energy",
+          "rate": 0.1789,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "$150",
+          "introductory": "No",
+          "promotional_details": "ClearGuarantee6: 6 Month fixed rate term. For more information on this product, please call us at 1-888-512-8994 or visit us at www.clearviewenergy.com.",
+          "monthly_fee": null,
+          "website_url": "https://www.clearviewenergy.com/enrollment/?utilityid=95&utilityidG=&utilityname=PennPower&utilitynameG=&ctype=Resi&utility-state=pa&productNum=416238",
+          "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=95&utilityidG=&utilityname=PennPower&utilitynameG=&ctype=Resi&utility-state=pa&productNum=416238",
           "phone": "888-512-8994",
           "renewable": "No",
           "bundle_required": false,
@@ -14235,8 +14303,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 112,
-      "last_fetched": "2026-09-19T15:17:05.316973Z"
+      "count": 114,
+      "last_fetched": "2026-09-19T18:22:55.066999Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16444,7 +16512,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 129,
-      "last_fetched": "2026-09-19T15:17:05.945399Z"
+      "last_fetched": "2026-09-19T18:22:55.663734Z"
     }
   }
 }
