@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T00:33:45.821342Z",
+  "last_updated": "2026-09-22T16:12:06.310675Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -642,7 +642,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 42,
-      "last_fetched": "2026-09-22T00:33:42.036332Z"
+      "last_fetched": "2026-09-22T16:12:04.799548Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -925,7 +925,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 18,
-      "last_fetched": "2026-09-22T00:33:42.813702Z"
+      "last_fetched": "2026-09-22T16:12:05.065859Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -937,7 +937,7 @@
       "suppliers": [
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.4083,
+          "rate": 0.4067,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -1570,7 +1570,7 @@
         "AAA Energy by Santanna"
       ],
       "count": 42,
-      "last_fetched": "2026-09-22T00:33:43.753888Z"
+      "last_fetched": "2026-09-22T16:12:05.428614Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2063,7 +2063,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-22T00:33:44.452668Z"
+      "last_fetched": "2026-09-22T16:12:05.750461Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2105,7 +2105,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.649,
+          "rate": 0.639,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -2286,7 +2286,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 14,
-      "last_fetched": "2026-09-22T00:33:45.098663Z"
+      "last_fetched": "2026-09-22T16:12:05.997922Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2387,6 +2387,21 @@
           "service_area": null
         },
         {
+          "name": "Verde Energy USA Pennsylvania LLC",
+          "rate": 0.669,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 12 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!  You can receive up to a $50 rebate when you sign up for this 12-month plan. Don't wait - take advantage and sign up today! Receive the first $25 after one month of service and the second $25 after 6 months of service.",
+          "monthly_fee": null,
+          "website_url": "https://www.verdeenergy.com/",
+          "signup_url": "https://www.verdeenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Major Energy Services",
           "rate": 0.671,
           "rate_type": "Fixed",
@@ -2458,21 +2473,6 @@
           "monthly_fee": null,
           "website_url": "https://shopping.pagande.com/cust/?PID=259CABDC-8E7C-4DC0-A476-FF73EC2C6A04&UID=0F07420A-5C99-4727-83FA-7E865EFF27E5&OID=62E92DBC-52EB-482D-B3E5-8E6E0D199001&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=259CABDC-8E7C-4DC0-A476-FF73EC2C6A04&UID=0F07420A-5C99-4727-83FA-7E865EFF27E5&OID=62E92DBC-52EB-482D-B3E5-8E6E0D199001&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Verde Energy USA Pennsylvania LLC",
-          "rate": 0.689,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 12 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!  You can receive up to a $50 rebate when you sign up for this 12-month plan. Don't wait - take advantage and sign up today! Receive the first $25 after one month of service and the second $25 after 6 months of service.",
-          "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/",
-          "signup_url": "https://www.verdeenergy.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -2794,7 +2794,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-09-22T00:33:45.821145Z"
+      "last_fetched": "2026-09-22T16:12:06.310496Z"
     }
   }
 }
