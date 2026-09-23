@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T04:04:33.618677Z",
+  "last_updated": "2026-09-23T16:01:07.768562Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -642,7 +642,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 42,
-      "last_fetched": "2026-09-23T04:04:32.243802Z"
+      "last_fetched": "2026-09-23T16:01:06.385767Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -925,7 +925,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 18,
-      "last_fetched": "2026-09-23T04:04:32.476534Z"
+      "last_fetched": "2026-09-23T16:01:06.609491Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -937,7 +937,7 @@
       "suppliers": [
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.4067,
+          "rate": 0.4057,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -955,7 +955,7 @@
           "rate": 0.417,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
-          "term_months": 4,
+          "term_months": 3,
           "early_termination_fee": "No",
           "introductory": "No",
           "promotional_details": null,
@@ -1570,7 +1570,7 @@
         "AAA Energy by Santanna"
       ],
       "count": 42,
-      "last_fetched": "2026-09-23T04:04:32.835461Z"
+      "last_fetched": "2026-09-23T16:01:07.024888Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2063,7 +2063,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-23T04:04:33.125290Z"
+      "last_fetched": "2026-09-23T16:01:07.302074Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2105,7 +2105,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.639,
+          "rate": 0.649,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -2286,7 +2286,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 14,
-      "last_fetched": "2026-09-23T04:04:33.343976Z"
+      "last_fetched": "2026-09-23T16:01:07.500509Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2794,7 +2794,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-09-23T04:04:33.618510Z"
+      "last_fetched": "2026-09-23T16:01:07.768367Z"
     }
   }
 }
