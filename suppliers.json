@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T17:32:29.335333Z",
+  "last_updated": "2026-09-30T21:49:50.991650Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -21,6 +21,21 @@
           "monthly_fee": null,
           "website_url": "https://shopping.energyharbor.com/cust/?PID=FE5F3EDE-A90A-4EDD-B2C8-A1A5B7D68CAB&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=F644E2BF-059C-4069-BC6C-CA4981BBB490&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.energyharbor.com/cust/?PID=FE5F3EDE-A90A-4EDD-B2C8-A1A5B7D68CAB&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=F644E2BF-059C-4069-BC6C-CA4981BBB490&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "American Electric Rates",
+          "rate": 0.369,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "Yes",
+          "promotional_details": "Flex Gas Choice Plan - 3 Months Fixed, then variable",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18964",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18964",
           "bundle_required": false,
           "service_area": null
         },
@@ -81,21 +96,6 @@
           "monthly_fee": null,
           "website_url": "https://www.pennsylvaniaenergy.com/gascpa30/",
           "signup_url": "https://www.pennsylvaniaenergy.com/gascpa30/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Electric Rates",
-          "rate": 0.39,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Flex Gas Choice Plan - 3 Months Fixed, then variable",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18232",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18232",
           "bundle_required": false,
           "service_area": null
         },
@@ -642,7 +642,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 42,
-      "last_fetched": "2026-09-30T17:32:27.958300Z"
+      "last_fetched": "2026-09-30T21:49:49.795979Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -925,7 +925,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 18,
-      "last_fetched": "2026-09-30T17:32:28.215121Z"
+      "last_fetched": "2026-09-30T21:49:49.997018Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1267,7 +1267,7 @@
         },
         {
           "name": "American Electric Rates",
-          "rate": 0.63,
+          "rate": 0.62,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 3,
@@ -1275,8 +1275,8 @@
           "introductory": "No",
           "promotional_details": "Flex Gas Choice Plan - 3 Months Fixed, then variable",
           "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18417",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18417",
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19440",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19440",
           "bundle_required": false,
           "service_area": null
         },
@@ -1506,21 +1506,6 @@
           "service_area": null
         },
         {
-          "name": "American Electric Rates",
-          "rate": 0.9,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "100% Carbon Offset Natural Gas for 3 Months",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18559",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18559",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Frontier Utilities",
           "rate": 0.949,
           "rate_type": "Fixed",
@@ -1551,6 +1536,21 @@
           "service_area": null
         },
         {
+          "name": "American Electric Rates",
+          "rate": 1.1499,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "100% Carbon Offset Natural Gas for 12 Months",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19459",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19459",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Energy Co-op",
           "rate": 2.5999,
           "rate_type": "Variable",
@@ -1570,7 +1570,7 @@
         "AAA Energy by Santanna"
       ],
       "count": 42,
-      "last_fetched": "2026-09-30T17:32:28.557288Z"
+      "last_fetched": "2026-09-30T21:49:50.303727Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2063,7 +2063,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-09-30T17:32:28.838906Z"
+      "last_fetched": "2026-09-30T21:49:50.555671Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2286,7 +2286,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 14,
-      "last_fetched": "2026-09-30T17:32:29.054938Z"
+      "last_fetched": "2026-09-30T21:49:50.741581Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2794,7 +2794,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-09-30T17:32:29.335129Z"
+      "last_fetched": "2026-09-30T21:49:50.991452Z"
     }
   }
 }
