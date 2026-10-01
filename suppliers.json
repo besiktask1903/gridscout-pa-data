@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T01:02:42.072468Z",
+  "last_updated": "2026-10-01T17:57:12.430618Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -15,12 +15,57 @@
           "rate_type": "Fixed",
           "rate_unit": "therm",
           "term_months": 12,
-          "early_termination_fee": "0",
+          "early_termination_fee": "No",
           "introductory": "No",
           "promotional_details": "Avoid price swings with a fixed natural gas rate for 12 months. Special offer for new, online customers.",
           "monthly_fee": null,
-          "website_url": "https://shopping.energyharbor.com/cust/?PID=FE5F3EDE-A90A-4EDD-B2C8-A1A5B7D68CAB&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=F644E2BF-059C-4069-BC6C-CA4981BBB490&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.energyharbor.com/cust/?PID=FE5F3EDE-A90A-4EDD-B2C8-A1A5B7D68CAB&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=F644E2BF-059C-4069-BC6C-CA4981BBB490&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
+          "website_url": "https://shopping.energyharbor.com/cust/?PID=FE5F3EDE-A90A-4EDD-B2C8-A1A5B7D68CAB&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=5EB1784F-0042-4B44-8235-5EFC3E8161D5&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.energyharbor.com/cust/?PID=FE5F3EDE-A90A-4EDD-B2C8-A1A5B7D68CAB&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=5EB1784F-0042-4B44-8235-5EFC3E8161D5&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Energy Harbor",
+          "rate": 0.3499,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 6,
+          "early_termination_fee": "0",
+          "introductory": "No",
+          "promotional_details": "Avoid price swings with a fixed natural gas rate for 6 months. Special offer for new, online customers.",
+          "monthly_fee": null,
+          "website_url": "https://shopping.energyharbor.com/cust/?PID=709374EE-2877-4AB2-B782-59432CD4DEF0&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=5EB1784F-0042-4B44-8235-5EFC3E8161D5&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.energyharbor.com/cust/?PID=709374EE-2877-4AB2-B782-59432CD4DEF0&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=5EB1784F-0042-4B44-8235-5EFC3E8161D5&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Pennsylvania Gas & Electric",
+          "rate": 0.3667,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 12,
+          "early_termination_fee": "ETF dependent on remaining term length",
+          "introductory": "No",
+          "promotional_details": "Get peace of mind with a fixed rate for 12 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
+          "monthly_fee": null,
+          "website_url": "https://shopping.pagande.com/cust/?PID=3E9E1A20-07D4-4AD1-9B6A-041A9DECAFF3&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=9BE811FE-FDB2-4B3F-93E7-AE6EB60C8ABD&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.pagande.com/cust/?PID=3E9E1A20-07D4-4AD1-9B6A-041A9DECAFF3&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=9BE811FE-FDB2-4B3F-93E7-AE6EB60C8ABD&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Pennsylvania Gas & Electric",
+          "rate": 0.3667,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 6,
+          "early_termination_fee": "PR",
+          "introductory": "No",
+          "promotional_details": "Get peace of mind with a fixed rate for 6 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
+          "monthly_fee": null,
+          "website_url": "https://shopping.pagande.com/cust/?PID=0737DB36-F839-4530-8C2B-60E440211FDC&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=9BE811FE-FDB2-4B3F-93E7-AE6EB60C8ABD&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.pagande.com/cust/?PID=0737DB36-F839-4530-8C2B-60E440211FDC&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=9BE811FE-FDB2-4B3F-93E7-AE6EB60C8ABD&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
@@ -36,36 +81,6 @@
           "monthly_fee": null,
           "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18964",
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18964",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Pennsylvania Gas & Electric",
-          "rate": 0.3788,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 12,
-          "early_termination_fee": "ETF dependent on remaining term length",
-          "introductory": "No",
-          "promotional_details": "Get peace of mind with a fixed rate for 12 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
-          "monthly_fee": null,
-          "website_url": "https://shopping.pagande.com/cust/?PID=3E9E1A20-07D4-4AD1-9B6A-041A9DECAFF3&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=A35D7ABF-529A-4F5C-8C9C-FADE48F93409&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.pagande.com/cust/?PID=3E9E1A20-07D4-4AD1-9B6A-041A9DECAFF3&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=A35D7ABF-529A-4F5C-8C9C-FADE48F93409&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Pennsylvania Gas & Electric",
-          "rate": 0.3788,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 6,
-          "early_termination_fee": "PR",
-          "introductory": "No",
-          "promotional_details": "Get peace of mind with a fixed rate for 6 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
-          "monthly_fee": null,
-          "website_url": "https://shopping.pagande.com/cust/?PID=0737DB36-F839-4530-8C2B-60E440211FDC&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=A35D7ABF-529A-4F5C-8C9C-FADE48F93409&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.pagande.com/cust/?PID=0737DB36-F839-4530-8C2B-60E440211FDC&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=A35D7ABF-529A-4F5C-8C9C-FADE48F93409&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
@@ -86,21 +101,6 @@
         },
         {
           "name": "Pennsylvania Energy",
-          "rate": 0.379,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 12,
-          "early_termination_fee": "$10 per remaining month",
-          "introductory": "No",
-          "promotional_details": "Promo Code GASCPA30.  This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 12 months of your contract. If you choose our 12-Month Fixed Plan, you will be billed at a fixed price per therm for the length of your contract.",
-          "monthly_fee": null,
-          "website_url": "https://www.pennsylvaniaenergy.com/gascpa30/",
-          "signup_url": "https://www.pennsylvaniaenergy.com/gascpa30/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Pennsylvania Energy",
           "rate": 0.399,
           "rate_type": "Variable",
           "rate_unit": "therm",
@@ -111,6 +111,21 @@
           "monthly_fee": null,
           "website_url": "https://www.pennsylvaniaenergy.com/",
           "signup_url": "https://www.pennsylvaniaenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Pennsylvania Energy",
+          "rate": 0.399,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 12,
+          "early_termination_fee": "$10 per remaining month",
+          "introductory": "No",
+          "promotional_details": "BONUS - offer includes a $30 digital Visa Reward Card! (Promo Code GASCPA30).  This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 12 months of your contract. If you choose our 12-Month Fixed Plan, you will be billed at a fixed price per therm for the length of your contract.",
+          "monthly_fee": null,
+          "website_url": "https://www.pennsylvaniaenergy.com/gascpa30/",
+          "signup_url": "https://www.pennsylvaniaenergy.com/gascpa30/",
           "bundle_required": false,
           "service_area": null
         },
@@ -134,28 +149,13 @@
           "rate": 0.3999,
           "rate_type": "Fixed",
           "rate_unit": "therm",
-          "term_months": 6,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "Avoid price swings with a fixed natural gas rate for 6 months. Special offer for new, online customers.",
-          "monthly_fee": null,
-          "website_url": "https://shopping.energyharbor.com/cust/?PID=709374EE-2877-4AB2-B782-59432CD4DEF0&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=F644E2BF-059C-4069-BC6C-CA4981BBB490&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.energyharbor.com/cust/?PID=709374EE-2877-4AB2-B782-59432CD4DEF0&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=F644E2BF-059C-4069-BC6C-CA4981BBB490&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Energy Harbor",
-          "rate": 0.3999,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
           "term_months": 18,
           "early_termination_fee": "0",
           "introductory": "No",
           "promotional_details": "Avoid price swings with a fixed natural gas rate for 18 months. Special offer for new, online customers.",
           "monthly_fee": null,
-          "website_url": "https://shopping.energyharbor.com/cust/?PID=0E751E6A-6A67-469A-916D-DEC330306279&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=F644E2BF-059C-4069-BC6C-CA4981BBB490&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.energyharbor.com/cust/?PID=0E751E6A-6A67-469A-916D-DEC330306279&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=F644E2BF-059C-4069-BC6C-CA4981BBB490&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
+          "website_url": "https://shopping.energyharbor.com/cust/?PID=0E751E6A-6A67-469A-916D-DEC330306279&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=5EB1784F-0042-4B44-8235-5EFC3E8161D5&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.energyharbor.com/cust/?PID=0E751E6A-6A67-469A-916D-DEC330306279&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=5EB1784F-0042-4B44-8235-5EFC3E8161D5&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
@@ -184,8 +184,8 @@
           "introductory": "No",
           "promotional_details": "Get peace of mind with a fixed rate for 18 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
           "monthly_fee": null,
-          "website_url": "https://shopping.pagande.com/cust/?PID=FC33BF89-ECE9-4DF4-9E91-C8C90B2BED13&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=A35D7ABF-529A-4F5C-8C9C-FADE48F93409&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.pagande.com/cust/?PID=FC33BF89-ECE9-4DF4-9E91-C8C90B2BED13&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=A35D7ABF-529A-4F5C-8C9C-FADE48F93409&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "website_url": "https://shopping.pagande.com/cust/?PID=FC33BF89-ECE9-4DF4-9E91-C8C90B2BED13&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=9BE811FE-FDB2-4B3F-93E7-AE6EB60C8ABD&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.pagande.com/cust/?PID=FC33BF89-ECE9-4DF4-9E91-C8C90B2BED13&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=9BE811FE-FDB2-4B3F-93E7-AE6EB60C8ABD&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
@@ -199,8 +199,23 @@
           "introductory": "No",
           "promotional_details": "Get peace of mind with a fixed rate for 24 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
           "monthly_fee": null,
-          "website_url": "https://shopping.pagande.com/cust/?PID=3034414C-D18B-4682-A32C-9E0053D79D47&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=A35D7ABF-529A-4F5C-8C9C-FADE48F93409&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.pagande.com/cust/?PID=3034414C-D18B-4682-A32C-9E0053D79D47&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=A35D7ABF-529A-4F5C-8C9C-FADE48F93409&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "website_url": "https://shopping.pagande.com/cust/?PID=3034414C-D18B-4682-A32C-9E0053D79D47&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=9BE811FE-FDB2-4B3F-93E7-AE6EB60C8ABD&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.pagande.com/cust/?PID=3034414C-D18B-4682-A32C-9E0053D79D47&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=9BE811FE-FDB2-4B3F-93E7-AE6EB60C8ABD&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Pennsylvania Gas & Electric",
+          "rate": 0.439,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 36,
+          "early_termination_fee": "PR",
+          "introductory": "No",
+          "promotional_details": "Get peace of mind with a fixed rate for 36 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
+          "monthly_fee": null,
+          "website_url": "https://shopping.pagande.com/cust/?PID=8348B0B4-7539-4E8D-9871-3538DB6BE580&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=9BE811FE-FDB2-4B3F-93E7-AE6EB60C8ABD&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.pagande.com/cust/?PID=8348B0B4-7539-4E8D-9871-3538DB6BE580&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=9BE811FE-FDB2-4B3F-93E7-AE6EB60C8ABD&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
@@ -225,12 +240,12 @@
           "rate_type": "Fixed",
           "rate_unit": "therm",
           "term_months": 24,
-          "early_termination_fee": "0",
+          "early_termination_fee": "No",
           "introductory": "No",
           "promotional_details": "Avoid price swings with a fixed natural gas rate for 24 months. Special offer for new, online customers.",
           "monthly_fee": null,
-          "website_url": "https://shopping.energyharbor.com/cust/?PID=252025B8-B669-4174-8E1F-15E034E3AA47&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=F644E2BF-059C-4069-BC6C-CA4981BBB490&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.energyharbor.com/cust/?PID=252025B8-B669-4174-8E1F-15E034E3AA47&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=F644E2BF-059C-4069-BC6C-CA4981BBB490&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
+          "website_url": "https://shopping.energyharbor.com/cust/?PID=252025B8-B669-4174-8E1F-15E034E3AA47&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=5EB1784F-0042-4B44-8235-5EFC3E8161D5&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.energyharbor.com/cust/?PID=252025B8-B669-4174-8E1F-15E034E3AA47&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=5EB1784F-0042-4B44-8235-5EFC3E8161D5&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
@@ -244,23 +259,8 @@
           "introductory": "No",
           "promotional_details": "Avoid price swings with a fixed natural gas rate for 36 months. Special offer for new, online customers.",
           "monthly_fee": null,
-          "website_url": "https://shopping.energyharbor.com/cust/?PID=AC300C1E-3F03-4267-A32B-F305A376EC1C&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=F644E2BF-059C-4069-BC6C-CA4981BBB490&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.energyharbor.com/cust/?PID=AC300C1E-3F03-4267-A32B-F305A376EC1C&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=F644E2BF-059C-4069-BC6C-CA4981BBB490&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Pennsylvania Gas & Electric",
-          "rate": 0.459,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 36,
-          "early_termination_fee": "PR",
-          "introductory": "No",
-          "promotional_details": "Get peace of mind with a fixed rate for 36 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
-          "monthly_fee": null,
-          "website_url": "https://shopping.pagande.com/cust/?PID=8348B0B4-7539-4E8D-9871-3538DB6BE580&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=A35D7ABF-529A-4F5C-8C9C-FADE48F93409&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.pagande.com/cust/?PID=8348B0B4-7539-4E8D-9871-3538DB6BE580&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=A35D7ABF-529A-4F5C-8C9C-FADE48F93409&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "website_url": "https://shopping.energyharbor.com/cust/?PID=AC300C1E-3F03-4267-A32B-F305A376EC1C&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=5EB1784F-0042-4B44-8235-5EFC3E8161D5&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.energyharbor.com/cust/?PID=AC300C1E-3F03-4267-A32B-F305A376EC1C&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=5EB1784F-0042-4B44-8235-5EFC3E8161D5&RFID=PAPS&PUC=1&STATE=PA&SN=EH&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
@@ -642,7 +642,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 42,
-      "last_fetched": "2026-10-01T01:02:40.595469Z"
+      "last_fetched": "2026-10-01T17:57:10.974427Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -654,7 +654,7 @@
       "suppliers": [
         {
           "name": "Pennsylvania Gas & Electric",
-          "rate": 0.445,
+          "rate": 0.45,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 10,
@@ -662,14 +662,14 @@
           "introductory": "No",
           "promotional_details": "Get peace of mind with a fixed rate for 10 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
           "monthly_fee": null,
-          "website_url": "https://shopping.pagande.com/cust/?PID=CA8BD5CD-86C8-40DB-91D4-9569D907213D&UID=88011281-722F-4AEE-99E8-6BD27F44DB8D&OID=F9499737-BC52-4701-AD6A-2F1D1ECB4909&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.pagande.com/cust/?PID=CA8BD5CD-86C8-40DB-91D4-9569D907213D&UID=88011281-722F-4AEE-99E8-6BD27F44DB8D&OID=F9499737-BC52-4701-AD6A-2F1D1ECB4909&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "website_url": "https://shopping.pagande.com/cust/?PID=CA8BD5CD-86C8-40DB-91D4-9569D907213D&UID=88011281-722F-4AEE-99E8-6BD27F44DB8D&OID=AD8382AF-BA97-44AA-9F28-B89604E44CB3&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.pagande.com/cust/?PID=CA8BD5CD-86C8-40DB-91D4-9569D907213D&UID=88011281-722F-4AEE-99E8-6BD27F44DB8D&OID=AD8382AF-BA97-44AA-9F28-B89604E44CB3&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
         {
           "name": "Pennsylvania Gas & Electric",
-          "rate": 0.45,
+          "rate": 0.47,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -677,14 +677,14 @@
           "introductory": "No",
           "promotional_details": "Get peace of mind with a fixed rate for 12 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
           "monthly_fee": null,
-          "website_url": "https://shopping.pagande.com/cust/?PID=30FA5F0D-DB98-4423-B70B-52EEB4579799&UID=88011281-722F-4AEE-99E8-6BD27F44DB8D&OID=F9499737-BC52-4701-AD6A-2F1D1ECB4909&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.pagande.com/cust/?PID=30FA5F0D-DB98-4423-B70B-52EEB4579799&UID=88011281-722F-4AEE-99E8-6BD27F44DB8D&OID=F9499737-BC52-4701-AD6A-2F1D1ECB4909&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "website_url": "https://shopping.pagande.com/cust/?PID=30FA5F0D-DB98-4423-B70B-52EEB4579799&UID=88011281-722F-4AEE-99E8-6BD27F44DB8D&OID=AD8382AF-BA97-44AA-9F28-B89604E44CB3&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.pagande.com/cust/?PID=30FA5F0D-DB98-4423-B70B-52EEB4579799&UID=88011281-722F-4AEE-99E8-6BD27F44DB8D&OID=AD8382AF-BA97-44AA-9F28-B89604E44CB3&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
         {
           "name": "Pennsylvania Gas & Electric",
-          "rate": 0.45,
+          "rate": 0.48,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 15,
@@ -692,8 +692,8 @@
           "introductory": "No",
           "promotional_details": "Get peace of mind with a fixed rate for 15 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
           "monthly_fee": null,
-          "website_url": "https://shopping.pagande.com/cust/?PID=EC012F38-DE9C-459D-A3C0-ACF1DE1C873C&UID=88011281-722F-4AEE-99E8-6BD27F44DB8D&OID=F9499737-BC52-4701-AD6A-2F1D1ECB4909&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.pagande.com/cust/?PID=EC012F38-DE9C-459D-A3C0-ACF1DE1C873C&UID=88011281-722F-4AEE-99E8-6BD27F44DB8D&OID=F9499737-BC52-4701-AD6A-2F1D1ECB4909&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "website_url": "https://shopping.pagande.com/cust/?PID=EC012F38-DE9C-459D-A3C0-ACF1DE1C873C&UID=88011281-722F-4AEE-99E8-6BD27F44DB8D&OID=AD8382AF-BA97-44AA-9F28-B89604E44CB3&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.pagande.com/cust/?PID=EC012F38-DE9C-459D-A3C0-ACF1DE1C873C&UID=88011281-722F-4AEE-99E8-6BD27F44DB8D&OID=AD8382AF-BA97-44AA-9F28-B89604E44CB3&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
@@ -797,8 +797,8 @@
           "introductory": "No",
           "promotional_details": "Manage your budget and secure your rate for 12 months. Special offer for new, online customers.",
           "monthly_fee": null,
-          "website_url": "https://www.ambitenergy.com/",
-          "signup_url": "https://www.ambitenergy.com/",
+          "website_url": "https://www.ambitenergy.com/?RFID=PAPS",
+          "signup_url": "https://www.ambitenergy.com/?RFID=PAPS",
           "bundle_required": false,
           "service_area": null
         },
@@ -844,6 +844,21 @@
           "monthly_fee": null,
           "website_url": "https://www.wglenergy.com/",
           "signup_url": "https://www.wglenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Ambit Energy",
+          "rate": 0.67,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Receive $50 in Reward Dollars each month on this fixed rate term plan. Special offer for new, online customers.",
+          "monthly_fee": null,
+          "website_url": "https://www.ambitenergy.com/?RFID=PAPS",
+          "signup_url": "https://www.ambitenergy.com/?RFID=PAPS",
           "bundle_required": false,
           "service_area": null
         },
@@ -924,8 +939,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 18,
-      "last_fetched": "2026-10-01T01:02:40.855863Z"
+      "count": 19,
+      "last_fetched": "2026-10-01T17:57:11.257031Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -937,7 +952,7 @@
       "suppliers": [
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.4052,
+          "rate": 0.3987,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -982,7 +997,7 @@
         },
         {
           "name": "Pennsylvania Gas & Electric",
-          "rate": 0.439,
+          "rate": 0.429,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -990,8 +1005,23 @@
           "introductory": "No",
           "promotional_details": "Get peace of mind with a fixed rate for 12 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
           "monthly_fee": null,
-          "website_url": "https://shopping.pagande.com/cust/?PID=585B535C-0E4F-4E7A-A590-42A4F090E931&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=367A7BBC-88D0-4560-99D2-6A387AE9E0D9&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.pagande.com/cust/?PID=585B535C-0E4F-4E7A-A590-42A4F090E931&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=367A7BBC-88D0-4560-99D2-6A387AE9E0D9&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "website_url": "https://shopping.pagande.com/cust/?PID=585B535C-0E4F-4E7A-A590-42A4F090E931&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=603EB77C-17C4-464B-8B57-AE77CF17CAB0&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.pagande.com/cust/?PID=585B535C-0E4F-4E7A-A590-42A4F090E931&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=603EB77C-17C4-464B-8B57-AE77CF17CAB0&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Pennsylvania Gas & Electric",
+          "rate": 0.439,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 6,
+          "early_termination_fee": "0",
+          "introductory": "No",
+          "promotional_details": "Get peace of mind with a fixed rate for 6 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
+          "monthly_fee": null,
+          "website_url": "https://shopping.pagande.com/cust/?PID=AFF825E5-2DA6-4175-AE46-826B3F6B7261&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=603EB77C-17C4-464B-8B57-AE77CF17CAB0&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.pagande.com/cust/?PID=AFF825E5-2DA6-4175-AE46-826B3F6B7261&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=603EB77C-17C4-464B-8B57-AE77CF17CAB0&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
@@ -1012,22 +1042,7 @@
         },
         {
           "name": "Pennsylvania Gas & Electric",
-          "rate": 0.449,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 6,
-          "early_termination_fee": "0",
-          "introductory": "No",
-          "promotional_details": "Get peace of mind with a fixed rate for 6 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
-          "monthly_fee": null,
-          "website_url": "https://shopping.pagande.com/cust/?PID=AFF825E5-2DA6-4175-AE46-826B3F6B7261&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=367A7BBC-88D0-4560-99D2-6A387AE9E0D9&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.pagande.com/cust/?PID=AFF825E5-2DA6-4175-AE46-826B3F6B7261&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=367A7BBC-88D0-4560-99D2-6A387AE9E0D9&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Pennsylvania Gas & Electric",
-          "rate": 0.469,
+          "rate": 0.459,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 18,
@@ -1035,8 +1050,8 @@
           "introductory": "No",
           "promotional_details": "Get peace of mind with a fixed rate for 18 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
           "monthly_fee": null,
-          "website_url": "https://shopping.pagande.com/cust/?PID=2D74D4FB-0475-496B-9A68-D9F2A51886F7&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=367A7BBC-88D0-4560-99D2-6A387AE9E0D9&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.pagande.com/cust/?PID=2D74D4FB-0475-496B-9A68-D9F2A51886F7&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=367A7BBC-88D0-4560-99D2-6A387AE9E0D9&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "website_url": "https://shopping.pagande.com/cust/?PID=2D74D4FB-0475-496B-9A68-D9F2A51886F7&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=603EB77C-17C4-464B-8B57-AE77CF17CAB0&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.pagande.com/cust/?PID=2D74D4FB-0475-496B-9A68-D9F2A51886F7&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=603EB77C-17C4-464B-8B57-AE77CF17CAB0&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
@@ -1050,8 +1065,8 @@
           "introductory": "No",
           "promotional_details": "Get peace of mind with a fixed rate for 24 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
           "monthly_fee": null,
-          "website_url": "https://shopping.pagande.com/cust/?PID=F0A993AD-E01C-434B-A700-DAF2208B38A8&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=367A7BBC-88D0-4560-99D2-6A387AE9E0D9&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.pagande.com/cust/?PID=F0A993AD-E01C-434B-A700-DAF2208B38A8&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=367A7BBC-88D0-4560-99D2-6A387AE9E0D9&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "website_url": "https://shopping.pagande.com/cust/?PID=F0A993AD-E01C-434B-A700-DAF2208B38A8&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=603EB77C-17C4-464B-8B57-AE77CF17CAB0&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.pagande.com/cust/?PID=F0A993AD-E01C-434B-A700-DAF2208B38A8&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=603EB77C-17C4-464B-8B57-AE77CF17CAB0&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
@@ -1065,8 +1080,8 @@
           "introductory": "No",
           "promotional_details": "Get peace of mind with a fixed rate for 36 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
           "monthly_fee": null,
-          "website_url": "https://shopping.pagande.com/cust/?PID=3BBAA0F1-777C-4D50-A832-38D9DB475BFE&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=367A7BBC-88D0-4560-99D2-6A387AE9E0D9&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.pagande.com/cust/?PID=3BBAA0F1-777C-4D50-A832-38D9DB475BFE&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=367A7BBC-88D0-4560-99D2-6A387AE9E0D9&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "website_url": "https://shopping.pagande.com/cust/?PID=3BBAA0F1-777C-4D50-A832-38D9DB475BFE&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=603EB77C-17C4-464B-8B57-AE77CF17CAB0&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.pagande.com/cust/?PID=3BBAA0F1-777C-4D50-A832-38D9DB475BFE&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=603EB77C-17C4-464B-8B57-AE77CF17CAB0&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
@@ -1552,7 +1567,7 @@
         },
         {
           "name": "Energy Co-op",
-          "rate": 2.5999,
+          "rate": 1.8999,
           "rate_type": "Variable",
           "rate_unit": "Ccf",
           "term_months": null,
@@ -1570,7 +1585,7 @@
         "AAA Energy by Santanna"
       ],
       "count": 42,
-      "last_fetched": "2026-10-01T01:02:41.215556Z"
+      "last_fetched": "2026-10-01T17:57:11.607198Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -1581,21 +1596,6 @@
       "sco_previous_date": "2026-07-01",
       "suppliers": [
         {
-          "name": "Pennsylvania Energy",
-          "rate": 3.39,
-          "rate_type": "Fixed",
-          "rate_unit": "Mcf",
-          "term_months": 6,
-          "early_termination_fee": "$10 per remaining month",
-          "introductory": "No",
-          "promotional_details": "This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 6 months of your contract. If you choose our 6-Month Fixed Plan, you will be billed at a fixed price per Mcf for the length of your contract. Currently not servicing legacy TWP customers.",
-          "monthly_fee": null,
-          "website_url": "https://www.pennsylvaniaenergy.com/list-plans/?rateClassCode=01&ldcCode=PEQ",
-          "signup_url": "https://www.pennsylvaniaenergy.com/list-plans/?rateClassCode=01&ldcCode=PEQ",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Nordic Energy Services",
           "rate": 3.49,
           "rate_type": "Variable",
@@ -1622,21 +1622,6 @@
           "monthly_fee": null,
           "website_url": "https://www.nordicenergy-us.com/",
           "signup_url": "https://www.nordicenergy-us.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Pennsylvania Energy",
-          "rate": 3.59,
-          "rate_type": "Fixed",
-          "rate_unit": "Mcf",
-          "term_months": 12,
-          "early_termination_fee": "$10 per remaining month",
-          "introductory": "No",
-          "promotional_details": "Promo Code GASPEQ. This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 12 months of your contract. If you choose our 12-Month Fixed Plan, you will be billed at a fixed price per Mcf for the length of your contract.  Currently not servicing legacy TWP customers.",
-          "monthly_fee": null,
-          "website_url": "https://www.pennsylvaniaenergy.com/gaspeq/",
-          "signup_url": "https://www.pennsylvaniaenergy.com/gaspeq/",
           "bundle_required": false,
           "service_area": null
         },
@@ -1680,8 +1665,8 @@
           "introductory": "No",
           "promotional_details": "Get peace of mind with a fixed rate for 12 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
           "monthly_fee": null,
-          "website_url": "https://shopping.pagande.com/cust/?PID=CBC7B981-6F5D-4A24-87FB-99C04FC14259&UID=F785C1CC-CEB1-49BB-9E24-5EDE890C409D&OID=27FFA0D9-5BC6-43F2-AA5C-DF93511772FE&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.pagande.com/cust/?PID=CBC7B981-6F5D-4A24-87FB-99C04FC14259&UID=F785C1CC-CEB1-49BB-9E24-5EDE890C409D&OID=27FFA0D9-5BC6-43F2-AA5C-DF93511772FE&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "website_url": "https://shopping.pagande.com/cust/?PID=CBC7B981-6F5D-4A24-87FB-99C04FC14259&UID=F785C1CC-CEB1-49BB-9E24-5EDE890C409D&OID=00976273-80A9-4A7C-B573-7170E6542440&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.pagande.com/cust/?PID=CBC7B981-6F5D-4A24-87FB-99C04FC14259&UID=F785C1CC-CEB1-49BB-9E24-5EDE890C409D&OID=00976273-80A9-4A7C-B573-7170E6542440&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
@@ -1695,8 +1680,8 @@
           "introductory": "No",
           "promotional_details": "Get peace of mind with a fixed rate for 10 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
           "monthly_fee": null,
-          "website_url": "https://shopping.pagande.com/cust/?PID=20C08D15-DF56-4D21-AD96-368CDA69F300&UID=F785C1CC-CEB1-49BB-9E24-5EDE890C409D&OID=27FFA0D9-5BC6-43F2-AA5C-DF93511772FE&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.pagande.com/cust/?PID=20C08D15-DF56-4D21-AD96-368CDA69F300&UID=F785C1CC-CEB1-49BB-9E24-5EDE890C409D&OID=27FFA0D9-5BC6-43F2-AA5C-DF93511772FE&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "website_url": "https://shopping.pagande.com/cust/?PID=20C08D15-DF56-4D21-AD96-368CDA69F300&UID=F785C1CC-CEB1-49BB-9E24-5EDE890C409D&OID=00976273-80A9-4A7C-B573-7170E6542440&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.pagande.com/cust/?PID=20C08D15-DF56-4D21-AD96-368CDA69F300&UID=F785C1CC-CEB1-49BB-9E24-5EDE890C409D&OID=00976273-80A9-4A7C-B573-7170E6542440&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
@@ -1710,14 +1695,44 @@
           "introductory": "No",
           "promotional_details": "Get peace of mind with a fixed rate for 15 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
           "monthly_fee": null,
-          "website_url": "https://shopping.pagande.com/cust/?PID=6AF1CA18-2C85-424A-B16A-133DF83D1FB0&UID=F785C1CC-CEB1-49BB-9E24-5EDE890C409D&OID=27FFA0D9-5BC6-43F2-AA5C-DF93511772FE&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.pagande.com/cust/?PID=6AF1CA18-2C85-424A-B16A-133DF83D1FB0&UID=F785C1CC-CEB1-49BB-9E24-5EDE890C409D&OID=27FFA0D9-5BC6-43F2-AA5C-DF93511772FE&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "website_url": "https://shopping.pagande.com/cust/?PID=6AF1CA18-2C85-424A-B16A-133DF83D1FB0&UID=F785C1CC-CEB1-49BB-9E24-5EDE890C409D&OID=00976273-80A9-4A7C-B573-7170E6542440&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.pagande.com/cust/?PID=6AF1CA18-2C85-424A-B16A-133DF83D1FB0&UID=F785C1CC-CEB1-49BB-9E24-5EDE890C409D&OID=00976273-80A9-4A7C-B573-7170E6542440&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
         {
           "name": "Pennsylvania Energy",
           "rate": 3.99,
+          "rate_type": "Fixed",
+          "rate_unit": "Mcf",
+          "term_months": 12,
+          "early_termination_fee": "$10 per remaining month",
+          "introductory": "No",
+          "promotional_details": "BONUS - offer includes a $30 digital Visa Reward Card! (Promo Code: GASPEQ30).  This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 12 months of your contract. If you choose our 12-Month Fixed Plan, you will be billed at a fixed price per Mcf for the length of your contract.  Currently not servicing legacy TWP customers",
+          "monthly_fee": null,
+          "website_url": "https://www.pennsylvaniaenergy.com/gaspeq30/",
+          "signup_url": "https://www.pennsylvaniaenergy.com/gaspeq30/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Pennsylvania Energy",
+          "rate": 3.99,
+          "rate_type": "Fixed",
+          "rate_unit": "Mcf",
+          "term_months": 6,
+          "early_termination_fee": "$10 per remaining month",
+          "introductory": "No",
+          "promotional_details": "This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 6 months of your contract. If you choose our 6-Month Fixed Plan, you will be billed at a fixed price per Mcf for the length of your contract. Currently not servicing legacy TWP customers.",
+          "monthly_fee": null,
+          "website_url": "https://www.pennsylvaniaenergy.com/list-plans/?rateClassCode=01&ldcCode=PEQ",
+          "signup_url": "https://www.pennsylvaniaenergy.com/list-plans/?rateClassCode=01&ldcCode=PEQ",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Pennsylvania Energy",
+          "rate": 4.09,
           "rate_type": "Variable",
           "rate_unit": "Mcf",
           "term_months": null,
@@ -2063,7 +2078,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-10-01T01:02:41.514123Z"
+      "last_fetched": "2026-10-01T17:57:11.895122Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2105,7 +2120,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.649,
+          "rate": 0.639,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -2209,6 +2224,21 @@
           "service_area": null
         },
         {
+          "name": "Pennsylvania Energy",
+          "rate": 0.799,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "$10 per remaining month",
+          "introductory": "No",
+          "promotional_details": "BONUS - offer includes a $30 digital Visa Reward Card! (Promo Code GASPGW30).  This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 12 months of your contract. If you choose our 12-Month Fixed Plan, you will be billed at a fixed price per Ccf for the length of your contract.",
+          "monthly_fee": null,
+          "website_url": "https://www.pennsylvaniaenergy.com/gaspgw30/",
+          "signup_url": "https://www.pennsylvaniaenergy.com/gaspgw30/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Clearview Energy",
           "rate": 0.8323,
           "rate_type": "Variable",
@@ -2239,21 +2269,6 @@
           "service_area": null
         },
         {
-          "name": "Pennsylvania Energy",
-          "rate": 0.899,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "$10 per remaining month",
-          "introductory": "No",
-          "promotional_details": "Promo Code GASPGW30.  This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 12 months of your contract. If you choose our 12-Month Fixed Plan, you will be billed at a fixed price per Ccf for the length of your contract.",
-          "monthly_fee": null,
-          "website_url": "https://www.pennsylvaniaenergy.com/gaspgw30/",
-          "signup_url": "https://www.pennsylvaniaenergy.com/gaspgw30/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Alpha Gas and Electric LLC",
           "rate": 1.2,
           "rate_type": "Fixed",
@@ -2270,7 +2285,7 @@
         },
         {
           "name": "Energy Co-op",
-          "rate": 2.5999,
+          "rate": 1.8999,
           "rate_type": "Variable",
           "rate_unit": "Ccf",
           "term_months": null,
@@ -2286,7 +2301,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 14,
-      "last_fetched": "2026-10-01T01:02:41.749030Z"
+      "last_fetched": "2026-10-01T17:57:12.142728Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2308,6 +2323,21 @@
           "monthly_fee": null,
           "website_url": "https://www.americanpowerandgas.com/",
           "signup_url": "https://www.americanpowerandgas.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Pennsylvania Energy",
+          "rate": 0.559,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "$10 per remaining month",
+          "introductory": "No",
+          "promotional_details": "BONUS - offer includes a $30 digital Visa Reward Card! (Promo Code GASUGI30).  This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 12 months of your contract. If you choose our 12-Month Fixed Plan, you will be billed at a fixed price per Ccf and a $3.99 supplier customer charge for the length of your contract.",
+          "monthly_fee": 3.99,
+          "website_url": "https://www.pennsylvaniaenergy.com/gasugi30/",
+          "signup_url": "https://www.pennsylvaniaenergy.com/gasugi30/",
           "bundle_required": false,
           "service_area": null
         },
@@ -2336,23 +2366,23 @@
           "introductory": "No",
           "promotional_details": "Get peace of mind with a fixed rate for 10 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
           "monthly_fee": null,
-          "website_url": "https://shopping.pagande.com/cust/?PID=928068D0-FF41-498E-8755-BC3262AB7BB3&UID=0F07420A-5C99-4727-83FA-7E865EFF27E5&OID=62E92DBC-52EB-482D-B3E5-8E6E0D199001&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.pagande.com/cust/?PID=928068D0-FF41-498E-8755-BC3262AB7BB3&UID=0F07420A-5C99-4727-83FA-7E865EFF27E5&OID=62E92DBC-52EB-482D-B3E5-8E6E0D199001&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "website_url": "https://shopping.pagande.com/cust/?PID=928068D0-FF41-498E-8755-BC3262AB7BB3&UID=0F07420A-5C99-4727-83FA-7E865EFF27E5&OID=42093221-0129-478D-A144-5CB18BB2A461&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.pagande.com/cust/?PID=928068D0-FF41-498E-8755-BC3262AB7BB3&UID=0F07420A-5C99-4727-83FA-7E865EFF27E5&OID=42093221-0129-478D-A144-5CB18BB2A461&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
         {
-          "name": "Pennsylvania Energy",
-          "rate": 0.639,
+          "name": "Pennsylvania Gas & Electric",
+          "rate": 0.645,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "$10 per remaining month",
+          "term_months": 15,
+          "early_termination_fee": "PR",
           "introductory": "No",
-          "promotional_details": "Promo Code GASUGI. This fixed price plan gives you the peace of mind of knowing exactly what you will pay for the gas you use over the 12 months of your contract. If you choose our 12-Month Fixed Plan, you will be billed at a fixed price per Ccf and a $3.99 supplier customer charge for the length of your contract.",
-          "monthly_fee": 3.99,
-          "website_url": "https://www.pennsylvaniaenergy.com/gasugi/",
-          "signup_url": "https://www.pennsylvaniaenergy.com/gasugi/",
+          "promotional_details": "Get peace of mind with a fixed rate for 15 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
+          "monthly_fee": null,
+          "website_url": "https://shopping.pagande.com/cust/?PID=259CABDC-8E7C-4DC0-A476-FF73EC2C6A04&UID=0F07420A-5C99-4727-83FA-7E865EFF27E5&OID=42093221-0129-478D-A144-5CB18BB2A461&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.pagande.com/cust/?PID=259CABDC-8E7C-4DC0-A476-FF73EC2C6A04&UID=0F07420A-5C99-4727-83FA-7E865EFF27E5&OID=42093221-0129-478D-A144-5CB18BB2A461&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
@@ -2426,8 +2456,8 @@
           "introductory": "No",
           "promotional_details": "Get peace of mind with a fixed rate for 12 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
           "monthly_fee": null,
-          "website_url": "https://shopping.pagande.com/cust/?PID=7C9322DB-DFC1-4E4C-941F-AB62E942949A&UID=0F07420A-5C99-4727-83FA-7E865EFF27E5&OID=62E92DBC-52EB-482D-B3E5-8E6E0D199001&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.pagande.com/cust/?PID=7C9322DB-DFC1-4E4C-941F-AB62E942949A&UID=0F07420A-5C99-4727-83FA-7E865EFF27E5&OID=62E92DBC-52EB-482D-B3E5-8E6E0D199001&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "website_url": "https://shopping.pagande.com/cust/?PID=7C9322DB-DFC1-4E4C-941F-AB62E942949A&UID=0F07420A-5C99-4727-83FA-7E865EFF27E5&OID=42093221-0129-478D-A144-5CB18BB2A461&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
+          "signup_url": "https://shopping.pagande.com/cust/?PID=7C9322DB-DFC1-4E4C-941F-AB62E942949A&UID=0F07420A-5C99-4727-83FA-7E865EFF27E5&OID=42093221-0129-478D-A144-5CB18BB2A461&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
@@ -2458,21 +2488,6 @@
           "monthly_fee": null,
           "website_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=720",
           "signup_url": "https://shop.directenergy.com/usn/gas-state-fixed?msid=720",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Pennsylvania Gas & Electric",
-          "rate": 0.685,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 15,
-          "early_termination_fee": "PR",
-          "introductory": "No",
-          "promotional_details": "Get peace of mind with a fixed rate for 15 months - plus, $50 in Reward Dollars every month once your account's active. Special offer for new, online customers.",
-          "monthly_fee": null,
-          "website_url": "https://shopping.pagande.com/cust/?PID=259CABDC-8E7C-4DC0-A476-FF73EC2C6A04&UID=0F07420A-5C99-4727-83FA-7E865EFF27E5&OID=62E92DBC-52EB-482D-B3E5-8E6E0D199001&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "signup_url": "https://shopping.pagande.com/cust/?PID=259CABDC-8E7C-4DC0-A476-FF73EC2C6A04&UID=0F07420A-5C99-4727-83FA-7E865EFF27E5&OID=62E92DBC-52EB-482D-B3E5-8E6E0D199001&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
           "service_area": null
         },
@@ -2794,7 +2809,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-10-01T01:02:42.072304Z"
+      "last_fetched": "2026-10-01T17:57:12.430437Z"
     }
   }
 }
