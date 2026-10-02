@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T17:22:55.344224Z",
+  "last_updated": "2026-10-02T21:46:38.335456Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -1421,23 +1421,6 @@
           "service_area": null
         },
         {
-          "name": "APG&E",
-          "rate": 0.1248,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Lock in a stable, 100% fixed energy rate for 36 months to shield your home budget from rising utility prices with zero hidden fees and a $0 cancellation fee. Plus, after 60 days of active service, you can choose your own premium sign-up bonus: a $75 Prepaid Reward Card, a $75 Major Retailer e-Gift Card, or a brand-new Smart Home Thermostat. Flexible. Affordable. Energy. That's APG&E. Offer available to new customers only.",
-          "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_PEC_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board%20Reward",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPAR_PEC_NA_NA_RES_FPR_SD0_T24_NEW&deploymentName=PA%20State%20Rate%20Board%20Reward",
-          "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Better Buy Energy",
           "rate": 0.1249,
           "rate_type": "Fixed",
@@ -1999,6 +1982,23 @@
           "service_area": null
         },
         {
+          "name": "City Power & Gas PA",
+          "rate": 0.1301,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://enrollment.citypowerandgas.com/home",
+          "signup_url": "https://enrollment.citypowerandgas.com/home",
+          "phone": "1-877-518-9339",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "AAA Energy by Santanna",
           "rate": 0.1305,
           "rate_type": "Fixed",
@@ -2152,6 +2152,23 @@
           "service_area": null
         },
         {
+          "name": "City Power & Gas PA",
+          "rate": 0.1336,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://enrollment.citypowerandgas.com/home",
+          "signup_url": "https://enrollment.citypowerandgas.com/home",
+          "phone": "1-877-518-9339",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Direct Energy",
           "rate": 0.1349,
           "rate_type": "Fixed",
@@ -2220,6 +2237,23 @@
           "service_area": null
         },
         {
+          "name": "City Power & Gas PA",
+          "rate": 0.136,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://enrollment.citypowerandgas.com/home",
+          "signup_url": "https://enrollment.citypowerandgas.com/home",
+          "phone": "1-877-518-9339",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Clearview Energy",
           "rate": 0.1369,
           "rate_type": "Fixed",
@@ -2232,23 +2266,6 @@
           "website_url": "https://www.clearviewenergy.com/enrollment/?utilityid=45&utilityidG=&utilityname=PECO&utilitynameG=&ctype=Resi&utility-state=pa&productNum=415914",
           "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=45&utilityidG=&utilityname=PECO&utilitynameG=&ctype=Resi&utility-state=pa&productNum=415914",
           "phone": "888-512-8994",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "City Power & Gas PA",
-          "rate": 0.1378,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://enrollment.citypowerandgas.com/home",
-          "signup_url": "https://enrollment.citypowerandgas.com/home",
-          "phone": "1-877-518-9339",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2356,23 +2373,6 @@
           "service_area": null
         },
         {
-          "name": "City Power & Gas PA",
-          "rate": 0.1401,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://enrollment.citypowerandgas.com/home",
-          "signup_url": "https://enrollment.citypowerandgas.com/home",
-          "phone": "1-877-518-9339",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Think Energy",
           "rate": 0.143,
           "rate_type": "Fixed",
@@ -2391,10 +2391,10 @@
         },
         {
           "name": "City Power & Gas PA",
-          "rate": 0.1432,
+          "rate": 0.1435,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 9,
+          "term_months": 6,
           "early_termination_fee": "No",
           "introductory": "No",
           "promotional_details": null,
@@ -2454,23 +2454,6 @@
           "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
           "phone": "855-692-8330",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "City Power & Gas PA",
-          "rate": 0.151,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://enrollment.citypowerandgas.com/home",
-          "signup_url": "https://enrollment.citypowerandgas.com/home",
-          "phone": "1-877-518-9339",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -2700,8 +2683,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 158,
-      "last_fetched": "2026-10-02T17:22:50.761219Z"
+      "count": 157,
+      "last_fetched": "2026-10-02T21:46:34.090558Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2780,25 +2763,8 @@
           "service_area": null
         },
         {
-          "name": "Direct Energy",
-          "rate": 0.1189,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 4,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
-          "signup_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
-          "phone": "855-331-0024",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Inspire Clean Energy",
-          "rate": 0.1196,
+          "rate": 0.1176,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 3,
@@ -2815,10 +2781,10 @@
         },
         {
           "name": "City Power & Gas PA",
-          "rate": 0.1198,
+          "rate": 0.1178,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 3,
+          "term_months": 9,
           "early_termination_fee": "No",
           "introductory": "No",
           "promotional_details": null,
@@ -2826,6 +2792,23 @@
           "website_url": "https://enrollment.citypowerandgas.com/home",
           "signup_url": "https://enrollment.citypowerandgas.com/home",
           "phone": "1-877-518-9339",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Direct Energy",
+          "rate": 0.1189,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 4,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "phone": "855-331-0024",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2928,6 +2911,23 @@
           "website_url": "https://secure.cirroenergy.com/landing/shop/",
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "City Power & Gas PA",
+          "rate": 0.1242,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://enrollment.citypowerandgas.com/home",
+          "signup_url": "https://enrollment.citypowerandgas.com/home",
+          "phone": "1-877-518-9339",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -3047,23 +3047,6 @@
           "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "City Power & Gas PA",
-          "rate": 0.1257,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://enrollment.citypowerandgas.com/home",
-          "signup_url": "https://enrollment.citypowerandgas.com/home",
-          "phone": "1-877-518-9339",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -3222,6 +3205,23 @@
           "service_area": null
         },
         {
+          "name": "City Power & Gas PA",
+          "rate": 0.1274,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://enrollment.citypowerandgas.com/home",
+          "signup_url": "https://enrollment.citypowerandgas.com/home",
+          "phone": "1-877-518-9339",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Public Power, LLC",
           "rate": 0.1279,
           "rate_type": "Fixed",
@@ -3341,23 +3341,6 @@
           "service_area": null
         },
         {
-          "name": "City Power & Gas PA",
-          "rate": 0.1294,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://enrollment.citypowerandgas.com/home",
-          "signup_url": "https://enrollment.citypowerandgas.com/home",
-          "phone": "1-877-518-9339",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "AAA Energy by Santanna",
           "rate": 0.1297,
           "rate_type": "Fixed",
@@ -3387,23 +3370,6 @@
           "website_url": "https://signup.sfeenergy.com/",
           "signup_url": "https://signup.sfeenergy.com/",
           "phone": "1-877-316-6344",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "City Power & Gas PA",
-          "rate": 0.1298,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://enrollment.citypowerandgas.com/home",
-          "signup_url": "https://enrollment.citypowerandgas.com/home",
-          "phone": "1-877-518-9339",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -3506,6 +3472,23 @@
           "website_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
           "signup_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
           "phone": "855-331-0024",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "City Power & Gas PA",
+          "rate": 0.1314,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://enrollment.citypowerandgas.com/home",
+          "signup_url": "https://enrollment.citypowerandgas.com/home",
+          "phone": "1-877-518-9339",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -5335,7 +5318,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 154,
-      "last_fetched": "2026-10-02T17:22:51.630713Z"
+      "last_fetched": "2026-10-02T21:46:34.870638Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5516,6 +5499,23 @@
           "service_area": null
         },
         {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1296,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Duq&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Duq&channel_code=direct",
+          "phone": "844-275-4022",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "APG&E",
           "rate": 0.1298,
           "rate_type": "Fixed",
@@ -5529,23 +5529,6 @@
           "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_DUQ_NA_NA_RES_FPR_SD0_T3_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1299,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Duq&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Duq&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -7336,10 +7319,10 @@
         },
         {
           "name": "City Power & Gas PA",
-          "rate": 0.1614,
+          "rate": 0.1618,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 12,
+          "term_months": 9,
           "early_termination_fee": "No",
           "introductory": "No",
           "promotional_details": null,
@@ -7353,10 +7336,10 @@
         },
         {
           "name": "City Power & Gas PA",
-          "rate": 0.1617,
+          "rate": 0.1623,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 9,
+          "term_months": 12,
           "early_termination_fee": "No",
           "introductory": "No",
           "promotional_details": null,
@@ -7386,6 +7369,23 @@
           "service_area": null
         },
         {
+          "name": "City Power & Gas PA",
+          "rate": 0.163,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://enrollment.citypowerandgas.com/home",
+          "signup_url": "https://enrollment.citypowerandgas.com/home",
+          "phone": "1-877-518-9339",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Shipley Energy",
           "rate": 0.1631,
           "rate_type": "Fixed",
@@ -7399,23 +7399,6 @@
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=el",
           "phone": "866-477-9180",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "City Power & Gas PA",
-          "rate": 0.1632,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://enrollment.citypowerandgas.com/home",
-          "signup_url": "https://enrollment.citypowerandgas.com/home",
-          "phone": "1-877-518-9339",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -7472,7 +7455,7 @@
         },
         {
           "name": "City Power & Gas PA",
-          "rate": 0.1657,
+          "rate": 0.1649,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 6,
@@ -7748,7 +7731,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 141,
-      "last_fetched": "2026-10-02T17:22:52.422826Z"
+      "last_fetched": "2026-10-02T21:46:35.546129Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -7925,6 +7908,23 @@
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=189665AA-46B6-4F20-8B63-032A77B063F0&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=F82DA99E-CDB2-4961-89D5-0B83A96C5666&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Inspire Clean Energy",
+          "rate": 0.1246,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
+          "monthly_fee": null,
+          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Meted&channel_code=direct",
+          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Meted&channel_code=direct",
+          "phone": "844-275-4022",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -8503,23 +8503,6 @@
           "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=81&utilityidG=&utilityname=Meted&utilitynameG=&ctype=Resi&utility-state=pa&productNum=416140",
           "phone": "888-512-8994",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Inspire Clean Energy",
-          "rate": 0.1346,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Inspire is a clean energy supplier on a mission to give consumers better options when it comes to their electricity. With our fixed-rate plan, we offer a secure rate, personalized expert support, and a seamless switch to our clean energy supply in just a few days \u2013 with no interruption to your service.   Set it and forget it with this stable plan \u2013 which is how utility bills should work. Still have questions? Give us a call at 844.275.4022",
-          "monthly_fee": null,
-          "website_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Meted&channel_code=direct",
-          "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_3&utm_content=Meted&channel_code=direct",
-          "phone": "844-275-4022",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -10109,7 +10092,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 138,
-      "last_fetched": "2026-10-02T17:22:53.138707Z"
+      "last_fetched": "2026-10-02T21:46:36.308008Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -12419,7 +12402,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 135,
-      "last_fetched": "2026-10-02T17:22:53.876120Z"
+      "last_fetched": "2026-10-02T21:46:37.013667Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -14389,7 +14372,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 115,
-      "last_fetched": "2026-10-02T17:22:54.579444Z"
+      "last_fetched": "2026-10-02T21:46:37.630417Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -15913,6 +15896,23 @@
           "service_area": null
         },
         {
+          "name": "City Power & Gas PA",
+          "rate": 0.1353,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://enrollment.citypowerandgas.com/home",
+          "signup_url": "https://enrollment.citypowerandgas.com/home",
+          "phone": "1-877-518-9339",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "American Electric Rates LLC",
           "rate": 0.1357,
           "rate_type": "Fixed",
@@ -16117,23 +16117,6 @@
           "service_area": null
         },
         {
-          "name": "City Power & Gas PA",
-          "rate": 0.1386,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://enrollment.citypowerandgas.com/home",
-          "signup_url": "https://enrollment.citypowerandgas.com/home",
-          "phone": "1-877-518-9339",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "NRG Home",
           "rate": 0.139,
           "rate_type": "Fixed",
@@ -16236,6 +16219,23 @@
           "service_area": null
         },
         {
+          "name": "City Power & Gas PA",
+          "rate": 0.1403,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://enrollment.citypowerandgas.com/home",
+          "signup_url": "https://enrollment.citypowerandgas.com/home",
+          "phone": "1-877-518-9339",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "American Electric Rates LLC",
           "rate": 0.141,
           "rate_type": "Fixed",
@@ -16254,10 +16254,10 @@
         },
         {
           "name": "City Power & Gas PA",
-          "rate": 0.1424,
+          "rate": 0.1416,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 9,
+          "term_months": 6,
           "early_termination_fee": "No",
           "introductory": "No",
           "promotional_details": null,
@@ -16338,6 +16338,23 @@
           "service_area": null
         },
         {
+          "name": "City Power & Gas PA",
+          "rate": 0.1441,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://enrollment.citypowerandgas.com/home",
+          "signup_url": "https://enrollment.citypowerandgas.com/home",
+          "phone": "1-877-518-9339",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "0 Commit Energy",
           "rate": 0.1448,
           "rate_type": "Fixed",
@@ -16368,40 +16385,6 @@
           "signup_url": "https://account.smartenergy.com/wpp-6months?&utm_source=PUC_Site_WPP_PA&utm_medium=referral&utm_campaign=exclusive_online_rate+",
           "phone": "(800) 702-7371",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "City Power & Gas PA",
-          "rate": 0.1451,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://enrollment.citypowerandgas.com/home",
-          "signup_url": "https://enrollment.citypowerandgas.com/home",
-          "phone": "1-877-518-9339",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "City Power & Gas PA",
-          "rate": 0.1452,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://enrollment.citypowerandgas.com/home",
-          "signup_url": "https://enrollment.citypowerandgas.com/home",
-          "phone": "1-877-518-9339",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -16631,7 +16614,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 131,
-      "last_fetched": "2026-10-02T17:22:55.344012Z"
+      "last_fetched": "2026-10-02T21:46:38.335230Z"
     }
   }
 }
