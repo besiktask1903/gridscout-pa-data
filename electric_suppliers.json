@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T22:15:55.840711Z",
+  "last_updated": "2026-10-07T04:06:27.710246Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -554,23 +554,6 @@
           "service_area": null
         },
         {
-          "name": "NRG Home",
-          "rate": 0.114,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "The PA Power Switch Variable is only available to new customers through this site. Includes 3-month variable supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6785-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Town Square Energy",
           "rate": 0.1147,
           "rate_type": "Fixed",
@@ -686,6 +669,23 @@
           "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=44489&market_id=178&site_id=113",
           "phone": null,
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "NRG Home",
+          "rate": 0.115,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "Yes",
+          "promotional_details": "The PA Power Switch Variable is only available to new customers through this site. Includes 3-month variable supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6785-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -2203,6 +2203,23 @@
           "service_area": null
         },
         {
+          "name": "NRG Home",
+          "rate": 0.135,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "AAA Energy by Santanna",
           "rate": 0.1351,
           "rate_type": "Fixed",
@@ -2305,23 +2322,6 @@
           "service_area": null
         },
         {
-          "name": "NRG Home",
-          "rate": 0.138,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Clearview Energy",
           "rate": 0.1389,
           "rate_type": "Fixed",
@@ -2369,6 +2369,23 @@
           "signup_url": "https://www.wglenergy.com/",
           "phone": "1-844-427-5945",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "NRG Home",
+          "rate": 0.143,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "The PA Power Switch Fixed Plan 6 is only available to new customers through this site. Includes 6-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6786-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -2436,23 +2453,6 @@
           "website_url": "https://www.wglenergy.com/",
           "signup_url": "https://www.wglenergy.com/",
           "phone": "1-844-427-5945",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "NRG Home",
-          "rate": 0.147,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 6 is only available to new customers through this site. Includes 6-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6786-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -2684,7 +2684,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 157,
-      "last_fetched": "2026-10-06T22:15:51.935769Z"
+      "last_fetched": "2026-10-07T04:06:24.751549Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -3188,23 +3188,6 @@
           "service_area": null
         },
         {
-          "name": "NRG Home",
-          "rate": 0.127,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "The PA Power Switch Variable is only available to new customers through this site. Includes 3-month variable supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6785-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "American Electric Rates LLC",
           "rate": 0.127,
           "rate_type": "Fixed",
@@ -3269,6 +3252,23 @@
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19373",
           "phone": null,
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "NRG Home",
+          "rate": 0.128,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "Yes",
+          "promotional_details": "The PA Power Switch Variable is only available to new customers through this site. Includes 3-month variable supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6785-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -4769,6 +4769,40 @@
           "service_area": null
         },
         {
+          "name": "NRG Home",
+          "rate": 0.146,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "NRG Home",
+          "rate": 0.147,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "The PA Power Switch Fixed Plan 6 is only available to new customers through this site. Includes 6-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6786-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "WGL Energy Services",
           "rate": 0.148,
           "rate_type": "Fixed",
@@ -4781,23 +4815,6 @@
           "website_url": "https://www.wglenergy.com/",
           "signup_url": "https://www.wglenergy.com/",
           "phone": "1-844-427-5945",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "NRG Home",
-          "rate": 0.149,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -4952,23 +4969,6 @@
           "signup_url": "https://www.constellation.com",
           "phone": "1-855-799-7022",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "NRG Home",
-          "rate": 0.154,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 6 is only available to new customers through this site. Includes 6-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6786-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -5318,7 +5318,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 154,
-      "last_fetched": "2026-10-06T22:15:52.655343Z"
+      "last_fetched": "2026-10-07T04:06:25.272744Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7522,6 +7522,23 @@
           "service_area": null
         },
         {
+          "name": "NRG Home",
+          "rate": 0.1709,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Cirro Energy",
           "rate": 0.1729,
           "rate_type": "Fixed",
@@ -7540,41 +7557,7 @@
         },
         {
           "name": "NRG Home",
-          "rate": 0.1729,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "NRG Home",
-          "rate": 0.1789,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "The PA Power Switch Variable is only available to new customers through this site. Includes 3-month variable supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6785-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "NRG Home",
-          "rate": 0.1789,
+          "rate": 0.1769,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 6,
@@ -7692,6 +7675,23 @@
           "service_area": null
         },
         {
+          "name": "NRG Home",
+          "rate": 0.1909,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "Yes",
+          "promotional_details": "The PA Power Switch Variable is only available to new customers through this site. Includes 3-month variable supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6785-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "IGS Energy",
           "rate": 0.1979,
           "rate_type": "Fixed",
@@ -7731,7 +7731,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 141,
-      "last_fetched": "2026-10-06T22:15:53.299960Z"
+      "last_fetched": "2026-10-07T04:06:25.751216Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9663,23 +9663,6 @@
           "service_area": null
         },
         {
-          "name": "NRG Home",
-          "rate": 0.147,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Brighten Energy",
           "rate": 0.1479,
           "rate_type": "Fixed",
@@ -9726,6 +9709,23 @@
           "website_url": "https://mycleanchoice.com/pashoppera24",
           "signup_url": "https://mycleanchoice.com/pashoppera24",
           "phone": "1-800-460-4900",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "NRG Home",
+          "rate": 0.148,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -9783,7 +9783,7 @@
         },
         {
           "name": "NRG Home",
-          "rate": 0.154,
+          "rate": 0.153,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 6,
@@ -10075,7 +10075,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 137,
-      "last_fetched": "2026-10-06T22:15:53.958255Z"
+      "last_fetched": "2026-10-07T04:06:26.255654Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -10460,23 +10460,6 @@
           "service_area": null
         },
         {
-          "name": "NRG Home",
-          "rate": 0.125,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "The PA Power Switch Variable is only available to new customers through this site. Includes 3-month variable supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6785-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.1259,
           "rate_type": "Fixed",
@@ -10558,6 +10541,23 @@
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=3EAF4749-3ECF-47BB-BC53-0579AFDDF565&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=E119DCBD-C947-44B9-9C6E-35D3AE472B03&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "NRG Home",
+          "rate": 0.127,
+          "rate_type": "Variable",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "Yes",
+          "promotional_details": "The PA Power Switch Variable is only available to new customers through this site. Includes 3-month variable supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6785-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -11582,6 +11582,23 @@
           "service_area": null
         },
         {
+          "name": "NRG Home",
+          "rate": 0.144,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "The PA Power Switch Fixed Plan 6 is only available to new customers through this site. Includes 6-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6786-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "AEP Energy",
           "rate": 0.1445,
           "rate_type": "Fixed",
@@ -11990,23 +12007,6 @@
           "service_area": null
         },
         {
-          "name": "NRG Home",
-          "rate": 0.147,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 6 is only available to new customers through this site. Includes 6-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6786-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Verde Energy USA, Inc.",
           "rate": 0.1489,
           "rate_type": "Fixed",
@@ -12385,7 +12385,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 135,
-      "last_fetched": "2026-10-06T22:15:54.596036Z"
+      "last_fetched": "2026-10-07T04:06:26.802029Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -14079,6 +14079,40 @@
           "service_area": null
         },
         {
+          "name": "NRG Home",
+          "rate": 0.152,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "The PA Power Switch Fixed Plan 6 is only available to new customers through this site. Includes 6-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6786-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "NRG Home",
+          "rate": 0.152,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "WGL Energy Services",
           "rate": 0.1524,
           "rate_type": "Variable",
@@ -14091,23 +14125,6 @@
           "website_url": "https://www.wglenergy.com/",
           "signup_url": "https://www.wglenergy.com/",
           "phone": "1-844-427-5945",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "NRG Home",
-          "rate": 0.153,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -14159,23 +14176,6 @@
           "website_url": "https://mycleanchoice.com/pashoppera24",
           "signup_url": "https://mycleanchoice.com/pashoppera24",
           "phone": "1-800-460-4900",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "NRG Home",
-          "rate": 0.155,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 6 is only available to new customers through this site. Includes 6-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6786-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -14355,7 +14355,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 115,
-      "last_fetched": "2026-10-06T22:15:55.172789Z"
+      "last_fetched": "2026-10-07T04:06:27.242004Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -16134,23 +16134,6 @@
           "service_area": null
         },
         {
-          "name": "NRG Home",
-          "rate": 0.139,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "WGL Energy Services",
           "rate": 0.1392,
           "rate_type": "Fixed",
@@ -16202,6 +16185,23 @@
           "service_area": null
         },
         {
+          "name": "NRG Home",
+          "rate": 0.14,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "The PA Power Switch Fixed Plan 12 is only available to new customers through this site. Includes 12-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6787-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "City Power & Gas PA",
           "rate": 0.1403,
           "rate_type": "Fixed",
@@ -16215,6 +16215,23 @@
           "signup_url": "https://enrollment.citypowerandgas.com/home",
           "phone": "1-877-518-9339",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "NRG Home",
+          "rate": 0.141,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "The PA Power Switch Fixed Plan 6 is only available to new customers through this site. Includes 6-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6786-568. This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
+          "phone": "855-692-8330",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -16300,23 +16317,6 @@
           "signup_url": "https://signup.sparkenergy.com/",
           "phone": "(833) 488-3132",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "NRG Home",
-          "rate": 0.143,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "The PA Power Switch Fixed Plan 6 is only available to new customers through this site. Includes 6-month fixed supply price and 1% Cash Back after every 12 months of service. Click \"Sign Up For This Offer\" for full details or call 1-855-692-8330 and mention offer code NRR-6786-568. This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
-          "phone": "855-692-8330",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -16614,7 +16614,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 132,
-      "last_fetched": "2026-10-06T22:15:55.840505Z"
+      "last_fetched": "2026-10-07T04:06:27.710056Z"
     }
   }
 }
