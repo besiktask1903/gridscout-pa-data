@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T23:34:50.256200Z",
+  "last_updated": "2026-10-14T03:23:00.362624Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -809,23 +809,6 @@
           "service_area": null
         },
         {
-          "name": "Powervine Energy",
-          "rate": 0.1169,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
-          "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=PECO&Channel=POW002",
-          "signup_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=PECO&Channel=POW002",
-          "phone": "1-888-263-2806",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Spark Energy, LLC",
           "rate": 0.1169,
           "rate_type": "Fixed",
@@ -906,6 +889,23 @@
           "website_url": "https://www.clearviewenergy.com/enrollment/?utilityid=45&utilityidG=&utilityname=PECO&utilitynameG=&ctype=Resi&utility-state=pa&productNum=415932",
           "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=45&utilityidG=&utilityname=PECO&utilitynameG=&ctype=Resi&utility-state=pa&productNum=415932",
           "phone": "888-512-8994",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Powervine Energy",
+          "rate": 0.1179,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=PECO&Channel=POW002",
+          "signup_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=PECO&Channel=POW002",
+          "phone": "1-888-263-2806",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2616,7 +2616,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 153,
-      "last_fetched": "2026-10-13T23:34:45.592670Z"
+      "last_fetched": "2026-10-14T03:22:57.729030Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2780,23 +2780,6 @@
           "service_area": null
         },
         {
-          "name": "Powervine Energy",
-          "rate": 0.1199,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
-          "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/?source=POW002",
-          "signup_url": "https://products.powervineenergy.com/?source=POW002",
-          "phone": "1-888-263-2806",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.1209,
           "rate_type": "Fixed",
@@ -2860,6 +2843,23 @@
           "website_url": null,
           "signup_url": null,
           "phone": "888-865-3402",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Powervine Energy",
+          "rate": 0.1229,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/?source=POW002",
+          "signup_url": "https://products.powervineenergy.com/?source=POW002",
+          "phone": "1-888-263-2806",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -3715,23 +3715,6 @@
           "service_area": null
         },
         {
-          "name": "Powervine Energy",
-          "rate": 0.1339,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
-          "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/?source=POW002",
-          "signup_url": "https://products.powervineenergy.com/?source=POW002",
-          "phone": "1-888-263-2806",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Spark Energy, LLC",
           "rate": 0.1339,
           "rate_type": "Fixed",
@@ -4034,6 +4017,23 @@
           "signup_url": "https://shopping.brightenenergy.com/cust/?PID=010D65C3-BDF4-4CD6-A6FC-D0F3E9A093A1&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=9322221F-1586-4F78-9B24-E0A760EB605B&RFID=PAPS&PUC=1&STATE=PA&SN=BRI&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0917",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Powervine Energy",
+          "rate": 0.1369,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/?source=POW002",
+          "signup_url": "https://products.powervineenergy.com/?source=POW002",
+          "phone": "1-888-263-2806",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -5182,7 +5182,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 150,
-      "last_fetched": "2026-10-13T23:34:46.423888Z"
+      "last_fetched": "2026-10-14T03:22:58.341234Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5346,23 +5346,6 @@
           "service_area": null
         },
         {
-          "name": "Powervine Energy",
-          "rate": 0.1299,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
-          "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
-          "signup_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
-          "phone": "1-888-263-2806",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "CleanChoice Energy",
           "rate": 0.13,
           "rate_type": "Fixed",
@@ -5477,6 +5460,23 @@
           "website_url": "https://shopping.betterbuyenergy.com/cust/?PID=2D09E188-DD28-489A-B38C-9860DA9EBDBB&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=0754DA07-C699-4C70-9820-AA51CCCF5037&RFID=PAPS&PUC=1&STATE=PA&SN=BBE&CT=E&PromoCode=LOADFACTORRB",
           "signup_url": "https://shopping.betterbuyenergy.com/cust/?PID=2D09E188-DD28-489A-B38C-9860DA9EBDBB&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=0754DA07-C699-4C70-9820-AA51CCCF5037&RFID=PAPS&PUC=1&STATE=PA&SN=BBE&CT=E&PromoCode=LOADFACTORRB",
           "phone": "833-200-9831",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Powervine Energy",
+          "rate": 0.1319,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
+          "signup_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
+          "phone": "1-888-263-2806",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7527,7 +7527,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 137,
-      "last_fetched": "2026-10-13T23:34:47.228825Z"
+      "last_fetched": "2026-10-14T03:22:58.759103Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -7997,23 +7997,6 @@
           "service_area": null
         },
         {
-          "name": "Powervine Energy",
-          "rate": 0.1309,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
-          "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/?source=POW002",
-          "signup_url": "https://products.powervineenergy.com/?source=POW002",
-          "phone": "1-888-263-2806",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Public Power, LLC",
           "rate": 0.1309,
           "rate_type": "Fixed",
@@ -8146,6 +8129,23 @@
           "signup_url": "https://www.picknrg.com/en/lp/mp/pa-choice.html",
           "phone": "855-692-8330",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Powervine Energy",
+          "rate": 0.1329,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/?source=POW002",
+          "signup_url": "https://products.powervineenergy.com/?source=POW002",
+          "phone": "1-888-263-2806",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -8320,6 +8320,23 @@
           "service_area": null
         },
         {
+          "name": "Powervine Energy",
+          "rate": 0.1367,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/?source=POW002",
+          "signup_url": "https://products.powervineenergy.com/?source=POW002",
+          "phone": "1-888-263-2806",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "American Electric Rates LLC",
           "rate": 0.1367,
           "rate_type": "Fixed",
@@ -8400,23 +8417,6 @@
           "website_url": "https://shopping.pagande.com/cust/?PID=DFC9FB22-ED06-4EF8-B195-32BE4232D046&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=5E94C8DC-C738-4E35-AC8E-82649A671A38&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=DFC9FB22-ED06-4EF8-B195-32BE4232D046&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=5E94C8DC-C738-4E35-AC8E-82649A671A38&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Powervine Energy",
-          "rate": 0.1369,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
-          "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/?source=POW002",
-          "signup_url": "https://products.powervineenergy.com/?source=POW002",
-          "phone": "1-888-263-2806",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -9136,23 +9136,6 @@
           "service_area": null
         },
         {
-          "name": "Powervine Energy",
-          "rate": 0.1429,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
-          "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/?source=POW002",
-          "signup_url": "https://products.powervineenergy.com/?source=POW002",
-          "phone": "1-888-263-2806",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Verde Energy USA, Inc.",
           "rate": 0.1429,
           "rate_type": "Fixed",
@@ -9166,6 +9149,23 @@
           "signup_url": "https://www.verdeenergy.com/get-rates/",
           "phone": "1-833-488-3125",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Powervine Energy",
+          "rate": 0.1439,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/?source=POW002",
+          "signup_url": "https://products.powervineenergy.com/?source=POW002",
+          "phone": "1-888-263-2806",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -9871,7 +9871,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 137,
-      "last_fetched": "2026-10-13T23:34:48.004881Z"
+      "last_fetched": "2026-10-14T03:22:59.188710Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -12147,7 +12147,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 133,
-      "last_fetched": "2026-10-13T23:34:48.764912Z"
+      "last_fetched": "2026-10-14T03:22:59.575179Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -12515,23 +12515,6 @@
           "service_area": null
         },
         {
-          "name": "Powervine Energy",
-          "rate": 0.1319,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
-          "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/?source=POW002",
-          "signup_url": "https://products.powervineenergy.com/?source=POW002",
-          "phone": "1-888-263-2806",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Public Power, LLC",
           "rate": 0.1319,
           "rate_type": "Fixed",
@@ -12566,6 +12549,23 @@
           "service_area": null
         },
         {
+          "name": "Powervine Energy",
+          "rate": 0.1329,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/?source=POW002",
+          "signup_url": "https://products.powervineenergy.com/?source=POW002",
+          "phone": "1-888-263-2806",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Cirro Energy",
           "rate": 0.133,
           "rate_type": "Fixed",
@@ -12595,23 +12595,6 @@
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penpw&utm_source=papower&utm_medium=shopping&utm_campaign=penpw_12",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-penpw&utm_source=papower&utm_medium=shopping&utm_campaign=penpw_12",
           "phone": "1-877-648-1923",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Powervine Energy",
-          "rate": 0.1335,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
-          "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/?source=POW002",
-          "signup_url": "https://products.powervineenergy.com/?source=POW002",
-          "phone": "1-888-263-2806",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -12748,6 +12731,23 @@
           "website_url": "https://shopping.pagande.com/cust/?PID=178FD057-17BD-428D-8E09-210A21423CEF&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=AF905A84-2EB2-4AEB-974E-E8DEF18FB6E0&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=178FD057-17BD-428D-8E09-210A21423CEF&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=AF905A84-2EB2-4AEB-974E-E8DEF18FB6E0&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Powervine Energy",
+          "rate": 0.1349,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/?source=POW002",
+          "signup_url": "https://products.powervineenergy.com/?source=POW002",
+          "phone": "1-888-263-2806",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -14066,7 +14066,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 112,
-      "last_fetched": "2026-10-13T23:34:49.491512Z"
+      "last_fetched": "2026-10-14T03:23:00.006963Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -14349,6 +14349,23 @@
           "service_area": null
         },
         {
+          "name": "Powervine Energy",
+          "rate": 0.1169,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/?source=POW002",
+          "signup_url": "https://products.powervineenergy.com/?source=POW002",
+          "phone": "1-888-263-2806",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Public Power, LLC",
           "rate": 0.1179,
           "rate_type": "Fixed",
@@ -14463,23 +14480,6 @@
           "website_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
           "signup_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
           "phone": "855-331-0024",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Powervine Energy",
-          "rate": 0.1199,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
-          "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/?source=POW002",
-          "signup_url": "https://products.powervineenergy.com/?source=POW002",
-          "phone": "1-888-263-2806",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -16291,7 +16291,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 130,
-      "last_fetched": "2026-10-13T23:34:50.256012Z"
+      "last_fetched": "2026-10-14T03:23:00.362444Z"
     }
   }
 }
