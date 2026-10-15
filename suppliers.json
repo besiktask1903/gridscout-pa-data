@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T00:16:16.108688Z",
+  "last_updated": "2026-10-15T16:14:28.788290Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -161,11 +161,11 @@
         },
         {
           "name": "WGL Energy Services",
-          "rate": 0.411,
-          "rate_type": "Variable",
+          "rate": 0.434,
+          "rate_type": "Fixed",
           "rate_unit": "therm",
-          "term_months": null,
-          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "term_months": 12,
+          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
           "introductory": "No",
           "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
           "monthly_fee": null,
@@ -216,21 +216,6 @@
           "monthly_fee": null,
           "website_url": "https://shopping.pagande.com/cust/?PID=8348B0B4-7539-4E8D-9871-3538DB6BE580&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=9BE811FE-FDB2-4B3F-93E7-AE6EB60C8ABD&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=8348B0B4-7539-4E8D-9871-3538DB6BE580&UID=9FE020A0-C737-487F-A2FE-FD67B60CE3E6&OID=9BE811FE-FDB2-4B3F-93E7-AE6EB60C8ABD&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "WGL Energy Services",
-          "rate": 0.443,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 12,
-          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -306,6 +291,21 @@
           "monthly_fee": null,
           "website_url": "http://www.constellation.com/rateboard",
           "signup_url": "http://www.constellation.com/rateboard",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 0.479,
+          "rate_type": "Variable",
+          "rate_unit": "therm",
+          "term_months": null,
+          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -642,7 +642,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 42,
-      "last_fetched": "2026-10-15T00:16:14.599193Z"
+      "last_fetched": "2026-10-15T16:14:26.041411Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -744,11 +744,11 @@
         },
         {
           "name": "WGL Energy Services",
-          "rate": 0.572,
-          "rate_type": "Variable",
+          "rate": 0.543,
+          "rate_type": "Fixed",
           "rate_unit": "Ccf",
-          "term_months": null,
-          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "term_months": 12,
+          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
           "introductory": "No",
           "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
           "monthly_fee": null,
@@ -788,6 +788,21 @@
           "service_area": null
         },
         {
+          "name": "WGL Energy Services",
+          "rate": 0.611,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 24,
+          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Ambit Energy",
           "rate": 0.6122,
           "rate_type": "Fixed",
@@ -804,7 +819,7 @@
         },
         {
           "name": "WGL Energy Services",
-          "rate": 0.626,
+          "rate": 0.622,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 36,
@@ -819,26 +834,11 @@
         },
         {
           "name": "WGL Energy Services",
-          "rate": 0.633,
-          "rate_type": "Fixed",
+          "rate": 0.629,
+          "rate_type": "Variable",
           "rate_unit": "Ccf",
-          "term_months": 24,
-          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "WGL Energy Services",
-          "rate": 0.644,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
+          "term_months": null,
+          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
           "introductory": "No",
           "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
           "monthly_fee": null,
@@ -940,7 +940,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 19,
-      "last_fetched": "2026-10-15T00:16:14.853359Z"
+      "last_fetched": "2026-10-15T16:14:26.639091Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -952,7 +952,7 @@
       "suppliers": [
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.4077,
+          "rate": 0.4171,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -963,21 +963,6 @@
           "website_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
           "signup_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
           "bundle_required": true,
-          "service_area": null
-        },
-        {
-          "name": "WGL Energy Services",
-          "rate": 0.419,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "bundle_required": false,
           "service_area": null
         },
         {
@@ -1071,21 +1056,6 @@
           "service_area": null
         },
         {
-          "name": "WGL Energy Services",
-          "rate": 0.516,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": null,
-          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Shipley Energy",
           "rate": 0.519,
           "rate_type": "Fixed",
@@ -1157,6 +1127,21 @@
           "monthly_fee": null,
           "website_url": "https://shop.directenergy.com/usn/gas-live-brighter?term=12&msid=720",
           "signup_url": "https://shop.directenergy.com/usn/gas-live-brighter?term=12&msid=720",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 0.573,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -1277,6 +1262,21 @@
           "monthly_fee": null,
           "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19440",
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19440",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 0.621,
+          "rate_type": "Variable",
+          "rate_unit": "Ccf",
+          "term_months": null,
+          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -1570,7 +1570,7 @@
         "AAA Energy by Santanna"
       ],
       "count": 41,
-      "last_fetched": "2026-10-15T00:16:15.263719Z"
+      "last_fetched": "2026-10-15T16:14:27.265648Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -1716,6 +1716,36 @@
           "service_area": null
         },
         {
+          "name": "WGL Energy Services",
+          "rate": 4.383,
+          "rate_type": "Fixed",
+          "rate_unit": "Mcf",
+          "term_months": 12,
+          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 4.383,
+          "rate_type": "Fixed",
+          "rate_unit": "Mcf",
+          "term_months": 12,
+          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Pennsylvania Energy",
           "rate": 4.39,
           "rate_type": "Fixed",
@@ -1727,36 +1757,6 @@
           "monthly_fee": null,
           "website_url": "https://www.pennsylvaniaenergy.com/list-plans/?rateClassCode=01&ldcCode=PEQ",
           "signup_url": "https://www.pennsylvaniaenergy.com/list-plans/?rateClassCode=01&ldcCode=PEQ",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "WGL Energy Services",
-          "rate": 4.439,
-          "rate_type": "Fixed",
-          "rate_unit": "Mcf",
-          "term_months": 12,
-          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "WGL Energy Services",
-          "rate": 4.439,
-          "rate_type": "Fixed",
-          "rate_unit": "Mcf",
-          "term_months": 12,
-          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -1787,36 +1787,6 @@
           "monthly_fee": null,
           "website_url": "https://symmetryenergy.com/pennsylvania/",
           "signup_url": "https://symmetryenergy.com/pennsylvania/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "WGL Energy Services",
-          "rate": 4.961,
-          "rate_type": "Fixed",
-          "rate_unit": "Mcf",
-          "term_months": 24,
-          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "WGL Energy Services",
-          "rate": 4.961,
-          "rate_type": "Fixed",
-          "rate_unit": "Mcf",
-          "term_months": 24,
-          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -1867,11 +1837,11 @@
         },
         {
           "name": "WGL Energy Services",
-          "rate": 5.082,
-          "rate_type": "Variable",
+          "rate": 5.049,
+          "rate_type": "Fixed",
           "rate_unit": "Mcf",
-          "term_months": null,
-          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "term_months": 24,
+          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
           "introductory": "No",
           "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
           "monthly_fee": null,
@@ -1882,11 +1852,11 @@
         },
         {
           "name": "WGL Energy Services",
-          "rate": 5.082,
-          "rate_type": "Variable",
+          "rate": 5.049,
+          "rate_type": "Fixed",
           "rate_unit": "Mcf",
-          "term_months": null,
-          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "term_months": 24,
+          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
           "introductory": "No",
           "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
           "monthly_fee": null,
@@ -1897,7 +1867,7 @@
         },
         {
           "name": "WGL Energy Services",
-          "rate": 5.137,
+          "rate": 5.148,
           "rate_type": "Fixed",
           "rate_unit": "Mcf",
           "term_months": 36,
@@ -1912,7 +1882,7 @@
         },
         {
           "name": "WGL Energy Services",
-          "rate": 5.137,
+          "rate": 5.148,
           "rate_type": "Fixed",
           "rate_unit": "Mcf",
           "term_months": 36,
@@ -1952,6 +1922,36 @@
           "monthly_fee": null,
           "website_url": "https://www.verdeenergy.com/",
           "signup_url": "https://www.verdeenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 5.299,
+          "rate_type": "Variable",
+          "rate_unit": "Mcf",
+          "term_months": null,
+          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 5.299,
+          "rate_type": "Variable",
+          "rate_unit": "Mcf",
+          "term_months": null,
+          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -2063,7 +2063,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-10-15T00:16:15.525066Z"
+      "last_fetched": "2026-10-15T16:14:27.797529Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2104,21 +2104,6 @@
           "service_area": null
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.649,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna\u2019s Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PGWPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
-          "signup_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PGWPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
-          "bundle_required": true,
-          "service_area": null
-        },
-        {
           "name": "Shipley Energy",
           "rate": 0.659,
           "rate_type": "Fixed",
@@ -2131,6 +2116,21 @@
           "website_url": "https://www.shipleyenergy.com/enrollment?product=ng",
           "signup_url": "https://www.shipleyenergy.com/enrollment?product=ng",
           "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.659,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna\u2019s Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PGWPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
+          "signup_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PGWPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
+          "bundle_required": true,
           "service_area": null
         },
         {
@@ -2286,7 +2286,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 14,
-      "last_fetched": "2026-10-15T00:16:15.801219Z"
+      "last_fetched": "2026-10-15T16:14:28.267340Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2372,21 +2372,6 @@
           "service_area": null
         },
         {
-          "name": "WGL Energy Services",
-          "rate": 0.658,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": null,
-          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Rhoads Energy",
           "rate": 0.669,
           "rate_type": "Fixed",
@@ -2443,6 +2428,21 @@
           "monthly_fee": 14.9,
           "website_url": "https://signup.sfeenergy.com/",
           "signup_url": "https://signup.sfeenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 0.687,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -2537,21 +2537,6 @@
           "service_area": null
         },
         {
-          "name": "WGL Energy Services",
-          "rate": 0.699,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Pennsylvania Energy",
           "rate": 0.699,
           "rate_type": "Variable",
@@ -2563,6 +2548,21 @@
           "monthly_fee": null,
           "website_url": "https://www.pennsylvaniaenergy.com/",
           "signup_url": "https://www.pennsylvaniaenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 0.71,
+          "rate_type": "Variable",
+          "rate_unit": "Ccf",
+          "term_months": null,
+          "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -2794,7 +2794,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 33,
-      "last_fetched": "2026-10-15T00:16:16.108541Z"
+      "last_fetched": "2026-10-15T16:14:28.788101Z"
     }
   }
 }
