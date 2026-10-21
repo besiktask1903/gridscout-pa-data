@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T00:21:52.934990Z",
+  "last_updated": "2026-10-21T16:32:46.769358Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -826,6 +826,23 @@
           "service_area": null
         },
         {
+          "name": "0 Adversity Energy",
+          "rate": 0.1168,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 8,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=45059&market_id=178&site_id=113",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=45059&market_id=178&site_id=113",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "American Power & Gas of Pennsylvania LLC",
           "rate": 0.1169,
           "rate_type": "Variable",
@@ -907,6 +924,23 @@
           "signup_url": "https://www.verdeenergy.com/get-rates/",
           "phone": "1-833-488-3125",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Adversity Energy",
+          "rate": 0.1178,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=45016&market_id=178&site_id=113",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=45016&market_id=178&site_id=113",
+          "phone": null,
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -1212,40 +1246,6 @@
           "website_url": "https://shop.0cancellationfee.com/enrollmentrequest/?plan=132380",
           "signup_url": "https://shop.0cancellationfee.com/enrollmentrequest/?plan=132380",
           "phone": "1-800-698-5853",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "0 Adversity Energy",
-          "rate": 0.1218,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 8,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=45059&market_id=178&site_id=113",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=45059&market_id=178&site_id=113",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "0 Adversity Energy",
-          "rate": 0.1218,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=45016&market_id=178&site_id=113",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=45016&market_id=178&site_id=113",
-          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2016,6 +2016,23 @@
           "service_area": null
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.1331,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 9 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_9M_M1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_9M_M1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No",
+          "bundle_required": true,
+          "service_area": null
+        },
+        {
           "name": "City Power & Gas PA",
           "rate": 0.1336,
           "rate_type": "Fixed",
@@ -2030,23 +2047,6 @@
           "phone": "1-877-518-9339",
           "renewable": "No",
           "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1338,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 9 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_9M_M1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_9M_M1_PECPAE&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No",
-          "bundle_required": true,
           "service_area": null
         },
         {
@@ -2356,40 +2356,6 @@
           "service_area": null
         },
         {
-          "name": "Spring Power & Gas",
-          "rate": 0.1639,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 36,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Spring Green 100 is a month-to-month variable rate product for 36 months, matches 100% of usage with RECS and no cancellation fees. Customers receive $25 in Spring Rewards Dollars each month. No guaranteed savings, your rate may go up or down each month and may be higher than utility. See terms and conditions for more details.  A \"new customer\" is an electric and/or natural gas supply consumer that has never been enrolled with Spring Power & Gas or has not been enrolled with Spring Power & Gas in the last 12 months from today's date.",
-          "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null,
-          "phone": "8772087636",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Spring Power & Gas",
-          "rate": 0.1639,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 36,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Spring Green 50 is a month-to-month variable rate product for 36 months, matches 50% of usage with RECS and no cancellation fees. Customers receive $25 in Spring Rewards Dollars each month. No guaranteed savings, your rate may go up or down each month and may be higher than utility. See terms and conditions for more details.  A \"new customer\" is an electric and/or natural gas supply consumer that has never been enrolled with Spring Power & Gas or has not been enrolled with Spring Power & Gas in the last 12 months from today's date.",
-          "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null,
-          "phone": "8772087636",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Mpower Energy NJ LLC",
           "rate": 0.169,
           "rate_type": "Fixed",
@@ -2530,8 +2496,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 148,
-      "last_fetched": "2026-10-21T00:21:43.703776Z"
+      "count": 146,
+      "last_fetched": "2026-10-21T16:32:38.214507Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2758,6 +2724,23 @@
           "website_url": "https://shopping.publicpowercompany.com/cust/?PID=6803EE1D-17DF-4058-819F-E29FDE9E298E&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=AA2398DD-7E5D-4225-8CD6-FA83F2E1B927&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=6803EE1D-17DF-4058-819F-E29FDE9E298E&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=AA2398DD-7E5D-4225-8CD6-FA83F2E1B927&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Polaris Power Services",
+          "rate": 0.1229,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$0",
+          "introductory": "No",
+          "promotional_details": "Fixed rate with refundable monthly fee. See contract for details.",
+          "monthly_fee": 30.0,
+          "website_url": "https://polarispwr.com/enrollment/?src=ws",
+          "signup_url": "https://polarispwr.com/enrollment/?src=ws",
+          "phone": "866-362-9800",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -3171,23 +3154,6 @@
           "service_area": null
         },
         {
-          "name": "0 Adversity Energy",
-          "rate": 0.1289,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$150",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": 19.99,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=44823&market_id=181",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=44823&market_id=181",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Agway Energy Services LLC",
           "rate": 0.129,
           "rate_type": "Variable",
@@ -3234,40 +3200,6 @@
           "website_url": "https://signup.sparkenergy.com/",
           "signup_url": "https://signup.sparkenergy.com/",
           "phone": "(833) 488-3132",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "0 Adversity Energy",
-          "rate": 0.1297,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=43078&market_id=181",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=43078&market_id=181",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "0 Adversity Energy",
-          "rate": 0.1297,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=43076&market_id=181",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=43076&market_id=181",
-          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -3613,6 +3545,23 @@
           "service_area": null
         },
         {
+          "name": "0 Adversity Energy",
+          "rate": 0.1328,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 8,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=45059&market_id=181&site_id=113",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=45059&market_id=181&site_id=113",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "American Power & Gas of Pennsylvania LLC",
           "rate": 0.1329,
           "rate_type": "Variable",
@@ -3719,13 +3668,13 @@
           "rate": 0.1348,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 3,
+          "term_months": 12,
           "early_termination_fee": "No",
           "introductory": "No",
           "promotional_details": null,
           "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=45022&market_id=181&site_id=113",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=45022&market_id=181&site_id=113",
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=45016&market_id=181&site_id=113",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=45016&market_id=181&site_id=113",
           "phone": null,
           "renewable": "No",
           "bundle_required": false,
@@ -3970,6 +3919,40 @@
           "service_area": null
         },
         {
+          "name": "0 Adversity Energy",
+          "rate": 0.1359,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=43078&market_id=181",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=43078&market_id=181",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Adversity Energy",
+          "rate": 0.1359,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=43076&market_id=181",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=43076&market_id=181",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Shipley Energy",
           "rate": 0.136,
           "rate_type": "Fixed",
@@ -4089,6 +4072,23 @@
           "service_area": null
         },
         {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.137,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 9,
+          "early_termination_fee": "$120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 9 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_9M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_9M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
+          "phone": "866-752-1907",
+          "renewable": "No",
+          "bundle_required": true,
+          "service_area": null
+        },
+        {
           "name": "Energy Harbor LLC",
           "rate": 0.1374,
           "rate_type": "Fixed",
@@ -4106,23 +4106,6 @@
           "service_area": null
         },
         {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.1377,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 9,
-          "early_termination_fee": "$120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna's Competitive Fixed Price for initial term duration of 9 months. Available for New Customers only. Requires enrollment in both gas and electric service. Santanna customers get rewarded \u2014 enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_9M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "signup_url": "https://santannaenergyservices.com/aaa-energy-offers/?utm_source=papowerswitch.com&utm_medium=referral&utm_campaign=FIX_9M_M1_PPLPAE_RS&strategyGuid=e612f125-0f4b-43f2-b23b-dc2bdd9fc3ea",
-          "phone": "866-752-1907",
-          "renewable": "No",
-          "bundle_required": true,
-          "service_area": null
-        },
-        {
           "name": "$0.00 Cancellation Fee Plans",
           "rate": 0.1378,
           "rate_type": "Fixed",
@@ -4135,23 +4118,6 @@
           "website_url": "https://shop.0cancellationfee.com/enrollmentrequest/?plan=132405",
           "signup_url": "https://shop.0cancellationfee.com/enrollmentrequest/?plan=132405",
           "phone": "1-800-698-5853",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "0 Adversity Energy",
-          "rate": 0.1378,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=45016&market_id=181&site_id=113",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=45016&market_id=181&site_id=113",
-          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -4922,23 +4888,6 @@
           "service_area": null
         },
         {
-          "name": "Spring Power & Gas",
-          "rate": 0.1789,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 36,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Spring Green 50 is a month-to-month variable rate product for 36 months, matches 50% of usage with RECS and no cancellation fees. Customers receive $25 in Spring Rewards Dollars each month. No guaranteed savings, your rate may go up or down each month and may be higher than utility. See terms and conditions for more details.  A \"new customer\" is an electric and/or natural gas supply consumer that has never been enrolled with Spring Power & Gas or has not been enrolled with Spring Power & Gas in the last 12 months from today's date.",
-          "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null,
-          "phone": "8772087636",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "RPA Energy dba Green Choice Energy",
           "rate": 0.1855,
           "rate_type": "Fixed",
@@ -5096,8 +5045,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 150,
-      "last_fetched": "2026-10-21T00:21:46.086058Z"
+      "count": 149,
+      "last_fetched": "2026-10-21T16:32:38.983870Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5432,7 +5381,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.1355,
+          "rate": 0.1353,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 9,
@@ -5512,6 +5461,23 @@
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_12&utm_content=Duq&channel_code=direct",
           "phone": "844-275-4022",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Adversity Energy",
+          "rate": 0.1368,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 3,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=45022&market_id=176&site_id=113",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=45022&market_id=176&site_id=113",
+          "phone": null,
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -5817,23 +5783,6 @@
           "website_url": "https://shop.0cancellationfee.com/enrollmentrequest/?plan=132363",
           "signup_url": "https://shop.0cancellationfee.com/enrollmentrequest/?plan=132363",
           "phone": "1-800-698-5853",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "0 Adversity Energy",
-          "rate": 0.1408,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 3,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=45022&market_id=176&site_id=113",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=45022&market_id=176&site_id=113",
-          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7267,40 +7216,6 @@
           "service_area": null
         },
         {
-          "name": "Spring Power & Gas",
-          "rate": 0.1799,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 36,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Spring Green 50 is a month-to-month variable rate product for 36 months, matches 50% of usage with RECS and no cancellation fees. Customers receive $25 in Spring Rewards Dollars each month. No guaranteed savings, your rate may go up or down each month and may be higher than utility. See terms and conditions for more details.   A \"new customer\" is an electric and/or natural gas supply consumer that has never been enrolled with Spring Power & Gas or has not been enrolled with Spring Power & Gas in the last 12 months from today's date.",
-          "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null,
-          "phone": "8772087636",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Spring Power & Gas",
-          "rate": 0.1799,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 36,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Spring Green 100 is a month-to-month variable rate product for 36 months, matches 100% of usage with RECS and no cancellation fees. Customers receive $25 in Spring Rewards Dollars each month. No guaranteed savings, your rate may go up or down each month and may be higher than utility. See terms and conditions for more details.  A \"new customer\" is an electric and/or natural gas supply consumer that has never been enrolled with Spring Power & Gas or has not been enrolled with Spring Power & Gas in the last 12 months from today's date.",
-          "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null,
-          "phone": "8772087636",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Think Energy",
           "rate": 0.182,
           "rate_type": "Fixed",
@@ -7390,8 +7305,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 134,
-      "last_fetched": "2026-10-21T00:21:47.461838Z"
+      "count": 132,
+      "last_fetched": "2026-10-21T16:32:39.752136Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -8048,6 +7963,23 @@
           "service_area": null
         },
         {
+          "name": "0 Adversity Energy",
+          "rate": 0.1348,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 8,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=45059&market_id=177&site_id=113",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=45059&market_id=177&site_id=113",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Direct Energy",
           "rate": 0.1349,
           "rate_type": "Fixed",
@@ -8184,6 +8116,23 @@
           "service_area": null
         },
         {
+          "name": "0 Adversity Energy",
+          "rate": 0.1368,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=45016&market_id=177&site_id=113",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=45016&market_id=177&site_id=113",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.1369,
           "rate_type": "Fixed",
@@ -8230,23 +8179,6 @@
           "website_url": "https://shop.0cancellationfee.com/enrollmentrequest/?plan=132372",
           "signup_url": "https://shop.0cancellationfee.com/enrollmentrequest/?plan=132372",
           "phone": "1-800-698-5853",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "0 Adversity Energy",
-          "rate": 0.1378,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 8,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=45059&market_id=177&site_id=113",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=45059&market_id=177&site_id=113",
-          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -8502,23 +8434,6 @@
           "website_url": "https://shop.0cancellationfee.com/enrollmentrequest/?plan=132373",
           "signup_url": "https://shop.0cancellationfee.com/enrollmentrequest/?plan=132373",
           "phone": "1-800-698-5853",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "0 Adversity Energy",
-          "rate": 0.1388,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=45016&market_id=177&site_id=113",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=45016&market_id=177&site_id=113",
-          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -9578,40 +9493,6 @@
           "service_area": null
         },
         {
-          "name": "Spring Power & Gas",
-          "rate": 0.1769,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 36,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Spring Green 50 is a month-to-month variable rate product for 36 months, matches 50% of usage with RECS and no cancellation fees. Customers receive $25 in Spring Rewards Dollars each month. No guaranteed savings, your rate may go up or down each month and may be higher than utility. See terms and conditions for more details.  A \"new customer\" is an electric and/or natural gas supply consumer that has never been enrolled with Spring Power & Gas or has not been enrolled with Spring Power & Gas in the last 12 months from today's date.",
-          "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null,
-          "phone": "8772087636",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Spring Power & Gas",
-          "rate": 0.1769,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 36,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Spring Green 100 is a month-to-month variable rate product for 36 months, matches 100% of usage with RECS and no cancellation fees. Customers receive $25 in Spring Rewards Dollars each month. No guaranteed savings, your rate may go up or down each month and may be higher than utility. See terms and conditions for more details.  A \"new customer\" is an electric and/or natural gas supply consumer that has never been enrolled with Spring Power & Gas or has not been enrolled with Spring Power & Gas in the last 12 months from today's date.",
-          "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null,
-          "phone": "8772087636",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "IGS Energy",
           "rate": 0.1779,
           "rate_type": "Fixed",
@@ -9666,8 +9547,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 133,
-      "last_fetched": "2026-10-21T00:21:49.176668Z"
+      "count": 131,
+      "last_fetched": "2026-10-21T16:32:40.915797Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -10222,6 +10103,23 @@
           "service_area": null
         },
         {
+          "name": "0 Adversity Energy",
+          "rate": 0.1318,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 8,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=45059&market_id=180&site_id=113",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=45059&market_id=180&site_id=113",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1319,
           "rate_type": "Fixed",
@@ -10494,23 +10392,6 @@
           "service_area": null
         },
         {
-          "name": "0 Adversity Energy",
-          "rate": 0.1348,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 8,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=45059&market_id=180&site_id=113",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=45059&market_id=180&site_id=113",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Direct Energy",
           "rate": 0.1349,
           "rate_type": "Fixed",
@@ -10540,6 +10421,23 @@
           "website_url": "https://www.clearviewenergy.com/enrollment/?utilityid=83&utilityidG=&utilityname=PENELEC&utilitynameG=&ctype=Resi&utility-state=pa&productNum=417985",
           "signup_url": "https://www.clearviewenergy.com/enrollment/?utilityid=83&utilityidG=&utilityname=PENELEC&utilitynameG=&ctype=Resi&utility-state=pa&productNum=417985",
           "phone": "888-512-8994",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Adversity Energy",
+          "rate": 0.1368,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=45016&market_id=180&site_id=113",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=45016&market_id=180&site_id=113",
+          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -10783,23 +10681,6 @@
           "service_area": null
         },
         {
-          "name": "0 Adversity Energy",
-          "rate": 0.1398,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=45016&market_id=180&site_id=113",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=45016&market_id=180&site_id=113",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Better Buy Energy",
           "rate": 0.1399,
           "rate_type": "Fixed",
@@ -10898,23 +10779,6 @@
           "signup_url": "https://signup.sparkenergy.com/",
           "phone": "(833) 488-3132",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Verde Energy USA, Inc.",
-          "rate": 0.1399,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "You may be able to lock in your fixed supply rate as low as $0.1399 for 12 months: provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 60% Load Factor energy consumption or better. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors. With this energy plan, there is no monthly service fee and no early termination fee. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/get-rates/",
-          "signup_url": "https://www.verdeenergy.com/get-rates/",
-          "phone": "1-833-488-3125",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -11429,6 +11293,23 @@
           "service_area": null
         },
         {
+          "name": "Verde Energy USA, Inc.",
+          "rate": 0.1449,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "You may be able to lock in your fixed supply rate as low as $0.1449 for 12 months: provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 60% Load Factor energy consumption or better. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors. With this energy plan, there is no monthly service fee and no early termination fee. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://www.verdeenergy.com/get-rates/",
+          "signup_url": "https://www.verdeenergy.com/get-rates/",
+          "phone": "1-833-488-3125",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Brighten Energy",
           "rate": 0.1459,
           "rate_type": "Fixed",
@@ -11926,7 +11807,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 132,
-      "last_fetched": "2026-10-21T00:21:50.394936Z"
+      "last_fetched": "2026-10-21T16:32:42.825496Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -12311,23 +12192,6 @@
           "service_area": null
         },
         {
-          "name": "0 Adversity Energy",
-          "rate": 0.1335,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=43076&market_id=184",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=43076&market_id=184",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.1339,
           "rate_type": "Fixed",
@@ -12596,6 +12460,23 @@
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_8&utm_content=PPower&channel_code=direct",
           "phone": "844-275-4022",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "0 Adversity Energy",
+          "rate": 0.1379,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=43076&market_id=184",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=43076&market_id=184",
+          "phone": null,
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -13845,7 +13726,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 112,
-      "last_fetched": "2026-10-21T00:21:51.650703Z"
+      "last_fetched": "2026-10-21T16:32:44.962334Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -14757,6 +14638,23 @@
           "service_area": null
         },
         {
+          "name": "0 Adversity Energy",
+          "rate": 0.1308,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 8,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=45059&market_id=186&site_id=113",
+          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=45059&market_id=186&site_id=113",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "American Power & Gas of Pennsylvania LLC",
           "rate": 0.1309,
           "rate_type": "Fixed",
@@ -15110,40 +15008,6 @@
           "signup_url": "https://shop.0cancellationfee.com/enrollmentrequest/?plan=132410",
           "phone": "1-800-698-5853",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "0 Adversity Energy",
-          "rate": 0.1338,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 8,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": null,
-          "monthly_fee": null,
-          "website_url": "https://secure.0adversity.com/cart/enroll?plan_id=45059&market_id=186&site_id=113",
-          "signup_url": "https://secure.0adversity.com/cart/enroll?plan_id=45059&market_id=186&site_id=113",
-          "phone": null,
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Verde Energy USA, Inc.",
-          "rate": 0.1339,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "You may be able to lock in your fixed supply rate as low as $0.1339 for 12 months: provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 50% Load Factor energy consumption or better. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors. With this energy plan, there is no monthly service fee and no early termination fee. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
-          "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/get-rates/",
-          "signup_url": "https://www.verdeenergy.com/get-rates/",
-          "phone": "1-833-488-3125",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -15597,29 +15461,29 @@
           "term_months": 12,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "A great time for new customers to lock in a fixed rate. With this energy plan, your supply rate stays put for 12 months, guaranteed. There is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!  You can receive up to a $100 rebate when you sign up for this offer. Receive the first $50 after one month of service and the second $50 after 6 months of service.",
+          "promotional_details": "With this energy plan, you may be able to lock in a fixed rate as low as $0.1399 for 12 months if you qualify. Provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 60% Load Factor or higher. Sign up today to see if you qualify. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors.  With this energy plan, there is no monthly service fee and no early termination fee. See linked Plan Documents for full terms of service. For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!",
           "monthly_fee": null,
-          "website_url": "https://majorenergy.com/enroll/",
-          "signup_url": "https://majorenergy.com/enroll/",
+          "website_url": "https://majorenergy.com/areas/pa/",
+          "signup_url": "https://majorenergy.com/areas/pa/",
           "phone": "1-833-488-3124",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
         {
-          "name": "Spring Power & Gas",
+          "name": "Major Energy",
           "rate": 0.1399,
-          "rate_type": "Variable",
+          "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 36,
+          "term_months": 12,
           "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Spring Green 100 is a month-to-month variable rate product for 36 months, matches 100% of usage with RECS and no cancellation fees. Customers receive $25 in Spring Rewards Dollars each month. No guaranteed savings, your rate may go up or down each month and may be higher than utility. See terms and conditions for more details.  A \"new customer\" is an electric and/or natural gas supply consumer that has never been enrolled with Spring Power & Gas or has not been enrolled with Spring Power & Gas in the last 12 months from today's date.",
+          "introductory": "No",
+          "promotional_details": "A great time for new customers to lock in a fixed rate. With this energy plan, your supply rate stays put for 12 months, guaranteed. There is no monthly service fee and no early termination fee. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Major Energy, please call 1-888-625-6760 or visit https://myaccount.majorenergy.com/ to renew!  You can receive up to a $100 rebate when you sign up for this offer. Receive the first $50 after one month of service and the second $50 after 6 months of service.",
           "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null,
-          "phone": "8772087636",
-          "renewable": "Yes",
+          "website_url": "https://majorenergy.com/enroll/",
+          "signup_url": "https://majorenergy.com/enroll/",
+          "phone": "1-833-488-3124",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -15636,6 +15500,23 @@
           "website_url": "https://enroll.cleanskyenergy.com/NE_Home/index?ProductCode=RN00011592&Term=24&Promo=PAPOWER",
           "signup_url": "https://enroll.cleanskyenergy.com/NE_Home/index?ProductCode=RN00011592&Term=24&Promo=PAPOWER",
           "phone": "1-888-355-6205",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Verde Energy USA, Inc.",
+          "rate": 0.1399,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "You may be able to lock in your fixed supply rate as low as $0.1399 for 12 months: provide a few bits of information and we will analyze your energy usage to let you know if you qualify for the offered rate. This offer is for customers with a 50% Load Factor energy consumption or better. If you do not qualify for the listed rate, you will be offered another unique rate based on your energy usage history and other factors. With this energy plan, there is no monthly service fee and no early termination fee. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!",
+          "monthly_fee": null,
+          "website_url": "https://www.verdeenergy.com/get-rates/",
+          "signup_url": "https://www.verdeenergy.com/get-rates/",
+          "phone": "1-833-488-3125",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -16081,30 +15962,13 @@
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
-        },
-        {
-          "name": "Spring Power & Gas",
-          "rate": 0.1809,
-          "rate_type": "Variable",
-          "rate_unit": "kWh",
-          "term_months": 36,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Spring Green 50 is a month-to-month variable rate product for 36 months, matches 50% of usage with RECS and no cancellation fees. Customers receive $25 in Spring Rewards Dollars each month. No guaranteed savings, your rate may go up or down each month and may be higher than utility. See terms and conditions for more details.  A \"new customer\" is an electric and/or natural gas supply consumer that has never been enrolled with Spring Power & Gas or has not been enrolled with Spring Power & Gas in the last 12 months from today's date.",
-          "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null,
-          "phone": "8772087636",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
         }
       ],
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 132,
-      "last_fetched": "2026-10-21T00:21:52.934791Z"
+      "count": 131,
+      "last_fetched": "2026-10-21T16:32:46.769159Z"
     }
   }
 }
