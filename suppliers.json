@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T03:33:19.163068Z",
+  "last_updated": "2026-10-27T17:24:10.731209Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -611,7 +611,7 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 0.699,
+          "rate": 0.679,
           "rate_type": "Fixed",
           "rate_unit": "therm",
           "term_months": 24,
@@ -657,7 +657,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 43,
-      "last_fetched": "2026-10-27T03:33:17.582481Z"
+      "last_fetched": "2026-10-27T17:24:08.321536Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -955,7 +955,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 19,
-      "last_fetched": "2026-10-27T03:33:17.931852Z"
+      "last_fetched": "2026-10-27T17:24:08.992972Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -967,7 +967,7 @@
       "suppliers": [
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.4143,
+          "rate": 0.4083,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -1312,7 +1312,7 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 0.699,
+          "rate": 0.679,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -1461,6 +1461,21 @@
           "service_area": null
         },
         {
+          "name": "IGS Energy",
+          "rate": 0.829,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 24,
+          "early_termination_fee": "$149",
+          "introductory": "No",
+          "promotional_details": "Contribute to a brighter future by choosing this environmentally conscious product for your home. Our 100% Carbon Neutral Fixed Rate provides you with stability and predictability for the entire term length.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Clearview Energy",
           "rate": 0.839,
           "rate_type": "Variable",
@@ -1477,22 +1492,7 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 0.849,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 24,
-          "early_termination_fee": "$149",
-          "introductory": "No",
-          "promotional_details": "Contribute to a brighter future by choosing this environmentally conscious product for your home. Our 100% Carbon Neutral Fixed Rate provides you with stability and predictability for the entire term length.",
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "IGS Energy",
-          "rate": 0.899,
+          "rate": 0.879,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 36,
@@ -1502,36 +1502,6 @@
           "monthly_fee": null,
           "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
           "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Spring Power & Gas",
-          "rate": 0.899,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 36,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Zero Gas 100 is a month-to-month variable rate product for 36 months, matches 100% of usage with Carbon Offsets and no cancellation fees. Customers receive $25 in Spring Rewards Dollars each month. No guaranteed savings, your rate may go up or down each month and may be higher than utility. See terms and conditions for more details.",
-          "monthly_fee": null,
-          "website_url": "https://springpowerandgas.us/",
-          "signup_url": "https://springpowerandgas.us/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Spring Power & Gas",
-          "rate": 0.899,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 36,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Zero Gas 50 is a month-to-month variable rate product for 36 months, matches 50% of usage with Carbon Offsets and no cancellation fees. Customers receive $25 in Spring Rewards Dollars each month. No guaranteed savings, your rate may go up or down each month and may be higher than utility. See terms and conditions for more details.",
-          "monthly_fee": null,
-          "website_url": "https://springpowerandgas.us/",
-          "signup_url": "https://springpowerandgas.us/",
           "bundle_required": false,
           "service_area": null
         },
@@ -1599,8 +1569,8 @@
       "unlimited_suppliers": [
         "AAA Energy by Santanna"
       ],
-      "count": 42,
-      "last_fetched": "2026-10-27T03:33:18.311712Z"
+      "count": 40,
+      "last_fetched": "2026-10-27T17:24:09.482961Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -1836,6 +1806,21 @@
           "service_area": null
         },
         {
+          "name": "IGS Energy",
+          "rate": 4.69,
+          "rate_type": "Fixed",
+          "rate_unit": "Mcf",
+          "term_months": 12,
+          "early_termination_fee": "$99",
+          "introductory": "No",
+          "promotional_details": "Contribute to a brighter future by choosing this environmentally conscious product for your home. Our 100% Carbon Neutral Fixed Rate provides you with stability and predictability for the entire term length.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "SFE Energy Pennsylvania, Inc.",
           "rate": 4.98,
           "rate_type": "Fixed",
@@ -1851,21 +1836,6 @@
           "service_area": null
         },
         {
-          "name": "IGS Energy",
-          "rate": 4.99,
-          "rate_type": "Fixed",
-          "rate_unit": "Mcf",
-          "term_months": 12,
-          "early_termination_fee": "$99",
-          "introductory": "No",
-          "promotional_details": "Contribute to a brighter future by choosing this environmentally conscious product for your home. Our 100% Carbon Neutral Fixed Rate provides you with stability and predictability for the entire term length.",
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "WGL Energy Services",
           "rate": 5.049,
           "rate_type": "Fixed",
@@ -1917,36 +1887,6 @@
           "rate_unit": "Mcf",
           "term_months": 36,
           "early_termination_fee": "To cancel, write or call us: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: www.wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "WGL Energy Services",
-          "rate": 5.299,
-          "rate_type": "Variable",
-          "rate_unit": "Mcf",
-          "term_months": null,
-          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
-          "introductory": "No",
-          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
-          "monthly_fee": null,
-          "website_url": "https://www.wglenergy.com/",
-          "signup_url": "https://www.wglenergy.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "WGL Energy Services",
-          "rate": 5.299,
-          "rate_type": "Variable",
-          "rate_unit": "Mcf",
-          "term_months": null,
-          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
           "introductory": "No",
           "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
           "monthly_fee": null,
@@ -1957,7 +1897,7 @@
         },
         {
           "name": "Verde Energy USA Pennsylvania LLC",
-          "rate": 5.49,
+          "rate": 5.25,
           "rate_type": "Fixed",
           "rate_unit": "Mcf",
           "term_months": 6,
@@ -1967,6 +1907,36 @@
           "monthly_fee": null,
           "website_url": "https://www.verdeenergy.com/",
           "signup_url": "https://www.verdeenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 5.299,
+          "rate_type": "Variable",
+          "rate_unit": "Mcf",
+          "term_months": null,
+          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "WGL Energy Services",
+          "rate": 5.299,
+          "rate_type": "Variable",
+          "rate_unit": "Mcf",
+          "term_months": null,
+          "early_termination_fee": "To cancel, write us or call: 1-844-427-5945. If you cancel, you may be subject to a fee. Learn more: wglenergy.com",
+          "introductory": "No",
+          "promotional_details": "As a WGL Energy customer, you'll get 50 Reward Dollars every month that you can use to save in over 500,000 ways!",
+          "monthly_fee": null,
+          "website_url": "https://www.wglenergy.com/",
+          "signup_url": "https://www.wglenergy.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -2016,32 +1986,17 @@
           "service_area": null
         },
         {
-          "name": "Spring Power & Gas",
-          "rate": 6.4999,
-          "rate_type": "Variable",
+          "name": "IGS Energy",
+          "rate": 6.79,
+          "rate_type": "Fixed",
           "rate_unit": "Mcf",
           "term_months": 36,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Zero Gas 100 is a month-to-month variable rate product for 36 months, matches 100% of usage with Carbon Offsets and no cancellation fees. Customers receive $25 in Spring Rewards Dollars each month. No guaranteed savings, your rate may go up or down each month and may be higher than utility. See terms and conditions for more details.",
+          "early_termination_fee": "199",
+          "introductory": "No",
+          "promotional_details": "Contribute to a brighter future by choosing this environmentally conscious product for your home. Our 100% Carbon Neutral Fixed Rate provides you with stability and predictability for the entire term length.",
           "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null,
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Spring Power & Gas",
-          "rate": 6.4999,
-          "rate_type": "Variable",
-          "rate_unit": "Mcf",
-          "term_months": 36,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Zero Gas 50 is a month-to-month variable rate product for 36 months, matches 50% of usage with Carbon Offsets and no cancellation fees. Customers receive $25 in Spring Rewards Dollars each month. No guaranteed savings, your rate may go up or down each month and may be higher than utility. See terms and conditions for more details.",
-          "monthly_fee": null,
-          "website_url": "https://springpowerandgas.us/",
-          "signup_url": "https://springpowerandgas.us/",
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
           "bundle_required": false,
           "service_area": null
         },
@@ -2057,21 +2012,6 @@
           "monthly_fee": null,
           "website_url": "https://www.clearviewenergy.com/states/pa/",
           "signup_url": "https://www.clearviewenergy.com/states/pa/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "IGS Energy",
-          "rate": 6.99,
-          "rate_type": "Fixed",
-          "rate_unit": "Mcf",
-          "term_months": 36,
-          "early_termination_fee": "199",
-          "introductory": "No",
-          "promotional_details": "Contribute to a brighter future by choosing this environmentally conscious product for your home. Our 100% Carbon Neutral Fixed Rate provides you with stability and predictability for the entire term length.",
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
           "bundle_required": false,
           "service_area": null
         },
@@ -2092,8 +2032,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 32,
-      "last_fetched": "2026-10-27T03:33:18.613680Z"
+      "count": 30,
+      "last_fetched": "2026-10-27T17:24:09.831824Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2239,36 +2179,6 @@
           "service_area": null
         },
         {
-          "name": "Spring Power & Gas",
-          "rate": 0.749,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 36,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Zero Gas 100 is a month-to-month variable rate product for 36 months, matches 100% of usage with Carbon Offsets and no cancellation fees. Customers receive $25 in Spring Rewards Dollars each month. No guaranteed savings, your rate may go up or down each month and may be higher than utility. See terms and conditions for more details.",
-          "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null,
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Spring Power & Gas",
-          "rate": 0.749,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 36,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Zero Gas 50 is a month-to-month variable rate product for 36 months, matches 50% of usage with Carbon Offsets and no cancellation fees. Customers receive $25 in Spring Rewards Dollars each month. No guaranteed savings, your rate may go up or down each month and may be higher than utility. See terms and conditions for more details.",
-          "monthly_fee": null,
-          "website_url": "https://springpowerandgas.us/",
-          "signup_url": "https://springpowerandgas.us/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "City Power & Gas PA",
           "rate": 0.8287,
           "rate_type": "Fixed",
@@ -2330,8 +2240,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 15,
-      "last_fetched": "2026-10-27T03:33:18.855780Z"
+      "count": 13,
+      "last_fetched": "2026-10-27T17:24:10.188087Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2522,6 +2432,21 @@
           "service_area": null
         },
         {
+          "name": "Verde Energy USA Pennsylvania LLC",
+          "rate": 0.689,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 12 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!  You can receive up to a $50 rebate when you sign up for this 12-month plan. Don't wait - take advantage and sign up today! Receive the first $25 after one month of service and the second $25 after 6 months of service.",
+          "monthly_fee": null,
+          "website_url": "https://www.verdeenergy.com/",
+          "signup_url": "https://www.verdeenergy.com/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "nTherm LLC",
           "rate": 0.689,
           "rate_type": "Variable",
@@ -2533,36 +2458,6 @@
           "monthly_fee": null,
           "website_url": null,
           "signup_url": null,
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Spring Power & Gas",
-          "rate": 0.69,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 36,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Zero Gas 100 is a month-to-month variable rate product for 36 months, matches 100% of usage with Carbon Offsets and no cancellation fees. Customers receive $25 in Spring Rewards Dollars each month. No guaranteed savings, your rate may go up or down each month and may be higher than utility. See terms and conditions for more details.",
-          "monthly_fee": null,
-          "website_url": "https://springpowerandgas.us/",
-          "signup_url": "https://springpowerandgas.us/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Spring Power & Gas",
-          "rate": 0.69,
-          "rate_type": "Variable",
-          "rate_unit": "Ccf",
-          "term_months": 36,
-          "early_termination_fee": "No",
-          "introductory": "Yes",
-          "promotional_details": "Zero Gas 50 is a month-to-month variable rate product for 36 months, matches 50% of usage with Carbon Offsets and no cancellation fees. Customers receive $25 in Spring Rewards Dollars each month. No guaranteed savings, your rate may go up or down each month and may be higher than utility. See terms and conditions for more details.",
-          "monthly_fee": null,
-          "website_url": "https://springpowerandgas.us/",
-          "signup_url": "https://springpowerandgas.us/",
           "bundle_required": false,
           "service_area": null
         },
@@ -2608,21 +2503,6 @@
           "monthly_fee": null,
           "website_url": "https://www.wglenergy.com/",
           "signup_url": "https://www.wglenergy.com/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Verde Energy USA Pennsylvania LLC",
-          "rate": 0.715,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Take advantage of this offer and sign up, today! This plan has it all \u2013 100% Renewable energy, no monthly service fee, no early termination fee and a guaranteed supply rate for 12 months. This plan is valid for new residential and new small commercial enrollments only \u2013 not available to active customers or former customers within the past 2 years. See linked Plan Documents for full terms of service. For existing customers with Verde Energy, please call 1-800-388-3862 or visit https://myaccount.verdeenergy.com/ to renew!  You can receive up to a $50 rebate when you sign up for this 12-month plan. Don't wait - take advantage and sign up today! Receive the first $25 after one month of service and the second $25 after 6 months of service.",
-          "monthly_fee": null,
-          "website_url": "https://www.verdeenergy.com/",
-          "signup_url": "https://www.verdeenergy.com/",
           "bundle_required": false,
           "service_area": null
         },
@@ -2853,8 +2733,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 34,
-      "last_fetched": "2026-10-27T03:33:19.162867Z"
+      "count": 32,
+      "last_fetched": "2026-10-27T17:24:10.731040Z"
     }
   }
 }
