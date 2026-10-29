@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T22:08:14.812292Z",
+  "last_updated": "2026-10-29T04:12:35.543564Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -2463,7 +2463,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 144,
-      "last_fetched": "2026-10-28T22:08:11.327615Z"
+      "last_fetched": "2026-10-29T04:12:31.460259Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -3222,6 +3222,23 @@
           "service_area": null
         },
         {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1297,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 8,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Lock in your rate for 8 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18449",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18449",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1298,
           "rate_type": "Fixed",
@@ -3375,6 +3392,23 @@
           "service_area": null
         },
         {
+          "name": "American Electric Rates LLC",
+          "rate": 0.1299,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "A great time for new customers to secure a fixed rate. Enjoy peace of mind with a fixed rate for 12 months. With this energy plan, there is no monthly service fee and no early termination fee.",
+          "monthly_fee": null,
+          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16029",
+          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=16029",
+          "phone": null,
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Energy Harbor LLC",
           "rate": 0.1304,
           "rate_type": "Fixed",
@@ -3507,23 +3541,6 @@
           "signup_url": "https://www.verdeenergy.com/get-rates",
           "phone": "1-833-488-3125",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1327,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 8,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Lock in your rate for 8 months. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18449",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18449",
-          "phone": null,
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -3693,23 +3710,6 @@
           "website_url": "https://enrollment.citypowerandgas.com/home",
           "signup_url": "https://enrollment.citypowerandgas.com/home",
           "phone": "1-877-518-9339",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "American Electric Rates LLC",
-          "rate": 0.1347,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "A great time for new customers to secure a fixed rate. Enjoy peace of mind with a fixed rate for 12 months. With this energy plan, there is no monthly service fee and no early termination fee.",
-          "monthly_fee": null,
-          "website_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18004",
-          "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=18004",
-          "phone": null,
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -4995,7 +4995,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 148,
-      "last_fetched": "2026-10-28T22:08:11.955966Z"
+      "last_fetched": "2026-10-29T04:12:32.258792Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7238,7 +7238,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 131,
-      "last_fetched": "2026-10-28T22:08:12.562926Z"
+      "last_fetched": "2026-10-29T04:12:32.930946Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9463,7 +9463,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 130,
-      "last_fetched": "2026-10-28T22:08:13.124562Z"
+      "last_fetched": "2026-10-29T04:12:33.603560Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -11688,7 +11688,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 130,
-      "last_fetched": "2026-10-28T22:08:13.679046Z"
+      "last_fetched": "2026-10-29T04:12:34.265257Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -13607,7 +13607,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 112,
-      "last_fetched": "2026-10-28T22:08:14.214638Z"
+      "last_fetched": "2026-10-29T04:12:34.878399Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -15832,7 +15832,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 130,
-      "last_fetched": "2026-10-28T22:08:14.812098Z"
+      "last_fetched": "2026-10-29T04:12:35.543339Z"
     }
   }
 }
