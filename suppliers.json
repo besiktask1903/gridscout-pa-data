@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T04:12:30.743634Z",
+  "last_updated": "2026-10-30T17:41:49.835556Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -400,6 +400,36 @@
           "service_area": null
         },
         {
+          "name": "Just Energy",
+          "rate": 0.499,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 12,
+          "early_termination_fee": "50",
+          "introductory": "No",
+          "promotional_details": "If you call us to cancel, Just Energy will not charge any Early Termination Fee.",
+          "monthly_fee": null,
+          "website_url": "https://justenergy.com/paswitch/",
+          "signup_url": "https://justenergy.com/paswitch/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Just Energy",
+          "rate": 0.499,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 24,
+          "early_termination_fee": "50",
+          "introductory": "No",
+          "promotional_details": "If you call us to cancel, Just Energy will not charge any Early Termination Fee.",
+          "monthly_fee": null,
+          "website_url": "https://justenergy.com/paswitch/",
+          "signup_url": "https://justenergy.com/paswitch/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Shipley Energy",
           "rate": 0.499,
           "rate_type": "Fixed",
@@ -456,6 +486,36 @@
           "monthly_fee": null,
           "website_url": "https://enrollment.citypowerandgas.com/home",
           "signup_url": "https://enrollment.citypowerandgas.com/home",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Just Energy",
+          "rate": 0.539,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 36,
+          "early_termination_fee": "50",
+          "introductory": "No",
+          "promotional_details": "If you call us to cancel, Just Energy will not charge any Early Termination Fee.",
+          "monthly_fee": null,
+          "website_url": "https://justenergy.com/paswitch/",
+          "signup_url": "https://justenergy.com/paswitch/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Just Energy",
+          "rate": 0.539,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 60,
+          "early_termination_fee": "50",
+          "introductory": "No",
+          "promotional_details": "If you call us to cancel, Just Energy will not charge any Early Termination Fee.",
+          "monthly_fee": null,
+          "website_url": "https://justenergy.com/paswitch/",
+          "signup_url": "https://justenergy.com/paswitch/",
           "bundle_required": false,
           "service_area": null
         },
@@ -531,66 +591,6 @@
           "monthly_fee": null,
           "website_url": "https://symmetryenergy.com/pennsylvania/",
           "signup_url": "https://symmetryenergy.com/pennsylvania/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Just Energy",
-          "rate": 0.589,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 12,
-          "early_termination_fee": "50",
-          "introductory": "No",
-          "promotional_details": "If you call us to cancel, Just Energy will not charge any Early Termination Fee.",
-          "monthly_fee": null,
-          "website_url": "https://justenergy.com/paswitch/",
-          "signup_url": "https://justenergy.com/paswitch/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Just Energy",
-          "rate": 0.589,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 24,
-          "early_termination_fee": "50",
-          "introductory": "No",
-          "promotional_details": "If you call us to cancel, Just Energy will not charge any Early Termination Fee.",
-          "monthly_fee": null,
-          "website_url": "https://justenergy.com/paswitch/",
-          "signup_url": "https://justenergy.com/paswitch/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Just Energy",
-          "rate": 0.589,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 36,
-          "early_termination_fee": "50",
-          "introductory": "No",
-          "promotional_details": "If you call us to cancel, Just Energy will not charge any Early Termination Fee.",
-          "monthly_fee": null,
-          "website_url": "https://justenergy.com/paswitch/",
-          "signup_url": "https://justenergy.com/paswitch/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Just Energy",
-          "rate": 0.589,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 60,
-          "early_termination_fee": "50",
-          "introductory": "No",
-          "promotional_details": "If you call us to cancel, Just Energy will not charge any Early Termination Fee.",
-          "monthly_fee": null,
-          "website_url": "https://justenergy.com/paswitch/",
-          "signup_url": "https://justenergy.com/paswitch/",
           "bundle_required": false,
           "service_area": null
         },
@@ -702,7 +702,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 46,
-      "last_fetched": "2026-10-30T04:12:29.265094Z"
+      "last_fetched": "2026-10-30T17:41:47.756042Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1015,7 +1015,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 20,
-      "last_fetched": "2026-10-30T04:12:29.570834Z"
+      "last_fetched": "2026-10-30T17:41:48.144293Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1027,7 +1027,7 @@
       "suppliers": [
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.4057,
+          "rate": 0.407,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -1387,6 +1387,21 @@
         },
         {
           "name": "IGS Energy",
+          "rate": 0.649,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "$99",
+          "introductory": "No",
+          "promotional_details": "Our Fixed Rate provides you with stability and predictability for the entire term length.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "IGS Energy",
           "rate": 0.679,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
@@ -1401,17 +1416,62 @@
           "service_area": null
         },
         {
-          "name": "IGS Energy",
+          "name": "Just Energy Solutions",
           "rate": 0.699,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
-          "early_termination_fee": "99",
+          "early_termination_fee": "50",
           "introductory": "No",
-          "promotional_details": "Contribute to a brighter future by choosing this environmentally conscious product for your home. Our 100% Carbon Neutral Fixed Rate provides you with stability and predictability for the entire term length.",
+          "promotional_details": "If you call us to cancel, Just Energy will not charge any Early Termination Fee.",
           "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
+          "website_url": "https://justenergy.com/paswitch/",
+          "signup_url": "https://justenergy.com/paswitch/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Just Energy Solutions",
+          "rate": 0.699,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 24,
+          "early_termination_fee": "50",
+          "introductory": "No",
+          "promotional_details": "If you call us to cancel, Just Energy will not charge any Early Termination Fee.",
+          "monthly_fee": null,
+          "website_url": "https://justenergy.com/paswitch/",
+          "signup_url": "https://justenergy.com/paswitch/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Just Energy Solutions",
+          "rate": 0.749,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 36,
+          "early_termination_fee": "50",
+          "introductory": "No",
+          "promotional_details": "If you call us to cancel, Just Energy will not charge any Early Termination Fee.",
+          "monthly_fee": null,
+          "website_url": "https://justenergy.com/paswitch/",
+          "signup_url": "https://justenergy.com/paswitch/",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Just Energy Solutions",
+          "rate": 0.749,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 60,
+          "early_termination_fee": "50",
+          "introductory": "No",
+          "promotional_details": "If you call us to cancel, Just Energy will not charge any Early Termination Fee.",
+          "monthly_fee": null,
+          "website_url": "https://justenergy.com/paswitch/",
+          "signup_url": "https://justenergy.com/paswitch/",
           "bundle_required": false,
           "service_area": null
         },
@@ -1446,66 +1506,6 @@
           "service_area": null
         },
         {
-          "name": "Just Energy Solutions",
-          "rate": 0.789,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "50",
-          "introductory": "No",
-          "promotional_details": "If you call us to cancel, Just Energy will not charge any Early Termination Fee.",
-          "monthly_fee": null,
-          "website_url": "https://justenergy.com/paswitch/",
-          "signup_url": "https://justenergy.com/paswitch/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Just Energy Solutions",
-          "rate": 0.789,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 24,
-          "early_termination_fee": "50",
-          "introductory": "No",
-          "promotional_details": "If you call us to cancel, Just Energy will not charge any Early Termination Fee.",
-          "monthly_fee": null,
-          "website_url": "https://justenergy.com/paswitch/",
-          "signup_url": "https://justenergy.com/paswitch/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Just Energy Solutions",
-          "rate": 0.789,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 36,
-          "early_termination_fee": "50",
-          "introductory": "No",
-          "promotional_details": "If you call us to cancel, Just Energy will not charge any Early Termination Fee.",
-          "monthly_fee": null,
-          "website_url": "https://justenergy.com/paswitch/",
-          "signup_url": "https://justenergy.com/paswitch/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Just Energy Solutions",
-          "rate": 0.789,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 60,
-          "early_termination_fee": "50",
-          "introductory": "No",
-          "promotional_details": "If you call us to cancel, Just Energy will not charge any Early Termination Fee.",
-          "monthly_fee": null,
-          "website_url": "https://justenergy.com/paswitch/",
-          "signup_url": "https://justenergy.com/paswitch/",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "NorthStar Gas Co dba YEP Energy",
           "rate": 0.799,
           "rate_type": "Fixed",
@@ -1536,21 +1536,6 @@
           "service_area": null
         },
         {
-          "name": "IGS Energy",
-          "rate": 0.829,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 24,
-          "early_termination_fee": "$149",
-          "introductory": "No",
-          "promotional_details": "Contribute to a brighter future by choosing this environmentally conscious product for your home. Our 100% Carbon Neutral Fixed Rate provides you with stability and predictability for the entire term length.",
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Clearview Energy",
           "rate": 0.839,
           "rate_type": "Variable",
@@ -1567,13 +1552,13 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 0.879,
+          "rate": 0.849,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 36,
-          "early_termination_fee": "199",
+          "early_termination_fee": "$199",
           "introductory": "No",
-          "promotional_details": "Contribute to a brighter future by choosing this environmentally conscious product for your home. Our 100% Carbon Neutral Fixed Rate provides you with stability and predictability for the entire term length.",
+          "promotional_details": "Our Fixed Rate provides you with stability and predictability for the entire term length.",
           "monthly_fee": null,
           "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
           "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
@@ -1644,8 +1629,8 @@
       "unlimited_suppliers": [
         "AAA Energy by Santanna"
       ],
-      "count": 41,
-      "last_fetched": "2026-10-30T04:12:29.927665Z"
+      "count": 40,
+      "last_fetched": "2026-10-30T17:41:48.534898Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2123,7 +2108,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 31,
-      "last_fetched": "2026-10-30T04:12:30.245939Z"
+      "last_fetched": "2026-10-30T17:41:48.820532Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2361,7 +2346,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 15,
-      "last_fetched": "2026-10-30T04:12:30.481330Z"
+      "last_fetched": "2026-10-30T17:41:49.136290Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2717,6 +2702,21 @@
           "service_area": null
         },
         {
+          "name": "IGS Energy",
+          "rate": 0.759,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "$99",
+          "introductory": "No",
+          "promotional_details": "Our Fixed Rate provides you with stability and predictability for the entire term length.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Clearview Energy",
           "rate": 0.7599,
           "rate_type": "Variable",
@@ -2778,11 +2778,11 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 0.859,
+          "rate": 0.799,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
-          "early_termination_fee": "99",
+          "early_termination_fee": "$99",
           "introductory": "No",
           "promotional_details": "Contribute to a brighter future by choosing this environmentally conscious product for your home. Our 100% Carbon Neutral Fixed Rate provides you with stability and predictability for the entire term length.",
           "monthly_fee": null,
@@ -2838,13 +2838,13 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 0.999,
+          "rate": 0.949,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 24,
           "early_termination_fee": "$149",
           "introductory": "No",
-          "promotional_details": "Contribute to a brighter future by choosing this environmentally conscious product for your home. Our 100% Carbon Neutral Fixed Rate provides you with stability and predictability for the entire term length.",
+          "promotional_details": "Our Fixed Rate provides you with stability and predictability for the entire term length.",
           "monthly_fee": null,
           "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
           "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
@@ -2853,13 +2853,13 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 1.059,
+          "rate": 0.999,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 36,
-          "early_termination_fee": "199",
+          "early_termination_fee": "$199",
           "introductory": "No",
-          "promotional_details": "Contribute to a brighter future by choosing this environmentally conscious product for your home. Our 100% Carbon Neutral Fixed Rate provides you with stability and predictability for the entire term length.",
+          "promotional_details": "Our Fixed Rate provides you with stability and predictability for the entire term length.",
           "monthly_fee": null,
           "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
           "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-pagasswitch-general&utm_source=%20pagasswitch&utm_medium=referral",
@@ -2883,8 +2883,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 34,
-      "last_fetched": "2026-10-30T04:12:30.743447Z"
+      "count": 35,
+      "last_fetched": "2026-10-30T17:41:49.835359Z"
     }
   }
 }
