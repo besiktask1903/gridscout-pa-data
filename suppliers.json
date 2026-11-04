@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T00:20:53.284137Z",
+  "last_updated": "2026-11-04T19:18:07.230899Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -702,7 +702,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 46,
-      "last_fetched": "2026-11-04T00:20:51.483611Z"
+      "last_fetched": "2026-11-04T19:18:05.053975Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -969,7 +969,7 @@
         },
         {
           "name": "Agway Energy Services",
-          "rate": 0.839,
+          "rate": 0.829,
           "rate_type": "Variable",
           "rate_unit": "Ccf",
           "term_months": null,
@@ -1015,7 +1015,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 20,
-      "last_fetched": "2026-11-04T00:20:51.880205Z"
+      "last_fetched": "2026-11-04T19:18:05.557007Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1025,21 +1025,6 @@
       "sco_previous_rate": 0.68614,
       "sco_previous_date": "2026-08-31",
       "suppliers": [
-        {
-          "name": "AAA Energy by Santanna",
-          "rate": 0.3948,
-          "rate_type": "Fixed",
-          "rate_unit": "Ccf",
-          "term_months": 12,
-          "early_termination_fee": "120.00",
-          "introductory": "No",
-          "promotional_details": "Santanna\u2019s Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards!",
-          "monthly_fee": null,
-          "website_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
-          "signup_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
-          "bundle_required": true,
-          "service_area": null
-        },
         {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.409,
@@ -1068,6 +1053,21 @@
           "website_url": "https://shopping.pagande.com/cust/?PID=AFF825E5-2DA6-4175-AE46-826B3F6B7261&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=BC76A6A1-8260-47D7-9018-6709978A3894&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=AFF825E5-2DA6-4175-AE46-826B3F6B7261&UID=83B43D96-F667-4826-973B-203271BBF89A&OID=BC76A6A1-8260-47D7-9018-6709978A3894&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=G&PromoCode=RATEBOARD",
           "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "AAA Energy by Santanna",
+          "rate": 0.4188,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "120.00",
+          "introductory": "No",
+          "promotional_details": "Santanna\u2019s Competitive Fixed Price for initial term duration of 12 months. New customers only. A 'new customer' is an energy consumer that has never been enrolled with Santanna or has not been enrolled with Santanna for over 12 months from today's date. Santanna uses a customer's address to make this determination. Requires enrollment in both gas and electric service. Enter gift card and tech giveaways with Santanna Rewards!",
+          "monthly_fee": null,
+          "website_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
+          "signup_url": "https://santannaenergyservices.com/offers/?utm_source=pagasswitch.com&utm_medium=referral&utm_campaign=FIX_12M_T1_PECPAG&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
+          "bundle_required": true,
           "service_area": null
         },
         {
@@ -1630,7 +1630,7 @@
         "AAA Energy by Santanna"
       ],
       "count": 40,
-      "last_fetched": "2026-11-04T00:20:52.291201Z"
+      "last_fetched": "2026-11-04T19:18:05.977663Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2123,7 +2123,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-11-04T00:20:52.635501Z"
+      "last_fetched": "2026-11-04T19:18:06.415465Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2361,7 +2361,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 15,
-      "last_fetched": "2026-11-04T00:20:52.919519Z"
+      "last_fetched": "2026-11-04T19:18:06.824492Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2899,7 +2899,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-11-04T00:20:53.283922Z"
+      "last_fetched": "2026-11-04T19:18:07.230691Z"
     }
   }
 }
