@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T00:43:19.299429Z",
+  "last_updated": "2026-11-06T18:50:06.564258Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -685,6 +685,21 @@
           "service_area": null
         },
         {
+          "name": "Eligo Energy PA LLC",
+          "rate": 0.799,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Fixed for 12 months, then continues on a month-to-month variable rate. New customers only.",
+          "monthly_fee": null,
+          "website_url": "https://www.eligoenergy.com/signup/standard_residential_gas?lead[partner_code]=12m_rate_board&utm_medium=rateboards&utm_source=pagasswitch&utm_term=12&utm_campaign=cgp_gas_pa",
+          "signup_url": "https://www.eligoenergy.com/signup/standard_residential_gas?lead[partner_code]=12m_rate_board&utm_medium=rateboards&utm_source=pagasswitch&utm_term=12&utm_campaign=cgp_gas_pa",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Alpha Gas and Electric LLC",
           "rate": 0.99,
           "rate_type": "Fixed",
@@ -701,8 +716,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 46,
-      "last_fetched": "2026-11-06T00:43:17.278908Z"
+      "count": 47,
+      "last_fetched": "2026-11-06T18:50:04.628195Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1015,7 +1030,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 20,
-      "last_fetched": "2026-11-06T00:43:17.709921Z"
+      "last_fetched": "2026-11-06T18:50:05.116046Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1027,7 +1042,7 @@
       "suppliers": [
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.3978,
+          "rate": 0.4023,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -1645,7 +1660,7 @@
         "AAA Energy by Santanna"
       ],
       "count": 41,
-      "last_fetched": "2026-11-06T00:43:18.137451Z"
+      "last_fetched": "2026-11-06T18:50:05.521459Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2138,7 +2153,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-11-06T00:43:18.647232Z"
+      "last_fetched": "2026-11-06T18:50:05.845079Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2195,7 +2210,7 @@
         },
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.629,
+          "rate": 0.619,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -2314,6 +2329,21 @@
           "service_area": null
         },
         {
+          "name": "Eligo Energy PA LLC",
+          "rate": 0.799,
+          "rate_type": "Fixed",
+          "rate_unit": "Ccf",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Fixed for 12 months, then continues on a month-to-month variable rate. New customers only.",
+          "monthly_fee": null,
+          "website_url": "https://www.eligoenergy.com/signup/standard_residential_gas?lead[partner_code]=12m_rate_board&utm_medium=rateboards&utm_source=pagasswitch&utm_term=12&utm_campaign=pgw_gas_pa",
+          "signup_url": "https://www.eligoenergy.com/signup/standard_residential_gas?lead[partner_code]=12m_rate_board&utm_medium=rateboards&utm_source=pagasswitch&utm_term=12&utm_campaign=pgw_gas_pa",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "City Power & Gas PA",
           "rate": 0.8051,
           "rate_type": "Fixed",
@@ -2375,8 +2405,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 15,
-      "last_fetched": "2026-11-06T00:43:18.966060Z"
+      "count": 16,
+      "last_fetched": "2026-11-06T18:50:06.133790Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2914,7 +2944,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 35,
-      "last_fetched": "2026-11-06T00:43:19.299279Z"
+      "last_fetched": "2026-11-06T18:50:06.564091Z"
     }
   }
 }
