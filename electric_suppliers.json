@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T19:26:56.734211Z",
+  "last_updated": "2026-11-06T00:43:16.021377Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -2429,7 +2429,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 142,
-      "last_fetched": "2026-11-05T19:26:52.705423Z"
+      "last_fetched": "2026-11-06T00:43:11.876444Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2508,6 +2508,23 @@
           "service_area": null
         },
         {
+          "name": "Town Square Energy",
+          "rate": 0.1157,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "12 monthly bill cycles fixed at 11.57 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 14.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=50689&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1217",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=50689&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1217",
+          "phone": "8774300093",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "APG&E",
           "rate": 0.1158,
           "rate_type": "Fixed",
@@ -2537,23 +2554,6 @@
           "website_url": "https://shopping.publicpowercompany.com/cust/?PID=84816D55-1467-418E-B8F7-C7DB174F52F0&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=7313C5F9-5384-42AC-8822-38FF7C245767&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=84816D55-1467-418E-B8F7-C7DB174F52F0&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=7313C5F9-5384-42AC-8822-38FF7C245767&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Town Square Energy",
-          "rate": 0.1167,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "12 monthly bill cycles fixed at 11.67 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=50274&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1217",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=50274&utm_source=PAPOWER&utm_medium=Site&utm_campaign=PPL&utm_content=1217",
-          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -3498,13 +3498,13 @@
           "rate": 0.1317,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 14,
+          "term_months": 13,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "Rated 4.5 stars on Google with 3,000+ five-star reviews. Lock in APG&E's most competitive 14-month fixed-rate plan \u2014 your rate stays secure for the full term, with zero enrollment, termination, or monthly fees. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
+          "promotional_details": "Rated 4.5 stars on Google with 3,000+ five-star reviews. Lock in APG&E's most competitive 13-month fixed-rate plan \u2014 your rate stays secure for the full term, with zero enrollment, termination, or monthly fees. Offer available to new customers only. Flexible. Affordable. Energy. That's APG&E.",
           "monthly_fee": null,
-          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T14_NEW&deploymentName=PA%20State%20Rate%20Board",
-          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T14_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "website_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T13_NEW&deploymentName=PA%20State%20Rate%20Board",
+          "signup_url": "https://www.apge.com/enroll#/offer?offerCode=SRBPA_PPL_NA_NA_RES_FPR_SD0_T13_NEW&deploymentName=PA%20State%20Rate%20Board",
           "phone": "713-715-1583",
           "renewable": "No",
           "bundle_required": false,
@@ -3834,23 +3834,6 @@
           "service_area": null
         },
         {
-          "name": "Shipley Energy",
-          "rate": 0.136,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Shopping for Electric Supply just got EASY! No monthly fee, no cancellation fee, and best of all a LOW fixed price to take control of your energy costs. Lock in this low fixed rate today! Plus earn 3% REWARDS with Shipley Energy's Rewards Program. For New Customers Only.",
-          "monthly_fee": null,
-          "website_url": "https://www.shipleyenergy.com/enrollment/",
-          "signup_url": "https://www.shipleyenergy.com/enrollment/",
-          "phone": "866-477-9180",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Inspire Clean Energy",
           "rate": 0.1363,
           "rate_type": "Fixed",
@@ -4021,6 +4004,23 @@
           "service_area": null
         },
         {
+          "name": "Shipley Energy",
+          "rate": 0.1376,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Shopping for Electric Supply just got EASY! No monthly fee, no cancellation fee, and best of all a LOW fixed price to take control of your energy costs. Lock in this low fixed rate today! Plus earn 3% REWARDS with Shipley Energy's Rewards Program. For New Customers Only.",
+          "monthly_fee": null,
+          "website_url": "https://www.shipleyenergy.com/enrollment/",
+          "signup_url": "https://www.shipleyenergy.com/enrollment/",
+          "phone": "866-477-9180",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1378,
           "rate_type": "Fixed",
@@ -4170,23 +4170,6 @@
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19742",
           "phone": null,
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Shipley Energy",
-          "rate": 0.139,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Support renewable energy today - choose Shipley Energy's Green Electricity offer with 100% wind generation. No monthly fees and no cancellation fees.  Plus, lock in this low fixed rate today and you'll earn 3% REWARDS through Shipley Energy's Rewards Program. For New Customers Only.",
-          "monthly_fee": null,
-          "website_url": "https://www.shipleyenergy.com/enrollment?product=el",
-          "signup_url": "https://www.shipleyenergy.com/enrollment?product=el",
-          "phone": "866-477-9180",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -4442,6 +4425,23 @@
           "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=24&msid=5360",
           "phone": "855-331-0024",
           "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Shipley Energy",
+          "rate": 0.1489,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Support renewable energy today - choose Shipley Energy's Green Electricity offer with 100% wind generation. No monthly fees and no cancellation fees.  Plus, lock in this low fixed rate today and you'll earn 3% REWARDS through Shipley Energy's Rewards Program. For New Customers Only.",
+          "monthly_fee": null,
+          "website_url": "https://www.shipleyenergy.com/enrollment?product=el",
+          "signup_url": "https://www.shipleyenergy.com/enrollment?product=el",
+          "phone": "866-477-9180",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -4944,7 +4944,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 147,
-      "last_fetched": "2026-11-05T19:26:53.429287Z"
+      "last_fetched": "2026-11-06T00:43:12.663324Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -5380,23 +5380,6 @@
           "service_area": null
         },
         {
-          "name": "Powervine Energy",
-          "rate": 0.1379,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
-          "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
-          "signup_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
-          "phone": "1-888-263-2806",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Public Power, LLC",
           "rate": 0.1379,
           "rate_type": "Fixed",
@@ -5443,23 +5426,6 @@
           "website_url": "https://shopping.pagande.com/cust/?PID=85A7404A-1A99-43DB-A315-F9D02DE37980&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=524A04F4-75F5-4EDC-BF4A-72BB19823E09&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=85A7404A-1A99-43DB-A315-F9D02DE37980&UID=FD79E71C-9014-4C2A-B642-40996BED84BC&OID=524A04F4-75F5-4EDC-BF4A-72BB19823E09&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Powervine Energy",
-          "rate": 0.1389,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
-          "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
-          "signup_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
-          "phone": "1-888-263-2806",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -5596,23 +5562,6 @@
           "website_url": "https://shop.0cancellationfee.com/enrollmentrequest/?plan=135597",
           "signup_url": "https://shop.0cancellationfee.com/enrollmentrequest/?plan=135597",
           "phone": "1-800-698-5853",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Powervine Energy",
-          "rate": 0.1409,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 6, 12 and 18 month terms with rate discounts for paperless billing.",
-          "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
-          "signup_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
-          "phone": "1-888-263-2806",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -6570,6 +6519,23 @@
           "service_area": null
         },
         {
+          "name": "Powervine Energy",
+          "rate": 0.1589,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
+          "signup_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
+          "phone": "1-888-263-2806",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Cirro Energy",
           "rate": 0.1599,
           "rate_type": "Fixed",
@@ -6740,6 +6706,23 @@
           "service_area": null
         },
         {
+          "name": "Powervine Energy",
+          "rate": 0.1619,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$0",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
+          "signup_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
+          "phone": "1-888-263-2806",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "City Power & Gas PA",
           "rate": 0.1622,
           "rate_type": "Fixed",
@@ -6837,6 +6820,23 @@
           "website_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=12&msid=720",
           "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=12&msid=720",
           "phone": "855-331-0024",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Powervine Energy",
+          "rate": 0.1649,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 6, 12 and 18 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
+          "signup_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
+          "phone": "1-888-263-2806",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7170,7 +7170,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 130,
-      "last_fetched": "2026-11-05T19:26:54.029858Z"
+      "last_fetched": "2026-11-06T00:43:13.343228Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -7249,6 +7249,23 @@
           "service_area": null
         },
         {
+          "name": "Town Square Energy",
+          "rate": 0.1207,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "12 monthly bill cycles fixed at 12.07 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 14.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=50688&utm_source=PAPOWER&utm_medium=Site&utm_campaign=MetEd&utm_content=1317",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=50688&utm_source=PAPOWER&utm_medium=Site&utm_campaign=MetEd&utm_content=1317",
+          "phone": "8774300093",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Public Power, LLC",
           "rate": 0.1209,
           "rate_type": "Fixed",
@@ -7295,23 +7312,6 @@
           "website_url": "https://shopping.publicpowercompany.com/cust/?PID=DE743AC0-B820-4471-B26E-F1F023066581&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=D8D022DD-4D04-4A21-8426-52977F39F867&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.publicpowercompany.com/cust/?PID=DE743AC0-B820-4471-B26E-F1F023066581&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=D8D022DD-4D04-4A21-8426-52977F39F867&RFID=PAPS&PUC=1&STATE=PA&SN=PP&CT=E&PromoCode=RATEBOARD",
           "phone": "888-354-4415",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Town Square Energy",
-          "rate": 0.1237,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "12 monthly bill cycles fixed at 12.37 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=50271&utm_source=PAPOWER&utm_medium=Site&utm_campaign=MetEd&utm_content=1317",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=50271&utm_source=PAPOWER&utm_medium=Site&utm_campaign=MetEd&utm_content=1317",
-          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -8524,23 +8524,6 @@
           "service_area": null
         },
         {
-          "name": "Shipley Energy",
-          "rate": 0.1394,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Shopping for Electric Supply just got EASY! No monthly fee, no cancellation fee, and best of all a LOW fixed price to take control of your energy costs. Lock in this low fixed rate today! Plus earn 3% REWARDS with Shipley Energy's Rewards Program. For New Customers Only.",
-          "monthly_fee": null,
-          "website_url": "https://www.shipleyenergy.com/enrollment?product=el",
-          "signup_url": "https://www.shipleyenergy.com/enrollment?product=el",
-          "phone": "866-477-9180",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Inspire Clean Energy",
           "rate": 0.1396,
           "rate_type": "Fixed",
@@ -8571,23 +8554,6 @@
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19280",
           "phone": null,
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Shipley Energy",
-          "rate": 0.1398,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 6,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "Support renewable energy today - choose Shipley Energy's Green Electricity offer with 100% wind generation. No monthly fees and no cancellation fees.  Plus, lock in this low fixed rate today and you'll earn 3% REWARDS through Shipley Energy's Rewards Program. For New Customers Only.",
-          "monthly_fee": null,
-          "website_url": "https://www.shipleyenergy.com/enrollment?product=el",
-          "signup_url": "https://www.shipleyenergy.com/enrollment?product=el",
-          "phone": "866-477-9180",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -8660,6 +8626,23 @@
           "service_area": null
         },
         {
+          "name": "Shipley Energy",
+          "rate": 0.1409,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "Shopping for Electric Supply just got EASY! No monthly fee, no cancellation fee, and best of all a LOW fixed price to take control of your energy costs. Lock in this low fixed rate today! Plus earn 3% REWARDS with Shipley Energy's Rewards Program. For New Customers Only.",
+          "monthly_fee": null,
+          "website_url": "https://www.shipleyenergy.com/enrollment?product=el",
+          "signup_url": "https://www.shipleyenergy.com/enrollment?product=el",
+          "phone": "866-477-9180",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "$0.00 Cancellation Fee Plans",
           "rate": 0.1418,
           "rate_type": "Fixed",
@@ -8723,6 +8706,23 @@
           "website_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-meted&utm_source=papower&utm_medium=shopping&utm_campaign=meted_18",
           "signup_url": "https://www.aepenergy.com/acquisition/campaign/offers/?cc=papower-meted&utm_source=papower&utm_medium=shopping&utm_campaign=meted_18",
           "phone": "1-877-648-1923",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Powervine Energy",
+          "rate": 0.1428,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/?source=POW002",
+          "signup_url": "https://products.powervineenergy.com/?source=POW002",
+          "phone": "1-888-263-2806",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -8864,19 +8864,19 @@
           "service_area": null
         },
         {
-          "name": "Powervine Energy",
-          "rate": 0.1448,
+          "name": "Shipley Energy",
+          "rate": 0.1439,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 6,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
+          "promotional_details": "Support renewable energy today - choose Shipley Energy's Green Electricity offer with 100% wind generation. No monthly fees and no cancellation fees.  Plus, lock in this low fixed rate today and you'll earn 3% REWARDS through Shipley Energy's Rewards Program. For New Customers Only.",
           "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/?source=POW002",
-          "signup_url": "https://products.powervineenergy.com/?source=POW002",
-          "phone": "1-888-263-2806",
-          "renewable": "No",
+          "website_url": "https://www.shipleyenergy.com/enrollment?product=el",
+          "signup_url": "https://www.shipleyenergy.com/enrollment?product=el",
+          "phone": "866-477-9180",
+          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -9378,7 +9378,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 129,
-      "last_fetched": "2026-11-05T19:26:54.607784Z"
+      "last_fetched": "2026-11-06T00:43:14.046116Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -11586,7 +11586,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 129,
-      "last_fetched": "2026-11-05T19:26:55.384077Z"
+      "last_fetched": "2026-11-06T00:43:14.710225Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -11661,6 +11661,23 @@
           "signup_url": "https://americanpowerandgas.com/?page=9",
           "phone": "800-380-9261",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Town Square Energy",
+          "rate": 0.1257,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "12 monthly bill cycles fixed at 12.57 cents/kWh. See full terms in terms of service.",
+          "monthly_fee": 14.95,
+          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=50690&utm_source=PAPOWER&utm_medium=Site&utm_campaign=Penn&utm_content=897",
+          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=50690&utm_source=PAPOWER&utm_medium=Site&utm_campaign=Penn&utm_content=897",
+          "phone": "8774300093",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -11762,23 +11779,6 @@
           "website_url": null,
           "signup_url": null,
           "phone": "888-865-3402",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Town Square Energy",
-          "rate": 0.1297,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "12 monthly bill cycles fixed at 12.97 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=50275&utm_source=PAPOWER&utm_medium=Site&utm_campaign=Penn&utm_content=897",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=50275&utm_source=PAPOWER&utm_medium=Site&utm_campaign=Penn&utm_content=897",
-          "phone": "8774300093",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -13471,7 +13471,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 110,
-      "last_fetched": "2026-11-05T19:26:56.095767Z"
+      "last_fetched": "2026-11-06T00:43:15.346951Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -15679,7 +15679,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 129,
-      "last_fetched": "2026-11-05T19:26:56.733963Z"
+      "last_fetched": "2026-11-06T00:43:16.021210Z"
     }
   }
 }
