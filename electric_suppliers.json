@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T18:50:03.224524Z",
+  "last_updated": "2026-11-06T23:56:03.210514Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -2429,7 +2429,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 142,
-      "last_fetched": "2026-11-06T18:49:58.854516Z"
+      "last_fetched": "2026-11-06T23:55:59.544947Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -4910,7 +4910,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 145,
-      "last_fetched": "2026-11-06T18:49:59.638732Z"
+      "last_fetched": "2026-11-06T23:56:00.323549Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -7136,7 +7136,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 130,
-      "last_fetched": "2026-11-06T18:50:00.386896Z"
+      "last_fetched": "2026-11-06T23:56:00.873814Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9344,7 +9344,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 129,
-      "last_fetched": "2026-11-06T18:50:01.037045Z"
+      "last_fetched": "2026-11-06T23:56:01.458183Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -11552,7 +11552,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 129,
-      "last_fetched": "2026-11-06T18:50:01.807183Z"
+      "last_fetched": "2026-11-06T23:56:02.045317Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -11644,23 +11644,6 @@
           "signup_url": "https://americanpowerandgas.com/?page=9",
           "phone": "800-380-9261",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Town Square Energy",
-          "rate": 0.1257,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "12 monthly bill cycles fixed at 12.57 cents/kWh. See full terms in terms of service.",
-          "monthly_fee": 14.95,
-          "website_url": "https://townsquareenergy.com/rate-details/?r=1&product=50690&utm_source=PAPOWER&utm_medium=Site&utm_campaign=Penn&utm_content=897",
-          "signup_url": "https://townsquareenergy.com/rate-details/?r=1&product=50690&utm_source=PAPOWER&utm_medium=Site&utm_campaign=Penn&utm_content=897",
-          "phone": "8774300093",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -13453,8 +13436,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 111,
-      "last_fetched": "2026-11-06T18:50:02.506474Z"
+      "count": 110,
+      "last_fetched": "2026-11-06T23:56:02.575856Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -15662,7 +15645,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 129,
-      "last_fetched": "2026-11-06T18:50:03.224290Z"
+      "last_fetched": "2026-11-06T23:56:03.210312Z"
     }
   }
 }
