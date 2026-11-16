@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T23:43:13.918298Z",
+  "last_updated": "2026-11-16T04:35:07.792942Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -1277,8 +1277,8 @@
           "introductory": "No",
           "promotional_details": "This plan is for new customers only who enroll via the Web.",
           "monthly_fee": null,
-          "website_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=12&msid=720",
-          "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=12&msid=720",
+          "website_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
           "phone": "855-331-0024",
           "renewable": "No",
           "bundle_required": false,
@@ -1791,6 +1791,23 @@
           "signup_url": "https://shopping.brightenenergy.com/cust/?PID=F474A05D-CE21-445D-AC48-AB396001CE09&UID=6A62029A-29E2-4451-A6E9-8313C071FE65&OID=30A3AF61-F1B3-45D4-A6DD-5FC11AAE314A&RFID=PAPS&PUC=1&STATE=PA&SN=BRI&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0917",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Direct Energy",
+          "rate": 0.1309,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "phone": "855-331-0024",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -2394,8 +2411,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 140,
-      "last_fetched": "2026-11-15T23:43:10.211529Z"
+      "count": 141,
+      "last_fetched": "2026-11-16T04:35:04.911997Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -3800,23 +3817,6 @@
           "service_area": null
         },
         {
-          "name": "Direct Energy",
-          "rate": 0.1389,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=12&msid=720",
-          "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=12&msid=720",
-          "phone": "855-331-0024",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Inspire Clean Energy",
           "rate": 0.1389,
           "rate_type": "Fixed",
@@ -4055,6 +4055,23 @@
           "service_area": null
         },
         {
+          "name": "Direct Energy",
+          "rate": 0.1419,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "phone": "855-331-0024",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Dynegy",
           "rate": 0.1419,
           "rate_type": "Fixed",
@@ -4119,6 +4136,23 @@
           "signup_url": "https://shopping.brightenenergy.com/cust/?PID=BFA88B3F-A977-46A1-815B-7F15F9A33BBE&UID=B8216837-0D33-4881-8E28-70191357B5F4&OID=28EFAF05-9265-45A1-BB67-3ACFA63CAA15&RFID=PAPS&PUC=1&STATE=PA&SN=BRI&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0917",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Direct Energy",
+          "rate": 0.1429,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "phone": "855-331-0024",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -4892,8 +4926,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 146,
-      "last_fetched": "2026-11-15T23:43:10.933745Z"
+      "count": 147,
+      "last_fetched": "2026-11-16T04:35:05.394032Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -6723,23 +6757,6 @@
           "service_area": null
         },
         {
-          "name": "Direct Energy",
-          "rate": 0.1649,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=12&msid=720",
-          "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=12&msid=720",
-          "phone": "855-331-0024",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Powervine Energy",
           "rate": 0.1649,
           "rate_type": "Fixed",
@@ -6769,6 +6786,40 @@
           "website_url": "https://www.wglenergy.com/",
           "signup_url": "https://www.wglenergy.com/",
           "phone": "1-844-427-5945",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Direct Energy",
+          "rate": 0.167,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "phone": "855-331-0024",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Direct Energy",
+          "rate": 0.167,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "phone": "855-331-0024",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7050,8 +7101,8 @@
         "AAA Energy by Santanna",
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 126,
-      "last_fetched": "2026-11-15T23:43:11.613222Z"
+      "count": 127,
+      "last_fetched": "2026-11-16T04:35:05.830109Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -7567,23 +7618,6 @@
           "website_url": "https://shopping.betterbuyenergy.com/cust/?PID=8BE56AF5-37D5-4827-9626-3C77D8D533DD&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=AB43A87B-FA15-4DF8-AEA8-4D569851E27C&RFID=PAPS&PUC=1&STATE=PA&SN=BBE&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.betterbuyenergy.com/cust/?PID=8BE56AF5-37D5-4827-9626-3C77D8D533DD&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=AB43A87B-FA15-4DF8-AEA8-4D569851E27C&RFID=PAPS&PUC=1&STATE=PA&SN=BBE&CT=E&PromoCode=RATEBOARD",
           "phone": "833-200-9831",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Direct Energy",
-          "rate": 0.1349,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=12&msid=720",
-          "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=12&msid=720",
-          "phone": "855-331-0024",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -8286,6 +8320,23 @@
           "service_area": null
         },
         {
+          "name": "Direct Energy",
+          "rate": 0.1419,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "phone": "855-331-0024",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Cirro Energy",
           "rate": 0.142,
           "rate_type": "Fixed",
@@ -8639,6 +8690,23 @@
           "signup_url": "https://shopping.brightenenergy.com/cust/?PID=0F5C49B2-E692-4D8F-8914-1D893FE03F24&UID=9DDDDA86-EC72-4872-B5E3-1001AF37A546&OID=B1A20332-A219-4C29-A5CA-50BCF29A6BB8&RFID=PAPS&PUC=1&STATE=PA&SN=BRI&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0917",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Direct Energy",
+          "rate": 0.1449,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "phone": "855-331-0024",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -9207,8 +9275,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 126,
-      "last_fetched": "2026-11-15T23:43:12.211369Z"
+      "count": 127,
+      "last_fetched": "2026-11-16T04:35:06.274769Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -9780,6 +9848,23 @@
           "service_area": null
         },
         {
+          "name": "Direct Energy",
+          "rate": 0.1309,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "phone": "855-331-0024",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Dynegy",
           "rate": 0.1309,
           "rate_type": "Variable",
@@ -9950,6 +10035,23 @@
           "service_area": null
         },
         {
+          "name": "Direct Energy",
+          "rate": 0.1339,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "phone": "855-331-0024",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Dynegy",
           "rate": 0.1339,
           "rate_type": "Fixed",
@@ -10031,23 +10133,6 @@
           "signup_url": "https://shopping.brightenenergy.com/cust/?PID=650F2AD5-12D1-4C0A-8979-9205D0B92112&UID=9190A3CD-F2A8-43C3-B4E0-9BC8918F38D9&OID=6A1D2265-F328-4A46-98C0-2650BEBA7203&RFID=PAPS&PUC=1&STATE=PA&SN=BRI&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0917",
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Direct Energy",
-          "rate": 0.1349,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=12&msid=720",
-          "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=12&msid=720",
-          "phone": "855-331-0024",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -11364,8 +11449,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 126,
-      "last_fetched": "2026-11-15T23:43:12.792364Z"
+      "count": 127,
+      "last_fetched": "2026-11-16T04:35:06.754511Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -11937,6 +12022,23 @@
           "service_area": null
         },
         {
+          "name": "Direct Energy",
+          "rate": 0.1389,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "phone": "855-331-0024",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.1389,
           "rate_type": "Fixed",
@@ -12277,23 +12379,6 @@
           "service_area": null
         },
         {
-          "name": "Direct Energy",
-          "rate": 0.1439,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=12&msid=720",
-          "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=12&msid=720",
-          "phone": "855-331-0024",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Verde Energy USA, Inc.",
           "rate": 0.1439,
           "rate_type": "Fixed",
@@ -12357,6 +12442,23 @@
           "website_url": "https://energypricing.com/enrollmentrequest/?plan=137174",
           "signup_url": "https://energypricing.com/enrollmentrequest/?plan=137174",
           "phone": "1-800-225-3813",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Direct Energy",
+          "rate": 0.1459,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "phone": "855-331-0024",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -13181,8 +13283,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 106,
-      "last_fetched": "2026-11-15T23:43:13.363229Z"
+      "count": 107,
+      "last_fetched": "2026-11-16T04:35:07.265418Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -14213,6 +14315,23 @@
           "service_area": null
         },
         {
+          "name": "Direct Energy",
+          "rate": 0.1329,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 6,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "phone": "855-331-0024",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Alpha Gas and Electric LLC",
           "rate": 0.133,
           "rate_type": "Fixed",
@@ -14294,23 +14413,6 @@
           "signup_url": "https://enroll.americanelectricrates.com/enrollment?productCode=19816",
           "phone": null,
           "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Direct Energy",
-          "rate": 0.1349,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "This plan is for new customers only who enroll via the Web.",
-          "monthly_fee": null,
-          "website_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=12&msid=720",
-          "signup_url": "https://shop.directenergy.com/usn/electricity-live-brighter?term=12&msid=720",
-          "phone": "855-331-0024",
-          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -14825,6 +14927,23 @@
           "service_area": null
         },
         {
+          "name": "Direct Energy",
+          "rate": 0.1419,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "This plan is for new customers only who enroll via the Web.",
+          "monthly_fee": null,
+          "website_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "signup_url": "https://shop.directenergy.com/usn/electricity-state-fixed?msid=720",
+          "phone": "855-331-0024",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Major Energy",
           "rate": 0.1419,
           "rate_type": "Fixed",
@@ -15321,8 +15440,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 125,
-      "last_fetched": "2026-11-15T23:43:13.918084Z"
+      "count": 126,
+      "last_fetched": "2026-11-16T04:35:07.792747Z"
     }
   }
 }
