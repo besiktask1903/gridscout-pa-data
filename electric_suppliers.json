@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T20:25:21.878705Z",
+  "last_updated": "2026-11-18T03:17:34.311015Z",
   "utilities": {
     "peco_electric": {
       "name": "PECO Energy",
@@ -1999,23 +1999,6 @@
           "service_area": null
         },
         {
-          "name": "IGS Energy",
-          "rate": 0.1339,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$99",
-          "introductory": "No",
-          "promotional_details": "How you benefit:   With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "phone": "1-800-280-4474",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Constellation Energy",
           "rate": 0.1349,
           "rate_type": "Fixed",
@@ -2045,6 +2028,23 @@
           "website_url": "https://enrollment.citypowerandgas.com/home",
           "signup_url": "https://enrollment.citypowerandgas.com/home",
           "phone": "1-877-518-9339",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "IGS Energy",
+          "rate": 0.1359,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$99",
+          "introductory": "No",
+          "promotional_details": "How you benefit:   With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "phone": "1-800-280-4474",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2237,23 +2237,6 @@
           "service_area": null
         },
         {
-          "name": "IGS Energy",
-          "rate": 0.1499,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$149",
-          "introductory": "No",
-          "promotional_details": "How you benefit:   With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
-          "monthly_fee": null,
-          "website_url": null,
-          "signup_url": null,
-          "phone": "1-800-280-4474",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "City Power & Gas PA",
           "rate": 0.1512,
           "rate_type": "Fixed",
@@ -2266,6 +2249,23 @@
           "website_url": "https://enrollment.citypowerandgas.com/home",
           "signup_url": "https://enrollment.citypowerandgas.com/home",
           "phone": "1-877-518-9339",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "IGS Energy",
+          "rate": 0.1539,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$149",
+          "introductory": "No",
+          "promotional_details": "How you benefit:   With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
+          "monthly_fee": null,
+          "website_url": null,
+          "signup_url": null,
+          "phone": "1-800-280-4474",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -2412,7 +2412,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 141,
-      "last_fetched": "2026-11-17T20:25:17.500623Z"
+      "last_fetched": "2026-11-18T03:17:29.373822Z"
     },
     "ppl_electric": {
       "name": "PPL Electric Utilities",
@@ -2746,6 +2746,23 @@
           "service_area": null
         },
         {
+          "name": "Powervine Energy",
+          "rate": 0.1258,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/?source=POW002",
+          "signup_url": "https://products.powervineenergy.com/?source=POW002",
+          "phone": "1-888-263-2806",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Better Buy Energy",
           "rate": 0.1259,
           "rate_type": "Fixed",
@@ -2826,23 +2843,6 @@
           "website_url": "https://energycoopofamerica.org/services/residential-electric/",
           "signup_url": "https://energycoopofamerica.org/services/residential-electric/",
           "phone": "1-800-422-1475",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Powervine Energy",
-          "rate": 0.1277,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
-          "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/?source=POW002",
-          "signup_url": "https://products.powervineenergy.com/?source=POW002",
-          "phone": "1-888-263-2806",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -4684,23 +4684,6 @@
           "service_area": null
         },
         {
-          "name": "IGS Energy",
-          "rate": 0.1679,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": "$149",
-          "introductory": "No",
-          "promotional_details": "How you benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "phone": "1-800-280-4474",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Mpower Energy NJ LLC",
           "rate": 0.169,
           "rate_type": "Fixed",
@@ -4726,6 +4709,23 @@
           "early_termination_fee": "$199",
           "introductory": "No",
           "promotional_details": null,
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "phone": "1-800-280-4474",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "IGS Energy",
+          "rate": 0.1699,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": "$149",
+          "introductory": "No",
+          "promotional_details": "How you benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
           "monthly_fee": null,
           "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
           "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
@@ -4910,7 +4910,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 146,
-      "last_fetched": "2026-11-17T20:25:18.246295Z"
+      "last_fetched": "2026-11-18T03:17:30.168990Z"
     },
     "duquesne_light": {
       "name": "Duquesne Light",
@@ -6485,6 +6485,23 @@
           "service_area": null
         },
         {
+          "name": "Powervine Energy",
+          "rate": 0.1599,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$0",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
+          "signup_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
+          "phone": "1-888-263-2806",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Shipley Energy",
           "rate": 0.1599,
           "rate_type": "Fixed",
@@ -6616,23 +6633,6 @@
           "website_url": "https://secure.cirroenergy.com/landing/shop/",
           "signup_url": "https://secure.cirroenergy.com/landing/shop/",
           "phone": "844-845-6151",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Powervine Energy",
-          "rate": 0.1619,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
-          "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
-          "signup_url": "https://products.powervineenergy.com/selectproductv2?Zip=&Provider=DUQE&Channel=POW002",
-          "phone": "1-888-263-2806",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -7085,7 +7085,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 127,
-      "last_fetched": "2026-11-17T20:25:18.917848Z"
+      "last_fetched": "2026-11-18T03:17:31.005440Z"
     },
     "met_ed": {
       "name": "Met-Ed",
@@ -9069,23 +9069,6 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 0.1569,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$99",
-          "introductory": "No",
-          "promotional_details": "How you Benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "phone": "1-800-280-4474",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "IGS Energy",
           "rate": 0.1599,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
@@ -9097,7 +9080,7 @@
           "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
           "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
           "phone": "1-800-280-4474",
-          "renewable": "Yes",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -9131,6 +9114,23 @@
           "website_url": "https://enroll.cleanskyenergy.com/NE_Home/index?ProductCode=RN00011667&Term=12&Promo=PAPOWER",
           "signup_url": "https://enroll.cleanskyenergy.com/NE_Home/index?ProductCode=RN00011667&Term=12&Promo=PAPOWER",
           "phone": "1-888-355-6205",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "IGS Energy",
+          "rate": 0.1629,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$99",
+          "introductory": "No",
+          "promotional_details": "How you Benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "phone": "1-800-280-4474",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -9188,13 +9188,13 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 0.1769,
+          "rate": 0.1799,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": "$149",
+          "term_months": 36,
+          "early_termination_fee": "$199",
           "introductory": "No",
-          "promotional_details": "How you Benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
+          "promotional_details": "How you benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.   100% GREEN ENERGY",
           "monthly_fee": null,
           "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
           "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
@@ -9208,10 +9208,10 @@
           "rate": 0.1799,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 36,
-          "early_termination_fee": "$199",
+          "term_months": 24,
+          "early_termination_fee": "$149",
           "introductory": "No",
-          "promotional_details": "How you benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.   100% GREEN ENERGY",
+          "promotional_details": "How you Benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
           "monthly_fee": null,
           "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
           "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
@@ -9259,7 +9259,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 127,
-      "last_fetched": "2026-11-17T20:25:20.070099Z"
+      "last_fetched": "2026-11-18T03:17:32.222643Z"
     },
     "penelec": {
       "name": "Penelec",
@@ -10562,23 +10562,6 @@
           "service_area": null
         },
         {
-          "name": "Powervine Energy",
-          "rate": 0.1419,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
-          "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/?source=POW002",
-          "signup_url": "https://products.powervineenergy.com/?source=POW002",
-          "phone": "1-888-263-2806",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Achieve Energy Solutions LLC DBA EnergyPricing.com",
           "rate": 0.1428,
           "rate_type": "Fixed",
@@ -10668,10 +10651,10 @@
           "rate": 0.1439,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
-          "term_months": 18,
+          "term_months": 12,
           "early_termination_fee": "No",
           "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 6, 12 and 18 month terms with rate discounts for paperless billing.",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
           "monthly_fee": null,
           "website_url": "https://products.powervineenergy.com/?source=POW002",
           "signup_url": "https://products.powervineenergy.com/?source=POW002",
@@ -11072,6 +11055,23 @@
           "service_area": null
         },
         {
+          "name": "Powervine Energy",
+          "rate": 0.1479,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 6, 12 and 18 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/?source=POW002",
+          "signup_url": "https://products.powervineenergy.com/?source=POW002",
+          "phone": "1-888-263-2806",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "NRG Home",
           "rate": 0.148,
           "rate_type": "Fixed",
@@ -11157,23 +11157,6 @@
           "service_area": null
         },
         {
-          "name": "IGS Energy",
-          "rate": 0.1499,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$99",
-          "introductory": "No",
-          "promotional_details": "How you benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "phone": "1-800-280-4474",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "WGL Energy Services",
           "rate": 0.151,
           "rate_type": "Fixed",
@@ -11186,23 +11169,6 @@
           "website_url": "https://www.wglenergy.com/",
           "signup_url": "https://www.wglenergy.com/",
           "phone": "1-844-427-5945",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "IGS Energy",
-          "rate": 0.1529,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$99",
-          "introductory": "No",
-          "promotional_details": "How you Benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "phone": "1-800-280-4474",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -11238,6 +11204,23 @@
           "signup_url": "https://mycleanchoice.com/pashoppera24",
           "phone": "1-800-460-4900",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "IGS Energy",
+          "rate": 0.1539,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$99",
+          "introductory": "No",
+          "promotional_details": "How you benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "phone": "1-800-280-4474",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -11288,6 +11271,23 @@
           "website_url": "https://americanpowerandgas.com/?page=10",
           "signup_url": "https://americanpowerandgas.com/?page=10",
           "phone": "800-380-9261",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "IGS Energy",
+          "rate": 0.1569,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$99",
+          "introductory": "No",
+          "promotional_details": "How you Benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "phone": "1-800-280-4474",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -11412,6 +11412,23 @@
           "service_area": null
         },
         {
+          "name": "IGS Energy",
+          "rate": 0.1769,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": "$149",
+          "introductory": "No",
+          "promotional_details": "How you benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "phone": "1-800-280-4474",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Park Power",
           "rate": 0.2099,
           "rate_type": "Fixed",
@@ -11432,8 +11449,8 @@
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 127,
-      "last_fetched": "2026-11-17T20:25:20.665274Z"
+      "count": 128,
+      "last_fetched": "2026-11-18T03:17:33.001265Z"
     },
     "penn_power": {
       "name": "Penn Power",
@@ -11835,23 +11852,6 @@
           "service_area": null
         },
         {
-          "name": "Powervine Energy",
-          "rate": 0.1347,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
-          "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/?source=POW002",
-          "signup_url": "https://products.powervineenergy.com/?source=POW002",
-          "phone": "1-888-263-2806",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Town Square Energy",
           "rate": 0.1347,
           "rate_type": "Fixed",
@@ -11886,6 +11886,23 @@
           "service_area": null
         },
         {
+          "name": "Powervine Energy",
+          "rate": 0.1369,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/?source=POW002",
+          "signup_url": "https://products.powervineenergy.com/?source=POW002",
+          "phone": "1-888-263-2806",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Pennsylvania Gas & Electric",
           "rate": 0.1379,
           "rate_type": "Fixed",
@@ -11898,23 +11915,6 @@
           "website_url": "https://shopping.pagande.com/cust/?PID=178FD057-17BD-428D-8E09-210A21423CEF&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=64D78334-3301-4D55-B77D-FC474220EEA5&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=178FD057-17BD-428D-8E09-210A21423CEF&UID=414667EE-63A6-4C7F-94A9-DC0F46444AE2&OID=64D78334-3301-4D55-B77D-FC474220EEA5&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Powervine Energy",
-          "rate": 0.1379,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 6, 12 and 18 month terms with rate discounts for paperless billing.",
-          "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/?source=POW002",
-          "signup_url": "https://products.powervineenergy.com/?source=POW002",
-          "phone": "1-888-263-2806",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -12052,6 +12052,23 @@
           "signup_url": "https://www.inspirecleanenergy.com/plans?campaign_id=ae6e5ea7-2e29-4e3c-9b6b-d536f4b9f7c2&utm_source=PA_POWER_SWITCH&utm_medium=SHOPPING&utm_campaign=PAPS_Fixed_7&utm_content=PPower&channel_code=direct",
           "phone": "844-275-4022",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Powervine Energy",
+          "rate": 0.1399,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 6, 12 and 18 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/?source=POW002",
+          "signup_url": "https://products.powervineenergy.com/?source=POW002",
+          "phone": "1-888-263-2806",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -13151,6 +13168,23 @@
           "term_months": 12,
           "early_termination_fee": "$99",
           "introductory": "No",
+          "promotional_details": "How you benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "phone": "1-800-280-4474",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "IGS Energy",
+          "rate": 0.1729,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$99",
+          "introductory": "No",
           "promotional_details": "How you Benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
           "monthly_fee": null,
           "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
@@ -13230,23 +13264,6 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 0.1899,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 24,
-          "early_termination_fee": "$149",
-          "introductory": "No",
-          "promotional_details": "How you benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "phone": "1-800-280-4474",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "IGS Energy",
           "rate": 0.1919,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
@@ -13261,13 +13278,30 @@
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
+        },
+        {
+          "name": "IGS Energy",
+          "rate": 0.1929,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 24,
+          "early_termination_fee": "$149",
+          "introductory": "No",
+          "promotional_details": "How you benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "phone": "1-800-280-4474",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
         }
       ],
       "unlimited_suppliers": [
         "American Power & Gas of Pennsylvania LLC"
       ],
-      "count": 107,
-      "last_fetched": "2026-11-17T20:25:21.276926Z"
+      "count": 108,
+      "last_fetched": "2026-11-18T03:17:33.642072Z"
     },
     "west_penn_power": {
       "name": "West Penn Power",
@@ -13754,23 +13788,6 @@
           "service_area": null
         },
         {
-          "name": "Powervine Energy",
-          "rate": 0.1239,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
-          "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/?source=POW002",
-          "signup_url": "https://products.powervineenergy.com/?source=POW002",
-          "phone": "1-888-263-2806",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Public Power, LLC",
           "rate": 0.1239,
           "rate_type": "Fixed",
@@ -13907,6 +13924,23 @@
           "service_area": null
         },
         {
+          "name": "Powervine Energy",
+          "rate": 0.1259,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 3, 6 and 12 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/?source=POW002",
+          "signup_url": "https://products.powervineenergy.com/?source=POW002",
+          "phone": "1-888-263-2806",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
           "name": "Public Power, LLC",
           "rate": 0.1259,
           "rate_type": "Fixed",
@@ -13936,23 +13970,6 @@
           "website_url": "https://shopping.dynegy.com/cust/?PID=8804236F-4E88-4DB8-99FE-EF58E0D15A83&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=234E73D6-2BB9-4241-A920-6DC519C2976A&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.dynegy.com/cust/?PID=8804236F-4E88-4DB8-99FE-EF58E0D15A83&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=234E73D6-2BB9-4241-A920-6DC519C2976A&RFID=PAPS&PUC=1&STATE=PA&SN=DYN&CT=E&PromoCode=RATEBOARD",
           "phone": "833-223-0914",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "name": "Powervine Energy",
-          "rate": 0.1269,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 18,
-          "early_termination_fee": "No",
-          "introductory": "No",
-          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 6. 12 and 18 month terms with rate discounts for paperless billing.",
-          "monthly_fee": null,
-          "website_url": "https://products.powervineenergy.com/?source=POW002",
-          "signup_url": "https://products.powervineenergy.com/?source=POW002",
-          "phone": "1-888-263-2806",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -14038,6 +14055,23 @@
           "website_url": "https://shopping.pagande.com/cust/?PID=EF71CACB-4044-4B2E-B975-F45D1BB153DB&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=2B879459-34A1-4C6F-A799-2D3B4ED1F4F0&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "signup_url": "https://shopping.pagande.com/cust/?PID=EF71CACB-4044-4B2E-B975-F45D1BB153DB&UID=1055D41F-A495-4DD3-A571-B9CAE45559CF&OID=2B879459-34A1-4C6F-A799-2D3B4ED1F4F0&RFID=PAPS&PUC=1&STATE=PA&SN=USG&CT=E&PromoCode=RATEBOARD",
           "phone": "866-706-7361",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "Powervine Energy",
+          "rate": 0.1289,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 18,
+          "early_termination_fee": "No",
+          "introductory": "No",
+          "promotional_details": "NO monthly fees, NO sign-up fees, NO cancellation fees.  Freedom Secure, one of Powervine's Pennsylvania flagship products, is available in 6. 12 and 18 month terms with rate discounts for paperless billing.",
+          "monthly_fee": null,
+          "website_url": "https://products.powervineenergy.com/?source=POW002",
+          "signup_url": "https://products.powervineenergy.com/?source=POW002",
+          "phone": "1-888-263-2806",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -15233,23 +15267,6 @@
           "service_area": null
         },
         {
-          "name": "IGS Energy",
-          "rate": 0.1479,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$99",
-          "introductory": "No",
-          "promotional_details": "How you benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "phone": "1-800-280-4474",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "NRG Home",
           "rate": 0.148,
           "rate_type": "Fixed",
@@ -15284,23 +15301,6 @@
           "service_area": null
         },
         {
-          "name": "IGS Energy",
-          "rate": 0.1509,
-          "rate_type": "Fixed",
-          "rate_unit": "kWh",
-          "term_months": 12,
-          "early_termination_fee": "$99",
-          "introductory": "No",
-          "promotional_details": "How you Benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
-          "monthly_fee": null,
-          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
-          "phone": "1-800-280-4474",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "name": "Verde Energy USA, Inc.",
           "rate": 0.1519,
           "rate_type": "Fixed",
@@ -15314,6 +15314,23 @@
           "signup_url": "https://www.verdeenergy.com/get-rates/",
           "phone": "1-833-488-3125",
           "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "IGS Energy",
+          "rate": 0.1539,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$99",
+          "introductory": "No",
+          "promotional_details": "How you benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "phone": "1-800-280-4474",
+          "renewable": "No",
           "bundle_required": false,
           "service_area": null
         },
@@ -15347,6 +15364,23 @@
           "website_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
           "signup_url": "https://www.thinkenergy.com/?utm_source=rateboard&utm_medium=referral&utm_campaign=pennsylvania",
           "phone": "(833) 669 3080",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "name": "IGS Energy",
+          "rate": 0.1569,
+          "rate_type": "Fixed",
+          "rate_unit": "kWh",
+          "term_months": 12,
+          "early_termination_fee": "$99",
+          "introductory": "No",
+          "promotional_details": "How you Benefit:  With a fixed rate we provide you with the peace-of-mind and savings that comes with locking in at our low rates.",
+          "monthly_fee": null,
+          "website_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "signup_url": "https://igs.com/signup/?campaignCode=Web_Aggregator&utm_campaign=referral-papowerswitch-general&utm_source=papowerswitch&utm_medium=referral",
+          "phone": "1-800-280-4474",
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
@@ -15387,7 +15421,7 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 0.1699,
+          "rate": 0.1739,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 36,
@@ -15404,7 +15438,7 @@
         },
         {
           "name": "IGS Energy",
-          "rate": 0.1699,
+          "rate": 0.1739,
           "rate_type": "Fixed",
           "rate_unit": "kWh",
           "term_months": 24,
@@ -15424,7 +15458,7 @@
         "American Power & Gas of Pennsylvania LLC"
       ],
       "count": 126,
-      "last_fetched": "2026-11-17T20:25:21.878495Z"
+      "last_fetched": "2026-11-18T03:17:34.310800Z"
     }
   }
 }
