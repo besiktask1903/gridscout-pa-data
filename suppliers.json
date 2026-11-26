@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T03:55:12.882956Z",
+  "last_updated": "2026-11-26T20:53:06.391817Z",
   "utilities": {
     "columbia_gas_pa": {
       "name": "Columbia Gas of Pennsylvania",
@@ -702,7 +702,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 46,
-      "last_fetched": "2026-11-26T03:55:11.310672Z"
+      "last_fetched": "2026-11-26T20:53:04.586178Z"
     },
     "national_fuel_gas": {
       "name": "National Fuel Gas",
@@ -1015,7 +1015,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 20,
-      "last_fetched": "2026-11-26T03:55:11.606412Z"
+      "last_fetched": "2026-11-26T20:53:04.906841Z"
     },
     "peco_gas": {
       "name": "PECO Gas",
@@ -1027,7 +1027,7 @@
       "suppliers": [
         {
           "name": "AAA Energy by Santanna",
-          "rate": 0.3828,
+          "rate": 0.4084,
           "rate_type": "Fixed",
           "rate_unit": "Ccf",
           "term_months": 12,
@@ -1645,7 +1645,7 @@
         "AAA Energy by Santanna"
       ],
       "count": 41,
-      "last_fetched": "2026-11-26T03:55:12.012366Z"
+      "last_fetched": "2026-11-26T20:53:05.357426Z"
     },
     "peoples_gas": {
       "name": "Peoples Natural Gas",
@@ -2138,7 +2138,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 32,
-      "last_fetched": "2026-11-26T03:55:12.319755Z"
+      "last_fetched": "2026-11-26T20:53:05.757660Z"
     },
     "pgw": {
       "name": "Philadelphia Gas Works",
@@ -2376,7 +2376,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 15,
-      "last_fetched": "2026-11-26T03:55:12.578283Z"
+      "last_fetched": "2026-11-26T20:53:06.059017Z"
     },
     "ugi_gas": {
       "name": "UGI Utilities",
@@ -2899,7 +2899,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 34,
-      "last_fetched": "2026-11-26T03:55:12.882771Z"
+      "last_fetched": "2026-11-26T20:53:06.391620Z"
     }
   }
 }
